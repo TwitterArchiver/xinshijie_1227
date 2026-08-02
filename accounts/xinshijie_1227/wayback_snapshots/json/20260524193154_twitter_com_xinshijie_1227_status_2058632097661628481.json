@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1811430427535765504",
+    "conversation_id": "2058506469587214717",
+    "created_at": "2026-05-24T19:31:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-24T20:31:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058632097661628481"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2024261691656327170",
+          "start": 0,
+          "username": "xng10241962"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058632097661628481",
+    "in_reply_to_user_id": "2024261691656327170",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058537621383688535",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xng10241962 一般般"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1811430427535765504",
+        "conversation_id": "2058506469587214717",
+        "created_at": "2026-05-24T19:31:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T20:31:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058632097661628481"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2024261691656327170",
+              "start": 0,
+              "username": "xng10241962"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058632097661628481",
+        "in_reply_to_user_id": "2024261691656327170",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058537621383688535",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xng10241962 一般般"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2024261691656327170",
+        "conversation_id": "2058506469587214717",
+        "created_at": "2026-05-24T13:16:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T14:16:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058537621383688535"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1811430427535765504",
+              "start": 0,
+              "username": "xinshijie_1227"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058537621383688535",
+        "in_reply_to_user_id": "1811430427535765504",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 410,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058506469587214717",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xinshijie_1227 会觉得疼么"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-11T16:01:12.000Z",
+        "description": "嗑药 | 自残 | 负能量 | 御宅族| 互联网的隐匿栖身之所 | 互fo请私信 | \ntg频道：https://t.co/q5Z49VdRn3 | 俄罗斯臭傻逼@requiem_soulss",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 96,
+                "start": 81,
+                "username": "requiem_soulss"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/xinshijie0000",
+                "end": 72,
+                "expanded_url": "https://t.me/xinshijie0000",
+                "start": 49,
+                "url": "https://t.co/q5Z49VdRn3"
+              }
+            ]
+          }
+        },
+        "id": "1811430427535765504",
+        "location": "🚪8.88开放朋友圈陪闲聊",
+        "name": "美術館館長",
+        "pinned_tweet_id": "2035900548063568228",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037145672412258304/HWwdgB_x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 313,
+          "following_count": 228,
+          "like_count": 3897,
+          "listed_count": 0,
+          "media_count": 425,
+          "tweet_count": 1448
+        },
+        "username": "xinshijie_1227",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-18T23:16:31.000Z",
+        "description": "被封了n个号了我又来了\n日子很长三万多天 生活很短不到百年\n很欢迎来分享生活",
+        "id": "2024261691656327170",
+        "location": "这里",
+        "name": "星",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058537198312673280/tS7gD45k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 145,
+          "like_count": 307,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 38
+        },
+        "username": "xng10241962",
+        "verified": false
+      }
+    ]
+  }
+}

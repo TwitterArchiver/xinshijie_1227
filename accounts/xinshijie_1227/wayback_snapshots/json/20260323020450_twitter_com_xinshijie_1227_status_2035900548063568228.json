@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2035900510751109120",
+        "3_2035900510746955776",
+        "3_2035899971527213056",
+        "3_2035900510751047680"
+      ]
+    },
+    "author_id": "1811430427535765504",
+    "conversation_id": "2035900548063568228",
+    "created_at": "2026-03-23T02:04:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-23T03:04:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2035900548063568228"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Om0PqRJQzl",
+          "end": 89,
+          "expanded_url": "https://x.com/xinshijie_1227/status/2035900548063568228/photo/1",
+          "media_key": "3_2035900510751109120",
+          "start": 66,
+          "url": "https://t.co/Om0PqRJQzl"
+        },
+        {
+          "display_url": "pic.x.com/Om0PqRJQzl",
+          "end": 89,
+          "expanded_url": "https://x.com/xinshijie_1227/status/2035900548063568228/photo/1",
+          "media_key": "3_2035900510746955776",
+          "start": 66,
+          "url": "https://t.co/Om0PqRJQzl"
+        },
+        {
+          "display_url": "pic.x.com/Om0PqRJQzl",
+          "end": 89,
+          "expanded_url": "https://x.com/xinshijie_1227/status/2035900548063568228/photo/1",
+          "media_key": "3_2035899971527213056",
+          "start": 66,
+          "url": "https://t.co/Om0PqRJQzl"
+        },
+        {
+          "display_url": "pic.x.com/Om0PqRJQzl",
+          "end": 89,
+          "expanded_url": "https://x.com/xinshijie_1227/status/2035900548063568228/photo/1",
+          "media_key": "3_2035900510751047680",
+          "start": 66,
+          "url": "https://t.co/Om0PqRJQzl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2035900548063568228",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我是『小秋』，也可以叫我馆长\n嗑药 | 自残 | 负能量 | 地雷系 | 御宅族 | 哥特\n同类互fo，欢迎互动，🚪8.88可闲聊 https://t.co/Om0PqRJQzl"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2035900510751109120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HED4ulVbMAAzyWK.jpg",
+        "width": 803
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2035900510746955776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HED4ulUb0AAdIM7.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2035899971527213056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HED4PMkbgAAjIN7.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2035900510751047680",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HED4ulVaQAAxK2s.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2035900510751109120",
+            "3_2035900510746955776",
+            "3_2035899971527213056",
+            "3_2035900510751047680"
+          ]
+        },
+        "author_id": "1811430427535765504",
+        "conversation_id": "2035900548063568228",
+        "created_at": "2026-03-23T02:04:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-23T03:04:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2035900548063568228"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Om0PqRJQzl",
+              "end": 89,
+              "expanded_url": "https://x.com/xinshijie_1227/status/2035900548063568228/photo/1",
+              "media_key": "3_2035900510751109120",
+              "start": 66,
+              "url": "https://t.co/Om0PqRJQzl"
+            },
+            {
+              "display_url": "pic.x.com/Om0PqRJQzl",
+              "end": 89,
+              "expanded_url": "https://x.com/xinshijie_1227/status/2035900548063568228/photo/1",
+              "media_key": "3_2035900510746955776",
+              "start": 66,
+              "url": "https://t.co/Om0PqRJQzl"
+            },
+            {
+              "display_url": "pic.x.com/Om0PqRJQzl",
+              "end": 89,
+              "expanded_url": "https://x.com/xinshijie_1227/status/2035900548063568228/photo/1",
+              "media_key": "3_2035899971527213056",
+              "start": 66,
+              "url": "https://t.co/Om0PqRJQzl"
+            },
+            {
+              "display_url": "pic.x.com/Om0PqRJQzl",
+              "end": 89,
+              "expanded_url": "https://x.com/xinshijie_1227/status/2035900548063568228/photo/1",
+              "media_key": "3_2035900510751047680",
+              "start": 66,
+              "url": "https://t.co/Om0PqRJQzl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035900548063568228",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我是『小秋』，也可以叫我馆长\n嗑药 | 自残 | 负能量 | 地雷系 | 御宅族 | 哥特\n同类互fo，欢迎互动，🚪8.88可闲聊 https://t.co/Om0PqRJQzl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-11T16:01:12.000Z",
+        "description": "嗑药 | 自残 | 负能量 | 御宅族| 互联网的隐匿栖身之所 | 傻逼俄罗斯男友@requiem_soulss | tg频道：https://t.co/q5Z49VdRn3（会在频道里发血图和日常照）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 41,
+                "username": "requiem_soulss"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/xinshijie0000",
+                "end": 87,
+                "expanded_url": "https://t.me/xinshijie0000",
+                "start": 64,
+                "url": "https://t.co/q5Z49VdRn3"
+              }
+            ]
+          }
+        },
+        "id": "1811430427535765504",
+        "location": "🚪8.88开放朋友圈陪闲聊",
+        "name": "美術館館長",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033580584837300225/zBVz95fh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 169,
+          "following_count": 216,
+          "like_count": 3747,
+          "listed_count": 1,
+          "media_count": 385,
+          "tweet_count": 1337
+        },
+        "username": "xinshijie_1227",
+        "verified": false
+      }
+    ]
+  }
+}

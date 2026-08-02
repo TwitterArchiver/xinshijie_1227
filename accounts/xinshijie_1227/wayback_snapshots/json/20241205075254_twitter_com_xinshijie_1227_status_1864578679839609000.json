@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1864578651716767746",
+        "7_1864578659245543474"
+      ]
+    },
+    "author_id": "1811430427535765504",
+    "conversation_id": "1864578679839609000",
+    "created_at": "2024-12-05T07:52:54.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-05T08:52:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1864578679839609000"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/ITUGBYLX6N",
+          "end": 40,
+          "expanded_url": "https://x.com/xinshijie_1227/status/1864578679839609000/video/1",
+          "media_key": "7_1864578651716767746",
+          "start": 17,
+          "url": "https://t.co/ITUGBYLX6N"
+        },
+        {
+          "display_url": "pic.x.com/ITUGBYLX6N",
+          "end": 40,
+          "expanded_url": "https://x.com/xinshijie_1227/status/1864578679839609000/video/1",
+          "media_key": "7_1864578659245543474",
+          "start": 17,
+          "url": "https://t.co/ITUGBYLX6N"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1864578679839609000",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "如果能让我当她的狗做什么我都愿意 https://t.co/ITUGBYLX6N"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 10541,
+        "height": 1024,
+        "media_key": "7_1864578651716767746",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1864578651716767746/pu/img/2eKS0bZXwbA3uco-.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1864578651716767746/pu/vid/avc1/320x568/XTMYQtyZVoMOLLDU.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1864578651716767746/pu/vid/avc1/480x852/uFmwJb2Hn-3iGnju.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1864578651716767746/pu/vid/avc1/576x1024/gIFJURD0gwgtgUrx.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1864578651716767746/pu/pl/hxJOttQktiGbkBCQ.m3u8?tag=12"
+          }
+        ],
+        "width": 576
+      },
+      {
+        "duration_ms": 11749,
+        "height": 1024,
+        "media_key": "7_1864578659245543474",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1864578659245543474/pu/img/DgaJelkQMIU5VtsI.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1864578659245543474/pu/vid/avc1/320x568/Eem0IUdfhMrWEDEE.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1864578659245543474/pu/vid/avc1/480x852/j5VJg-cWEBmMJJAa.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1864578659245543474/pu/vid/avc1/576x1024/sCgfWSADn9YLNMxG.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1864578659245543474/pu/pl/7AqETuuvqfKgzbb-.m3u8?tag=12"
+          }
+        ],
+        "width": 576
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1864578651716767746",
+            "7_1864578659245543474"
+          ]
+        },
+        "author_id": "1811430427535765504",
+        "conversation_id": "1864578679839609000",
+        "created_at": "2024-12-05T07:52:54.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-05T08:52:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1864578679839609000"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ITUGBYLX6N",
+              "end": 40,
+              "expanded_url": "https://x.com/xinshijie_1227/status/1864578679839609000/video/1",
+              "media_key": "7_1864578651716767746",
+              "start": 17,
+              "url": "https://t.co/ITUGBYLX6N"
+            },
+            {
+              "display_url": "pic.x.com/ITUGBYLX6N",
+              "end": 40,
+              "expanded_url": "https://x.com/xinshijie_1227/status/1864578679839609000/video/1",
+              "media_key": "7_1864578659245543474",
+              "start": 17,
+              "url": "https://t.co/ITUGBYLX6N"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1864578679839609000",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "如果能让我当她的狗做什么我都愿意 https://t.co/ITUGBYLX6N"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-11T16:01:12.000Z",
+        "description": "痛苦是没法被比较的，比较就成为装饰品了              🚪50绿色陪聊",
+        "id": "1811430427535765504",
+        "name": "˚・* ٭☣︎ 美術館館長 ☣︎٭ *・˚",
+        "pinned_tweet_id": "1861509761625387043",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1860344393850613760/tW2czgA9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 115,
+          "like_count": 1056,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 133
+        },
+        "username": "xinshijie_1227",
+        "verified": false
+      }
+    ]
+  }
+}

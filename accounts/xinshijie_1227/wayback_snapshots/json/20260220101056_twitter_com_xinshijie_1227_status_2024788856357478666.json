@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1811430427535765504",
+    "conversation_id": "2024788856357478666",
+    "created_at": "2026-02-20T10:10:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-20T11:10:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2024788856357478666"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/xinshijie_1227…",
+          "end": 35,
+          "expanded_url": "https://twitter.com/xinshijie_1227/status/2024788451623837754",
+          "start": 12,
+          "url": "https://t.co/mRYtyesRgo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024788856357478666",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024788451623837754",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "操你妈的我他妈好想去死 https://t.co/mRYtyesRgo"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1811430427535765504",
+        "conversation_id": "2024788856357478666",
+        "created_at": "2026-02-20T10:10:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-20T11:10:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024788856357478666"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/xinshijie_1227…",
+              "end": 35,
+              "expanded_url": "https://twitter.com/xinshijie_1227/status/2024788451623837754",
+              "start": 12,
+              "url": "https://t.co/mRYtyesRgo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024788856357478666",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024788451623837754",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "操你妈的我他妈好想去死 https://t.co/mRYtyesRgo"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1811430427535765504",
+        "conversation_id": "2024702725599219750",
+        "created_at": "2026-02-20T10:09:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-20T11:09:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024788451623837754"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1957509667787325440",
+              "start": 0,
+              "username": "pleazdontleavme"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024788451623837754",
+        "in_reply_to_user_id": "1957509667787325440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024702725599219750",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pleazdontleavme 我普瑞严重耐药吃了24000mg加巴氯芬一盒结果一点药效没有，买大麻又被骗了1800，我现在只能吃金刚烷胺直到肾衰竭(›´ω`‹ )"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-11T16:01:12.000Z",
+        "description": "嗑药 | 自残 | 吐黑水 ｜哥特or地雷女| 互联网的隐匿栖身之所｜狗屎馅俄罗斯大列巴@requiem_soulss tg频道：https://t.co/q5Z49Vdjxv（会在频道里发血图和日常照）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 59,
+                "start": 44,
+                "username": "requiem_soulss"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/xinshijie0000",
+                "end": 88,
+                "expanded_url": "https://t.me/xinshijie0000",
+                "start": 65,
+                "url": "https://t.co/q5Z49Vdjxv"
+              }
+            ]
+          }
+        },
+        "id": "1811430427535765504",
+        "location": "🚪8.88开放朋友圈陪闲聊",
+        "name": "美術館館長",
+        "pinned_tweet_id": "1921997129985216603",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009811412412157952/ARAxYDf-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 139,
+          "following_count": 192,
+          "like_count": 3552,
+          "listed_count": 1,
+          "media_count": 358,
+          "tweet_count": 1255
+        },
+        "username": "xinshijie_1227",
+        "verified": false
+      }
+    ]
+  }
+}

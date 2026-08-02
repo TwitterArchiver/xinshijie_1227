@@ -1,0 +1,114 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1811430427535765504",
+    "conversation_id": "2058505951292846272",
+    "created_at": "2026-05-24T11:10:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-24T12:10:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2058505951292846272"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2058505951292846272",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我想吃致幻剂，然后玩植物大战僵尸"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1811430427535765504",
+        "conversation_id": "2058505951292846272",
+        "created_at": "2026-05-24T11:10:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T12:10:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058505951292846272"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2058505951292846272",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我想吃致幻剂，然后玩植物大战僵尸"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-11T16:01:12.000Z",
+        "description": "嗑药 | 自残 | 负能量 | 御宅族| 互联网的隐匿栖身之所 | \ntg频道：https://t.co/q5Z49VdRn3（会在频道里发血图和日常照） | 俄罗斯臭傻逼@requiem_soulss",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 101,
+                "start": 86,
+                "username": "requiem_soulss"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/xinshijie0000",
+                "end": 63,
+                "expanded_url": "https://t.me/xinshijie0000",
+                "start": 40,
+                "url": "https://t.co/q5Z49VdRn3"
+              }
+            ]
+          }
+        },
+        "id": "1811430427535765504",
+        "location": "🚪8.88开放朋友圈陪闲聊",
+        "name": "美術館館長",
+        "pinned_tweet_id": "2035900548063568228",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037145672412258304/HWwdgB_x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 266,
+          "following_count": 229,
+          "like_count": 3891,
+          "listed_count": 0,
+          "media_count": 424,
+          "tweet_count": 1445
+        },
+        "username": "xinshijie_1227",
+        "verified": false
+      }
+    ]
+  }
+}

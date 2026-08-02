@@ -1,0 +1,107 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1859675220556251140"
+      ]
+    },
+    "author_id": "1811430427535765504",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1859675226642190440",
+    "created_at": "2024-11-21T19:08:19.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-21T20:08:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1859675226642190440"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/DJioWa9JkP",
+          "end": 40,
+          "expanded_url": "https://x.com/xinshijie_1227/status/1859675226642190440/photo/1",
+          "media_key": "3_1859675220556251140",
+          "start": 17,
+          "url": "https://t.co/DJioWa9JkP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1859675226642190440",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "干嘛呀哼我上吊自杀你们就开心了吧 https://t.co/DJioWa9JkP"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1859675226642190440].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1859675226642190440",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1859675226642190440"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1859675220556251140",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gc7kwpbaAAQG1lZ.jpg",
+        "width": 2048
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-11T16:01:12.000Z",
+        "description": "你妈的，怎么这样啊",
+        "id": "1811430427535765504",
+        "name": "劳工儿子在天堂",
+        "pinned_tweet_id": "1857507046654095687",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1852369059402444800/4MzSILkf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32,
+          "following_count": 90,
+          "like_count": 775,
+          "listed_count": 0,
+          "tweet_count": 68
+        },
+        "username": "xinshijie_1227",
+        "verified": false
+      }
+    ]
+  }
+}

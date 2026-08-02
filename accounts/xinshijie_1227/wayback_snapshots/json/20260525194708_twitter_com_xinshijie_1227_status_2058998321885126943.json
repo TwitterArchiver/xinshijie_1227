@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1811430427535765504",
+    "conversation_id": "2058506469587214717",
+    "created_at": "2026-05-25T19:47:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-25T20:47:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058998321885126943"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2017934187907665920",
+          "start": 0,
+          "username": "ch8_we"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058998321885126943",
+    "in_reply_to_user_id": "2017934187907665920",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058869072830619788",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ch8_we 被救下来了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1811430427535765504",
+        "conversation_id": "2058506469587214717",
+        "created_at": "2026-05-25T19:47:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T20:47:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058998321885126943"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2017934187907665920",
+              "start": 0,
+              "username": "ch8_we"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058998321885126943",
+        "in_reply_to_user_id": "2017934187907665920",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058869072830619788",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ch8_we 被救下来了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2017934187907665920",
+        "conversation_id": "2058506469587214717",
+        "created_at": "2026-05-25T11:13:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T12:13:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058869072830619788"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1811430427535765504",
+              "start": 0,
+              "username": "xinshijie_1227"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058869072830619788",
+        "in_reply_to_user_id": "1811430427535765504",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 40,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058506469587214717",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xinshijie_1227 ？？你你你不要上吊了好不好"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-11T16:01:12.000Z",
+        "description": "嗑药 | 自残 | 负能量 | 御宅族| 互联网的隐匿栖身之所 | 互fo请私信 | \ntg频道：https://t.co/q5Z49VdRn3 | 俄罗斯臭傻逼@requiem_soulss",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 96,
+                "start": 81,
+                "username": "requiem_soulss"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/xinshijie0000",
+                "end": 72,
+                "expanded_url": "https://t.me/xinshijie0000",
+                "start": 49,
+                "url": "https://t.co/q5Z49VdRn3"
+              }
+            ]
+          }
+        },
+        "id": "1811430427535765504",
+        "location": "🚪8.88开放朋友圈陪闲聊",
+        "name": "美術館館長",
+        "pinned_tweet_id": "2035900548063568228",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037145672412258304/HWwdgB_x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 355,
+          "following_count": 229,
+          "like_count": 3903,
+          "listed_count": 0,
+          "media_count": 424,
+          "tweet_count": 1457
+        },
+        "username": "xinshijie_1227",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-01T12:13:58.000Z",
+        "description": "trans girl/小证含糖/半地下半家长党/hrt20250807/抑郁/焦虑/self hurt/od/08 09 07/精神状态不好的高二生",
+        "id": "2017934187907665920",
+        "location": "Baltimore, MD",
+        "name": "mikki_z🍥🏳‍⚧",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046606014276124672/glEbB4q5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 128,
+          "following_count": 179,
+          "like_count": 2155,
+          "listed_count": 1,
+          "media_count": 7,
+          "tweet_count": 347
+        },
+        "username": "ch8_we",
+        "verified": false
+      }
+    ]
+  }
+}

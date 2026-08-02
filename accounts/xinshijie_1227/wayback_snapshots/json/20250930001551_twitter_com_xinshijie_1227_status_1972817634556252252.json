@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1811430427535765504",
+    "conversation_id": "1972168840198213812",
+    "created_at": "2025-09-30T00:15:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-30T01:15:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1972817634556252252"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1972265457987244033",
+          "start": 0,
+          "username": "wngmngyng144613"
+        },
+        {
+          "end": 29,
+          "id": "1883727989671944192",
+          "start": 17,
+          "username": "linnyii8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1972817634556252252",
+    "in_reply_to_user_id": "1972265457987244033",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1972308894841254236",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wngmngyng144613 @linnyii8964 爱我中华"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1811430427535765504",
+        "conversation_id": "1972168840198213812",
+        "created_at": "2025-09-30T00:15:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-30T01:15:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1972817634556252252"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1972265457987244033",
+              "start": 0,
+              "username": "wngmngyng144613"
+            },
+            {
+              "end": 29,
+              "id": "1883727989671944192",
+              "start": 17,
+              "username": "linnyii8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972817634556252252",
+        "in_reply_to_user_id": "1972265457987244033",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1972308894841254236",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wngmngyng144613 @linnyii8964 爱我中华"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1972265457987244033",
+        "conversation_id": "1972168840198213812",
+        "created_at": "2025-09-28T14:34:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-28T15:34:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1972308894841254236"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1883727989671944192",
+              "start": 0,
+              "username": "linnyii8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972308894841254236",
+        "in_reply_to_user_id": "1883727989671944192",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 45933,
+          "like_count": 83,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1972168840198213812",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@linnyii8964 会说，还是推特没人管，告诉你个秘密，你翻墙进推特也是会被国家网络找到的😅"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-11T16:01:12.000Z",
+        "description": "嗑药 | 自残 | 吐黑水 | 互联网的隐匿栖身之所『会回fo，对妹子会非常友好』哥特or地雷女｜狗屎馅俄罗斯大列巴@requiem_soulss ＞tg频道：https://t.co/5l18LxeR2N（会在频道里发血图和日常）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 73,
+                "start": 58,
+                "username": "requiem_soulss"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/+UUDcCzqoM_thM…",
+                "end": 103,
+                "expanded_url": "https://t.me/+UUDcCzqoM_thMjVl",
+                "start": 80,
+                "url": "https://t.co/5l18LxeR2N"
+              }
+            ]
+          }
+        },
+        "id": "1811430427535765504",
+        "location": "不再收🚪不再加男",
+        "name": "美術館館長",
+        "pinned_tweet_id": "1921997129985216603",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972651267144167424/LOOtLmEt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 121,
+          "following_count": 167,
+          "like_count": 3141,
+          "listed_count": 1,
+          "media_count": 299,
+          "tweet_count": 1116
+        },
+        "username": "xinshijie_1227",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-28T11:42:07.000Z",
+        "description": "在推特主要看动漫最新消息，本人玩MCPVP，喜欢动漫：孤独摇滚、别当欧尼酱、JOJO、火影、海贼王，还有很多动漫和漫画，希望以后有机会能去日本旅游，最爱的音乐：Brazil funk",
+        "id": "1972265457987244033",
+        "location": "Japan",
+        "name": "YUEXIAS",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972307867568119808/e-ZPzHet_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 13,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 10
+        },
+        "username": "wngmngyng144613",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-27T04:05:33.000Z",
+        "description": "关我屁事，关你屁事？我喜欢:@jiangqidawang",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 14,
+                "username": "jiangqidawang"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "vpn1.fnvpn1.top/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://vpn1.fnvpn1.top/#/register?code=ngr2J6c5",
+                "start": 0,
+                "url": "https://t.co/y74iEgGmI5"
+              }
+            ]
+          }
+        },
+        "id": "1883727989671944192",
+        "location": "蜂鸟vpn",
+        "name": "只是爱乱说话",
+        "pinned_tweet_id": "1972638017325265308",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1883728141543436288/FoLOuEY8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10566,
+          "following_count": 1011,
+          "like_count": 16893,
+          "listed_count": 15,
+          "media_count": 1188,
+          "tweet_count": 11945
+        },
+        "url": "https://t.co/y74iEgGmI5",
+        "username": "linnyii8964",
+        "verified": false
+      }
+    ]
+  }
+}

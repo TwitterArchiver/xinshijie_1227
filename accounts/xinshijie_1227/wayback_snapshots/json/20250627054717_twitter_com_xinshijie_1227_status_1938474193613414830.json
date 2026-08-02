@@ -1,0 +1,171 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1938474151309697024",
+        "3_1938474151322300416"
+      ]
+    },
+    "author_id": "1811430427535765504",
+    "conversation_id": "1938474193613414830",
+    "created_at": "2025-06-27T05:47:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-27T06:47:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1938474193613414830"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/50tfEQeBtm",
+          "end": 37,
+          "expanded_url": "https://x.com/xinshijie_1227/status/1938474193613414830/photo/1",
+          "media_key": "3_1938474151309697024",
+          "start": 14,
+          "url": "https://t.co/50tfEQeBtm"
+        },
+        {
+          "display_url": "pic.x.com/50tfEQeBtm",
+          "end": 37,
+          "expanded_url": "https://x.com/xinshijie_1227/status/1938474193613414830/photo/1",
+          "media_key": "3_1938474151322300416",
+          "start": 14,
+          "url": "https://t.co/50tfEQeBtm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1938474193613414830",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "这个戒指真的是又便宜又好看 https://t.co/50tfEQeBtm"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1938474151309697024",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GubX-FsXYAAqX8G.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1938474151322300416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GubX-FvXsAAie6C.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1938474151309697024",
+            "3_1938474151322300416"
+          ]
+        },
+        "author_id": "1811430427535765504",
+        "conversation_id": "1938474193613414830",
+        "created_at": "2025-06-27T05:47:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-27T06:47:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1938474193613414830"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/50tfEQeBtm",
+              "end": 37,
+              "expanded_url": "https://x.com/xinshijie_1227/status/1938474193613414830/photo/1",
+              "media_key": "3_1938474151309697024",
+              "start": 14,
+              "url": "https://t.co/50tfEQeBtm"
+            },
+            {
+              "display_url": "pic.x.com/50tfEQeBtm",
+              "end": 37,
+              "expanded_url": "https://x.com/xinshijie_1227/status/1938474193613414830/photo/1",
+              "media_key": "3_1938474151322300416",
+              "start": 14,
+              "url": "https://t.co/50tfEQeBtm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938474193613414830",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这个戒指真的是又便宜又好看 https://t.co/50tfEQeBtm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-11T16:01:12.000Z",
+        "description": "嗑药 | 自残 | 吐黑水 | 互联网的隐匿栖身之所『会回fo，对妹子会非常友好』 | 男朋友@requiem_soulss",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 62,
+                "start": 47,
+                "username": "requiem_soulss"
+              }
+            ]
+          }
+        },
+        "id": "1811430427535765504",
+        "location": "不再收🚪只加妹子",
+        "name": "美術館館長",
+        "pinned_tweet_id": "1921997129985216603",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1929041425536266242/Uwpg_cd1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 178,
+          "following_count": 163,
+          "like_count": 3104,
+          "listed_count": 0,
+          "media_count": 261,
+          "tweet_count": 1032
+        },
+        "username": "xinshijie_1227",
+        "verified": false
+      }
+    ]
+  }
+}

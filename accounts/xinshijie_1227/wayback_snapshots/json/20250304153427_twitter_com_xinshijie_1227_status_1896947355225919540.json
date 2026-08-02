@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1896947350805037056"
+      ]
+    },
+    "author_id": "1811430427535765504",
+    "conversation_id": "1896947355225919540",
+    "created_at": "2025-03-04T15:34:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-04T16:34:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1896947355225919540"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/gt5LAISNnF",
+          "end": 63,
+          "expanded_url": "https://x.com/xinshijie_1227/status/1896947355225919540/photo/1",
+          "media_key": "3_1896947350805037056",
+          "start": 40,
+          "url": "https://t.co/gt5LAISNnF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1896947355225919540",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "额我每次喝酒或者磕药之后吃什么吐什么，喝什么吐什么，唯独吃火鸡面不会吐。。真的 https://t.co/gt5LAISNnF"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1896947350805037056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GlNPkKpaQAAo3BR.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1896947350805037056"
+          ]
+        },
+        "author_id": "1811430427535765504",
+        "conversation_id": "1896947355225919540",
+        "created_at": "2025-03-04T15:34:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-04T16:34:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1896947355225919540"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gt5LAISNnF",
+              "end": 63,
+              "expanded_url": "https://x.com/xinshijie_1227/status/1896947355225919540/photo/1",
+              "media_key": "3_1896947350805037056",
+              "start": 40,
+              "url": "https://t.co/gt5LAISNnF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1896947355225919540",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "额我每次喝酒或者磕药之后吃什么吐什么，喝什么吐什么，唯独吃火鸡面不会吐。。真的 https://t.co/gt5LAISNnF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-11T16:01:12.000Z",
+        "description": "od | 自残 | 吐黑水 \n屎尿屁大王 bi 对妹子会非常友好^_^   会回fo",
+        "id": "1811430427535765504",
+        "location": "🚪50绿色陪聊男的过门女的免费",
+        "name": "美術館館長",
+        "pinned_tweet_id": "1886044580723949727",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1884080533770231811/F8kuy6DT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 51,
+          "following_count": 131,
+          "like_count": 2037,
+          "listed_count": 0,
+          "media_count": 106,
+          "tweet_count": 462
+        },
+        "username": "xinshijie_1227",
+        "verified": false
+      }
+    ]
+  }
+}

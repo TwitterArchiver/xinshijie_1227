@@ -1,0 +1,323 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1937202797113417728"
+      ],
+      "media_source_tweet_id": [
+        "1937202818286329905"
+      ]
+    },
+    "author_id": "1811430427535765504",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2073276027464262103",
+    "created_at": "2026-07-04T05:21:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-04T06:21:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073276027464262103"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1652852984009613317",
+          "start": 3,
+          "username": "droggarme"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/PqXaBHeceZ",
+          "end": 68,
+          "expanded_url": "https://x.com/lobitoluchon/status/1937202818286329905/video/1",
+          "media_key": "7_1937202797113417728",
+          "start": 45,
+          "url": "https://t.co/PqXaBHeceZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073276027464262103",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 861
+    },
+    "referenced_tweets": [
+      {
+        "id": "1937202818286329905",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @droggarme: SCREAAM!!! MAKEUP BLOOD FALSE https://t.co/PqXaBHeceZ"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 7760,
+        "height": 720,
+        "media_key": "7_1937202797113417728",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1937202797113417728/pu/img/CPDT9ToaaXfdYor-.jpg",
+        "public_metrics": {
+          "view_count": 80879
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1937202797113417728/pu/vid/avc1/300x270/XTj2p9ZuFtSknA_1.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1937202797113417728/pu/vid/avc1/400x360/0X_LuVlFCgj6v-Ql.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1937202797113417728/pu/vid/avc1/800x720/8yGkRR4cx9hHNt81.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1937202797113417728/pu/pl/BmHHapTwgdpTH311.m3u8?tag=12"
+          }
+        ],
+        "width": 800
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1937202797113417728"
+          ],
+          "media_source_tweet_id": [
+            "1937202818286329905"
+          ]
+        },
+        "author_id": "1811430427535765504",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2073276027464262103",
+        "created_at": "2026-07-04T05:21:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T06:21:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073276027464262103"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1652852984009613317",
+              "start": 3,
+              "username": "droggarme"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/PqXaBHeceZ",
+              "end": 68,
+              "expanded_url": "https://x.com/lobitoluchon/status/1937202818286329905/video/1",
+              "media_key": "7_1937202797113417728",
+              "start": 45,
+              "url": "https://t.co/PqXaBHeceZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073276027464262103",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 861
+        },
+        "referenced_tweets": [
+          {
+            "id": "1937202818286329905",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @droggarme: SCREAAM!!! MAKEUP BLOOD FALSE https://t.co/PqXaBHeceZ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1937202797113417728"
+          ]
+        },
+        "author_id": "1652852984009613317",
+        "conversation_id": "1937202818286329905",
+        "created_at": "2025-06-23T17:35:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-23T18:35:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1937202818286329905"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PqXaBHeceZ",
+              "end": 53,
+              "expanded_url": "https://x.com/lobitoluchon/status/1937202818286329905/video/1",
+              "media_key": "7_1937202797113417728",
+              "start": 30,
+              "url": "https://t.co/PqXaBHeceZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1937202818286329905",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 1404,
+          "impression_count": 201649,
+          "like_count": 4056,
+          "quote_count": 132,
+          "reply_count": 94,
+          "retweet_count": 861
+        },
+        "reply_settings": "everyone",
+        "text": "SCREAAM!!! MAKEUP BLOOD FALSE https://t.co/PqXaBHeceZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-11T16:01:12.000Z",
+        "description": "嗑药吸毒自残 | 负能量精神病 | 查成分互of | \ntg频道：https://t.co/q5Z49Vdjxv｜我的斯拉夫男友敢吃屎@requiem_soulss",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 82,
+                "start": 67,
+                "username": "requiem_soulss"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/xinshijie0000",
+                "end": 56,
+                "expanded_url": "https://t.me/xinshijie0000",
+                "start": 33,
+                "url": "https://t.co/q5Z49Vdjxv"
+              }
+            ]
+          }
+        },
+        "id": "1811430427535765504",
+        "location": "🚪8.88开放朋友圈陪闲聊",
+        "name": "美術館館長",
+        "pinned_tweet_id": "2035900548063568228",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037145672412258304/HWwdgB_x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 376,
+          "following_count": 245,
+          "like_count": 4003,
+          "listed_count": 0,
+          "media_count": 461,
+          "tweet_count": 1546
+        },
+        "url": "",
+        "username": "xinshijie_1227",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-01T01:51:15.000Z",
+        "description": "haciéndome un sake por la pena",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "subtwt.com",
+                "end": 23,
+                "expanded_url": "http://subtwt.com",
+                "start": 0,
+                "url": "https://t.co/3HVIoEgiDb"
+              }
+            ]
+          }
+        },
+        "id": "1652852984009613317",
+        "location": "🇨🇱",
+        "name": "Jayden",
+        "pinned_tweet_id": "2064835293690089750",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069275457644621824/boyt0ObQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2885,
+          "following_count": 234,
+          "like_count": 9510,
+          "listed_count": 2,
+          "media_count": 1935,
+          "tweet_count": 21516
+        },
+        "url": "https://t.co/3HVIoEgiDb",
+        "username": "droggarme",
+        "verified": false
+      }
+    ]
+  }
+}

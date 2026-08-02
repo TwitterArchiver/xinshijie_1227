@@ -1,0 +1,200 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1811430427535765504",
+    "conversation_id": "1901817065725722731",
+    "created_at": "2025-03-18T10:14:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-18T11:14:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1901940349037166690"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1734928362894983168",
+          "start": 0,
+          "username": "Kwaiikunai_oO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1901940349037166690",
+    "in_reply_to_user_id": "1734928362894983168",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1901817065725722731",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kwaiikunai_oO 把药全搞没了就等着o晚安傻子片吧，"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1811430427535765504",
+        "conversation_id": "1901817065725722731",
+        "created_at": "2025-03-18T10:14:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-18T11:14:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1901940349037166690"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1734928362894983168",
+              "start": 0,
+              "username": "Kwaiikunai_oO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1901940349037166690",
+        "in_reply_to_user_id": "1734928362894983168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1901817065725722731",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kwaiikunai_oO 把药全搞没了就等着o晚安傻子片吧，"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1734928362894983168",
+        "conversation_id": "1901817065725722731",
+        "created_at": "2025-03-18T02:04:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-18T03:04:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1901817065725722731"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1901817065725722731",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 518,
+          "like_count": 22,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "哪個傻逼再在牆內發OD我就要把他爹媽殺了，把普瑞幹沒了，現在還要搞我愈美，我去你媽"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-11T16:01:12.000Z",
+        "description": "嗑药 | 自残 | 吐黑水 | 自由精神病 \n 『会回fo，对妹子会非常友好』:3\n我的男仆@requiem_soulss",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 46,
+                "username": "requiem_soulss"
+              }
+            ]
+          }
+        },
+        "id": "1811430427535765504",
+        "location": "🚪50绿色陪聊男的过门女的免费",
+        "name": "美術館館長",
+        "pinned_tweet_id": "1901626066441019862",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1884080533770231811/F8kuy6DT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 63,
+          "following_count": 144,
+          "like_count": 2401,
+          "listed_count": 0,
+          "media_count": 122,
+          "tweet_count": 561
+        },
+        "username": "xinshijie_1227",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-13T13:29:59.000Z",
+        "description": "=未戀 病み垢@kanochan_umxxi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 7,
+                "username": "kanochan_umxxi"
+              }
+            ]
+          }
+        },
+        "id": "1734928362894983168",
+        "location": "尋找虛假的愛",
+        "name": "未戀.。",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882510966296018944/CbAGQTHJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 261,
+          "following_count": 55,
+          "like_count": 78,
+          "listed_count": 1,
+          "media_count": 41,
+          "tweet_count": 199
+        },
+        "username": "Kwaiikunai_oO",
+        "verified": false
+      }
+    ]
+  }
+}

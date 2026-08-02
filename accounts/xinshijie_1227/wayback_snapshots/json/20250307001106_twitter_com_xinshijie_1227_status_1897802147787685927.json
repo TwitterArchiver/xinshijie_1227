@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1811430427535765504",
+    "conversation_id": "1897802147787685927",
+    "created_at": "2025-03-07T00:11:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-07T01:11:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1897802147787685927"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/8964_Y/status/…",
+          "end": 30,
+          "expanded_url": "https://twitter.com/8964_Y/status/1897589111797469651",
+          "start": 7,
+          "url": "https://t.co/g5E9w4Buzh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1897802147787685927",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1897589111797469651",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我靠，恶俗啊 https://t.co/g5E9w4Buzh"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 700,
+        "media_key": "3_1897589103098732544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GlWXPEPaIAAROSi.jpg",
+        "width": 739
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1811430427535765504",
+        "conversation_id": "1897802147787685927",
+        "created_at": "2025-03-07T00:11:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-07T01:11:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1897802147787685927"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/8964_Y/status/…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/8964_Y/status/1897589111797469651",
+              "start": 7,
+              "url": "https://t.co/g5E9w4Buzh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1897802147787685927",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1897589111797469651",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我靠，恶俗啊 https://t.co/g5E9w4Buzh"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1897589103098732544"
+          ]
+        },
+        "author_id": "1732356232290222080",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1897589111797469651",
+        "created_at": "2025-03-06T10:04:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-06T11:04:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1897589111797469651"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/68Ouj8W1vx",
+              "end": 34,
+              "expanded_url": "https://x.com/8964_Y/status/1897589111797469651/photo/1",
+              "media_key": "3_1897589103098732544",
+              "start": 11,
+              "url": "https://t.co/68Ouj8W1vx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1897589111797469651",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5135,
+          "like_count": 69,
+          "quote_count": 2,
+          "reply_count": 15,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "od妹独有的择偶方式 https://t.co/68Ouj8W1vx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-11T16:01:12.000Z",
+        "description": "od | 自残 | 吐黑水 \n屎尿屁大王 bi 对妹子会非常友好^_^   会回fo",
+        "id": "1811430427535765504",
+        "location": "🚪50绿色陪聊男的过门女的免费",
+        "name": "美術館館長",
+        "pinned_tweet_id": "1886044580723949727",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1884080533770231811/F8kuy6DT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 53,
+          "following_count": 132,
+          "like_count": 2085,
+          "listed_count": 0,
+          "media_count": 109,
+          "tweet_count": 485
+        },
+        "username": "xinshijie_1227",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-06T11:08:15.000Z",
+        "description": "全身心投入去演绎吧 全力以赴就这点程度？ ｜@yeye828282 此乃暗夜魔女：@00Mio007｜ダンダダン全员推｜想发什么发什么｜绘画/药物/音乐/漫画/甜品｜👓🍑",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 22,
+                "username": "yeye828282"
+              },
+              {
+                "end": 50,
+                "start": 41,
+                "username": "00Mio007"
+              }
+            ]
+          }
+        },
+        "id": "1732356232290222080",
+        "location": "白云山制药厂",
+        "name": "洇魔女だ",
+        "pinned_tweet_id": "1876965888588447811",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1896085809062952962/QtZUQXt5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4816,
+          "following_count": 900,
+          "like_count": 9997,
+          "listed_count": 5,
+          "media_count": 518,
+          "tweet_count": 7762
+        },
+        "username": "8964_Y",
+        "verified": false
+      }
+    ]
+  }
+}

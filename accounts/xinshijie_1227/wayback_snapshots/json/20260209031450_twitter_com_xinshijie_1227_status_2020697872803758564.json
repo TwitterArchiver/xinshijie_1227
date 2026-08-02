@@ -1,0 +1,199 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1811430427535765504",
+    "conversation_id": "2005290004654989341",
+    "created_at": "2026-02-09T03:14:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-09T04:14:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2020697872803758564"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1701555310006308864",
+          "start": 0,
+          "username": "Eternal1uv9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2020697872803758564",
+    "in_reply_to_user_id": "1701555310006308864",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2005290004654989341",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Eternal1uv9 打气一般是什么气我pr耐药了好难受"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1811430427535765504",
+        "conversation_id": "2005290004654989341",
+        "created_at": "2026-02-09T03:14:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-09T04:14:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020697872803758564"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1701555310006308864",
+              "start": 0,
+              "username": "Eternal1uv9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020697872803758564",
+        "in_reply_to_user_id": "1701555310006308864",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2005290004654989341",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Eternal1uv9 打气一般是什么气我pr耐药了好难受"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1701555310006308864",
+        "conversation_id": "2005290004654989341",
+        "created_at": "2025-12-28T14:49:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-28T15:49:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2005290004654989341"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2005290004654989341",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 832,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "清醒着太痛苦了我想一直磕药打气晕过去，想打丙泊酚但是找不到静脉….呵呵"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-11T16:01:12.000Z",
+        "description": "嗑药 | 自残 | 吐黑水 | 互联网的隐匿栖身之所｜哥特or地雷女｜狗屎馅俄罗斯大列巴@requiem_soulss            tg频道：https://t.co/q5Z49Vdjxv（会在频道里发血图和日常照）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 59,
+                "start": 44,
+                "username": "requiem_soulss"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/xinshijie0000",
+                "end": 99,
+                "expanded_url": "https://t.me/xinshijie0000",
+                "start": 76,
+                "url": "https://t.co/q5Z49Vdjxv"
+              }
+            ]
+          }
+        },
+        "id": "1811430427535765504",
+        "location": "不再收🚪不再加男",
+        "name": "美術館館長",
+        "pinned_tweet_id": "1921997129985216603",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009811412412157952/ARAxYDf-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 136,
+          "following_count": 185,
+          "like_count": 3296,
+          "listed_count": 1,
+          "media_count": 350,
+          "tweet_count": 1233
+        },
+        "username": "xinshijie_1227",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-12T11:16:56.000Z",
+        "description": "请给我一支永远不会熄灭的香烟",
+        "id": "1701555310006308864",
+        "location": "地霊殿",
+        "name": "シャナ",
+        "pinned_tweet_id": "2008882687399100687",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014338019982184449/xKE1wxP9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 444,
+          "following_count": 187,
+          "like_count": 707,
+          "listed_count": 1,
+          "media_count": 279,
+          "tweet_count": 1780
+        },
+        "username": "Eternal1uv9",
+        "verified": false
+      }
+    ]
+  }
+}

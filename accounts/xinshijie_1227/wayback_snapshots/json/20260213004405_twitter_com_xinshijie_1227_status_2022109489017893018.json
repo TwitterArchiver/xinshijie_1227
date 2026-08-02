@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1811430427535765504",
+    "conversation_id": "2022001920538525912",
+    "created_at": "2026-02-13T00:44:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-13T01:44:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2022109489017893018"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1701555310006308864",
+          "start": 0,
+          "username": "Eternal1uv9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022109489017893018",
+    "in_reply_to_user_id": "1701555310006308864",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022001920538525912",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Eternal1uv9 好可爱"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2022001895758606336",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HA-YAtvbsAAL95y.jpg",
+        "width": 614
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1811430427535765504",
+        "conversation_id": "2022001920538525912",
+        "created_at": "2026-02-13T00:44:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-13T01:44:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022109489017893018"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1701555310006308864",
+              "start": 0,
+              "username": "Eternal1uv9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022109489017893018",
+        "in_reply_to_user_id": "1701555310006308864",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022001920538525912",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Eternal1uv9 好可爱"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2022001895758606336"
+          ]
+        },
+        "author_id": "1701555310006308864",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to makeup, perfumes and skin care",
+              "id": "1557696505548394496",
+              "name": "Beauty, Cosmetic & Personal Care Business"
+            }
+          }
+        ],
+        "conversation_id": "2022001920538525912",
+        "created_at": "2026-02-12T17:36:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-12T18:36:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022001920538525912"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/I0Vun9gxtx",
+              "end": 34,
+              "expanded_url": "https://x.com/Eternal1uv9/status/2022001920538525912/photo/1",
+              "media_key": "3_2022001895758606336",
+              "start": 11,
+              "url": "https://t.co/I0Vun9gxtx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022001920538525912",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 153,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "メイクしてないよ？！ https://t.co/I0Vun9gxtx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-11T16:01:12.000Z",
+        "description": "嗑药 | 自残 | 吐黑水 | 互联网的隐匿栖身之所｜哥特or地雷女｜狗屎馅俄罗斯大列巴@requiem_soulss            tg频道：https://t.co/q5Z49Vdjxv（会在频道里发血图和日常照）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 59,
+                "start": 44,
+                "username": "requiem_soulss"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/xinshijie0000",
+                "end": 99,
+                "expanded_url": "https://t.me/xinshijie0000",
+                "start": 76,
+                "url": "https://t.co/q5Z49Vdjxv"
+              }
+            ]
+          }
+        },
+        "id": "1811430427535765504",
+        "location": "不再收🚪不再加男",
+        "name": "美術館館長",
+        "pinned_tweet_id": "1921997129985216603",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009811412412157952/ARAxYDf-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 136,
+          "following_count": 184,
+          "like_count": 3301,
+          "listed_count": 1,
+          "media_count": 355,
+          "tweet_count": 1240
+        },
+        "username": "xinshijie_1227",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-12T11:16:56.000Z",
+        "description": "请给我一支永远不会熄灭的香烟",
+        "id": "1701555310006308864",
+        "location": "地霊殿",
+        "name": "シャナ",
+        "pinned_tweet_id": "2020486327016517886",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022020849394704384/TtO0suPB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 460,
+          "following_count": 195,
+          "like_count": 775,
+          "listed_count": 1,
+          "media_count": 291,
+          "tweet_count": 1874
+        },
+        "username": "Eternal1uv9",
+        "verified": false
+      }
+    ]
+  }
+}

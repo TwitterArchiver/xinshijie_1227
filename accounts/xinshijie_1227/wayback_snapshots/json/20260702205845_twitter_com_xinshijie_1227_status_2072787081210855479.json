@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1811430427535765504",
+    "conversation_id": "2072787081210855479",
+    "created_at": "2026-07-02T20:58:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-02T21:58:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2072787081210855479"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/meguminsama200…",
+          "end": 30,
+          "expanded_url": "https://twitter.com/meguminsama2009/status/2072355046340329816",
+          "start": 7,
+          "url": "https://t.co/Wdj5rpSRrH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072787081210855479",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072355046340329816",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我也想要这个 https://t.co/Wdj5rpSRrH"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2072340092702859264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMJuVadaoAAAADF.jpg",
+        "width": 768
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1811430427535765504",
+        "conversation_id": "2072787081210855479",
+        "created_at": "2026-07-02T20:58:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T21:58:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072787081210855479"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/meguminsama200…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/meguminsama2009/status/2072355046340329816",
+              "start": 7,
+              "url": "https://t.co/Wdj5rpSRrH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072787081210855479",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072355046340329816",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我也想要这个 https://t.co/Wdj5rpSRrH"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072340092702859264"
+          ]
+        },
+        "author_id": "1557846379736666113",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2072355046340329816",
+        "created_at": "2026-07-01T16:22:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T17:22:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072355046340329816"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1EUULbHcrU",
+              "end": 42,
+              "expanded_url": "https://x.com/Meguminsama2009/status/2072355046340329816/photo/1",
+              "media_key": "3_2072340092702859264",
+              "start": 19,
+              "url": "https://t.co/1EUULbHcrU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072355046340329816",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 59,
+          "impression_count": 48426,
+          "like_count": 943,
+          "quote_count": 8,
+          "reply_count": 156,
+          "retweet_count": 29
+        },
+        "reply_settings": "everyone",
+        "text": "对象给我送这个蛋糕是不是遇到真爱了？ https://t.co/1EUULbHcrU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-11T16:01:12.000Z",
+        "description": "嗑药吸毒自残 | 负能量精神病 | 查成分互of | \ntg频道：https://t.co/q5Z49Vdjxv｜我的斯拉夫男友敢吃屎@requiem_soulss",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 82,
+                "start": 67,
+                "username": "requiem_soulss"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/xinshijie0000",
+                "end": 56,
+                "expanded_url": "https://t.me/xinshijie0000",
+                "start": 33,
+                "url": "https://t.co/q5Z49Vdjxv"
+              }
+            ]
+          }
+        },
+        "id": "1811430427535765504",
+        "location": "🚪8.88开放朋友圈陪闲聊",
+        "name": "美術館館長",
+        "pinned_tweet_id": "2035900548063568228",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037145672412258304/HWwdgB_x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 375,
+          "following_count": 246,
+          "like_count": 4001,
+          "listed_count": 0,
+          "media_count": 461,
+          "tweet_count": 1545
+        },
+        "url": "",
+        "username": "xinshijie_1227",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-11T21:48:42.000Z",
+        "description": "我是MeguminSAMA\n大家可以叫我惠惠\n小号：@meguminsuki2009",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 26,
+                "username": "meguminsuki2009"
+              }
+            ]
+          }
+        },
+        "id": "1557846379736666113",
+        "location": "永雏塔菲",
+        "name": "Megumin_SAMA",
+        "pinned_tweet_id": "2067940468667580679",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052330873241194496/M9AbHVhu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1620,
+          "following_count": 1961,
+          "like_count": 3305,
+          "listed_count": 2,
+          "media_count": 616,
+          "tweet_count": 7409
+        },
+        "url": "",
+        "username": "Meguminsama2009",
+        "verified": true
+      }
+    ]
+  }
+}

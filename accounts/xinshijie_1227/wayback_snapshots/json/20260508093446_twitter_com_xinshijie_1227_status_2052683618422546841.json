@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1811430427535765504",
+    "conversation_id": "2052604698067116249",
+    "created_at": "2026-05-08T09:34:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-08T10:34:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052683618422546841"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1989965282799226880",
+          "start": 0,
+          "username": "DQadopt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052683618422546841",
+    "in_reply_to_user_id": "1989965282799226880",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052651914500952201",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DQadopt 是的，我吃了五盒"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1811430427535765504",
+        "conversation_id": "2052604698067116249",
+        "created_at": "2026-05-08T09:34:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T10:34:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052683618422546841"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1989965282799226880",
+              "start": 0,
+              "username": "DQadopt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052683618422546841",
+        "in_reply_to_user_id": "1989965282799226880",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052651914500952201",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DQadopt 是的，我吃了五盒"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1989965282799226880",
+        "conversation_id": "2052604698067116249",
+        "created_at": "2026-05-08T07:28:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T08:28:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052651914500952201"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1811430427535765504",
+              "start": 0,
+              "username": "xinshijie_1227"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052651914500952201",
+        "in_reply_to_user_id": "1811430427535765504",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 22,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052604698067116249",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xinshijie_1227 这个貌似要吃很多才能达到pr的效果（？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-11T16:01:12.000Z",
+        "description": "嗑药 | 自残 | 负能量 | 御宅族| 互联网的隐匿栖身之所 | \ntg频道：https://t.co/q5Z49Vdjxv（会在频道里发血图和日常照）",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/xinshijie0000",
+                "end": 63,
+                "expanded_url": "https://t.me/xinshijie0000",
+                "start": 40,
+                "url": "https://t.co/q5Z49Vdjxv"
+              }
+            ]
+          }
+        },
+        "id": "1811430427535765504",
+        "location": "🚪8.88开放朋友圈陪闲聊",
+        "name": "美術館館長",
+        "pinned_tweet_id": "2035900548063568228",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037145672412258304/HWwdgB_x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 171,
+          "following_count": 212,
+          "like_count": 3875,
+          "listed_count": 1,
+          "media_count": 412,
+          "tweet_count": 1401
+        },
+        "username": "xinshijie_1227",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-16T07:54:40.000Z",
+        "description": "有个很爱的女朋友叫小鸟丨我站在这里，是为了击破真善美的臆想，查拉图斯特拉独自下山，没有碰到任何人。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dqadopt",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dqadopt",
+                "start": 0,
+                "url": "https://t.co/nFHbt8f2ne"
+              }
+            ]
+          }
+        },
+        "id": "1989965282799226880",
+        "location": "千百次孤独",
+        "name": "查拉图斯特拉.",
+        "pinned_tweet_id": "2051669162335023145",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008710992977362944/ooE2SguW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2267,
+          "following_count": 343,
+          "like_count": 3368,
+          "listed_count": 1,
+          "media_count": 363,
+          "tweet_count": 3962
+        },
+        "url": "https://t.co/nFHbt8f2ne",
+        "username": "DQadopt",
+        "verified": false
+      }
+    ]
+  }
+}

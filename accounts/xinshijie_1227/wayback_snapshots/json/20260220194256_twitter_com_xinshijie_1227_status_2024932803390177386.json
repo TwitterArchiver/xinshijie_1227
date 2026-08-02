@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1811430427535765504",
+    "conversation_id": "2024805135999017151",
+    "created_at": "2026-02-20T19:42:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-20T20:42:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024932803390177386"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1452123941686976519",
+          "start": 0,
+          "username": "C21Koy_7c"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024932803390177386",
+    "in_reply_to_user_id": "1452123941686976519",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024839604571132219",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@C21Koy_7c 爱你哇"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1811430427535765504",
+        "conversation_id": "2024805135999017151",
+        "created_at": "2026-02-20T19:42:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-20T20:42:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024932803390177386"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1452123941686976519",
+              "start": 0,
+              "username": "C21Koy_7c"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024932803390177386",
+        "in_reply_to_user_id": "1452123941686976519",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024839604571132219",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@C21Koy_7c 爱你哇"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1452123941686976519",
+        "conversation_id": "2024805135999017151",
+        "created_at": "2026-02-20T13:32:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-20T14:32:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024839604571132219"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1811430427535765504",
+              "start": 0,
+              "username": "xinshijie_1227"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024839604571132219",
+        "in_reply_to_user_id": "1811430427535765504",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 22,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024805135999017151",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xinshijie_1227 好权威的宝宝"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-11T16:01:12.000Z",
+        "description": "嗑药 | 自残 | 吐黑水 ｜哥特or地雷女| 互联网的隐匿栖身之所｜狗屎馅俄罗斯大列巴@requiem_soulss tg频道：https://t.co/q5Z49Vdjxv（会在频道里发血图和日常照）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 59,
+                "start": 44,
+                "username": "requiem_soulss"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/xinshijie0000",
+                "end": 88,
+                "expanded_url": "https://t.me/xinshijie0000",
+                "start": 65,
+                "url": "https://t.co/q5Z49Vdjxv"
+              }
+            ]
+          }
+        },
+        "id": "1811430427535765504",
+        "location": "🚪8.88开放朋友圈陪闲聊",
+        "name": "美術館館長",
+        "pinned_tweet_id": "2024805135999017151",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009811412412157952/ARAxYDf-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 147,
+          "following_count": 197,
+          "like_count": 3588,
+          "listed_count": 1,
+          "media_count": 362,
+          "tweet_count": 1266
+        },
+        "username": "xinshijie_1227",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-24T04:05:30.000Z",
+        "description": "自我生存娱乐空间 内可能含有NSFW 有SH｜pills💊 ｜20+警告⚠️ ｜they｜不善表达 我想复健产粮…懒惰的同人爱好者 是成年账户 全是翻译器 是精神病 温和 随时锁推 业余的 很笨 有不对的请不要说我 对异形勃起 欢迎讨论 不会讨厌谁 叫我什么都可以 不会外语 一切用翻译器翻的",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nay2841",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nay2841",
+                "start": 0,
+                "url": "https://t.co/p7oRHhHxDn"
+              }
+            ]
+          }
+        },
+        "id": "1452123941686976519",
+        "name": "盐制肉鸦",
+        "pinned_tweet_id": "1971924675585568891",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987482127756410880/kunx4knz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1016,
+          "following_count": 3268,
+          "like_count": 28347,
+          "listed_count": 5,
+          "media_count": 1957,
+          "tweet_count": 26741
+        },
+        "url": "https://t.co/p7oRHhHxDn",
+        "username": "C21Koy_7c",
+        "verified": false
+      }
+    ]
+  }
+}

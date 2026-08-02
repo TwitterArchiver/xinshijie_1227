@@ -1,0 +1,92 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1811430427535765504",
+    "conversation_id": "1878522226766758002",
+    "created_at": "2025-01-12T19:19:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-12T20:19:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1878522226766758002"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1878522226766758002",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我出去卖逼的话会被打成猪头因为我现实中长得奇丑无比"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1811430427535765504",
+        "conversation_id": "1878522226766758002",
+        "created_at": "2025-01-12T19:19:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-12T20:19:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1878522226766758002"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1878522226766758002",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我出去卖逼的话会被打成猪头因为我现实中长得奇丑无比"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-11T16:01:12.000Z",
+        "description": "痛苦是没法被比较的，比较就成为装饰品了          \n\n    🚪50绿色陪聊",
+        "id": "1811430427535765504",
+        "name": "美術館館長",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878516655439110144/3lCN238u_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 129,
+          "like_count": 1310,
+          "listed_count": 0,
+          "media_count": 51,
+          "tweet_count": 239
+        },
+        "username": "xinshijie_1227",
+        "verified": false
+      }
+    ]
+  }
+}

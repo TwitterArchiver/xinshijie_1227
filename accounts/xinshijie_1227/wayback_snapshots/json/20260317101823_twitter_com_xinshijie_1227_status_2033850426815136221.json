@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2033850387036528640",
+        "3_2033850387057545220",
+        "3_2033850386914676736",
+        "3_2033850386948194304"
+      ]
+    },
+    "author_id": "1811430427535765504",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2033850426815136221",
+    "created_at": "2026-03-17T10:18:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-17T11:18:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2033850426815136221"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/rtnLoFmHu5",
+          "end": 25,
+          "expanded_url": "https://x.com/xinshijie_1227/status/2033850426815136221/photo/1",
+          "media_key": "3_2033850387036528640",
+          "start": 2,
+          "url": "https://t.co/rtnLoFmHu5"
+        },
+        {
+          "display_url": "pic.x.com/rtnLoFmHu5",
+          "end": 25,
+          "expanded_url": "https://x.com/xinshijie_1227/status/2033850426815136221/photo/1",
+          "media_key": "3_2033850387057545220",
+          "start": 2,
+          "url": "https://t.co/rtnLoFmHu5"
+        },
+        {
+          "display_url": "pic.x.com/rtnLoFmHu5",
+          "end": 25,
+          "expanded_url": "https://x.com/xinshijie_1227/status/2033850426815136221/photo/1",
+          "media_key": "3_2033850386914676736",
+          "start": 2,
+          "url": "https://t.co/rtnLoFmHu5"
+        },
+        {
+          "display_url": "pic.x.com/rtnLoFmHu5",
+          "end": 25,
+          "expanded_url": "https://x.com/xinshijie_1227/status/2033850426815136221/photo/1",
+          "media_key": "3_2033850386948194304",
+          "start": 2,
+          "url": "https://t.co/rtnLoFmHu5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033850426815136221",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "！ https://t.co/rtnLoFmHu5"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 576,
+        "media_key": "3_2033850387036528640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDmwJrWaYAApFiJ.jpg",
+        "width": 1024
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2033850387057545220",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDmwJrbbEAQT3Nd.jpg",
+        "width": 768
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2033850386914676736",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDmwJq5XEAAvLFy.jpg",
+        "width": 498
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2033850386948194304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDmwJrBWgAAHUTn.jpg",
+        "width": 498
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2033850387036528640",
+            "3_2033850387057545220",
+            "3_2033850386914676736",
+            "3_2033850386948194304"
+          ]
+        },
+        "author_id": "1811430427535765504",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2033850426815136221",
+        "created_at": "2026-03-17T10:18:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-17T11:18:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2033850426815136221"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rtnLoFmHu5",
+              "end": 25,
+              "expanded_url": "https://x.com/xinshijie_1227/status/2033850426815136221/photo/1",
+              "media_key": "3_2033850387036528640",
+              "start": 2,
+              "url": "https://t.co/rtnLoFmHu5"
+            },
+            {
+              "display_url": "pic.x.com/rtnLoFmHu5",
+              "end": 25,
+              "expanded_url": "https://x.com/xinshijie_1227/status/2033850426815136221/photo/1",
+              "media_key": "3_2033850387057545220",
+              "start": 2,
+              "url": "https://t.co/rtnLoFmHu5"
+            },
+            {
+              "display_url": "pic.x.com/rtnLoFmHu5",
+              "end": 25,
+              "expanded_url": "https://x.com/xinshijie_1227/status/2033850426815136221/photo/1",
+              "media_key": "3_2033850386914676736",
+              "start": 2,
+              "url": "https://t.co/rtnLoFmHu5"
+            },
+            {
+              "display_url": "pic.x.com/rtnLoFmHu5",
+              "end": 25,
+              "expanded_url": "https://x.com/xinshijie_1227/status/2033850426815136221/photo/1",
+              "media_key": "3_2033850386948194304",
+              "start": 2,
+              "url": "https://t.co/rtnLoFmHu5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033850426815136221",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "！ https://t.co/rtnLoFmHu5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-11T16:01:12.000Z",
+        "description": "嗑药 | 自残 | 吐黑水 ｜哥特or地雷女| 互联网的隐匿栖身之所｜狗屎馅俄罗斯大列巴@requiem_soulss tg频道：https://t.co/q5Z49Vdjxv（会在频道里发血图和日常照）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 59,
+                "start": 44,
+                "username": "requiem_soulss"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/xinshijie0000",
+                "end": 88,
+                "expanded_url": "https://t.me/xinshijie0000",
+                "start": 65,
+                "url": "https://t.co/q5Z49Vdjxv"
+              }
+            ]
+          }
+        },
+        "id": "1811430427535765504",
+        "location": "🚪8.88开放朋友圈陪闲聊",
+        "name": "美術館館長",
+        "pinned_tweet_id": "2024805135999017151",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033580584837300225/zBVz95fh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 166,
+          "following_count": 210,
+          "like_count": 3691,
+          "listed_count": 1,
+          "media_count": 378,
+          "tweet_count": 1318
+        },
+        "username": "xinshijie_1227",
+        "verified": false
+      }
+    ]
+  }
+}

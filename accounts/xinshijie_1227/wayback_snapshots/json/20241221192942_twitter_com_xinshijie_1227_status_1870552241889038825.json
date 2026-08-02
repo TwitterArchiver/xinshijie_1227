@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1811430427535765504",
+    "conversation_id": "1869434108784640211",
+    "created_at": "2024-12-21T19:29:42.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-21T20:29:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1870552241889038825"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1810705896332566528",
+          "start": 0,
+          "username": "uhhjbjnh6669230"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1870552241889038825",
+    "in_reply_to_user_id": "1810705896332566528",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1870407801131999495",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@uhhjbjnh6669230 OMG我像奶龙"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1811430427535765504",
+        "conversation_id": "1869434108784640211",
+        "created_at": "2024-12-21T19:29:42.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-21T20:29:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1870552241889038825"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1810705896332566528",
+              "start": 0,
+              "username": "uhhjbjnh6669230"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1870552241889038825",
+        "in_reply_to_user_id": "1810705896332566528",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1870407801131999495",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@uhhjbjnh6669230 OMG我像奶龙"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1810705896332566528",
+        "conversation_id": "1869434108784640211",
+        "created_at": "2024-12-21T09:55:44.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-21T10:55:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1870407801131999495"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1811430427535765504",
+              "start": 0,
+              "username": "xinshijie_1227"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1870407801131999495",
+        "in_reply_to_user_id": "1811430427535765504",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1869434108784640211",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xinshijie_1227 没事。我长的像胖猫"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-11T16:01:12.000Z",
+        "description": "痛苦是没法被比较的，比较就成为装饰品了          \n\n    🚪50绿色陪聊",
+        "id": "1811430427535765504",
+        "name": "˚・* ٭☣︎ 美術館館長 ☣︎٭ *・˚",
+        "pinned_tweet_id": "1864645753240736160",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870216553251434496/ge9CNg3z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32,
+          "following_count": 124,
+          "like_count": 1300,
+          "listed_count": 0,
+          "media_count": 54,
+          "tweet_count": 237
+        },
+        "username": "xinshijie_1227",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-09T16:01:51.000Z",
+        "description": "Glad to meet you, I'm Chinese, and I like tomb robbing notes (I heard they were released in Japan, welcome to make friends!!!) My translation is not very good",
+        "id": "1810705896332566528",
+        "name": "Bottle Evil 99",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1845057912181313552/V3VE4CBM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 71,
+          "like_count": 38,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 17
+        },
+        "username": "uhhjbjnh6669230",
+        "verified": false
+      }
+    ]
+  }
+}

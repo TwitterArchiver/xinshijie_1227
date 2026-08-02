@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1971771242480103424"
+      ],
+      "media_source_tweet_id": [
+        "1971771266215694346"
+      ]
+    },
+    "author_id": "1811430427535765504",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "id": "1129067985451118593",
+          "name": "Physical Education"
+        }
+      }
+    ],
+    "conversation_id": "2058484038378070179",
+    "created_at": "2026-05-24T09:43:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-24T10:43:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058484038378070179"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1401214222365724677",
+          "start": 3,
+          "username": "disorder_SUB"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/GuPbj0sHPx",
+          "end": 119,
+          "expanded_url": "https://x.com/disorder_SUB/status/1971771266215694346/photo/1",
+          "media_key": "3_1971771242480103424",
+          "start": 96,
+          "url": "https://t.co/GuPbj0sHPx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058484038378070179",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 80
+    },
+    "referenced_tweets": [
+      {
+        "id": "1971771266215694346",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @disorder_SUB: 気が付くと僕は彼女の汗ばんだ肌に張り付いた服を剥がしていた。\n真夏の体育倉庫は汗と制汗スプレーの臭いで満たされ、彼女は僕が触れた反動で僅かに揺れるばかり… https://t.co/GuPbj0sHPx"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2058484038378070179].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2058484038378070179",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2058484038378070179"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2732,
+        "media_key": "3_1971771242480103424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G10jf4ZbcAAVWjk.jpg",
+        "width": 1935
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1971771242480103424"
+          ]
+        },
+        "author_id": "1401214222365724677",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "id": "1129067985451118593",
+              "name": "Physical Education"
+            }
+          }
+        ],
+        "conversation_id": "1971771266215694346",
+        "created_at": "2025-09-27T02:57:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-27T03:57:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1971771266215694346"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GuPbj0sHPx",
+              "end": 101,
+              "expanded_url": "https://x.com/disorder_SUB/status/1971771266215694346/photo/1",
+              "media_key": "3_1971771242480103424",
+              "start": 78,
+              "url": "https://t.co/GuPbj0sHPx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1971771266215694346",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 388,
+          "impression_count": 53060,
+          "like_count": 1016,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 80
+        },
+        "reply_settings": "everyone",
+        "text": "気が付くと僕は彼女の汗ばんだ肌に張り付いた服を剥がしていた。\n真夏の体育倉庫は汗と制汗スプレーの臭いで満たされ、彼女は僕が触れた反動で僅かに揺れるばかり… https://t.co/GuPbj0sHPx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-11T16:01:12.000Z",
+        "description": "嗑药 | 自残 | 负能量 | 御宅族| 互联网的隐匿栖身之所 | \ntg频道：https://t.co/q5Z49VdRn3（会在频道里发血图和日常照） | 俄罗斯臭傻逼@requiem_soulss",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 101,
+                "start": 86,
+                "username": "requiem_soulss"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/xinshijie0000",
+                "end": 63,
+                "expanded_url": "https://t.me/xinshijie0000",
+                "start": 40,
+                "url": "https://t.co/q5Z49VdRn3"
+              }
+            ]
+          }
+        },
+        "id": "1811430427535765504",
+        "location": "🚪8.88开放朋友圈陪闲聊",
+        "name": "美術館館長",
+        "pinned_tweet_id": "2035900548063568228",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037145672412258304/HWwdgB_x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 256,
+          "following_count": 222,
+          "like_count": 3887,
+          "listed_count": 0,
+          "media_count": 423,
+          "tweet_count": 1442
+        },
+        "username": "xinshijie_1227",
+        "verified": false
+      },
+      {
+        "created_at": "2021-06-05T16:29:54.000Z",
+        "description": "ホラー・リョナ・グロ要素を含みます ご支援頂けると活動助かりますFANBOX⇒https://t.co/ltFdyCPyQy Fantia⇒https://t.co/OzR7hcQmJo Skeb⇒https://t.co/2jj7wVpvXM",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "disorder.fanbox.cc",
+                "end": 62,
+                "expanded_url": "http://disorder.fanbox.cc",
+                "start": 39,
+                "url": "https://t.co/ltFdyCPyQy"
+              },
+              {
+                "display_url": "fantia.jp/fanclubs/478122",
+                "end": 93,
+                "expanded_url": "http://fantia.jp/fanclubs/478122",
+                "start": 70,
+                "url": "https://t.co/OzR7hcQmJo"
+              },
+              {
+                "display_url": "skeb.jp/@disorder_rape",
+                "end": 122,
+                "expanded_url": "http://skeb.jp/@disorder_rape",
+                "start": 99,
+                "url": "https://t.co/2jj7wVpvXM"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "amazon.jp/hz/wishlist/ls…",
+                "end": 23,
+                "expanded_url": "https://www.amazon.jp/hz/wishlist/ls/1SV00H7TQV7OC?ref_=wl_share",
+                "start": 0,
+                "url": "https://t.co/XHax2cFQLd"
+              }
+            ]
+          }
+        },
+        "id": "1401214222365724677",
+        "location": "ほしいもの",
+        "name": "ディスオーダー@ABCD!12 A-14",
+        "pinned_tweet_id": "1818225026962760057",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1946504859416457217/0VxpVK_x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16468,
+          "following_count": 358,
+          "like_count": 1663,
+          "listed_count": 135,
+          "media_count": 438,
+          "tweet_count": 1360
+        },
+        "url": "https://t.co/XHax2cFQLd",
+        "username": "disorder_SUB",
+        "verified": false
+      }
+    ]
+  }
+}

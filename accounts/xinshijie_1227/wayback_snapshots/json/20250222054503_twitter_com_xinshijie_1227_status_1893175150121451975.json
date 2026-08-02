@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1811430427535765504",
+    "conversation_id": "1893120753530294311",
+    "created_at": "2025-02-22T05:45:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-22T06:45:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1893175150121451975"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1668826909235372037",
+          "start": 0,
+          "username": "Tailmating"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1893175150121451975",
+    "in_reply_to_user_id": "1668826909235372037",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1893173062771843169",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Tailmating 算盘珠子碰碰响(。•ω•)σ)´Д`)"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1811430427535765504",
+        "conversation_id": "1893120753530294311",
+        "created_at": "2025-02-22T05:45:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-22T06:45:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1893175150121451975"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1668826909235372037",
+              "start": 0,
+              "username": "Tailmating"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1893175150121451975",
+        "in_reply_to_user_id": "1668826909235372037",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1893173062771843169",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Tailmating 算盘珠子碰碰响(。•ω•)σ)´Д`)"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1668826909235372037",
+        "conversation_id": "1893120753530294311",
+        "created_at": "2025-02-22T05:36:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-22T06:36:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1893173062771843169"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1811430427535765504",
+              "start": 0,
+              "username": "xinshijie_1227"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1893173062771843169",
+        "in_reply_to_user_id": "1811430427535765504",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1893120753530294311",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xinshijie_1227 宝宝你带过来我给你补😋"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-11T16:01:12.000Z",
+        "description": "od | 自残 | 吐黑水 \n屎尿屁大王 bi 对妹子会非常友好^_^   会回fo",
+        "id": "1811430427535765504",
+        "location": "🚪50绿色陪聊男的过门女的免费",
+        "name": "美術館館長",
+        "pinned_tweet_id": "1886044580723949727",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1884080533770231811/F8kuy6DT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 49,
+          "following_count": 124,
+          "like_count": 1835,
+          "listed_count": 0,
+          "media_count": 103,
+          "tweet_count": 411
+        },
+        "username": "xinshijie_1227",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-14T03:45:25.000Z",
+        "description": "Puppy ☆₊⁺🦴🐾₊⁺★｜没关注私信送小黑屋一间｜回礼貌私信 不闲聊 话多拉黑 发屌骂我先出示双亲死亡证明｜小女孩萌都请和我玩🫰🏻｜有🚪168无封顶｜自用vpn🚀：https://t.co/qnNfZJRPcD",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "wwwwwl.sogood9.com/#/register?cod…",
+                "end": 107,
+                "expanded_url": "https://wwwwwl.sogood9.com/#/register?code=U1foS9wp",
+                "start": 84,
+                "url": "https://t.co/qnNfZJRPcD"
+              }
+            ]
+          }
+        },
+        "id": "1668826909235372037",
+        "location": "皇宫",
+        "name": "Koi7",
+        "pinned_tweet_id": "1856278702218252712",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866799733127217152/G3RfblpK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38996,
+          "following_count": 417,
+          "like_count": 56979,
+          "listed_count": 104,
+          "media_count": 224,
+          "tweet_count": 16869
+        },
+        "username": "Tailmating",
+        "verified": false
+      }
+    ]
+  }
+}

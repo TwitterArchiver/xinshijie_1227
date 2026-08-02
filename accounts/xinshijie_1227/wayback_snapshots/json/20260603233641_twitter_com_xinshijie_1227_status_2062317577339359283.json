@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1848669001838149632"
+      ],
+      "media_source_tweet_id": [
+        "1848669030585905587"
+      ]
+    },
+    "author_id": "1811430427535765504",
+    "conversation_id": "2062317577339359283",
+    "created_at": "2026-06-03T23:36:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-04T00:36:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062317577339359283"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 20,
+          "start": 14,
+          "tag": "shtwt"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1753556247058472962",
+          "start": 3,
+          "username": "boillnes"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/o83IDYHQYz",
+          "end": 70,
+          "expanded_url": "https://x.com/ilikecirrus/status/1848669030585905587/video/1",
+          "media_key": "7_1848669001838149632",
+          "start": 47,
+          "url": "https://t.co/o83IDYHQYz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062317577339359283",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 348
+    },
+    "referenced_tweets": [
+      {
+        "id": "1848669030585905587",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @boillnes: #shtwt first video I see of sh 👀 https://t.co/o83IDYHQYz"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2062317577339359283].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2062317577339359283",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2062317577339359283"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 18866,
+        "height": 480,
+        "media_key": "7_1848669001838149632",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1848669001838149632/pu/img/gmw5NX6pDSRN6I7_.jpg",
+        "public_metrics": {
+          "view_count": 13403
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1848669001838149632/pu/vid/avc1/320x320/uPQJBict_T-LrPh0.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1848669001838149632/pu/vid/avc1/480x480/5z-BCpjTa3RjFfkH.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1848669001838149632/pu/pl/akDrhYzRsJGSMwPg.m3u8?tag=12"
+          }
+        ],
+        "width": 480
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1848669001838149632"
+          ]
+        },
+        "author_id": "1753556247058472962",
+        "conversation_id": "1848669030585905587",
+        "created_at": "2024-10-22T10:13:38.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-22T11:13:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1848669030585905587"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 6,
+              "start": 0,
+              "tag": "shtwt"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/o83IDYHQYz",
+              "end": 56,
+              "expanded_url": "https://x.com/ilikecirrus/status/1848669030585905587/video/1",
+              "media_key": "7_1848669001838149632",
+              "start": 33,
+              "url": "https://t.co/o83IDYHQYz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1848669030585905587",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 549,
+          "impression_count": 27612,
+          "like_count": 1819,
+          "quote_count": 16,
+          "reply_count": 26,
+          "retweet_count": 348
+        },
+        "reply_settings": "everyone",
+        "text": "#shtwt first video I see of sh 👀 https://t.co/o83IDYHQYz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-11T16:01:12.000Z",
+        "description": "嗑药吸毒自残 | 负能量 | 互联网的隐匿栖身之所 | 查成分互of | \ntg频道：https://t.co/q5Z49VdRn3 | 俄罗斯臭傻逼@requiem_soulss",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 90,
+                "start": 75,
+                "username": "requiem_soulss"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/xinshijie0000",
+                "end": 66,
+                "expanded_url": "https://t.me/xinshijie0000",
+                "start": 43,
+                "url": "https://t.co/q5Z49VdRn3"
+              }
+            ]
+          }
+        },
+        "id": "1811430427535765504",
+        "location": "🚪8.88开放朋友圈陪闲聊",
+        "name": "美術館館長",
+        "pinned_tweet_id": "2035900548063568228",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037145672412258304/HWwdgB_x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 367,
+          "following_count": 236,
+          "like_count": 3949,
+          "listed_count": 0,
+          "media_count": 438,
+          "tweet_count": 1486
+        },
+        "username": "xinshijie_1227",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-02T23:10:35.000Z",
+        "description": "*none of my post are mine.\n#shtwt #goretwt  ! follow @iboillness",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 33,
+                "start": 27,
+                "tag": "shtwt"
+              },
+              {
+                "end": 42,
+                "start": 34,
+                "tag": "goretwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 64,
+                "start": 53,
+                "username": "iboillness"
+              }
+            ]
+          }
+        },
+        "id": "1753556247058472962",
+        "location": "confetti confetti confetti ",
+        "name": "iboi",
+        "pinned_tweet_id": "2041493076372267041",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041311312257630208/ap5ozr1d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9550,
+          "following_count": 65,
+          "like_count": 5709,
+          "listed_count": 13,
+          "media_count": 281,
+          "tweet_count": 1289
+        },
+        "username": "boillnes",
+        "verified": false
+      }
+    ]
+  }
+}

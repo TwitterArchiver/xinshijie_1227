@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2039252844617121792",
+        "3_2039252844558319616",
+        "3_2039252844591845376",
+        "3_2039252844562497536"
+      ]
+    },
+    "author_id": "1811430427535765504",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Science",
+          "id": "854692455005921281",
+          "name": "Science"
+        }
+      }
+    ],
+    "conversation_id": "2039252879727628790",
+    "created_at": "2026-04-01T08:05:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-01T09:05:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2039252879727628790"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/1Blvt1vW1q",
+          "end": 61,
+          "expanded_url": "https://x.com/xinshijie_1227/status/2039252879727628790/photo/1",
+          "media_key": "3_2039252844617121792",
+          "start": 38,
+          "url": "https://t.co/1Blvt1vW1q"
+        },
+        {
+          "display_url": "pic.x.com/1Blvt1vW1q",
+          "end": 61,
+          "expanded_url": "https://x.com/xinshijie_1227/status/2039252879727628790/photo/1",
+          "media_key": "3_2039252844558319616",
+          "start": 38,
+          "url": "https://t.co/1Blvt1vW1q"
+        },
+        {
+          "display_url": "pic.x.com/1Blvt1vW1q",
+          "end": 61,
+          "expanded_url": "https://x.com/xinshijie_1227/status/2039252879727628790/photo/1",
+          "media_key": "3_2039252844591845376",
+          "start": 38,
+          "url": "https://t.co/1Blvt1vW1q"
+        },
+        {
+          "display_url": "pic.x.com/1Blvt1vW1q",
+          "end": 61,
+          "expanded_url": "https://x.com/xinshijie_1227/status/2039252879727628790/photo/1",
+          "media_key": "3_2039252844562497536",
+          "start": 38,
+          "url": "https://t.co/1Blvt1vW1q"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039252879727628790",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "抖音发嗑药的一群死妈傻逼以后都他妈吃感康去吧争取让这群傻逼飞升化学极乐星球 https://t.co/1Blvt1vW1q"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2039252844617121792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEzhqGKbwAADBqM.jpg",
+        "width": 946
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2039252844558319616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEzhqF8agAA51yY.jpg",
+        "width": 946
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2039252844591845376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEzhqGEaEAAFTAY.jpg",
+        "width": 946
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2039252844562497536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEzhqF9aQAAtzdL.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2039252844617121792",
+            "3_2039252844558319616",
+            "3_2039252844591845376",
+            "3_2039252844562497536"
+          ]
+        },
+        "author_id": "1811430427535765504",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          }
+        ],
+        "conversation_id": "2039252879727628790",
+        "created_at": "2026-04-01T08:05:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T09:05:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039252879727628790"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1Blvt1vW1q",
+              "end": 61,
+              "expanded_url": "https://x.com/xinshijie_1227/status/2039252879727628790/photo/1",
+              "media_key": "3_2039252844617121792",
+              "start": 38,
+              "url": "https://t.co/1Blvt1vW1q"
+            },
+            {
+              "display_url": "pic.x.com/1Blvt1vW1q",
+              "end": 61,
+              "expanded_url": "https://x.com/xinshijie_1227/status/2039252879727628790/photo/1",
+              "media_key": "3_2039252844558319616",
+              "start": 38,
+              "url": "https://t.co/1Blvt1vW1q"
+            },
+            {
+              "display_url": "pic.x.com/1Blvt1vW1q",
+              "end": 61,
+              "expanded_url": "https://x.com/xinshijie_1227/status/2039252879727628790/photo/1",
+              "media_key": "3_2039252844591845376",
+              "start": 38,
+              "url": "https://t.co/1Blvt1vW1q"
+            },
+            {
+              "display_url": "pic.x.com/1Blvt1vW1q",
+              "end": 61,
+              "expanded_url": "https://x.com/xinshijie_1227/status/2039252879727628790/photo/1",
+              "media_key": "3_2039252844562497536",
+              "start": 38,
+              "url": "https://t.co/1Blvt1vW1q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039252879727628790",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "抖音发嗑药的一群死妈傻逼以后都他妈吃感康去吧争取让这群傻逼飞升化学极乐星球 https://t.co/1Blvt1vW1q"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-11T16:01:12.000Z",
+        "description": "嗑药 | 自残 | 负能量 | 御宅族| 互联网的隐匿栖身之所 | 傻逼俄罗斯男友@requiem_soulss | tg频道：https://t.co/q5Z49VdRn3（会在频道里发血图和日常照）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 41,
+                "username": "requiem_soulss"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/xinshijie0000",
+                "end": 87,
+                "expanded_url": "https://t.me/xinshijie0000",
+                "start": 64,
+                "url": "https://t.co/q5Z49VdRn3"
+              }
+            ]
+          }
+        },
+        "id": "1811430427535765504",
+        "location": "🚪8.88开放朋友圈陪闲聊",
+        "name": "美術館館長",
+        "pinned_tweet_id": "2035900548063568228",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037145672412258304/HWwdgB_x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 165,
+          "following_count": 214,
+          "like_count": 3831,
+          "listed_count": 1,
+          "media_count": 392,
+          "tweet_count": 1352
+        },
+        "username": "xinshijie_1227",
+        "verified": false
+      }
+    ]
+  }
+}

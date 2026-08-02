@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1811430427535765504",
+    "conversation_id": "2056575307923210388",
+    "created_at": "2026-05-19T03:18:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-19T04:18:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2056575307923210388"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/eweisi32/statu…",
+          "end": 45,
+          "expanded_url": "https://twitter.com/eweisi32/status/2056053693116510305",
+          "start": 22,
+          "url": "https://t.co/lLth6X9EaS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056575307923210388",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056053693116510305",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "求教程，那个臭斯拉夫傻逼什么时候能跟我殉情 https://t.co/lLth6X9EaS"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 652,
+        "media_key": "3_2056053689559711744",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIiR7-1WgAAaqMT.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1811430427535765504",
+        "conversation_id": "2056575307923210388",
+        "created_at": "2026-05-19T03:18:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T04:18:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056575307923210388"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/eweisi32/statu…",
+              "end": 45,
+              "expanded_url": "https://twitter.com/eweisi32/status/2056053693116510305",
+              "start": 22,
+              "url": "https://t.co/lLth6X9EaS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056575307923210388",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056053693116510305",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "求教程，那个臭斯拉夫傻逼什么时候能跟我殉情 https://t.co/lLth6X9EaS"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056053689559711744"
+          ]
+        },
+        "author_id": "1933114395854610432",
+        "conversation_id": "2056053693116510305",
+        "created_at": "2026-05-17T16:46:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T17:46:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056053693116510305"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/98MAUKbwF2",
+              "end": 31,
+              "expanded_url": "https://x.com/eweisi32/status/2056053693116510305/photo/1",
+              "media_key": "3_2056053689559711744",
+              "start": 8,
+              "url": "https://t.co/98MAUKbwF2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056053693116510305",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 756,
+          "like_count": 13,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好了我记下了。 https://t.co/98MAUKbwF2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-11T16:01:12.000Z",
+        "description": "嗑药 | 自残 | 负能量 | 御宅族| 互联网的隐匿栖身之所 | \ntg频道：https://t.co/q5Z49VdRn3（会在频道里发血图和日常照） | 俄罗斯臭傻逼@requiem_soulss",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 101,
+                "start": 86,
+                "username": "requiem_soulss"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/xinshijie0000",
+                "end": 63,
+                "expanded_url": "https://t.me/xinshijie0000",
+                "start": 40,
+                "url": "https://t.co/q5Z49VdRn3"
+              }
+            ]
+          }
+        },
+        "id": "1811430427535765504",
+        "location": "🚪8.88开放朋友圈陪闲聊",
+        "name": "美術館館長",
+        "pinned_tweet_id": "2035900548063568228",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037145672412258304/HWwdgB_x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 224,
+          "following_count": 221,
+          "like_count": 3882,
+          "listed_count": 1,
+          "media_count": 421,
+          "tweet_count": 1432
+        },
+        "username": "xinshijie_1227",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-12T10:49:36.000Z",
+        "description": "这里是一个乐子，一个oder，一个餐劵逼，一个神经病。互fo私信 接塔罗/雷诺曼占卜\n我闺蜜@Xxkg3g",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 53,
+                "start": 46,
+                "username": "Xxkg3g"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mvrtin98341",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mvrtin98341",
+                "start": 0,
+                "url": "https://t.co/tYaSleRHaZ"
+              }
+            ]
+          }
+        },
+        "id": "1933114395854610432",
+        "location": "想我打钱。",
+        "name": "蚀蛊",
+        "pinned_tweet_id": "2050247792346411493",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056431426002644992/PRiFvwm__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 777,
+          "following_count": 485,
+          "like_count": 1501,
+          "listed_count": 1,
+          "media_count": 94,
+          "tweet_count": 651
+        },
+        "url": "https://t.co/tYaSleRHaZ",
+        "username": "eweisi32",
+        "verified": false
+      }
+    ]
+  }
+}

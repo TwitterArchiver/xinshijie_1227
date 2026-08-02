@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "16_1885745462554066944"
+      ],
+      "media_source_tweet_id": [
+        "1885745525208580603"
+      ]
+    },
+    "author_id": "1811430427535765504",
+    "conversation_id": "1893283395649536168",
+    "created_at": "2025-02-22T12:55:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-22T13:55:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1893283395649536168"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1202841140115988480",
+          "start": 3,
+          "username": "4upicsart"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/L5tWdrh9JV",
+          "end": 38,
+          "expanded_url": "https://x.com/4upicsart/status/1885745525208580603/photo/1",
+          "media_key": "16_1885745462554066944",
+          "start": 15,
+          "url": "https://t.co/L5tWdrh9JV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1893283395649536168",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 236
+    },
+    "referenced_tweets": [
+      {
+        "id": "1885745525208580603",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @4upicsart: https://t.co/L5tWdrh9JV"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 654,
+        "media_key": "16_1885745462554066944",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/GiuDgdBXAAAMA6B.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/GiuDgdBXAAAMA6B.mp4"
+          }
+        ],
+        "width": 718
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_1885745462554066944"
+          ],
+          "media_source_tweet_id": [
+            "1885745525208580603"
+          ]
+        },
+        "author_id": "1811430427535765504",
+        "conversation_id": "1893283395649536168",
+        "created_at": "2025-02-22T12:55:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-22T13:55:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1893283395649536168"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1202841140115988480",
+              "start": 3,
+              "username": "4upicsart"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/L5tWdrh9JV",
+              "end": 38,
+              "expanded_url": "https://x.com/4upicsart/status/1885745525208580603/photo/1",
+              "media_key": "16_1885745462554066944",
+              "start": 15,
+              "url": "https://t.co/L5tWdrh9JV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1893283395649536168",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 236
+        },
+        "referenced_tweets": [
+          {
+            "id": "1885745525208580603",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @4upicsart: https://t.co/L5tWdrh9JV"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_1885745462554066944"
+          ]
+        },
+        "author_id": "1202841140115988480",
+        "conversation_id": "1885745525208580603",
+        "created_at": "2025-02-01T17:42:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-01T18:42:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1885745525208580603"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/L5tWdrh9JV",
+              "end": 23,
+              "expanded_url": "https://x.com/4upicsart/status/1885745525208580603/photo/1",
+              "media_key": "16_1885745462554066944",
+              "start": 0,
+              "url": "https://t.co/L5tWdrh9JV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1885745525208580603",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 435,
+          "impression_count": 201296,
+          "like_count": 2180,
+          "quote_count": 21,
+          "reply_count": 30,
+          "retweet_count": 236
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/L5tWdrh9JV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-11T16:01:12.000Z",
+        "description": "od | 自残 | 吐黑水 \n屎尿屁大王 bi 对妹子会非常友好^_^   会回fo",
+        "id": "1811430427535765504",
+        "location": "🚪50绿色陪聊男的过门女的免费",
+        "name": "美術館館長",
+        "pinned_tweet_id": "1886044580723949727",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1884080533770231811/F8kuy6DT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 49,
+          "following_count": 126,
+          "like_count": 1870,
+          "listed_count": 0,
+          "media_count": 103,
+          "tweet_count": 414
+        },
+        "username": "xinshijie_1227",
+        "verified": false
+      },
+      {
+        "created_at": "2019-12-06T06:44:16.000Z",
+        "description": "Virtual Love Gallery || Follow us for more ||  🌐",
+        "id": "1202841140115988480",
+        "location": " GLOBE 🌐 || PR/ADV/RKLM 📩 ",
+        "name": "Couple Pics",
+        "pinned_tweet_id": "1792233758982107348",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1447142717805539333/WXxvD52o_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 629617,
+          "following_count": 6,
+          "like_count": 5708,
+          "listed_count": 720,
+          "media_count": 2805,
+          "tweet_count": 5336
+        },
+        "username": "4upicsart",
+        "verified": true
+      }
+    ]
+  }
+}

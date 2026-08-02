@@ -1,0 +1,155 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1811430427535765504",
+    "conversation_id": "1886044557634404531",
+    "created_at": "2025-02-04T20:10:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-04T21:10:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1886870077397745947"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1886870077397745947",
+    "in_reply_to_user_id": "1811430427535765504",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1886044557634404531",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "呵呵0个人在意我割的很艺术"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1811430427535765504",
+        "conversation_id": "1886044557634404531",
+        "created_at": "2025-02-04T20:10:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-04T21:10:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1886870077397745947"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1886870077397745947",
+        "in_reply_to_user_id": "1811430427535765504",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1886044557634404531",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "呵呵0个人在意我割的很艺术"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1886044554329309184"
+          ]
+        },
+        "author_id": "1811430427535765504",
+        "conversation_id": "1886044557634404531",
+        "created_at": "2025-02-02T13:30:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-02T14:30:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1886044557634404531"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qqAKc4Fi8x",
+              "end": 23,
+              "expanded_url": "https://x.com/xinshijie_1227/status/1886044557634404531/photo/1",
+              "media_key": "3_1886044554329309184",
+              "start": 0,
+              "url": "https://t.co/qqAKc4Fi8x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1886044557634404531",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 182,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/qqAKc4Fi8x"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-11T16:01:12.000Z",
+        "description": "od | 自残 | 垃圾话     对妹子会很友好^_^\n\n    bi🚪50绿色陪聊",
+        "id": "1811430427535765504",
+        "name": "美術館館長",
+        "pinned_tweet_id": "1886044557634404531",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1884080533770231811/F8kuy6DT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36,
+          "following_count": 108,
+          "like_count": 1428,
+          "listed_count": 0,
+          "media_count": 62,
+          "tweet_count": 288
+        },
+        "username": "xinshijie_1227",
+        "verified": false
+      }
+    ]
+  }
+}

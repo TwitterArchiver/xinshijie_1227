@@ -1,0 +1,170 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1811430427535765504",
+    "conversation_id": "1908467555431284998",
+    "created_at": "2025-04-05T10:31:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-05T11:31:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1908467555431284998"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/xinshijie_1227…",
+          "end": 37,
+          "expanded_url": "https://twitter.com/xinshijie_1227/status/1908272875997450303",
+          "start": 14,
+          "url": "https://t.co/rg0GK7dPCG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1908467555431284998",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1908272875997450303",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这个真的猛，我现在还是晕的 https://t.co/rg0GK7dPCG"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1811430427535765504",
+        "conversation_id": "1908467555431284998",
+        "created_at": "2025-04-05T10:31:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-05T11:31:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1908467555431284998"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/xinshijie_1227…",
+              "end": 37,
+              "expanded_url": "https://twitter.com/xinshijie_1227/status/1908272875997450303",
+              "start": 14,
+              "url": "https://t.co/rg0GK7dPCG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1908467555431284998",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1908272875997450303",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这个真的猛，我现在还是晕的 https://t.co/rg0GK7dPCG"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1811430427535765504",
+        "conversation_id": "1908272875997450303",
+        "created_at": "2025-04-04T21:38:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-04T22:38:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1908272875997450303"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1908272875997450303",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 39,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "96t 普瑞巴林 + 4t 金刚焕胺 + 1t 巴氯芬\n\n先是普瑞巴林的幸福感，然后是金刚焕胺的晕眩和致幻...不过说实话这种感觉有点奇怪\n\n不怕死的可以尝试一下"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-11T16:01:12.000Z",
+        "description": "嗑药 | 自残 | 吐黑水 | 自由精神病 \n 『会回fo，对妹子会非常友好』:3\n我的男仆@requiem_soulss",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 46,
+                "username": "requiem_soulss"
+              }
+            ]
+          }
+        },
+        "id": "1811430427535765504",
+        "location": "🚪50绿色陪聊男的过门女的免费",
+        "name": "美術館館長",
+        "pinned_tweet_id": "1901626066441019862",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907513117610749952/QI3vAE-V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 74,
+          "following_count": 139,
+          "like_count": 2768,
+          "listed_count": 0,
+          "media_count": 164,
+          "tweet_count": 726
+        },
+        "username": "xinshijie_1227",
+        "verified": false
+      }
+    ]
+  }
+}

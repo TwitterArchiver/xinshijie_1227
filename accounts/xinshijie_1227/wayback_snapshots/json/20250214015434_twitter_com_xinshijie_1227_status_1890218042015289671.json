@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1811430427535765504",
+    "conversation_id": "1890165227410653604",
+    "created_at": "2025-02-14T01:54:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-14T02:54:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1890218042015289671"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1662505852924772352",
+          "start": 0,
+          "username": "xuexitongLOVEU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1890218042015289671",
+    "in_reply_to_user_id": "1662505852924772352",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1890165227410653604",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xuexitongLOVEU 这个必须接"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1811430427535765504",
+        "conversation_id": "1890165227410653604",
+        "created_at": "2025-02-14T01:54:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-14T02:54:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1890218042015289671"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1662505852924772352",
+              "start": 0,
+              "username": "xuexitongLOVEU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1890218042015289671",
+        "in_reply_to_user_id": "1662505852924772352",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1890165227410653604",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xuexitongLOVEU 这个必须接"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1890165208716308481"
+          ]
+        },
+        "author_id": "1662505852924772352",
+        "conversation_id": "1890165227410653604",
+        "created_at": "2025-02-13T22:24:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-13T23:24:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1890165227410653604"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UOAvHL578K",
+              "end": 25,
+              "expanded_url": "https://x.com/xuexitongLOVEU/status/1890165227410653604/photo/1",
+              "media_key": "3_1890165208716308481",
+              "start": 2,
+              "url": "https://t.co/UOAvHL578K"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1890165227410653604",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 32,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "接 https://t.co/UOAvHL578K"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-11T16:01:12.000Z",
+        "description": "od | 自残 | 吐黑水 \n屎尿屁大王 bi 对妹子会非常友好^_^   会回fo",
+        "id": "1811430427535765504",
+        "location": "🚪50绿色陪聊",
+        "name": "美術館館長",
+        "pinned_tweet_id": "1886044580723949727",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1884080533770231811/F8kuy6DT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 43,
+          "following_count": 115,
+          "like_count": 1686,
+          "listed_count": 0,
+          "media_count": 85,
+          "tweet_count": 363
+        },
+        "username": "xinshijie_1227",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-27T17:07:51.000Z",
+        "description": "燃尽了",
+        "id": "1662505852924772352",
+        "name": "学习通",
+        "pinned_tweet_id": "1878411237286895961",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859395078420406272/VYjNYSjG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2157,
+          "following_count": 1282,
+          "like_count": 5546,
+          "listed_count": 2,
+          "media_count": 296,
+          "tweet_count": 2359
+        },
+        "username": "xuexitongLOVEU",
+        "verified": false
+      }
+    ]
+  }
+}

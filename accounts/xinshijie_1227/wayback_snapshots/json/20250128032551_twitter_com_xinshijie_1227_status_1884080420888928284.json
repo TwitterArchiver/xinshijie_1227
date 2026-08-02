@@ -1,0 +1,124 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1884080173689233411",
+        "3_1884080174830084097"
+      ]
+    },
+    "author_id": "1811430427535765504",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1884080420888928284",
+    "created_at": "2025-01-28T03:25:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-28T04:25:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1884080420888928284"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/NC5LU7gruz",
+          "end": 27,
+          "expanded_url": "https://x.com/xinshijie_1227/status/1884080420888928284/photo/1",
+          "media_key": "3_1884080173689233411",
+          "start": 4,
+          "url": "https://t.co/NC5LU7gruz"
+        },
+        {
+          "display_url": "pic.x.com/NC5LU7gruz",
+          "end": 27,
+          "expanded_url": "https://x.com/xinshijie_1227/status/1884080420888928284/photo/1",
+          "media_key": "3_1884080174830084097",
+          "start": 4,
+          "url": "https://t.co/NC5LU7gruz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1884080420888928284",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "喜猪进 https://t.co/NC5LU7gruz"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1884080420888928284].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1884080420888928284",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1884080420888928284"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1088,
+        "media_key": "3_1884080173689233411",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GiWY74kaYAMoxN8.jpg",
+        "width": 1088
+      },
+      {
+        "height": 1088,
+        "media_key": "3_1884080174830084097",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GiWY780aYAEYMzw.jpg",
+        "width": 1088
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-11T16:01:12.000Z",
+        "description": "od | 自残 | 垃圾话     对妹子会很友好^_^\n\n    bi🚪50绿色陪聊",
+        "id": "1811430427535765504",
+        "name": "美術館館長",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1880660134885732352/6fY0vKs1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 108,
+          "like_count": 1381,
+          "listed_count": 0,
+          "media_count": 56,
+          "tweet_count": 271
+        },
+        "username": "xinshijie_1227",
+        "verified": false
+      }
+    ]
+  }
+}

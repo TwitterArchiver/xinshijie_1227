@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2036280636038610944"
+      ]
+    },
+    "author_id": "1811430427535765504",
+    "conversation_id": "2036281077942083615",
+    "created_at": "2026-03-24T03:16:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-24T04:16:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2036281077942083615"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/1P5bv8bL8V",
+          "end": 35,
+          "expanded_url": "https://x.com/xinshijie_1227/status/2036281077942083615/video/1",
+          "media_key": "13_2036280636038610944",
+          "start": 12,
+          "url": "https://t.co/1P5bv8bL8V"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036281077942083615",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "额旧视频了我现在不吸了 https://t.co/1P5bv8bL8V"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 177536,
+        "height": 1280,
+        "media_key": "13_2036280636038610944",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2036280636038610944/img/It-MYTH6xVCBDGLN.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2036280636038610944/vid/avc1/320x568/8T18YLpS5CMQTXK8.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2036280636038610944/vid/avc1/480x852/hkUAye-qdIC2MEUb.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2036280636038610944/vid/avc1/720x1280/287eB1W8Ed8ZNMYp.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2036280636038610944/pl/maHLcoenZ1apNFSz.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2036280636038610944"
+          ]
+        },
+        "author_id": "1811430427535765504",
+        "conversation_id": "2036281077942083615",
+        "created_at": "2026-03-24T03:16:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-24T04:16:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2036281077942083615"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1P5bv8bL8V",
+              "end": 35,
+              "expanded_url": "https://x.com/xinshijie_1227/status/2036281077942083615/video/1",
+              "media_key": "13_2036280636038610944",
+              "start": 12,
+              "url": "https://t.co/1P5bv8bL8V"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036281077942083615",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "额旧视频了我现在不吸了 https://t.co/1P5bv8bL8V"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-11T16:01:12.000Z",
+        "description": "嗑药 | 自残 | 负能量 | 御宅族| 互联网的隐匿栖身之所 | 傻逼俄罗斯男友@requiem_soulss | tg频道：https://t.co/q5Z49VdRn3（会在频道里发血图和日常照）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 41,
+                "username": "requiem_soulss"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/xinshijie0000",
+                "end": 87,
+                "expanded_url": "https://t.me/xinshijie0000",
+                "start": 64,
+                "url": "https://t.co/q5Z49VdRn3"
+              }
+            ]
+          }
+        },
+        "id": "1811430427535765504",
+        "location": "🚪8.88开放朋友圈陪闲聊",
+        "name": "美術館館長",
+        "pinned_tweet_id": "2035900548063568228",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033580584837300225/zBVz95fh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 170,
+          "following_count": 217,
+          "like_count": 3802,
+          "listed_count": 1,
+          "media_count": 388,
+          "tweet_count": 1343
+        },
+        "username": "xinshijie_1227",
+        "verified": false
+      }
+    ]
+  }
+}

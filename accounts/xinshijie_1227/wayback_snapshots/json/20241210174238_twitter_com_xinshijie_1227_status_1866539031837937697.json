@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1811430427535765504",
+    "conversation_id": "1866520861165109616",
+    "created_at": "2024-12-10T17:42:38.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-10T18:42:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1866539031837937697"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1613181667543289861",
+          "start": 0,
+          "username": "maikey19438266"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1866539031837937697",
+    "in_reply_to_user_id": "1613181667543289861",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1866524436456935689",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@maikey19438266 😭😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1811430427535765504",
+        "conversation_id": "1866520861165109616",
+        "created_at": "2024-12-10T17:42:38.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-10T18:42:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1866539031837937697"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1613181667543289861",
+              "start": 0,
+              "username": "maikey19438266"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1866539031837937697",
+        "in_reply_to_user_id": "1613181667543289861",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1866524436456935689",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@maikey19438266 😭😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1613181667543289861",
+        "conversation_id": "1866520861165109616",
+        "created_at": "2024-12-10T16:44:38.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-10T17:44:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1866524436456935689"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1811430427535765504",
+              "start": 0,
+              "username": "xinshijie_1227"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1866524436456935689",
+        "in_reply_to_user_id": "1811430427535765504",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1866520861165109616",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xinshijie_1227 😡加油！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-11T16:01:12.000Z",
+        "description": "痛苦是没法被比较的，比较就成为装饰品了",
+        "id": "1811430427535765504",
+        "name": "˚・* ٭☣︎ 美術館館長 ☣︎٭ *・˚",
+        "pinned_tweet_id": "1865297185614725475",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1860344393850613760/tW2czgA9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 120,
+          "like_count": 1215,
+          "listed_count": 0,
+          "media_count": 43,
+          "tweet_count": 204
+        },
+        "username": "xinshijie_1227",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-11T14:31:19.000Z",
+        "description": "圣火喵喵教  fofofofofofofofo",
+        "id": "1613181667543289861",
+        "name": "小行家(电子烟/资格证",
+        "pinned_tweet_id": "1865236760793616764",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1864664278080606212/UfDEYIzo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 563,
+          "like_count": 600,
+          "listed_count": 0,
+          "media_count": 65,
+          "tweet_count": 828
+        },
+        "username": "maikey19438266",
+        "verified": false
+      }
+    ]
+  }
+}

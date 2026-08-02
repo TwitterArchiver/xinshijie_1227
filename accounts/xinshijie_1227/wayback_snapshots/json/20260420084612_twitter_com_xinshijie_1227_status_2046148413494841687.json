@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1811430427535765504",
+    "conversation_id": "2044550768611758271",
+    "created_at": "2026-04-20T08:46:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-20T09:46:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046148413494841687"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1933114395854610432",
+          "start": 0,
+          "username": "eweisi32"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046148413494841687",
+    "in_reply_to_user_id": "1933114395854610432",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044550768611758271",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@eweisi32 笑得我"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2044550764853661696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HF-0FpBbEAAhj-C.jpg",
+        "width": 917
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1811430427535765504",
+        "conversation_id": "2044550768611758271",
+        "created_at": "2026-04-20T08:46:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T09:46:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046148413494841687"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1933114395854610432",
+              "start": 0,
+              "username": "eweisi32"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046148413494841687",
+        "in_reply_to_user_id": "1933114395854610432",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044550768611758271",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@eweisi32 笑得我"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2044550764853661696"
+          ]
+        },
+        "author_id": "1933114395854610432",
+        "conversation_id": "2044550768611758271",
+        "created_at": "2026-04-15T22:57:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T23:57:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044550768611758271"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OjEYnNWt9O",
+              "end": 32,
+              "expanded_url": "https://x.com/eweisi32/status/2044550768611758271/photo/1",
+              "media_key": "3_2044550764853661696",
+              "start": 9,
+              "url": "https://t.co/OjEYnNWt9O"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044550768611758271",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 19813,
+          "like_count": 134,
+          "quote_count": 9,
+          "reply_count": 47,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "啥意思啊我肚肚。 https://t.co/OjEYnNWt9O"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-11T16:01:12.000Z",
+        "description": "嗑药 | 自残 | 负能量 | 御宅族| 互联网的隐匿栖身之所 | 傻逼俄罗斯男友@requiem_soulss | tg频道：https://t.co/q5Z49VdRn3（会在频道里发血图和日常照）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 41,
+                "username": "requiem_soulss"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/xinshijie0000",
+                "end": 87,
+                "expanded_url": "https://t.me/xinshijie0000",
+                "start": 64,
+                "url": "https://t.co/q5Z49VdRn3"
+              }
+            ]
+          }
+        },
+        "id": "1811430427535765504",
+        "location": "🚪8.88开放朋友圈陪闲聊",
+        "name": "美術館館長",
+        "pinned_tweet_id": "2035900548063568228",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037145672412258304/HWwdgB_x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 165,
+          "following_count": 211,
+          "like_count": 3829,
+          "listed_count": 1,
+          "media_count": 396,
+          "tweet_count": 1366
+        },
+        "username": "xinshijie_1227",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-12T10:49:36.000Z",
+        "description": "这里是一个乐子，一个oder，一个餐劵逼，一个双相神经病，一个人，一个小女孩。互fo私信",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mvrtin98341",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mvrtin98341",
+                "start": 0,
+                "url": "https://t.co/tYaSleRHaZ"
+              }
+            ]
+          }
+        },
+        "id": "1933114395854610432",
+        "name": "蚀蛊",
+        "pinned_tweet_id": "2045861334362013970",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026791231880368129/j4ztiHVS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 720,
+          "following_count": 464,
+          "like_count": 1404,
+          "listed_count": 0,
+          "media_count": 95,
+          "tweet_count": 575
+        },
+        "url": "https://t.co/tYaSleRHaZ",
+        "username": "eweisi32",
+        "verified": false
+      }
+    ]
+  }
+}

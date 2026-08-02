@@ -1,0 +1,92 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1811430427535765504",
+    "conversation_id": "1886044942033981917",
+    "created_at": "2025-02-02T13:32:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-02T14:32:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1886044942033981917"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1886044942033981917",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "抚摸着自己的伤口 感觉自己如获新生一样 如此动人如此美丽"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1811430427535765504",
+        "conversation_id": "1886044942033981917",
+        "created_at": "2025-02-02T13:32:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-02T14:32:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1886044942033981917"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1886044942033981917",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "抚摸着自己的伤口 感觉自己如获新生一样 如此动人如此美丽"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-11T16:01:12.000Z",
+        "description": "od | 自残 | 垃圾话     对妹子会很友好^_^\n\n    bi🚪50绿色陪聊",
+        "id": "1811430427535765504",
+        "name": "美術館館長",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1884080533770231811/F8kuy6DT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33,
+          "following_count": 106,
+          "like_count": 1391,
+          "listed_count": 0,
+          "media_count": 61,
+          "tweet_count": 279
+        },
+        "username": "xinshijie_1227",
+        "verified": false
+      }
+    ]
+  }
+}

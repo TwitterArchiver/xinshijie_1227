@@ -1,0 +1,469 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1811430427535765504",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to makeup, perfumes and skin care",
+          "id": "1557696505548394496",
+          "name": "Beauty, Cosmetic & Personal Care Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Beauty",
+          "id": "850395585941086209",
+          "name": "Beauty"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "1256236649253449729",
+          "name": "Fashion & beauty"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Fragrances",
+          "id": "856559465000091648",
+          "name": "Perfumes & fragrances"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Perfumes",
+          "id": "855110667916918784",
+          "name": "Perfumes"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Beauty",
+          "id": "850395585941086209",
+          "name": "Beauty"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Perfumes",
+          "id": "855110667916918784",
+          "name": "Perfumes"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Fragrances",
+          "id": "856559465000091648",
+          "name": "Perfumes & fragrances"
+        }
+      }
+    ],
+    "conversation_id": "1861970589524938908",
+    "created_at": "2024-11-29T06:47:23.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-29T07:47:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1862387865537454420"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1808760963228913664",
+          "start": 0,
+          "username": "Iiicerao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1862387865537454420",
+    "in_reply_to_user_id": "1808760963228913664",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1861970589524938908",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Iiicerao 名创优品的那个小扁盒香水，事后清晨和银色山泉，特别好闻很淡雅的香味主要是便宜十块钱一盒，用来喷房间都不心疼"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1811430427535765504",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to makeup, perfumes and skin care",
+              "id": "1557696505548394496",
+              "name": "Beauty, Cosmetic & Personal Care Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Beauty",
+              "id": "850395585941086209",
+              "name": "Beauty"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1256236649253449729",
+              "name": "Fashion & beauty"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Fragrances",
+              "id": "856559465000091648",
+              "name": "Perfumes & fragrances"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Perfumes",
+              "id": "855110667916918784",
+              "name": "Perfumes"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Beauty",
+              "id": "850395585941086209",
+              "name": "Beauty"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Perfumes",
+              "id": "855110667916918784",
+              "name": "Perfumes"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Fragrances",
+              "id": "856559465000091648",
+              "name": "Perfumes & fragrances"
+            }
+          }
+        ],
+        "conversation_id": "1861970589524938908",
+        "created_at": "2024-11-29T06:47:23.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-29T07:47:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1862387865537454420"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1808760963228913664",
+              "start": 0,
+              "username": "Iiicerao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1862387865537454420",
+        "in_reply_to_user_id": "1808760963228913664",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1861970589524938908",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Iiicerao 名创优品的那个小扁盒香水，事后清晨和银色山泉，特别好闻很淡雅的香味主要是便宜十块钱一盒，用来喷房间都不心疼"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1808760963228913664",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to makeup, perfumes and skin care",
+              "id": "1557696505548394496",
+              "name": "Beauty, Cosmetic & Personal Care Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Beauty",
+              "id": "850395585941086209",
+              "name": "Beauty"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1256236649253449729",
+              "name": "Fashion & beauty"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Fragrances",
+              "id": "856559465000091648",
+              "name": "Perfumes & fragrances"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Perfumes",
+              "id": "855110667916918784",
+              "name": "Perfumes"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Beauty",
+              "id": "850395585941086209",
+              "name": "Beauty"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Perfumes",
+              "id": "855110667916918784",
+              "name": "Perfumes"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Fragrances",
+              "id": "856559465000091648",
+              "name": "Perfumes & fragrances"
+            }
+          }
+        ],
+        "conversation_id": "1861970589524938908",
+        "created_at": "2024-11-28T03:09:16.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-28T04:09:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1861970589524938908"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1861970589524938908",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 73,
+          "impression_count": 79970,
+          "like_count": 246,
+          "quote_count": 1,
+          "reply_count": 324,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "宝宝们都喜欢什么香水"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-11T16:01:12.000Z",
+        "description": "痛苦是没法被比较的，比较就成为装饰品了",
+        "id": "1811430427535765504",
+        "name": "˚・* ٭☣︎ 美術館館長 ☣︎٭ *・˚",
+        "pinned_tweet_id": "1861509761625387043",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1860344393850613760/tW2czgA9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36,
+          "following_count": 103,
+          "like_count": 927,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 104
+        },
+        "username": "xinshijie_1227",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-04T07:13:27.000Z",
+        "description": "仅此一个号 没有私联方式",
+        "id": "1808760963228913664",
+        "location": "江苏",
+        "name": "Iiiyo",
+        "pinned_tweet_id": "1858700245640884254",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1857636093350522881/AeH6s7vj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21152,
+          "following_count": 204,
+          "like_count": 6980,
+          "listed_count": 35,
+          "media_count": 166,
+          "tweet_count": 4886
+        },
+        "username": "Iiicerao",
+        "verified": false
+      }
+    ]
+  }
+}

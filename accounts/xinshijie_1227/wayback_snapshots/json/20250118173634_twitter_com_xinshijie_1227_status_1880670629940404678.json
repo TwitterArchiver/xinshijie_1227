@@ -1,0 +1,132 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1880670627625115648"
+      ]
+    },
+    "author_id": "1811430427535765504",
+    "conversation_id": "1880670629940404678",
+    "created_at": "2025-01-18T17:36:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-18T18:36:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1880670629940404678"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/k1xIjd5EPC",
+          "end": 23,
+          "expanded_url": "https://x.com/xinshijie_1227/status/1880670629940404678/photo/1",
+          "media_key": "3_1880670627625115648",
+          "start": 0,
+          "url": "https://t.co/k1xIjd5EPC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1880670629940404678",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/k1xIjd5EPC"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 780,
+        "media_key": "3_1880670627625115648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Ghl7-LsbIAApyQO.jpg",
+        "width": 1002
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1880670627625115648"
+          ]
+        },
+        "author_id": "1811430427535765504",
+        "conversation_id": "1880670629940404678",
+        "created_at": "2025-01-18T17:36:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-18T18:36:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1880670629940404678"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/k1xIjd5EPC",
+              "end": 23,
+              "expanded_url": "https://x.com/xinshijie_1227/status/1880670629940404678/photo/1",
+              "media_key": "3_1880670627625115648",
+              "start": 0,
+              "url": "https://t.co/k1xIjd5EPC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1880670629940404678",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/k1xIjd5EPC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-11T16:01:12.000Z",
+        "description": "痛苦是没法被比较的，比较就成为装饰品了          \n\n    bi🚪50绿色陪聊",
+        "id": "1811430427535765504",
+        "name": "美術館館長",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1880660134885732352/6fY0vKs1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 132,
+          "like_count": 1332,
+          "listed_count": 0,
+          "media_count": 54,
+          "tweet_count": 254
+        },
+        "username": "xinshijie_1227",
+        "verified": false
+      }
+    ]
+  }
+}

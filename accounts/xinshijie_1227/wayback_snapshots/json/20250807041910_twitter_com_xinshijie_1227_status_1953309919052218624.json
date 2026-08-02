@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1953309874907152384",
+        "3_1953309874898780160",
+        "3_1953309874902949888",
+        "3_1953309874886197250"
+      ]
+    },
+    "author_id": "1811430427535765504",
+    "conversation_id": "1953309919052218624",
+    "created_at": "2025-08-07T04:19:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-07T05:19:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1953309919052218624"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/JHhn0uPkXW",
+          "end": 166,
+          "expanded_url": "https://x.com/xinshijie_1227/status/1953309919052218624/photo/1",
+          "media_key": "3_1953309874907152384",
+          "start": 143,
+          "url": "https://t.co/JHhn0uPkXW"
+        },
+        {
+          "display_url": "pic.x.com/JHhn0uPkXW",
+          "end": 166,
+          "expanded_url": "https://x.com/xinshijie_1227/status/1953309919052218624/photo/1",
+          "media_key": "3_1953309874898780160",
+          "start": 143,
+          "url": "https://t.co/JHhn0uPkXW"
+        },
+        {
+          "display_url": "pic.x.com/JHhn0uPkXW",
+          "end": 166,
+          "expanded_url": "https://x.com/xinshijie_1227/status/1953309919052218624/photo/1",
+          "media_key": "3_1953309874902949888",
+          "start": 143,
+          "url": "https://t.co/JHhn0uPkXW"
+        },
+        {
+          "display_url": "pic.x.com/JHhn0uPkXW",
+          "end": 166,
+          "expanded_url": "https://x.com/xinshijie_1227/status/1953309919052218624/photo/1",
+          "media_key": "3_1953309874886197250",
+          "start": 143,
+          "url": "https://t.co/JHhn0uPkXW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1953309919052218624",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我想了一下 我的生活很无趣 而且我是一个特别悲观的人 我爱你也期待你给出很高的回应 而且我脑子里会想特别多不知所云的东西 导致我会逃避现实 我不想接受你一整天没有一条信息的落差感 我觉得你没有特别喜欢我 但是我特别喜欢你 你的冷淡导致我蜷缩起来 封闭自己 我性格一点都不好 还喜欢卖惨 https://t.co/JHhn0uPkXW"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1953309874907152384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxuM-24agAAZLKS.jpg",
+        "width": 1282
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1953309874898780160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxuM-22awAANpsp.jpg",
+        "width": 1462
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1953309874902949888",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxuM-23aYAAliWK.jpg",
+        "width": 1282
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1953309874886197250",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxuM-2zawAIFPGO.jpg",
+        "width": 1096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1953309874907152384",
+            "3_1953309874898780160",
+            "3_1953309874902949888",
+            "3_1953309874886197250"
+          ]
+        },
+        "author_id": "1811430427535765504",
+        "conversation_id": "1953309919052218624",
+        "created_at": "2025-08-07T04:19:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-07T05:19:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1953309919052218624"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JHhn0uPkXW",
+              "end": 166,
+              "expanded_url": "https://x.com/xinshijie_1227/status/1953309919052218624/photo/1",
+              "media_key": "3_1953309874907152384",
+              "start": 143,
+              "url": "https://t.co/JHhn0uPkXW"
+            },
+            {
+              "display_url": "pic.x.com/JHhn0uPkXW",
+              "end": 166,
+              "expanded_url": "https://x.com/xinshijie_1227/status/1953309919052218624/photo/1",
+              "media_key": "3_1953309874898780160",
+              "start": 143,
+              "url": "https://t.co/JHhn0uPkXW"
+            },
+            {
+              "display_url": "pic.x.com/JHhn0uPkXW",
+              "end": 166,
+              "expanded_url": "https://x.com/xinshijie_1227/status/1953309919052218624/photo/1",
+              "media_key": "3_1953309874902949888",
+              "start": 143,
+              "url": "https://t.co/JHhn0uPkXW"
+            },
+            {
+              "display_url": "pic.x.com/JHhn0uPkXW",
+              "end": 166,
+              "expanded_url": "https://x.com/xinshijie_1227/status/1953309919052218624/photo/1",
+              "media_key": "3_1953309874886197250",
+              "start": 143,
+              "url": "https://t.co/JHhn0uPkXW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1953309919052218624",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我想了一下 我的生活很无趣 而且我是一个特别悲观的人 我爱你也期待你给出很高的回应 而且我脑子里会想特别多不知所云的东西 导致我会逃避现实 我不想接受你一整天没有一条信息的落差感 我觉得你没有特别喜欢我 但是我特别喜欢你 你的冷淡导致我蜷缩起来 封闭自己 我性格一点都不好 还喜欢卖惨 https://t.co/JHhn0uPkXW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-11T16:01:12.000Z",
+        "description": "嗑药 | 自残 | 吐黑水 | 互联网的隐匿栖身之所『会回fo，对妹子会非常友好』狗屎馅俄罗斯大列巴@requiem_soulss ＞tg频道：https://t.co/5l18LxeR2N",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 50,
+                "username": "requiem_soulss"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/+UUDcCzqoM_thM…",
+                "end": 95,
+                "expanded_url": "https://t.me/+UUDcCzqoM_thMjVl",
+                "start": 72,
+                "url": "https://t.co/5l18LxeR2N"
+              }
+            ]
+          }
+        },
+        "id": "1811430427535765504",
+        "location": "不再收🚪不再加男",
+        "name": "美術館館長",
+        "pinned_tweet_id": "1921997129985216603",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1929041425536266242/Uwpg_cd1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 179,
+          "following_count": 162,
+          "like_count": 3160,
+          "listed_count": 0,
+          "media_count": 287,
+          "tweet_count": 1094
+        },
+        "username": "xinshijie_1227",
+        "verified": false
+      }
+    ]
+  }
+}

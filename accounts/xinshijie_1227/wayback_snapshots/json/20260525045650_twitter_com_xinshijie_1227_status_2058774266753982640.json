@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1811430427535765504",
+    "conversation_id": "2058506469587214717",
+    "created_at": "2026-05-25T04:56:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-25T05:56:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058774266753982640"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1464440851095031814",
+          "start": 0,
+          "username": "sccrapedknee"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058774266753982640",
+    "in_reply_to_user_id": "1464440851095031814",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058743154061275286",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sccrapedknee 麻绳"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1811430427535765504",
+        "conversation_id": "2058506469587214717",
+        "created_at": "2026-05-25T04:56:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T05:56:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058774266753982640"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1464440851095031814",
+              "start": 0,
+              "username": "sccrapedknee"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058774266753982640",
+        "in_reply_to_user_id": "1464440851095031814",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058743154061275286",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sccrapedknee 麻绳"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1464440851095031814",
+        "conversation_id": "2058506469587214717",
+        "created_at": "2026-05-25T02:53:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T03:53:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058743154061275286"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1811430427535765504",
+              "start": 0,
+              "username": "xinshijie_1227"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058743154061275286",
+        "in_reply_to_user_id": "1811430427535765504",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 62,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058506469587214717",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xinshijie_1227 what did you use to hang yourself for that scar?? :0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-11T16:01:12.000Z",
+        "description": "嗑药 | 自残 | 负能量 | 御宅族| 互联网的隐匿栖身之所 | 互fo请私信 | \ntg频道：https://t.co/q5Z49VdRn3 | 俄罗斯臭傻逼@requiem_soulss",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 96,
+                "start": 81,
+                "username": "requiem_soulss"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/xinshijie0000",
+                "end": 72,
+                "expanded_url": "https://t.me/xinshijie0000",
+                "start": 49,
+                "url": "https://t.co/q5Z49VdRn3"
+              }
+            ]
+          }
+        },
+        "id": "1811430427535765504",
+        "location": "🚪8.88开放朋友圈陪闲聊",
+        "name": "美術館館長",
+        "pinned_tweet_id": "2035900548063568228",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037145672412258304/HWwdgB_x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 341,
+          "following_count": 228,
+          "like_count": 3900,
+          "listed_count": 0,
+          "media_count": 424,
+          "tweet_count": 1451
+        },
+        "username": "xinshijie_1227",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-27T03:48:24.000Z",
+        "description": "|| ▶︎ •၊၊||၊|။||||။‌‌‌‌‌၊|• 0:32 - ʙᴜᴍʙʟᴇʙᴇᴇs ᴀʀᴇ ᴏᴜᴛ || .𖥔 ݁ ˖ sʜᴇᴅᴛᴡᴛ .𖥔 ݁ ˖ || 16 || ⋆ 𐙚 ̊. ʙᴍɪ: 22.01 ⋆ 𐙚 ̊. || ɪɴꜰᴘ || ᴏᴍɴɪɢᴇɴᴅᴇʀ (ᴀʟʟ ᴘʀᴏɴᴏᴜɴꜱ) ||",
+        "id": "1464440851095031814",
+        "location": "In a dump, covered in dirt.",
+        "name": "˚₊‧꒰ა ɪᴢᴀɴ ໒꒱ ‧₊˚",
+        "pinned_tweet_id": "2058768808718840260",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015524810265067521/DPj23GpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 21,
+          "like_count": 11274,
+          "listed_count": 0,
+          "media_count": 49,
+          "tweet_count": 158
+        },
+        "username": "sccrapedknee",
+        "verified": false
+      }
+    ]
+  }
+}

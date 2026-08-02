@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1811430427535765504",
+    "conversation_id": "1941387061195571471",
+    "created_at": "2025-07-05T06:41:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-05T07:41:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1941387061195571471"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1941387061195571471",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "谁敢说我女神是猪妞我就把对面猪咪扯掉"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1811430427535765504",
+        "conversation_id": "1941387061195571471",
+        "created_at": "2025-07-05T06:41:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-05T07:41:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1941387061195571471"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1941387061195571471",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "谁敢说我女神是猪妞我就把对面猪咪扯掉"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-11T16:01:12.000Z",
+        "description": "嗑药 | 自残 | 吐黑水 | 互联网的隐匿栖身之所『会回fo，对妹子会非常友好』",
+        "id": "1811430427535765504",
+        "location": "不再收🚪不再加男",
+        "name": "美術館館長",
+        "pinned_tweet_id": "1921997129985216603",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1929041425536266242/Uwpg_cd1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 179,
+          "following_count": 163,
+          "like_count": 3114,
+          "listed_count": 0,
+          "media_count": 266,
+          "tweet_count": 1048
+        },
+        "username": "xinshijie_1227",
+        "verified": false
+      }
+    ]
+  }
+}

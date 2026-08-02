@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1811430427535765504",
+    "conversation_id": "2038439614403518603",
+    "created_at": "2026-04-02T11:45:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-02T12:45:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039670448787800073"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1991711672684421121",
+          "start": 0,
+          "username": "pearl0812lucky"
+        },
+        {
+          "end": 26,
+          "id": "1115809099482980353",
+          "start": 16,
+          "username": "DKR_World"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039670448787800073",
+    "in_reply_to_user_id": "1991711672684421121",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038439614403518603",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@pearl0812lucky @DKR_World 买犁头剖你～买犁头剖你～↘"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1811430427535765504",
+        "conversation_id": "2038439614403518603",
+        "created_at": "2026-04-02T11:45:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T12:45:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039670448787800073"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1991711672684421121",
+              "start": 0,
+              "username": "pearl0812lucky"
+            },
+            {
+              "end": 26,
+              "id": "1115809099482980353",
+              "start": 16,
+              "username": "DKR_World"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039670448787800073",
+        "in_reply_to_user_id": "1991711672684421121",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038439614403518603",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pearl0812lucky @DKR_World 买犁头剖你～买犁头剖你～↘"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991711672684421121",
+        "conversation_id": "2038439614403518603",
+        "created_at": "2026-03-30T02:14:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T03:14:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038439614403518603"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2038439614403518603",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 66,
+          "impression_count": 191012,
+          "like_count": 3852,
+          "quote_count": 29,
+          "reply_count": 55,
+          "retweet_count": 355
+        },
+        "reply_settings": "everyone",
+        "text": "如果我生在小马利亚就好了，只需要回头看一眼屁股，就知道这辈子该干什么，而不是整天思考未来。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-11T16:01:12.000Z",
+        "description": "嗑药 | 自残 | 负能量 | 御宅族| 互联网的隐匿栖身之所 | 傻逼俄罗斯男友@requiem_soulss | tg频道：https://t.co/q5Z49VdRn3（会在频道里发血图和日常照）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 41,
+                "username": "requiem_soulss"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/xinshijie0000",
+                "end": 87,
+                "expanded_url": "https://t.me/xinshijie0000",
+                "start": 64,
+                "url": "https://t.co/q5Z49VdRn3"
+              }
+            ]
+          }
+        },
+        "id": "1811430427535765504",
+        "location": "🚪8.88开放朋友圈陪闲聊",
+        "name": "美術館館長",
+        "pinned_tweet_id": "2035900548063568228",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037145672412258304/HWwdgB_x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 166,
+          "following_count": 214,
+          "like_count": 3837,
+          "listed_count": 1,
+          "media_count": 393,
+          "tweet_count": 1355
+        },
+        "username": "xinshijie_1227",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-21T03:34:11.000Z",
+        "description": "日记本撕下来的废纸存放地",
+        "id": "1991711672684421121",
+        "location": "欢迎打开我的文案收藏夹 （转载自微博、抖音、视频号、公众号）",
+        "name": "orange cat",
+        "pinned_tweet_id": "2009431887333486776",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003664682989522944/wMmqYGn__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4769,
+          "following_count": 53,
+          "like_count": 5459,
+          "listed_count": 5,
+          "media_count": 127,
+          "tweet_count": 1264
+        },
+        "username": "pearl0812lucky",
+        "verified": false
+      },
+      {
+        "created_at": "2019-04-10T02:49:54.000Z",
+        "description": "最後の指令：すべてと一緒に滅びろ。無盡革命資金募集中！我需要錢◆🚪52/101/188 @Noelle1914",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 44,
+                "username": "Noelle1914"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dkr71262",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dkr71262",
+                "start": 0,
+                "url": "https://t.co/mvmC2vTXvo"
+              }
+            ]
+          }
+        },
+        "id": "1115809099482980353",
+        "location": "東京精神暴動支部",
+        "name": "◎東アジア躁鬱革委會",
+        "pinned_tweet_id": "2020846049972326673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029702608819212290/Qhwu5L_b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2297,
+          "following_count": 723,
+          "like_count": 43016,
+          "listed_count": 9,
+          "media_count": 535,
+          "tweet_count": 6069
+        },
+        "url": "https://t.co/mvmC2vTXvo",
+        "username": "DKR_World",
+        "verified": false
+      }
+    ]
+  }
+}

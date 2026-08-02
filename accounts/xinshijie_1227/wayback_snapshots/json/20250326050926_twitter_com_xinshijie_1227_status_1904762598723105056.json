@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1811430427535765504",
+    "conversation_id": "1904234917325930731",
+    "created_at": "2025-03-26T05:09:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-26T06:09:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1904762598723105056"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1597567529303437315",
+          "start": 0,
+          "username": "dzhdo2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1904762598723105056",
+    "in_reply_to_user_id": "1597567529303437315",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1904234917325930731",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dzhdo2 全价四万了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 790,
+        "media_key": "3_1904234914460893184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gm0zkM1WgAANpR_.jpg",
+        "width": 906
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1811430427535765504",
+        "conversation_id": "1904234917325930731",
+        "created_at": "2025-03-26T05:09:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-26T06:09:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1904762598723105056"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1597567529303437315",
+              "start": 0,
+              "username": "dzhdo2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1904762598723105056",
+        "in_reply_to_user_id": "1597567529303437315",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1904234917325930731",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dzhdo2 全价四万了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1904234914460893184"
+          ]
+        },
+        "author_id": "1597567529303437315",
+        "conversation_id": "1904234917325930731",
+        "created_at": "2025-03-24T18:12:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-24T19:12:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1904234917325930731"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6N3q22opvg",
+              "end": 42,
+              "expanded_url": "https://x.com/dzhdo2/status/1904234917325930731/photo/1",
+              "media_key": "3_1904234914460893184",
+              "start": 19,
+              "url": "https://t.co/6N3q22opvg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1904234917325930731",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 4416,
+          "like_count": 55,
+          "quote_count": 0,
+          "reply_count": 14,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "悄悄告诉大家，世界其实是肮脏不堪的哦 https://t.co/6N3q22opvg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-11T16:01:12.000Z",
+        "description": "嗑药 | 自残 | 吐黑水 | 自由精神病 \n 『会回fo，对妹子会非常友好』:3\n我的男仆@requiem_soulss",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 46,
+                "username": "requiem_soulss"
+              }
+            ]
+          }
+        },
+        "id": "1811430427535765504",
+        "location": "🚪50绿色陪聊男的过门女的免费",
+        "name": "美術館館長",
+        "pinned_tweet_id": "1901626066441019862",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1884080533770231811/F8kuy6DT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 68,
+          "following_count": 135,
+          "like_count": 2624,
+          "listed_count": 1,
+          "media_count": 140,
+          "tweet_count": 651
+        },
+        "username": "xinshijie_1227",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-29T12:26:15.000Z",
+        "description": "シュポガキたちの雑魚\n请勿骚扰与模拟（）",
+        "id": "1597567529303437315",
+        "location": "阴影",
+        "name": "攫备饴（ungrounding）",
+        "pinned_tweet_id": "1904238205081162173",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1730306563435335680/AssLtYPK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 175,
+          "following_count": 467,
+          "like_count": 2401,
+          "listed_count": 3,
+          "media_count": 217,
+          "tweet_count": 955
+        },
+        "username": "dzhdo2",
+        "verified": false
+      }
+    ]
+  }
+}

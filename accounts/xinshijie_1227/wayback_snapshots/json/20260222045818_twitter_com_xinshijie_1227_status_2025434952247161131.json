@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1811430427535765504",
+    "conversation_id": "2024702725599219750",
+    "created_at": "2026-02-22T04:58:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-22T05:58:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025434952247161131"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1957509667787325440",
+          "start": 0,
+          "username": "pleazdontleavme"
+        },
+        {
+          "end": 29,
+          "id": "1679874101090070528",
+          "start": 17,
+          "username": "FrankHZ2026"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025434952247161131",
+    "in_reply_to_user_id": "1957509667787325440",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025036829578420657",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@pleazdontleavme @FrankHZ2026 支持，一群神经病上来就攻击我"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1811430427535765504",
+        "conversation_id": "2024702725599219750",
+        "created_at": "2026-02-22T04:58:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-22T05:58:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025434952247161131"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1957509667787325440",
+              "start": 0,
+              "username": "pleazdontleavme"
+            },
+            {
+              "end": 29,
+              "id": "1679874101090070528",
+              "start": 17,
+              "username": "FrankHZ2026"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025434952247161131",
+        "in_reply_to_user_id": "1957509667787325440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025036829578420657",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pleazdontleavme @FrankHZ2026 支持，一群神经病上来就攻击我"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1957509667787325440",
+        "conversation_id": "2024702725599219750",
+        "created_at": "2026-02-21T02:36:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-21T03:36:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025036829578420657"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1811430427535765504",
+              "start": 0,
+              "username": "xinshijie_1227"
+            },
+            {
+              "end": 28,
+              "id": "1679874101090070528",
+              "start": 16,
+              "username": "FrankHZ2026"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025036829578420657",
+        "in_reply_to_user_id": "1811430427535765504",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 22,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024933319071486109",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xinshijie_1227 @FrankHZ2026 推特推流给我这条推评论区了好多健全人 不知道他们急什么又没危害社会他们正义感就来了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-11T16:01:12.000Z",
+        "description": "嗑药 | 自残 | 吐黑水 ｜哥特or地雷女| 互联网的隐匿栖身之所｜狗屎馅俄罗斯大列巴@requiem_soulss tg频道：https://t.co/q5Z49Vdjxv（会在频道里发血图和日常照）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 59,
+                "start": 44,
+                "username": "requiem_soulss"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/xinshijie0000",
+                "end": 88,
+                "expanded_url": "https://t.me/xinshijie0000",
+                "start": 65,
+                "url": "https://t.co/q5Z49Vdjxv"
+              }
+            ]
+          }
+        },
+        "id": "1811430427535765504",
+        "location": "🚪8.88开放朋友圈陪闲聊",
+        "name": "美術館館長",
+        "pinned_tweet_id": "2024805135999017151",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009811412412157952/ARAxYDf-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 147,
+          "following_count": 201,
+          "like_count": 3603,
+          "listed_count": 1,
+          "media_count": 363,
+          "tweet_count": 1276
+        },
+        "username": "xinshijie_1227",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-18T18:27:41.000Z",
+        "description": "08女/bi/lgbt全友好/同类互fo/我叫下水道/可以扩列/自残穿孔od/cptsd/bpd/dpd/极度依赖/无药可救",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/y69659y",
+                "end": 23,
+                "expanded_url": "https://ngl.link/y69659y",
+                "start": 0,
+                "url": "https://t.co/JcxwpFXiEy"
+              }
+            ]
+          }
+        },
+        "id": "1957509667787325440",
+        "location": "Припять",
+        "name": "骯髒下水道里的卑劣嘔吐物",
+        "pinned_tweet_id": "2024317059778453846",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023757108576219139/uzRSkV9f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 264,
+          "following_count": 504,
+          "like_count": 2909,
+          "listed_count": 0,
+          "media_count": 61,
+          "tweet_count": 1132
+        },
+        "url": "https://t.co/JcxwpFXiEy",
+        "username": "pleazdontleavme",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-14T15:23:01.000Z",
+        "description": "",
+        "id": "1679874101090070528",
+        "name": "frank🇨🇳",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1733448248646590464/Tbh7cU42_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 64,
+          "following_count": 494,
+          "like_count": 347,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 231
+        },
+        "username": "FrankHZ2026",
+        "verified": false
+      }
+    ]
+  }
+}

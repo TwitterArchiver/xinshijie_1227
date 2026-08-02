@@ -1,0 +1,105 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1811430427535765504",
+    "conversation_id": "1935431571773026510",
+    "created_at": "2025-06-18T20:16:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-18T21:16:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1935431571773026510"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1935431571773026510",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "想和我男朋友做爱怎么办"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1811430427535765504",
+        "conversation_id": "1935431571773026510",
+        "created_at": "2025-06-18T20:16:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-18T21:16:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1935431571773026510"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1935431571773026510",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "想和我男朋友做爱怎么办"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-11T16:01:12.000Z",
+        "description": "嗑药 | 自残 | 吐黑水 | 互联网的隐匿栖身之所『会回fo，对妹子会非常友好』 | 我要嫁给Захар@requiem_soulss",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 53,
+                "username": "requiem_soulss"
+              }
+            ]
+          }
+        },
+        "id": "1811430427535765504",
+        "location": "不再收🚪只加妹子",
+        "name": "美術館館長",
+        "pinned_tweet_id": "1921997129985216603",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1929041425536266242/Uwpg_cd1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 177,
+          "following_count": 164,
+          "like_count": 3103,
+          "listed_count": 0,
+          "media_count": 254,
+          "tweet_count": 1022
+        },
+        "username": "xinshijie_1227",
+        "verified": false
+      }
+    ]
+  }
+}

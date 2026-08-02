@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1811430427535765504",
+    "conversation_id": "1919483873253326925",
+    "created_at": "2025-05-05T20:06:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-05T21:06:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1919483873253326925"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Vox35112635/st…",
+          "end": 52,
+          "expanded_url": "https://twitter.com/Vox35112635/status/1919404369474433042",
+          "start": 29,
+          "url": "https://t.co/Ecc7WYAF7e"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1919483873253326925",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1919404369474433042",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我不行了，笑的我在床上屙，这哥们不像是舔逼了，像是中邪了 https://t.co/Ecc7WYAF7e"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1976,
+        "media_key": "3_1919404353976496128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GqMYFysbcAA79wu.jpg",
+        "width": 1284
+      },
+      {
+        "height": 2024,
+        "media_key": "3_1919404353989033985",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GqMYFyvawAE4zRG.jpg",
+        "width": 1284
+      },
+      {
+        "height": 1976,
+        "media_key": "3_1919404354051940352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GqMYFy-aoAAXOlr.jpg",
+        "width": 1284
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1811430427535765504",
+        "conversation_id": "1919483873253326925",
+        "created_at": "2025-05-05T20:06:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-05T21:06:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1919483873253326925"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Vox35112635/st…",
+              "end": 52,
+              "expanded_url": "https://twitter.com/Vox35112635/status/1919404369474433042",
+              "start": 29,
+              "url": "https://t.co/Ecc7WYAF7e"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1919483873253326925",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1919404369474433042",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我不行了，笑的我在床上屙，这哥们不像是舔逼了，像是中邪了 https://t.co/Ecc7WYAF7e"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1919404353976496128",
+            "3_1919404353989033985",
+            "3_1919404354051940352"
+          ]
+        },
+        "author_id": "1291988176496545792",
+        "conversation_id": "1919404369474433042",
+        "created_at": "2025-05-05T14:50:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-05T15:50:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1919404369474433042"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GZYmxPuR0r",
+              "end": 27,
+              "expanded_url": "https://x.com/Vox35112635/status/1919404369474433042/photo/1",
+              "media_key": "3_1919404353976496128",
+              "start": 4,
+              "url": "https://t.co/GZYmxPuR0r"
+            },
+            {
+              "display_url": "pic.x.com/GZYmxPuR0r",
+              "end": 27,
+              "expanded_url": "https://x.com/Vox35112635/status/1919404369474433042/photo/1",
+              "media_key": "3_1919404353989033985",
+              "start": 4,
+              "url": "https://t.co/GZYmxPuR0r"
+            },
+            {
+              "display_url": "pic.x.com/GZYmxPuR0r",
+              "end": 27,
+              "expanded_url": "https://x.com/Vox35112635/status/1919404369474433042/photo/1",
+              "media_key": "3_1919404354051940352",
+              "start": 4,
+              "url": "https://t.co/GZYmxPuR0r"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1919404369474433042",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 33,
+          "impression_count": 41171,
+          "like_count": 194,
+          "quote_count": 5,
+          "reply_count": 84,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "啥啊？ https://t.co/GZYmxPuR0r"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-11T16:01:12.000Z",
+        "description": "嗑药 | 自残 | 吐黑水 | 自由精神病 『会回fo，对妹子会非常友好』:3 我的俄罗斯男仆@requiem_soulss",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 62,
+                "start": 47,
+                "username": "requiem_soulss"
+              }
+            ]
+          }
+        },
+        "id": "1811430427535765504",
+        "location": "🚪50绿色陪聊男的过门女的免费",
+        "name": "美術館館長",
+        "pinned_tweet_id": "1901626066441019862",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1915520664599224322/2WrUI4Tq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 89,
+          "following_count": 154,
+          "like_count": 2950,
+          "listed_count": 1,
+          "media_count": 223,
+          "tweet_count": 886
+        },
+        "username": "xinshijie_1227",
+        "verified": false
+      },
+      {
+        "created_at": "2020-08-08T06:42:48.000Z",
+        "description": "抖音号：32625516049/没有小红书/现在会接一点有偿转发/付费线上绿色交友委托/广告正规推以外的其他投稿均为免费/加vx随缘给门槛就好了/咱家御用卦师算卦找她@minglishii/点妹妹kp/视频1v1看 @BmClub_1（纯线上女陪店）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 83,
+                "username": "minglishii"
+              },
+              {
+                "end": 117,
+                "start": 108,
+                "username": "BmClub_1"
+              }
+            ]
+          }
+        },
+        "id": "1291988176496545792",
+        "location": "沙发床上",
+        "name": "跑调的毕加索",
+        "pinned_tweet_id": "1913898865628954858",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1523690111569117190/MeBry_Ku_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 256724,
+          "following_count": 523,
+          "like_count": 487,
+          "listed_count": 286,
+          "media_count": 9187,
+          "tweet_count": 13208
+        },
+        "username": "Vox35112635",
+        "verified": false
+      }
+    ]
+  }
+}

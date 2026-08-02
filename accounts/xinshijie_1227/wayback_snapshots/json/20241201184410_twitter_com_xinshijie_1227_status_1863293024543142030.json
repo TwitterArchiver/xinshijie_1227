@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1811430427535765504",
+    "conversation_id": "1863293024543142030",
+    "created_at": "2024-12-01T18:44:10.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-01T19:44:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1863293024543142030"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1863293024543142030",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我觉得我是一个很矛盾的存在，我既觉得我待人蛮好的我是个好人，但是我又觉得我是一个很烂的人黄赌毒只有赌不沾了，但我又很享受把自己定位成一个烂人，因为这样我就不会再因为道德和情感的束缚而痛苦了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1811430427535765504",
+        "conversation_id": "1863293024543142030",
+        "created_at": "2024-12-01T18:44:10.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-01T19:44:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1863293024543142030"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1863293024543142030",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我觉得我是一个很矛盾的存在，我既觉得我待人蛮好的我是个好人，但是我又觉得我是一个很烂的人黄赌毒只有赌不沾了，但我又很享受把自己定位成一个烂人，因为这样我就不会再因为道德和情感的束缚而痛苦了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-11T16:01:12.000Z",
+        "description": "痛苦是没法被比较的，比较就成为装饰品了\n            🚪50绿色陪聊",
+        "id": "1811430427535765504",
+        "name": "˚・* ٭☣︎ 美術館館長 ☣︎٭ *・˚",
+        "pinned_tweet_id": "1861509761625387043",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1860344393850613760/tW2czgA9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 111,
+          "like_count": 980,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 122
+        },
+        "username": "xinshijie_1227",
+        "verified": false
+      }
+    ]
+  }
+}

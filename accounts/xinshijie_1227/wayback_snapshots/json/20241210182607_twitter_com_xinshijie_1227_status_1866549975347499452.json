@@ -1,0 +1,174 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1811430427535765504",
+    "conversation_id": "1866549975347499452",
+    "created_at": "2024-12-10T18:26:07.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-10T19:26:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1866549975347499452"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1681852091118288896",
+          "start": 3,
+          "username": "chachaAcha_2004"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1866549975347499452",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1866549763468091623",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @chachaAcha_2004: 这个是新号，前世已死(=ＴェＴ=)"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1811430427535765504",
+        "conversation_id": "1866549975347499452",
+        "created_at": "2024-12-10T18:26:07.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-10T19:26:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1866549975347499452"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1681852091118288896",
+              "start": 3,
+              "username": "chachaAcha_2004"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1866549975347499452",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1866549763468091623",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @chachaAcha_2004: 这个是新号，前世已死(=ＴェＴ=)"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1681852091118288896",
+        "conversation_id": "1866549763468091623",
+        "created_at": "2024-12-10T18:25:17.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-10T19:25:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1866549763468091623"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1866549763468091623",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "这个是新号，前世已死(=ＴェＴ=)"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-11T16:01:12.000Z",
+        "description": "痛苦是没法被比较的，比较就成为装饰品了",
+        "id": "1811430427535765504",
+        "name": "˚・* ٭☣︎ 美術館館長 ☣︎٭ *・˚",
+        "pinned_tweet_id": "1865297185614725475",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1860344393850613760/tW2czgA9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29,
+          "following_count": 121,
+          "like_count": 1221,
+          "listed_count": 0,
+          "media_count": 44,
+          "tweet_count": 206
+        },
+        "username": "xinshijie_1227",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-20T02:22:51.000Z",
+        "description": "幸福请降临在我手心",
+        "id": "1681852091118288896",
+        "name": "茶茶A茶",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866549289251639297/VP3RjkRb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 2,
+          "like_count": 2,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 3
+        },
+        "username": "chachaAcha_2004",
+        "verified": false
+      }
+    ]
+  }
+}

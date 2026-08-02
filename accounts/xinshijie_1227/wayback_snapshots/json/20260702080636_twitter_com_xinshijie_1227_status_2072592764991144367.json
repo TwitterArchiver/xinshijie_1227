@@ -1,0 +1,155 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2072592680119410688"
+      ]
+    },
+    "author_id": "1811430427535765504",
+    "conversation_id": "2072592764991144367",
+    "created_at": "2026-07-02T08:06:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-02T09:06:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2072592764991144367"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/SuhdhAbER4",
+          "end": 28,
+          "expanded_url": "https://x.com/xinshijie_1227/status/2072592764991144367/photo/1",
+          "media_key": "3_2072592680119410688",
+          "start": 5,
+          "url": "https://t.co/SuhdhAbER4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072592764991144367",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "爱？唉！ https://t.co/SuhdhAbER4"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2072592680119410688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMNUD76XoAAQeA4.jpg",
+        "width": 682
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072592680119410688"
+          ]
+        },
+        "author_id": "1811430427535765504",
+        "conversation_id": "2072592764991144367",
+        "created_at": "2026-07-02T08:06:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T09:06:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072592764991144367"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/SuhdhAbER4",
+              "end": 28,
+              "expanded_url": "https://x.com/xinshijie_1227/status/2072592764991144367/photo/1",
+              "media_key": "3_2072592680119410688",
+              "start": 5,
+              "url": "https://t.co/SuhdhAbER4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072592764991144367",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "爱？唉！ https://t.co/SuhdhAbER4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-11T16:01:12.000Z",
+        "description": "嗑药吸毒自残 | 负能量精神病 | 查成分互of | \ntg频道：https://t.co/q5Z49Vdjxv｜男友@requiem_soulss",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 74,
+                "start": 59,
+                "username": "requiem_soulss"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/xinshijie0000",
+                "end": 56,
+                "expanded_url": "https://t.me/xinshijie0000",
+                "start": 33,
+                "url": "https://t.co/q5Z49Vdjxv"
+              }
+            ]
+          }
+        },
+        "id": "1811430427535765504",
+        "location": "🚪8.88开放朋友圈陪闲聊",
+        "name": "美術館館長",
+        "pinned_tweet_id": "2035900548063568228",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037145672412258304/HWwdgB_x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 373,
+          "following_count": 246,
+          "like_count": 3998,
+          "listed_count": 0,
+          "media_count": 461,
+          "tweet_count": 1542
+        },
+        "url": "",
+        "username": "xinshijie_1227",
+        "verified": false
+      }
+    ]
+  }
+}

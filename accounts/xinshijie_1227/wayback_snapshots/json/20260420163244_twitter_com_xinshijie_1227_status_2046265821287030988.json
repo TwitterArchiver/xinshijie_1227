@@ -1,0 +1,182 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2046265790517637120"
+      ]
+    },
+    "author_id": "1811430427535765504",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2046265821287030988",
+    "created_at": "2026-04-20T16:32:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-20T17:32:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2046265821287030988"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/FxR8i3pV0V",
+          "end": 36,
+          "expanded_url": "https://x.com/xinshijie_1227/status/2046265821287030988/photo/1",
+          "media_key": "3_2046265790517637120",
+          "start": 13,
+          "url": "https://t.co/FxR8i3pV0V"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046265821287030988",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "一粉一城你知道你很好吃吗 https://t.co/FxR8i3pV0V"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1504,
+        "media_key": "3_2046265790517637120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGXL5RfWcAAZXg1.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2046265790517637120"
+          ]
+        },
+        "author_id": "1811430427535765504",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2046265821287030988",
+        "created_at": "2026-04-20T16:32:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T17:32:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046265821287030988"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FxR8i3pV0V",
+              "end": 36,
+              "expanded_url": "https://x.com/xinshijie_1227/status/2046265821287030988/photo/1",
+              "media_key": "3_2046265790517637120",
+              "start": 13,
+              "url": "https://t.co/FxR8i3pV0V"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046265821287030988",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "一粉一城你知道你很好吃吗 https://t.co/FxR8i3pV0V"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-11T16:01:12.000Z",
+        "description": "嗑药 | 自残 | 负能量 | 御宅族| 互联网的隐匿栖身之所 | 傻逼俄罗斯男友@requiem_soulss | tg频道：https://t.co/q5Z49VdRn3（会在频道里发血图和日常照）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 41,
+                "username": "requiem_soulss"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/xinshijie0000",
+                "end": 87,
+                "expanded_url": "https://t.me/xinshijie0000",
+                "start": 64,
+                "url": "https://t.co/q5Z49VdRn3"
+              }
+            ]
+          }
+        },
+        "id": "1811430427535765504",
+        "location": "🚪8.88开放朋友圈陪闲聊",
+        "name": "美術館館長",
+        "pinned_tweet_id": "2035900548063568228",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037145672412258304/HWwdgB_x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 165,
+          "following_count": 210,
+          "like_count": 3831,
+          "listed_count": 1,
+          "media_count": 397,
+          "tweet_count": 1369
+        },
+        "username": "xinshijie_1227",
+        "verified": false
+      }
+    ]
+  }
+}

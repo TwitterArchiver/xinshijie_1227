@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1811430427535765504",
+    "conversation_id": "1904428093500191048",
+    "created_at": "2025-05-06T15:16:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-06T16:16:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1919773208284200981"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1902197086654988288",
+          "start": 0,
+          "username": "jfi_f71965"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1919773208284200981",
+    "in_reply_to_user_id": "1902197086654988288",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1919690286550417671",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jfi_f71965 普瑞巴林死了我就死了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1811430427535765504",
+        "conversation_id": "1904428093500191048",
+        "created_at": "2025-05-06T15:16:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-06T16:16:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1919773208284200981"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1902197086654988288",
+              "start": 0,
+              "username": "jfi_f71965"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1919773208284200981",
+        "in_reply_to_user_id": "1902197086654988288",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1919690286550417671",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jfi_f71965 普瑞巴林死了我就死了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1902197086654988288",
+        "conversation_id": "1904428093500191048",
+        "created_at": "2025-05-06T09:46:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-06T10:46:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1919690286550417671"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1811430427535765504",
+              "start": 0,
+              "username": "xinshijie_1227"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1919690286550417671",
+        "in_reply_to_user_id": "1811430427535765504",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1904428093500191048",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xinshijie_1227 普瑞巴林不准死"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-11T16:01:12.000Z",
+        "description": "嗑药 | 自残 | 吐黑水 | 自由精神病 『会回fo，对妹子会非常友好』:3 我的俄罗斯男仆@requiem_soulss",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 62,
+                "start": 47,
+                "username": "requiem_soulss"
+              }
+            ]
+          }
+        },
+        "id": "1811430427535765504",
+        "location": "🚪50绿色陪聊男的过门女的免费",
+        "name": "美術館館長",
+        "pinned_tweet_id": "1901626066441019862",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1915520664599224322/2WrUI4Tq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 88,
+          "following_count": 153,
+          "like_count": 2954,
+          "listed_count": 1,
+          "media_count": 223,
+          "tweet_count": 888
+        },
+        "username": "xinshijie_1227",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-19T03:15:12.000Z",
+        "description": "",
+        "id": "1902197086654988288",
+        "name": "天下第一雪糕棍",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907619281216647168/Mr9nzqjf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 21,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 20
+        },
+        "username": "jfi_f71965",
+        "verified": false
+      }
+    ]
+  }
+}

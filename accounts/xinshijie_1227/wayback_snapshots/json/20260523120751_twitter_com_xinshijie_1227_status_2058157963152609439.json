@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1811430427535765504",
+    "conversation_id": "2057399731526263165",
+    "created_at": "2026-05-23T12:07:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-23T13:07:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058157963152609439"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2046420440625664000",
+          "start": 0,
+          "username": "Irma693399"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058157963152609439",
+    "in_reply_to_user_id": "2046420440625664000",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057405531677929950",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Irma693399 你妈死了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1811430427535765504",
+        "conversation_id": "2057399731526263165",
+        "created_at": "2026-05-23T12:07:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T13:07:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058157963152609439"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2046420440625664000",
+              "start": 0,
+              "username": "Irma693399"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058157963152609439",
+        "in_reply_to_user_id": "2046420440625664000",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057405531677929950",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Irma693399 你妈死了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2046420440625664000",
+        "conversation_id": "2057399731526263165",
+        "created_at": "2026-05-21T10:17:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T11:17:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057405531677929950"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1811430427535765504",
+              "start": 0,
+              "username": "xinshijie_1227"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057405531677929950",
+        "in_reply_to_user_id": "1811430427535765504",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057399731526263165",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xinshijie_1227 👏\n\n😻\n\n🥰\n​\n͏ 🙌💖"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-11T16:01:12.000Z",
+        "description": "嗑药 | 自残 | 负能量 | 御宅族| 互联网的隐匿栖身之所 | \ntg频道：https://t.co/q5Z49VdRn3（会在频道里发血图和日常照） | 俄罗斯臭傻逼@requiem_soulss",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 101,
+                "start": 86,
+                "username": "requiem_soulss"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/xinshijie0000",
+                "end": 63,
+                "expanded_url": "https://t.me/xinshijie0000",
+                "start": 40,
+                "url": "https://t.co/q5Z49VdRn3"
+              }
+            ]
+          }
+        },
+        "id": "1811430427535765504",
+        "location": "🚪8.88开放朋友圈陪闲聊",
+        "name": "美術館館長",
+        "pinned_tweet_id": "2035900548063568228",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037145672412258304/HWwdgB_x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 228,
+          "following_count": 220,
+          "like_count": 3884,
+          "listed_count": 0,
+          "media_count": 420,
+          "tweet_count": 1436
+        },
+        "username": "xinshijie_1227",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-21T02:47:09.000Z",
+        "description": "想找我的宝宝点这里✈;https://t.co/WbjCVPkTTf 安全靠谱",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/linlin801",
+                "end": 34,
+                "expanded_url": "http://t.me/linlin801",
+                "start": 11,
+                "url": "https://t.co/WbjCVPkTTf"
+              }
+            ]
+          }
+        },
+        "id": "2046420440625664000",
+        "name": "若汐~❀同城上门",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057405535142453248/plZDh51s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 0,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 276
+        },
+        "username": "Irma693399",
+        "verified": false
+      }
+    ]
+  }
+}

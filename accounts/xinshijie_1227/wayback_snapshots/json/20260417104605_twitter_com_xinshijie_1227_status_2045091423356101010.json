@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1811430427535765504",
+    "conversation_id": "2041862324525424866",
+    "created_at": "2026-04-17T10:46:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-17T11:46:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045091423356101010"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1998528265443749890",
+          "start": 0,
+          "username": "wudy9889"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045091423356101010",
+    "in_reply_to_user_id": "1998528265443749890",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042730074924028056",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wudy9889 江小白给我拉了坨大的，都不如十块钱的牛栏山"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1811430427535765504",
+        "conversation_id": "2041862324525424866",
+        "created_at": "2026-04-17T10:46:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T11:46:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045091423356101010"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1998528265443749890",
+              "start": 0,
+              "username": "wudy9889"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045091423356101010",
+        "in_reply_to_user_id": "1998528265443749890",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042730074924028056",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wudy9889 江小白给我拉了坨大的，都不如十块钱的牛栏山"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1998528265443749890",
+        "conversation_id": "2041862324525424866",
+        "created_at": "2026-04-10T22:22:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T23:22:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042730074924028056"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1811430427535765504",
+              "start": 0,
+              "username": "xinshijie_1227"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042730074924028056",
+        "in_reply_to_user_id": "1811430427535765504",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041862324525424866",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xinshijie_1227 这玩意真难喝，纯工业酒精勾兑，不如喝十几块的粮食酒"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-11T16:01:12.000Z",
+        "description": "嗑药 | 自残 | 负能量 | 御宅族| 互联网的隐匿栖身之所 | 傻逼俄罗斯男友@requiem_soulss | tg频道：https://t.co/q5Z49VdRn3（会在频道里发血图和日常照）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 41,
+                "username": "requiem_soulss"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/xinshijie0000",
+                "end": 87,
+                "expanded_url": "https://t.me/xinshijie0000",
+                "start": 64,
+                "url": "https://t.co/q5Z49VdRn3"
+              }
+            ]
+          }
+        },
+        "id": "1811430427535765504",
+        "location": "🚪8.88开放朋友圈陪闲聊",
+        "name": "美術館館長",
+        "pinned_tweet_id": "2035900548063568228",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037145672412258304/HWwdgB_x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 165,
+          "following_count": 210,
+          "like_count": 3830,
+          "listed_count": 1,
+          "media_count": 395,
+          "tweet_count": 1364
+        },
+        "username": "xinshijie_1227",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-09T23:01:00.000Z",
+        "description": "",
+        "id": "1998528265443749890",
+        "name": "wudy",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998530693643866112/BoXit2k3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 124,
+          "like_count": 552,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 6
+        },
+        "username": "wudy9889",
+        "verified": false
+      }
+    ]
+  }
+}

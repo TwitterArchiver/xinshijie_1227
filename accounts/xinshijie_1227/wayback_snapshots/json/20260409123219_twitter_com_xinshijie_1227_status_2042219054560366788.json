@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2042218905331261440"
+      ]
+    },
+    "author_id": "1811430427535765504",
+    "conversation_id": "2042219054560366788",
+    "created_at": "2026-04-09T12:32:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-09T13:32:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2042219054560366788"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/SqTUPpXYS9",
+          "end": 34,
+          "expanded_url": "https://x.com/xinshijie_1227/status/2042219054560366788/video/1",
+          "media_key": "13_2042218905331261440",
+          "start": 11,
+          "url": "https://t.co/SqTUPpXYS9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042219054560366788",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我在我微博动态找到的 https://t.co/SqTUPpXYS9"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 35000,
+        "height": 1068,
+        "media_key": "13_2042218905331261440",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2042218905331261440/img/H0mOOap6sFlqbQ6M.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2042218905331261440/vid/avc1/320x474/o2SZPFKl0LNup5Jz.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2042218905331261440/vid/avc1/480x712/7kpVElQTVV8uOCGT.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2042218905331261440/vid/avc1/720x1068/fNsqY2DbByU4HtYH.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2042218905331261440/pl/cwwhk4PqKJfsO6Lp.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2042218905331261440"
+          ]
+        },
+        "author_id": "1811430427535765504",
+        "conversation_id": "2042219054560366788",
+        "created_at": "2026-04-09T12:32:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T13:32:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042219054560366788"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/SqTUPpXYS9",
+              "end": 34,
+              "expanded_url": "https://x.com/xinshijie_1227/status/2042219054560366788/video/1",
+              "media_key": "13_2042218905331261440",
+              "start": 11,
+              "url": "https://t.co/SqTUPpXYS9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042219054560366788",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我在我微博动态找到的 https://t.co/SqTUPpXYS9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-11T16:01:12.000Z",
+        "description": "嗑药 | 自残 | 负能量 | 御宅族| 互联网的隐匿栖身之所 | 傻逼俄罗斯男友@requiem_soulss | tg频道：https://t.co/q5Z49VdRn3（会在频道里发血图和日常照）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 41,
+                "username": "requiem_soulss"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/xinshijie0000",
+                "end": 87,
+                "expanded_url": "https://t.me/xinshijie0000",
+                "start": 64,
+                "url": "https://t.co/q5Z49VdRn3"
+              }
+            ]
+          }
+        },
+        "id": "1811430427535765504",
+        "location": "🚪8.88开放朋友圈陪闲聊",
+        "name": "美術館館長",
+        "pinned_tweet_id": "2035900548063568228",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037145672412258304/HWwdgB_x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 165,
+          "following_count": 211,
+          "like_count": 3833,
+          "listed_count": 1,
+          "media_count": 395,
+          "tweet_count": 1360
+        },
+        "username": "xinshijie_1227",
+        "verified": false
+      }
+    ]
+  }
+}

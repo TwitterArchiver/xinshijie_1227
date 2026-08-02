@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1974377987001978880",
+        "3_1974377987010408448",
+        "3_1974377987027185672",
+        "3_1974377987031359488"
+      ]
+    },
+    "author_id": "1811430427535765504",
+    "conversation_id": "1974378016236318926",
+    "created_at": "2025-10-04T07:36:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-04T08:36:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1974378016236318926"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/OSy8qcWJdJ",
+          "end": 43,
+          "expanded_url": "https://x.com/xinshijie_1227/status/1974378016236318926/photo/1",
+          "media_key": "3_1974377987001978880",
+          "start": 20,
+          "url": "https://t.co/OSy8qcWJdJ"
+        },
+        {
+          "display_url": "pic.x.com/OSy8qcWJdJ",
+          "end": 43,
+          "expanded_url": "https://x.com/xinshijie_1227/status/1974378016236318926/photo/1",
+          "media_key": "3_1974377987010408448",
+          "start": 20,
+          "url": "https://t.co/OSy8qcWJdJ"
+        },
+        {
+          "display_url": "pic.x.com/OSy8qcWJdJ",
+          "end": 43,
+          "expanded_url": "https://x.com/xinshijie_1227/status/1974378016236318926/photo/1",
+          "media_key": "3_1974377987027185672",
+          "start": 20,
+          "url": "https://t.co/OSy8qcWJdJ"
+        },
+        {
+          "display_url": "pic.x.com/OSy8qcWJdJ",
+          "end": 43,
+          "expanded_url": "https://x.com/xinshijie_1227/status/1974378016236318926/photo/1",
+          "media_key": "3_1974377987031359488",
+          "start": 20,
+          "url": "https://t.co/OSy8qcWJdJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1974378016236318926",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "哥特帕瓦哦但是我没有发现我的美瞳戴反了 https://t.co/OSy8qcWJdJ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_1974377987001978880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2ZmUYeakAAkTDp.jpg",
+        "width": 1920
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1974377987010408448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2ZmUYgbMAA5a0D.jpg",
+        "width": 1366
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1974377987027185672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2ZmUYkbMAgqRJG.jpg",
+        "width": 1366
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1974377987031359488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2ZmUYla4AAyk2T.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1974377987001978880",
+            "3_1974377987010408448",
+            "3_1974377987027185672",
+            "3_1974377987031359488"
+          ]
+        },
+        "author_id": "1811430427535765504",
+        "conversation_id": "1974378016236318926",
+        "created_at": "2025-10-04T07:36:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-04T08:36:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1974378016236318926"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OSy8qcWJdJ",
+              "end": 43,
+              "expanded_url": "https://x.com/xinshijie_1227/status/1974378016236318926/photo/1",
+              "media_key": "3_1974377987001978880",
+              "start": 20,
+              "url": "https://t.co/OSy8qcWJdJ"
+            },
+            {
+              "display_url": "pic.x.com/OSy8qcWJdJ",
+              "end": 43,
+              "expanded_url": "https://x.com/xinshijie_1227/status/1974378016236318926/photo/1",
+              "media_key": "3_1974377987010408448",
+              "start": 20,
+              "url": "https://t.co/OSy8qcWJdJ"
+            },
+            {
+              "display_url": "pic.x.com/OSy8qcWJdJ",
+              "end": 43,
+              "expanded_url": "https://x.com/xinshijie_1227/status/1974378016236318926/photo/1",
+              "media_key": "3_1974377987027185672",
+              "start": 20,
+              "url": "https://t.co/OSy8qcWJdJ"
+            },
+            {
+              "display_url": "pic.x.com/OSy8qcWJdJ",
+              "end": 43,
+              "expanded_url": "https://x.com/xinshijie_1227/status/1974378016236318926/photo/1",
+              "media_key": "3_1974377987031359488",
+              "start": 20,
+              "url": "https://t.co/OSy8qcWJdJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974378016236318926",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "哥特帕瓦哦但是我没有发现我的美瞳戴反了 https://t.co/OSy8qcWJdJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-11T16:01:12.000Z",
+        "description": "嗑药 | 自残 | 吐黑水 | 互联网的隐匿栖身之所『会回fo，对妹子会非常友好』哥特or地雷女｜狗屎馅俄罗斯大列巴@requiem_soulss ＞tg频道：https://t.co/5l18LxeR2N（会在频道里发血图和日常）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 73,
+                "start": 58,
+                "username": "requiem_soulss"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/+UUDcCzqoM_thM…",
+                "end": 103,
+                "expanded_url": "https://t.me/+UUDcCzqoM_thMjVl",
+                "start": 80,
+                "url": "https://t.co/5l18LxeR2N"
+              }
+            ]
+          }
+        },
+        "id": "1811430427535765504",
+        "location": "不再收🚪不再加男",
+        "name": "美術館館長",
+        "pinned_tweet_id": "1921997129985216603",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972651267144167424/LOOtLmEt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 120,
+          "following_count": 166,
+          "like_count": 3176,
+          "listed_count": 1,
+          "media_count": 300,
+          "tweet_count": 1117
+        },
+        "username": "xinshijie_1227",
+        "verified": false
+      }
+    ]
+  }
+}

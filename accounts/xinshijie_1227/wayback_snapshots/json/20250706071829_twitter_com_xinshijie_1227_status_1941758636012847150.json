@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1941758622892974080"
+      ]
+    },
+    "author_id": "1811430427535765504",
+    "conversation_id": "1941758636012847150",
+    "created_at": "2025-07-06T07:18:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-06T08:18:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1941758636012847150"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/YXSd43Oy43",
+          "end": 29,
+          "expanded_url": "https://x.com/xinshijie_1227/status/1941758636012847150/photo/1",
+          "media_key": "3_1941758622892974080",
+          "start": 6,
+          "url": "https://t.co/YXSd43Oy43"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1941758636012847150",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "绝望的猪嬷 https://t.co/YXSd43Oy43"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_1941758622892974080",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvKDLf0WYAAmAaj.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1941758622892974080"
+          ]
+        },
+        "author_id": "1811430427535765504",
+        "conversation_id": "1941758636012847150",
+        "created_at": "2025-07-06T07:18:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-06T08:18:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1941758636012847150"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YXSd43Oy43",
+              "end": 29,
+              "expanded_url": "https://x.com/xinshijie_1227/status/1941758636012847150/photo/1",
+              "media_key": "3_1941758622892974080",
+              "start": 6,
+              "url": "https://t.co/YXSd43Oy43"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1941758636012847150",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "绝望的猪嬷 https://t.co/YXSd43Oy43"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-11T16:01:12.000Z",
+        "description": "嗑药 | 自残 | 吐黑水 | 互联网的隐匿栖身之所『会回fo，对妹子会非常友好』虐杀动物后续会开新号发，，",
+        "id": "1811430427535765504",
+        "location": "不再收🚪不再加男",
+        "name": "美術館館長",
+        "pinned_tweet_id": "1921997129985216603",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1929041425536266242/Uwpg_cd1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 177,
+          "following_count": 162,
+          "like_count": 3162,
+          "listed_count": 0,
+          "media_count": 272,
+          "tweet_count": 1062
+        },
+        "username": "xinshijie_1227",
+        "verified": false
+      }
+    ]
+  }
+}

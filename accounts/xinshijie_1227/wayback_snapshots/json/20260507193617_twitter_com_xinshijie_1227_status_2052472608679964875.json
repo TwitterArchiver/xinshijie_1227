@@ -1,0 +1,212 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1926571768149409792"
+      ],
+      "media_source_tweet_id": [
+        "1926571997737185323"
+      ]
+    },
+    "author_id": "1811430427535765504",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2052472608679964875",
+    "created_at": "2026-05-07T19:36:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-07T20:36:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2052472608679964875"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/WUuflIqJxz",
+          "end": 23,
+          "expanded_url": "https://x.com/_guroguru/status/1926571997737185323/video/1",
+          "media_key": "13_1926571768149409792",
+          "start": 0,
+          "url": "https://t.co/WUuflIqJxz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052472608679964875",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/WUuflIqJxz"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 23120,
+        "height": 888,
+        "media_key": "13_1926571768149409792",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1926571768149409792/img/d-r6dPNpR2yAce2b.jpg",
+        "public_metrics": {
+          "view_count": 14512
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1926571768149409792/vid/avc1/480x270/qyvfK2I7z_6RqOSw.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1926571768149409792/vid/avc1/642x360/c_RCI5n9kRUEgACX.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1926571768149409792/vid/avc1/1284x720/0suD6xbDg48IJ6Oi.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1926571768149409792/pl/c8e3Dy68c6MnDJDO.m3u8?tag=14"
+          }
+        ],
+        "width": 1584
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1926571768149409792"
+          ],
+          "media_source_tweet_id": [
+            "1926571997737185323"
+          ]
+        },
+        "author_id": "1811430427535765504",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2052472608679964875",
+        "created_at": "2026-05-07T19:36:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T20:36:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052472608679964875"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WUuflIqJxz",
+              "end": 23,
+              "expanded_url": "https://x.com/_guroguru/status/1926571997737185323/video/1",
+              "media_key": "13_1926571768149409792",
+              "start": 0,
+              "url": "https://t.co/WUuflIqJxz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052472608679964875",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/WUuflIqJxz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-11T16:01:12.000Z",
+        "description": "嗑药 | 自残 | 负能量 | 御宅族| 互联网的隐匿栖身之所 | 傻逼俄罗斯男友@requiem_soulss | tg频道：https://t.co/q5Z49VdRn3（会在频道里发血图和日常照）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 41,
+                "username": "requiem_soulss"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/xinshijie0000",
+                "end": 87,
+                "expanded_url": "https://t.me/xinshijie0000",
+                "start": 64,
+                "url": "https://t.co/q5Z49VdRn3"
+              }
+            ]
+          }
+        },
+        "id": "1811430427535765504",
+        "location": "🚪8.88开放朋友圈陪闲聊",
+        "name": "美術館館長",
+        "pinned_tweet_id": "2035900548063568228",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037145672412258304/HWwdgB_x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 171,
+          "following_count": 212,
+          "like_count": 3863,
+          "listed_count": 1,
+          "media_count": 410,
+          "tweet_count": 1395
+        },
+        "username": "xinshijie_1227",
+        "verified": false
+      }
+    ]
+  }
+}

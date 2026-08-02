@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1933033768815628288"
+      ],
+      "media_source_tweet_id": [
+        "1933033828752171236"
+      ]
+    },
+    "author_id": "1811430427535765504",
+    "conversation_id": "1935563450442461618",
+    "created_at": "2025-06-19T05:01:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-19T06:01:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1935563450442461618"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 21,
+          "start": 13,
+          "tag": "goretwt"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1896820012536791040",
+          "start": 3,
+          "username": "ltlponi"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/fCOT9kfdQt",
+          "end": 58,
+          "expanded_url": "https://x.com/ageplayingkinks/status/1933033828752171236/video/1",
+          "media_key": "13_1933033768815628288",
+          "start": 35,
+          "url": "https://t.co/fCOT9kfdQt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1935563450442461618",
+    "lang": "ka",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 46
+    },
+    "referenced_tweets": [
+      {
+        "id": "1933033828752171236",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ltlponi: #goretwt ૮꒰◞ ๑ ◟ ྀི꒱ა https://t.co/fCOT9kfdQt"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1935563450442461618].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1935563450442461618",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1935563450442461618"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 9950,
+        "height": 362,
+        "media_key": "13_1933033768815628288",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1933033768815628288/img/hUp3th0_qo0WbnX0.jpg",
+        "public_metrics": {
+          "view_count": 3643
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1933033768815628288/vid/avc1/536x270/KPzatE8rHvf5Bmi8.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1933033768815628288/vid/avc1/720x362/q0braB2VXl-iPmXy.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1933033768815628288/pl/nguk2FH7M_kFWCac.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1933033768815628288"
+          ]
+        },
+        "author_id": "1896820012536791040",
+        "conversation_id": "1933033828752171236",
+        "created_at": "2025-06-12T05:29:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-12T06:29:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1933033828752171236"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 8,
+              "start": 0,
+              "tag": "goretwt"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/fCOT9kfdQt",
+              "end": 45,
+              "expanded_url": "https://x.com/ageplayingkinks/status/1933033828752171236/video/1",
+              "media_key": "13_1933033768815628288",
+              "start": 22,
+              "url": "https://t.co/fCOT9kfdQt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1933033828752171236",
+        "lang": "ka",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 67,
+          "impression_count": 7642,
+          "like_count": 181,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 46
+        },
+        "reply_settings": "everyone",
+        "text": "#goretwt ૮꒰◞ ๑ ◟ ྀི꒱ა https://t.co/fCOT9kfdQt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-11T16:01:12.000Z",
+        "description": "嗑药 | 自残 | 吐黑水 | 互联网的隐匿栖身之所『会回fo，对妹子会非常友好』 | 我要嫁给Захар@requiem_soulss",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 53,
+                "username": "requiem_soulss"
+              }
+            ]
+          }
+        },
+        "id": "1811430427535765504",
+        "location": "不再收🚪只加妹子",
+        "name": "美術館館長",
+        "pinned_tweet_id": "1921997129985216603",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1929041425536266242/Uwpg_cd1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 178,
+          "following_count": 164,
+          "like_count": 3103,
+          "listed_count": 0,
+          "media_count": 254,
+          "tweet_count": 1023
+        },
+        "username": "xinshijie_1227",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-04T07:08:39.000Z",
+        "description": "d toddlrsizef | dni if icky 💢 5teen.. ˚｡ʚɞ｡˚ i want to be babied -_- | shtwt",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "guns.lol/cndyland",
+                "end": 23,
+                "expanded_url": "https://guns.lol/cndyland",
+                "start": 0,
+                "url": "https://t.co/8TXLFMohzP"
+              }
+            ]
+          }
+        },
+        "id": "1896820012536791040",
+        "location": "˚｡ʚ𓊆 35 kg 𓊇",
+        "name": "ᕱ ⑅ ᕱ",
+        "pinned_tweet_id": "1931976919198867790",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1933575030157303808/HMAvwy-p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 81,
+          "following_count": 59,
+          "like_count": 1037,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 288
+        },
+        "url": "https://t.co/8TXLFMohzP",
+        "username": "ltlponi",
+        "verified": false
+      }
+    ]
+  }
+}

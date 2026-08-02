@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2015640876819853312"
+      ]
+    },
+    "author_id": "1811430427535765504",
+    "conversation_id": "2015641454979502343",
+    "created_at": "2026-01-26T04:22:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-26T05:22:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2015641454979502343"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/R64VslaH89",
+          "end": 31,
+          "expanded_url": "https://x.com/xinshijie_1227/status/2015641454979502343/video/1",
+          "media_key": "13_2015640876819853312",
+          "start": 8,
+          "url": "https://t.co/R64VslaH89"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015641454979502343",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我自己穿孔嘿嘿 https://t.co/R64VslaH89"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 308658,
+        "height": 1280,
+        "media_key": "13_2015640876819853312",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2015640876819853312/img/YvHUNDXkEP_EFbxh.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2015640876819853312/vid/avc1/320x568/nLvc2bNUil9FZSHc.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2015640876819853312/vid/avc1/480x852/tsdcsACr_3Y7pdoK.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2015640876819853312/vid/avc1/720x1280/EtrqwdqdRqfjIp8Z.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2015640876819853312/pl/hrb1c2LEmxXLloME.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2015640876819853312"
+          ]
+        },
+        "author_id": "1811430427535765504",
+        "conversation_id": "2015641454979502343",
+        "created_at": "2026-01-26T04:22:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-26T05:22:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2015641454979502343"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/R64VslaH89",
+              "end": 31,
+              "expanded_url": "https://x.com/xinshijie_1227/status/2015641454979502343/video/1",
+              "media_key": "13_2015640876819853312",
+              "start": 8,
+              "url": "https://t.co/R64VslaH89"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015641454979502343",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我自己穿孔嘿嘿 https://t.co/R64VslaH89"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-11T16:01:12.000Z",
+        "description": "嗑药 | 自残 | 吐黑水 | 互联网的隐匿栖身之所｜哥特or地雷女｜狗屎馅俄罗斯大列巴@requiem_soulss            tg频道：https://t.co/q5Z49Vdjxv（会在频道里发血图和日常照）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 59,
+                "start": 44,
+                "username": "requiem_soulss"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/xinshijie0000",
+                "end": 99,
+                "expanded_url": "https://t.me/xinshijie0000",
+                "start": 76,
+                "url": "https://t.co/q5Z49Vdjxv"
+              }
+            ]
+          }
+        },
+        "id": "1811430427535765504",
+        "location": "不再收🚪不再加男",
+        "name": "美術館館長",
+        "pinned_tweet_id": "1921997129985216603",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009811412412157952/ARAxYDf-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 133,
+          "following_count": 185,
+          "like_count": 3272,
+          "listed_count": 1,
+          "media_count": 348,
+          "tweet_count": 1220
+        },
+        "username": "xinshijie_1227",
+        "verified": false
+      }
+    ]
+  }
+}

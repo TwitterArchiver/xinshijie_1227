@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1900045792833884160"
+      ],
+      "media_source_tweet_id": [
+        "1900045796524933193"
+      ]
+    },
+    "author_id": "1811430427535765504",
+    "conversation_id": "1900711724757774556",
+    "created_at": "2025-03-15T00:52:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-15T01:52:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1900711724757774556"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "4865935973",
+          "start": 3,
+          "username": "ihateufella"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ruCpL0WRod",
+          "end": 45,
+          "expanded_url": "https://x.com/ihateufella/status/1900045796524933193/photo/1",
+          "media_key": "3_1900045792833884160",
+          "start": 22,
+          "url": "https://t.co/ruCpL0WRod"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1900711724757774556",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2800
+    },
+    "referenced_tweets": [
+      {
+        "id": "1900045796524933193",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ihateufella: mood https://t.co/ruCpL0WRod"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1900711724757774556].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1900711724757774556",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1900711724757774556"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1016,
+        "media_key": "3_1900045792833884160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gl5RlOrW0AAqnJ5.jpg",
+        "width": 1000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1900045792833884160"
+          ]
+        },
+        "author_id": "4865935973",
+        "conversation_id": "1900045796524933193",
+        "created_at": "2025-03-13T04:46:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-13T05:46:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1900045796524933193"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ruCpL0WRod",
+              "end": 28,
+              "expanded_url": "https://x.com/ihateufella/status/1900045796524933193/photo/1",
+              "media_key": "3_1900045792833884160",
+              "start": 5,
+              "url": "https://t.co/ruCpL0WRod"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1900045796524933193",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 4991,
+          "impression_count": 844334,
+          "like_count": 28061,
+          "quote_count": 122,
+          "reply_count": 113,
+          "retweet_count": 2800
+        },
+        "reply_settings": "everyone",
+        "text": "mood https://t.co/ruCpL0WRod"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-11T16:01:12.000Z",
+        "description": "嗑药 | 自残 | 吐黑水 | 自由精神病 \n 『会回fo，对妹子会非常友好』:3\n我的男仆@requiem_soulss",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 46,
+                "username": "requiem_soulss"
+              }
+            ]
+          }
+        },
+        "id": "1811430427535765504",
+        "location": "🚪50绿色陪聊男的过门女的免费",
+        "name": "美術館館長",
+        "pinned_tweet_id": "1886044580723949727",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1884080533770231811/F8kuy6DT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 55,
+          "following_count": 138,
+          "like_count": 2305,
+          "listed_count": 0,
+          "media_count": 115,
+          "tweet_count": 505
+        },
+        "username": "xinshijie_1227",
+        "verified": false
+      },
+      {
+        "created_at": "2016-01-31T05:22:04.000Z",
+        "description": "posts u might relate to | im shy, a nerd, latino a gamer and the love of ur life",
+        "id": "4865935973",
+        "location": "im in ur head",
+        "name": "i hate u",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1790540238332321792/88cDFhcM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20577,
+          "following_count": 1488,
+          "like_count": 64277,
+          "listed_count": 49,
+          "media_count": 719,
+          "tweet_count": 13935
+        },
+        "username": "ihateufella",
+        "verified": true
+      }
+    ]
+  }
+}

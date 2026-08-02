@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1811430427535765504",
+    "conversation_id": "1865065278113223146",
+    "created_at": "2024-12-07T18:30:30.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-07T19:30:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1865463916043862420"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1299312684991569920",
+          "start": 0,
+          "username": "DanJack67524194"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1865463916043862420",
+    "in_reply_to_user_id": "1299312684991569920",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1865065278113223146",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DanJack67524194 赔我钱治眼"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1811430427535765504",
+        "conversation_id": "1865065278113223146",
+        "created_at": "2024-12-07T18:30:30.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-07T19:30:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1865463916043862420"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1299312684991569920",
+              "start": 0,
+              "username": "DanJack67524194"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1865463916043862420",
+        "in_reply_to_user_id": "1299312684991569920",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1865065278113223146",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DanJack67524194 赔我钱治眼"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1865065271444258816"
+          ]
+        },
+        "author_id": "1299312684991569920",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1865065278113223146",
+        "created_at": "2024-12-06T16:06:28.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-06T17:06:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1865065278113223146"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WPL74SmhQc",
+              "end": 45,
+              "expanded_url": "https://x.com/DanJack67524194/status/1865065278113223146/photo/1",
+              "media_key": "3_1865065271444258816",
+              "start": 22,
+              "url": "https://t.co/WPL74SmhQc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1865065278113223146",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 4122,
+          "like_count": 110,
+          "quote_count": 1,
+          "reply_count": 27,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "我是不會點進去的\n但我絕對會讓大家眼睛受傷 https://t.co/WPL74SmhQc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-11T16:01:12.000Z",
+        "description": "痛苦是没法被比较的，比较就成为装饰品了",
+        "id": "1811430427535765504",
+        "name": "˚・* ٭☣︎ 美術館館長 ☣︎٭ *・˚",
+        "pinned_tweet_id": "1865297185614725475",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1860344393850613760/tW2czgA9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27,
+          "following_count": 116,
+          "like_count": 1114,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 160
+        },
+        "username": "xinshijie_1227",
+        "verified": false
+      },
+      {
+        "created_at": "2020-08-28T11:48:01.000Z",
+        "description": "（大部分梗圖皆為轉載）（現在也有自己翻譯的梗圖*如有翻譯圖，皆有翻譯浮水印*）\n棉花糖：https://t.co/Kc3Sive5zs\n\nig（梗圖帳）：https://t.co/4O83ZaXG7x",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/v1uq470chztz12…",
+                "end": 67,
+                "expanded_url": "https://marshmallow-qa.com/v1uq470chztz122?t=yjLkkv&u",
+                "start": 44,
+                "url": "https://t.co/Kc3Sive5zs"
+              },
+              {
+                "display_url": "instagram.com/fox_sun_moon?i…",
+                "end": 100,
+                "expanded_url": "https://www.instagram.com/fox_sun_moon?igsh=ZXh3MXpyb",
+                "start": 77,
+                "url": "https://t.co/4O83ZaXG7x"
+              }
+            ]
+          }
+        },
+        "id": "1299312684991569920",
+        "location": "羅馬帝國—君士坦丁堡",
+        "name": "狐曌🦊統測準備儲備“軍備”中",
+        "pinned_tweet_id": "1769544675147522087",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1763214761003757569/RLdX87B__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6228,
+          "following_count": 1626,
+          "like_count": 28052,
+          "listed_count": 26,
+          "media_count": 6327,
+          "tweet_count": 28018
+        },
+        "username": "DanJack67524194",
+        "verified": false
+      }
+    ]
+  }
+}

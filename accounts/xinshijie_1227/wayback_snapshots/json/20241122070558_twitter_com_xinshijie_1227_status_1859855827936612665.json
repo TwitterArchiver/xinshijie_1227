@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1811430427535765504",
+    "conversation_id": "1859597536342032618",
+    "created_at": "2024-11-22T07:05:58.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-22T08:05:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1859855827936612665"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1602663153623388161",
+          "start": 0,
+          "username": "knd_8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1859855827936612665",
+    "in_reply_to_user_id": "1602663153623388161",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1859597536342032618",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@knd_8964 人品问题"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1811430427535765504",
+        "conversation_id": "1859597536342032618",
+        "created_at": "2024-11-22T07:05:58.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-22T08:05:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1859855827936612665"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1602663153623388161",
+              "start": 0,
+              "username": "knd_8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1859855827936612665",
+        "in_reply_to_user_id": "1602663153623388161",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1859597536342032618",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@knd_8964 人品问题"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1859597533464625153"
+          ]
+        },
+        "author_id": "1602663153623388161",
+        "conversation_id": "1859597536342032618",
+        "created_at": "2024-11-21T13:59:36.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-21T14:59:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1859597536342032618"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xaL7BXMcfb",
+              "end": 25,
+              "expanded_url": "https://x.com/knd_8964/status/1859597536342032618/photo/1",
+              "media_key": "3_1859597533464625153",
+              "start": 2,
+              "url": "https://t.co/xaL7BXMcfb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1859597536342032618",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 18,
+          "impression_count": 30329,
+          "like_count": 403,
+          "quote_count": 5,
+          "reply_count": 22,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "🙃 https://t.co/xaL7BXMcfb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-11T16:01:12.000Z",
+        "description": "猜你会雷：嗑药/自残/垃圾话",
+        "id": "1811430427535765504",
+        "name": "劳工儿子在天堂",
+        "pinned_tweet_id": "1857507046654095687",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1852369059402444800/4MzSILkf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31,
+          "following_count": 91,
+          "like_count": 784,
+          "listed_count": 0,
+          "tweet_count": 71
+        },
+        "username": "xinshijie_1227",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-13T13:54:21.000Z",
+        "description": "啥时候大都会区域更到九的时候叫我一声（似了",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/kanade…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/kanade-8964.bsky.social",
+                "start": 0,
+                "url": "https://t.co/Czvo6RndGT"
+              }
+            ]
+          }
+        },
+        "id": "1602663153623388161",
+        "location": "导流槽雅座",
+        "name": "超级泡面高手小气走",
+        "pinned_tweet_id": "1741502377004576895",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1845797448633184256/y-BKXgHT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2684,
+          "following_count": 4079,
+          "like_count": 51988,
+          "listed_count": 9,
+          "tweet_count": 8185
+        },
+        "url": "https://t.co/Czvo6RndGT",
+        "username": "knd_8964",
+        "verified": false
+      }
+    ]
+  }
+}

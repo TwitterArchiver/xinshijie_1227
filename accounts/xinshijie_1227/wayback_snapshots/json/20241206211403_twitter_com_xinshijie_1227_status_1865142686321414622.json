@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1811430427535765504",
+    "conversation_id": "1864808972198502663",
+    "created_at": "2024-12-06T21:14:03.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-06T22:14:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1865142686321414622"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1309455512895807488",
+          "start": 0,
+          "username": "anachronm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1865142686321414622",
+    "in_reply_to_user_id": "1309455512895807488",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1864808972198502663",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@anachronm 布豪"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1811430427535765504",
+        "conversation_id": "1864808972198502663",
+        "created_at": "2024-12-06T21:14:03.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-06T22:14:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1865142686321414622"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1309455512895807488",
+              "start": 0,
+              "username": "anachronm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1865142686321414622",
+        "in_reply_to_user_id": "1309455512895807488",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1864808972198502663",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@anachronm 布豪"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1864808968998223872"
+          ]
+        },
+        "author_id": "1309455512895807488",
+        "conversation_id": "1864808972198502663",
+        "created_at": "2024-12-05T23:08:00.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-06T00:08:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1864808972198502663"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wWjoeesfBO",
+              "end": 59,
+              "expanded_url": "https://x.com/anachronm/status/1864808972198502663/photo/1",
+              "media_key": "3_1864808968998223872",
+              "start": 36,
+              "url": "https://t.co/wWjoeesfBO"
+            },
+            {
+              "display_url": "x.com/BNOFeed/status…",
+              "end": 83,
+              "expanded_url": "https://twitter.com/BNOFeed/status/1864679695377121468",
+              "start": 60,
+              "url": "https://t.co/Rz0udl5kal"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1864808972198502663",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 12,
+          "impression_count": 14494,
+          "like_count": 152,
+          "quote_count": 6,
+          "reply_count": 25,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "1864679695377121468",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "川普当总统，李子柒发视频，华农兄弟烤竹鼠\n等等，这剧本怎么这么熟悉？🤡 https://t.co/wWjoeesfBO https://t.co/Rz0udl5kal"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-11T16:01:12.000Z",
+        "description": "痛苦是没法被比较的，比较就成为装饰品了              🚪50绿色陪聊",
+        "id": "1811430427535765504",
+        "name": "˚・* ٭☣︎ 美術館館長 ☣︎٭ *・˚",
+        "pinned_tweet_id": "1864645753240736160",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1860344393850613760/tW2czgA9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 115,
+          "like_count": 1085,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 147
+        },
+        "username": "xinshijie_1227",
+        "verified": false
+      },
+      {
+        "created_at": "2020-09-25T11:31:43.000Z",
+        "description": "2002｜某人的日记本｜计算机专业已毕业｜金融学 · 中国古典文学在读｜备考雅思中｜长篇想法会写博客 https://t.co/ys8P710ap3｜顺直",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "dreams.plus",
+                "end": 74,
+                "expanded_url": "https://dreams.plus",
+                "start": 51,
+                "url": "https://t.co/ys8P710ap3"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "dreams.plus",
+                "end": 23,
+                "expanded_url": "https://dreams.plus",
+                "start": 0,
+                "url": "https://t.co/ys8P710ap3"
+              }
+            ]
+          }
+        },
+        "id": "1309455512895807488",
+        "name": "但为君故✨",
+        "pinned_tweet_id": "1864340978611704063",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1865062330574475265/CcwoZfNW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3075,
+          "following_count": 397,
+          "like_count": 46607,
+          "listed_count": 9,
+          "media_count": 588,
+          "tweet_count": 8083
+        },
+        "url": "https://t.co/ys8P710ap3",
+        "username": "anachronm",
+        "verified": false
+      }
+    ]
+  }
+}

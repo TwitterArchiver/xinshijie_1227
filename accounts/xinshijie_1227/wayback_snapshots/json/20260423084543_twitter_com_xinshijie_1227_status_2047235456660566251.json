@@ -1,0 +1,298 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1811430427535765504",
+    "conversation_id": "2046796163668693483",
+    "created_at": "2026-04-23T08:45:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-23T09:45:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047235456660566251"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1847712034361659392",
+          "start": 0,
+          "username": "huaxuejilebaike"
+        },
+        {
+          "end": 30,
+          "id": "622036546",
+          "start": 17,
+          "username": "overdose_six"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047235456660566251",
+    "in_reply_to_user_id": "1847712034361659392",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046796163668693483",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@huaxuejilebaike @overdose_six 鸡哥啥时候看广告复活"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1811430427535765504",
+        "conversation_id": "2046796163668693483",
+        "created_at": "2026-04-23T08:45:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T09:45:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047235456660566251"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1847712034361659392",
+              "start": 0,
+              "username": "huaxuejilebaike"
+            },
+            {
+              "end": 30,
+              "id": "622036546",
+              "start": 17,
+              "username": "overdose_six"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047235456660566251",
+        "in_reply_to_user_id": "1847712034361659392",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046796163668693483",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@huaxuejilebaike @overdose_six 鸡哥啥时候看广告复活"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1847712034361659392",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          }
+        ],
+        "conversation_id": "2046796163668693483",
+        "created_at": "2026-04-22T03:40:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T04:40:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046796163668693483"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2046796163668693483",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 68,
+          "impression_count": 79637,
+          "like_count": 439,
+          "quote_count": 72,
+          "reply_count": 161,
+          "retweet_count": 47
+        },
+        "reply_settings": "everyone",
+        "text": "讣告\n化学极乐百科的wiki主sakura（鸡哥）\n真名董晗\n2026年4月19日下午3点20分，sakura因愈美片普瑞巴林药物过量后坠楼死亡，目前他妈妈接的电话，已确认\n此账号将由Meng管理\n沉重悼念"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-11T16:01:12.000Z",
+        "description": "嗑药 | 自残 | 负能量 | 御宅族| 互联网的隐匿栖身之所 | 傻逼俄罗斯男友@requiem_soulss | tg频道：https://t.co/q5Z49VdRn3（会在频道里发血图和日常照）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 41,
+                "username": "requiem_soulss"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/xinshijie0000",
+                "end": 87,
+                "expanded_url": "https://t.me/xinshijie0000",
+                "start": 64,
+                "url": "https://t.co/q5Z49VdRn3"
+              }
+            ]
+          }
+        },
+        "id": "1811430427535765504",
+        "location": "🚪8.88开放朋友圈陪闲聊",
+        "name": "美術館館長",
+        "pinned_tweet_id": "2035900548063568228",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037145672412258304/HWwdgB_x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 164,
+          "following_count": 207,
+          "like_count": 3841,
+          "listed_count": 1,
+          "media_count": 402,
+          "tweet_count": 1376
+        },
+        "username": "xinshijie_1227",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-19T18:51:20.000Z",
+        "description": "官网：https://t.co/DF7NTAL0F9 TG交流群：https://t.co/ngKDwwK3ao DC交流群：https://t.co/Zb0fsL464g",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "jile.bid",
+                "end": 26,
+                "expanded_url": "http://jile.bid",
+                "start": 3,
+                "url": "https://t.co/DF7NTAL0F9"
+              },
+              {
+                "display_url": "t.me/weizhanersheng…",
+                "end": 56,
+                "expanded_url": "http://t.me/weizhanersheng666",
+                "start": 33,
+                "url": "https://t.co/ngKDwwK3ao"
+              },
+              {
+                "display_url": "discord.gg/XmNt8AXCEb",
+                "end": 86,
+                "expanded_url": "http://discord.gg/XmNt8AXCEb",
+                "start": 63,
+                "url": "https://t.co/Zb0fsL464g"
+              }
+            ]
+          }
+        },
+        "id": "1847712034361659392",
+        "name": "化学极乐百科⚛️",
+        "pinned_tweet_id": "2043905280967397423",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046789084790890496/tu0DxovY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1582,
+          "following_count": 910,
+          "like_count": 24165,
+          "listed_count": 2,
+          "media_count": 377,
+          "tweet_count": 2840
+        },
+        "username": "huaxuejilebaike",
+        "verified": false
+      },
+      {
+        "created_at": "2012-06-29T16:18:50.000Z",
+        "description": "官网：https://t.co/qHxew2fW37 | 提问箱：https://t.co/b5c8bbntR6 | 里账号:@fuck_8964",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 73,
+                "start": 63,
+                "username": "fuck_8964"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "jile.bid",
+                "end": 26,
+                "expanded_url": "http://jile.bid",
+                "start": 3,
+                "url": "https://t.co/qHxew2fW37"
+              },
+              {
+                "display_url": "ngl.link/oder_six",
+                "end": 56,
+                "expanded_url": "https://ngl.link/oder_six",
+                "start": 33,
+                "url": "https://t.co/b5c8bbntR6"
+              }
+            ]
+          }
+        },
+        "id": "622036546",
+        "location": "天国",
+        "name": "椎名#心宿二",
+        "pinned_tweet_id": "1982097076855996754",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004582178806693888/5V-kT5y0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2806,
+          "following_count": 98,
+          "like_count": 11525,
+          "listed_count": 8,
+          "media_count": 684,
+          "tweet_count": 4150
+        },
+        "username": "overdose_six",
+        "verified": false
+      }
+    ]
+  }
+}

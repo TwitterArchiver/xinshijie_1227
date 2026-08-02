@@ -1,0 +1,108 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1862617386299408384"
+      ]
+    },
+    "author_id": "1811430427535765504",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1862617391378964515",
+    "created_at": "2024-11-29T21:59:26.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-29T22:59:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1862617391378964515"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/PICfVFGhzJ",
+          "end": 48,
+          "expanded_url": "https://x.com/xinshijie_1227/status/1862617391378964515/photo/1",
+          "media_key": "3_1862617386299408384",
+          "start": 25,
+          "url": "https://t.co/PICfVFGhzJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1862617391378964515",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我喝酒就会拉肚子，而且每次喝完酒打英雄联盟必被骂 https://t.co/PICfVFGhzJ"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1862617391378964515].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1862617391378964515",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1862617391378964515"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_1862617386299408384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GdlYpO7XwAAJcqA.jpg",
+        "width": 576
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-11T16:01:12.000Z",
+        "description": "痛苦是没法被比较的，比较就成为装饰品了\n            🚪50绿色陪聊",
+        "id": "1811430427535765504",
+        "name": "˚・* ٭☣︎ 美術館館長 ☣︎٭ *・˚",
+        "pinned_tweet_id": "1861509761625387043",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1860344393850613760/tW2czgA9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42,
+          "following_count": 107,
+          "like_count": 960,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 119
+        },
+        "username": "xinshijie_1227",
+        "verified": false
+      }
+    ]
+  }
+}

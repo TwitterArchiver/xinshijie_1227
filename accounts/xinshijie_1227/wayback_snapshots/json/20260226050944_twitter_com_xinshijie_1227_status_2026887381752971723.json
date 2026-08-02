@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1811430427535765504",
+    "conversation_id": "2024805135999017151",
+    "created_at": "2026-02-26T05:09:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-26T06:09:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2026887381752971723"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1912471464093110272",
+          "start": 0,
+          "username": "sheshe230926"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026887381752971723",
+    "in_reply_to_user_id": "1912471464093110272",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025590998316061022",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sheshe230926 谢谢你！你也好萌哇(๑´0`๑)"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1811430427535765504",
+        "conversation_id": "2024805135999017151",
+        "created_at": "2026-02-26T05:09:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-26T06:09:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026887381752971723"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1912471464093110272",
+              "start": 0,
+              "username": "sheshe230926"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026887381752971723",
+        "in_reply_to_user_id": "1912471464093110272",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025590998316061022",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sheshe230926 谢谢你！你也好萌哇(๑´0`๑)"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1912471464093110272",
+        "conversation_id": "2024805135999017151",
+        "created_at": "2026-02-22T15:18:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-22T16:18:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025590998316061022"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1811430427535765504",
+              "start": 0,
+              "username": "xinshijie_1227"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025590998316061022",
+        "in_reply_to_user_id": "1811430427535765504",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024805135999017151",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xinshijie_1227 宝宝我想找你互fo可以吗！你真好看"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-11T16:01:12.000Z",
+        "description": "嗑药 | 自残 | 吐黑水 ｜哥特or地雷女| 互联网的隐匿栖身之所｜狗屎馅俄罗斯大列巴@requiem_soulss tg频道：https://t.co/q5Z49Vdjxv（会在频道里发血图和日常照）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 59,
+                "start": 44,
+                "username": "requiem_soulss"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/xinshijie0000",
+                "end": 88,
+                "expanded_url": "https://t.me/xinshijie0000",
+                "start": 65,
+                "url": "https://t.co/q5Z49Vdjxv"
+              }
+            ]
+          }
+        },
+        "id": "1811430427535765504",
+        "location": "🚪8.88开放朋友圈陪闲聊",
+        "name": "美術館館長",
+        "pinned_tweet_id": "2024805135999017151",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009811412412157952/ARAxYDf-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 154,
+          "following_count": 204,
+          "like_count": 3664,
+          "listed_count": 1,
+          "media_count": 365,
+          "tweet_count": 1283
+        },
+        "username": "xinshijie_1227",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-16T11:42:10.000Z",
+        "description": "08｜🚺｜ip广州｜自傷｜ed｜od｜病み垢｜男性❌｜DM⭕️｜求老婆们和我互fo 我想交朋友｜男的加我🚪88",
+        "id": "1912471464093110272",
+        "location": "广东, 中华人民共和国",
+        "name": "石頭蛇",
+        "pinned_tweet_id": "2025106958911697356",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025102994296217600/3HSYGElH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 220,
+          "following_count": 487,
+          "like_count": 3578,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 307
+        },
+        "username": "sheshe230926",
+        "verified": false
+      }
+    ]
+  }
+}

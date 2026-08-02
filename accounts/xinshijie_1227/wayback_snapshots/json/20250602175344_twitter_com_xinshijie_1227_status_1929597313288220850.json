@@ -1,0 +1,333 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1811430427535765504",
+    "conversation_id": "1889117306036633738",
+    "created_at": "2025-06-02T17:53:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-02T18:53:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1929597313288220850"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1849315255379460096",
+          "start": 0,
+          "username": "ZhouCher2983"
+        },
+        {
+          "end": 25,
+          "id": "1578982561727905793",
+          "start": 14,
+          "username": "hxhx_lucky"
+        },
+        {
+          "end": 41,
+          "id": "1884176708439592960",
+          "start": 26,
+          "username": "SONGsong237834"
+        },
+        {
+          "end": 51,
+          "id": "1910870023213924352",
+          "start": 42,
+          "username": "gnawizvj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1929597313288220850",
+    "in_reply_to_user_id": "1849315255379460096",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1929445756190020068",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ZhouCher2983 @hxhx_lucky @SONGsong237834 @gnawizvj 笑的我不行了。。。。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1811430427535765504",
+        "conversation_id": "1889117306036633738",
+        "created_at": "2025-06-02T17:53:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-02T18:53:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1929597313288220850"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1849315255379460096",
+              "start": 0,
+              "username": "ZhouCher2983"
+            },
+            {
+              "end": 25,
+              "id": "1578982561727905793",
+              "start": 14,
+              "username": "hxhx_lucky"
+            },
+            {
+              "end": 41,
+              "id": "1884176708439592960",
+              "start": 26,
+              "username": "SONGsong237834"
+            },
+            {
+              "end": 51,
+              "id": "1910870023213924352",
+              "start": 42,
+              "username": "gnawizvj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1929597313288220850",
+        "in_reply_to_user_id": "1849315255379460096",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1929445756190020068",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ZhouCher2983 @hxhx_lucky @SONGsong237834 @gnawizvj 笑的我不行了。。。。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1849315255379460096",
+        "conversation_id": "1889117306036633738",
+        "created_at": "2025-06-02T07:51:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-02T08:51:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1929445756190020068"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1578982561727905793",
+              "start": 0,
+              "username": "hxhx_lucky"
+            },
+            {
+              "end": 27,
+              "id": "1884176708439592960",
+              "start": 12,
+              "username": "SONGsong237834"
+            },
+            {
+              "end": 37,
+              "id": "1910870023213924352",
+              "start": 28,
+              "username": "gnawizvj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1929445756190020068",
+        "in_reply_to_user_id": "1578982561727905793",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8650,
+          "like_count": 25,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1889117306036633738",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hxhx_lucky @SONGsong237834 @gnawizvj 我还以为在停尸房要奸尸呢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-11T16:01:12.000Z",
+        "description": "嗑药 | 自残 | 吐黑水 | 互联网的隐匿栖身之所『会回fo，对妹子会非常友好』 | 男友@requiem_soulss",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 46,
+                "username": "requiem_soulss"
+              }
+            ]
+          }
+        },
+        "id": "1811430427535765504",
+        "location": "不再收🚪只加妹子",
+        "name": "美術館館長",
+        "pinned_tweet_id": "1921997129985216603",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1929041425536266242/Uwpg_cd1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 182,
+          "following_count": 165,
+          "like_count": 3094,
+          "listed_count": 0,
+          "media_count": 240,
+          "tweet_count": 996
+        },
+        "username": "xinshijie_1227",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-24T05:01:55.000Z",
+        "description": "应该是诡秘哦🤫（已复活）：@gnawizvj\n爱男爱女哦🤗",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 13,
+                "username": "gnawizvj"
+              }
+            ]
+          }
+        },
+        "id": "1849315255379460096",
+        "location": "新西兰",
+        "name": "gnawizoat1314",
+        "pinned_tweet_id": "1927962348699947383",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1925062300165423104/-MnBeiyQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 97,
+          "following_count": 1,
+          "like_count": 2831,
+          "listed_count": 1,
+          "media_count": 307,
+          "tweet_count": 1448
+        },
+        "username": "ZhouCher2983",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-09T05:36:02.000Z",
+        "description": "沈阳男主｜小⭕️微大｜可爱又迷人的反派角色｜微博日常发疯: 寒暄_SP｜愿世界和平🙏",
+        "id": "1578982561727905793",
+        "location": "沈阳",
+        "name": "寒暄",
+        "pinned_tweet_id": "1900563311328153868",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900565657663746049/q_nVojvN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23294,
+          "following_count": 209,
+          "like_count": 461,
+          "listed_count": 70,
+          "media_count": 67,
+          "tweet_count": 448
+        },
+        "username": "hxhx_lucky",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-28T09:48:41.000Z",
+        "description": "📍北京/⭕️/180 140/ENFP૮ ・ﻌ・ა/是粘人精/小狗的碎碎念日记本/推上有房/欢迎小窗交友",
+        "id": "1884176708439592960",
+        "name": "SONG-song",
+        "pinned_tweet_id": "1901951380975501561",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926619206126034944/j9-XwRGk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2600,
+          "following_count": 54,
+          "like_count": 537,
+          "listed_count": 9,
+          "media_count": 4,
+          "tweet_count": 25
+        },
+        "username": "SONGsong237834",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-12T01:38:26.000Z",
+        "description": "🌝：@ZhouCher2983",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 2,
+                "username": "ZhouCher2983"
+              }
+            ]
+          }
+        },
+        "id": "1910870023213924352",
+        "name": "gnawizvj8013",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1925061236775124994/I6NWR9yV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 1,
+          "like_count": 2,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 2
+        },
+        "username": "gnawizvj",
+        "verified": false
+      }
+    ]
+  }
+}

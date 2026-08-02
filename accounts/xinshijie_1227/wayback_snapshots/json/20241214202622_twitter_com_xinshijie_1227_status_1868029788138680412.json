@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1868029782581248001",
+        "3_1868029782887419905",
+        "3_1868029785500524544"
+      ]
+    },
+    "author_id": "1811430427535765504",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1868029788138680412",
+    "created_at": "2024-12-14T20:26:22.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-14T21:26:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1868029788138680412"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/z1X62mywTp",
+          "end": 33,
+          "expanded_url": "https://x.com/xinshijie_1227/status/1868029788138680412/photo/1",
+          "media_key": "3_1868029782581248001",
+          "start": 10,
+          "url": "https://t.co/z1X62mywTp"
+        },
+        {
+          "display_url": "pic.x.com/z1X62mywTp",
+          "end": 33,
+          "expanded_url": "https://x.com/xinshijie_1227/status/1868029788138680412/photo/1",
+          "media_key": "3_1868029782887419905",
+          "start": 10,
+          "url": "https://t.co/z1X62mywTp"
+        },
+        {
+          "display_url": "pic.x.com/z1X62mywTp",
+          "end": 33,
+          "expanded_url": "https://x.com/xinshijie_1227/status/1868029788138680412/photo/1",
+          "media_key": "3_1868029785500524544",
+          "start": 10,
+          "url": "https://t.co/z1X62mywTp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1868029788138680412",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "操你妈老子要笑死了 https://t.co/z1X62mywTp"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1152,
+        "media_key": "3_1868029782581248001",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GeyTMKSbAAEkZHu.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1152,
+        "media_key": "3_1868029782887419905",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GeyTMLba0AEVpf7.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1152,
+        "media_key": "3_1868029785500524544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GeyTMVKboAAjVuc.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1868029782581248001",
+            "3_1868029782887419905",
+            "3_1868029785500524544"
+          ]
+        },
+        "author_id": "1811430427535765504",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1868029788138680412",
+        "created_at": "2024-12-14T20:26:22.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-14T21:26:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1868029788138680412"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/z1X62mywTp",
+              "end": 33,
+              "expanded_url": "https://x.com/xinshijie_1227/status/1868029788138680412/photo/1",
+              "media_key": "3_1868029782581248001",
+              "start": 10,
+              "url": "https://t.co/z1X62mywTp"
+            },
+            {
+              "display_url": "pic.x.com/z1X62mywTp",
+              "end": 33,
+              "expanded_url": "https://x.com/xinshijie_1227/status/1868029788138680412/photo/1",
+              "media_key": "3_1868029782887419905",
+              "start": 10,
+              "url": "https://t.co/z1X62mywTp"
+            },
+            {
+              "display_url": "pic.x.com/z1X62mywTp",
+              "end": 33,
+              "expanded_url": "https://x.com/xinshijie_1227/status/1868029788138680412/photo/1",
+              "media_key": "3_1868029785500524544",
+              "start": 10,
+              "url": "https://t.co/z1X62mywTp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1868029788138680412",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "操你妈老子要笑死了 https://t.co/z1X62mywTp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-11T16:01:12.000Z",
+        "description": "痛苦是没法被比较的，比较就成为装饰品了          \n\n    🚪50绿色陪聊",
+        "id": "1811430427535765504",
+        "name": "˚・* ٭☣︎ 美術館館長 ☣︎٭ *・˚",
+        "pinned_tweet_id": "1864645753240736160",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866752266910437377/EIyMmq5k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32,
+          "following_count": 125,
+          "like_count": 1283,
+          "listed_count": 0,
+          "media_count": 47,
+          "tweet_count": 213
+        },
+        "username": "xinshijie_1227",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1811430427535765504",
+    "conversation_id": "2019712680207212813",
+    "created_at": "2026-02-09T02:33:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-09T03:33:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2020687409936294356"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1950617440477745152",
+          "start": 0,
+          "username": "dddeateateat"
+        },
+        {
+          "end": 24,
+          "id": "1638922874487730176",
+          "start": 14,
+          "username": "Sweet_xst"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2020687409936294356",
+    "in_reply_to_user_id": "1950617440477745152",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2019814260889833551",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dddeateateat @Sweet_xst 笑我一雷霆"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1811430427535765504",
+        "conversation_id": "2019712680207212813",
+        "created_at": "2026-02-09T02:33:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-09T03:33:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020687409936294356"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1950617440477745152",
+              "start": 0,
+              "username": "dddeateateat"
+            },
+            {
+              "end": 24,
+              "id": "1638922874487730176",
+              "start": 14,
+              "username": "Sweet_xst"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020687409936294356",
+        "in_reply_to_user_id": "1950617440477745152",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019814260889833551",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dddeateateat @Sweet_xst 笑我一雷霆"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1950617440477745152",
+        "conversation_id": "2019712680207212813",
+        "created_at": "2026-02-06T16:43:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-06T17:43:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2019814260889833551"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1638922874487730176",
+              "start": 0,
+              "username": "Sweet_xst"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019814260889833551",
+        "in_reply_to_user_id": "1638922874487730176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 40,
+          "impression_count": 307683,
+          "like_count": 5867,
+          "quote_count": 24,
+          "reply_count": 102,
+          "retweet_count": 66
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019712680207212813",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sweet_xst 还能啥意思，两根手指放逼上，说你2b呗，一天到晚什么问题都拿来问问问问问，下次斐济杯放脑子里震震再问问题"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-11T16:01:12.000Z",
+        "description": "嗑药 | 自残 | 吐黑水 | 互联网的隐匿栖身之所｜哥特or地雷女｜狗屎馅俄罗斯大列巴@requiem_soulss            tg频道：https://t.co/q5Z49Vdjxv（会在频道里发血图和日常照）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 59,
+                "start": 44,
+                "username": "requiem_soulss"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/xinshijie0000",
+                "end": 99,
+                "expanded_url": "https://t.me/xinshijie0000",
+                "start": 76,
+                "url": "https://t.co/q5Z49Vdjxv"
+              }
+            ]
+          }
+        },
+        "id": "1811430427535765504",
+        "location": "不再收🚪不再加男",
+        "name": "美術館館長",
+        "pinned_tweet_id": "1921997129985216603",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009811412412157952/ARAxYDf-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 136,
+          "following_count": 185,
+          "like_count": 3278,
+          "listed_count": 1,
+          "media_count": 350,
+          "tweet_count": 1230
+        },
+        "username": "xinshijie_1227",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-30T18:00:23.000Z",
+        "description": "我吃吃吃吃吃。",
+        "id": "1950617440477745152",
+        "name": "让我吃两口西瓜。",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979872274359443456/jVN38YSW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 273,
+          "following_count": 13,
+          "like_count": 3764,
+          "listed_count": 1,
+          "media_count": 148,
+          "tweet_count": 1195
+        },
+        "username": "dddeateateat",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-23T15:17:31.000Z",
+        "description": "愿你每天都有好心情~\n感谢给薯条投稿的宝宝，私信太多了实在看不完请见谅\n青年大学习系列持续更新中...\n小号：@burundi1983",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 55,
+                "username": "burundi1983"
+              }
+            ]
+          }
+        },
+        "id": "1638922874487730176",
+        "name": "小薯条哭唧唧",
+        "pinned_tweet_id": "2013223333014159630",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1858729423815798784/6Gp3ENE4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 90305,
+          "following_count": 57,
+          "like_count": 1861,
+          "listed_count": 220,
+          "media_count": 568,
+          "tweet_count": 1121
+        },
+        "username": "Sweet_xst",
+        "verified": false
+      }
+    ]
+  }
+}

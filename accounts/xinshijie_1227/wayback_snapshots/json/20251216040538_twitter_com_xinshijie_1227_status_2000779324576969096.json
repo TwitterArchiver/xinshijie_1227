@@ -1,0 +1,292 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1811430427535765504",
+    "conversation_id": "1999775153958638063",
+    "created_at": "2025-12-16T04:05:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-16T05:05:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2000779324576969096"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1563055650145349632",
+          "start": 0,
+          "username": "VcPanXEL"
+        },
+        {
+          "end": 23,
+          "id": "1866458229527764992",
+          "start": 10,
+          "username": "Citrus_amara"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2000779324576969096",
+    "in_reply_to_user_id": "1563055650145349632",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2000122892772942044",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@VcPanXEL @Citrus_amara 去医院随便开一个就行，你就说你有带状疱疹后遗症就行"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1811430427535765504",
+        "conversation_id": "1999775153958638063",
+        "created_at": "2025-12-16T04:05:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-16T05:05:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000779324576969096"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1563055650145349632",
+              "start": 0,
+              "username": "VcPanXEL"
+            },
+            {
+              "end": 23,
+              "id": "1866458229527764992",
+              "start": 10,
+              "username": "Citrus_amara"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000779324576969096",
+        "in_reply_to_user_id": "1563055650145349632",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000122892772942044",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@VcPanXEL @Citrus_amara 去医院随便开一个就行，你就说你有带状疱疹后遗症就行"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1563055650145349632",
+        "conversation_id": "1999775153958638063",
+        "created_at": "2025-12-14T08:37:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-14T09:37:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000122892772942044"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1811430427535765504",
+              "start": 0,
+              "username": "xinshijie_1227"
+            },
+            {
+              "end": 29,
+              "id": "1866458229527764992",
+              "start": 16,
+              "username": "Citrus_amara"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000122892772942044",
+        "in_reply_to_user_id": "1811430427535765504",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 43,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000110471710740872",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xinshijie_1227 @Citrus_amara 求一个"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-11T16:01:12.000Z",
+        "description": "嗑药 | 自残 | 吐黑水 | 互联网的隐匿栖身之所『会回fo，对妹子会非常友好』哥特or地雷女｜狗屎馅俄罗斯大列巴@requiem_soulss ＞tg频道：https://t.co/q5Z49VdRn3（会在频道里发血图和日常）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 73,
+                "start": 58,
+                "username": "requiem_soulss"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/xinshijie0000",
+                "end": 103,
+                "expanded_url": "https://t.me/xinshijie0000",
+                "start": 80,
+                "url": "https://t.co/q5Z49VdRn3"
+              }
+            ]
+          }
+        },
+        "id": "1811430427535765504",
+        "location": "不再收🚪不再加男",
+        "name": "美術館館長",
+        "pinned_tweet_id": "1921997129985216603",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972651267144167424/LOOtLmEt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 129,
+          "following_count": 168,
+          "like_count": 3203,
+          "listed_count": 1,
+          "media_count": 335,
+          "tweet_count": 1177
+        },
+        "username": "xinshijie_1227",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-26T06:48:57.000Z",
+        "description": "人生就是精神病^_^。。od自残 直fo查成分回。和我玩吧",
+        "id": "1563055650145349632",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "あな",
+        "pinned_tweet_id": "1731328132635091148",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1992879771236372480/JWXGStQS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 141,
+          "following_count": 519,
+          "like_count": 9044,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 157
+        },
+        "username": "VcPanXEL",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体。enby🏳️‍⚧️，HRT：2025.8.28。\n#odtwt  #drugtwt 中文/Eng。\n跨性别/od 妹妹@shsh548866 主人@zqtlovekris99",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 36,
+                "start": 30,
+                "tag": "odtwt"
+              },
+              {
+                "end": 46,
+                "start": 38,
+                "tag": "drugtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 75,
+                "start": 64,
+                "username": "shsh548866"
+              },
+              {
+                "end": 92,
+                "start": 78,
+                "username": "zqtlovekris99"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/citrus_amara",
+                "end": 23,
+                "expanded_url": "https://ngl.link/citrus_amara",
+                "start": 0,
+                "url": "https://t.co/V6d8rwB5Rn"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "name": "🍊苦橙🍊8️⃣9️⃣6️⃣4️⃣",
+        "pinned_tweet_id": "1999680286733533427",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999057878196322305/spCDL_E1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1197,
+          "following_count": 1,
+          "like_count": 8,
+          "listed_count": 4,
+          "media_count": 258,
+          "tweet_count": 6686
+        },
+        "url": "https://t.co/V6d8rwB5Rn",
+        "username": "Citrus_amara",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,326 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1887533562926362624"
+      ],
+      "media_source_tweet_id": [
+        "1887533788168917159"
+      ]
+    },
+    "author_id": "1811430427535765504",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1888154423681310927",
+    "created_at": "2025-02-08T09:14:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-08T10:14:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1888154423681310927"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1508447794537070595",
+          "start": 3,
+          "username": "sakura2333owo"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/peSpH3BVwN",
+          "end": 65,
+          "expanded_url": "https://x.com/sakura2333owo/status/1887533788168917159/video/1",
+          "media_key": "7_1887533562926362624",
+          "start": 42,
+          "url": "https://t.co/peSpH3BVwN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1888154423681310927",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1108
+    },
+    "referenced_tweets": [
+      {
+        "id": "1887533788168917159",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @sakura2333owo: ^&gt; ·̫ &lt;^宅就是我的天赋。 https://t.co/peSpH3BVwN"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 10050,
+        "height": 1280,
+        "media_key": "7_1887533562926362624",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1887533562926362624/pu/img/ns6eDbxYXkBQwYxe.jpg",
+        "public_metrics": {
+          "view_count": 120859
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1887533562926362624/pu/vid/avc1/320x568/Mw615II4JzQYMpiu.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1887533562926362624/pu/vid/avc1/480x852/mCeZxEjwg4q8hbmZ.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1887533562926362624/pu/vid/avc1/720x1280/ozWRl0Df1XYt0OCi.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1887533562926362624/pu/pl/sJfzuW1tzOsCq_DX.m3u8?tag=12&v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1887533562926362624"
+          ],
+          "media_source_tweet_id": [
+            "1887533788168917159"
+          ]
+        },
+        "author_id": "1811430427535765504",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1888154423681310927",
+        "created_at": "2025-02-08T09:14:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-08T10:14:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1888154423681310927"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1508447794537070595",
+              "start": 3,
+              "username": "sakura2333owo"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/peSpH3BVwN",
+              "end": 65,
+              "expanded_url": "https://x.com/sakura2333owo/status/1887533788168917159/video/1",
+              "media_key": "7_1887533562926362624",
+              "start": 42,
+              "url": "https://t.co/peSpH3BVwN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1888154423681310927",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1108
+        },
+        "referenced_tweets": [
+          {
+            "id": "1887533788168917159",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @sakura2333owo: ^&gt; ·̫ &lt;^宅就是我的天赋。 https://t.co/peSpH3BVwN"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1887533562926362624"
+          ]
+        },
+        "author_id": "1508447794537070595",
+        "conversation_id": "1887533788168917159",
+        "created_at": "2025-02-06T16:08:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-06T17:08:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1887533788168917159"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/peSpH3BVwN",
+              "end": 46,
+              "expanded_url": "https://x.com/sakura2333owo/status/1887533788168917159/video/1",
+              "media_key": "7_1887533562926362624",
+              "start": 23,
+              "url": "https://t.co/peSpH3BVwN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1887533788168917159",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2322,
+          "impression_count": 243514,
+          "like_count": 13950,
+          "quote_count": 69,
+          "reply_count": 60,
+          "retweet_count": 1108
+        },
+        "reply_settings": "everyone",
+        "text": "^&gt; ·̫ &lt;^宅就是我的天赋。 https://t.co/peSpH3BVwN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-11T16:01:12.000Z",
+        "description": "od | 自残 | 吐黑水     bi 对妹子会很友好^_^",
+        "id": "1811430427535765504",
+        "location": "🚪50绿色陪聊",
+        "name": "美術館館長",
+        "pinned_tweet_id": "1886044580723949727",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1884080533770231811/F8kuy6DT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39,
+          "following_count": 109,
+          "like_count": 1511,
+          "listed_count": 0,
+          "media_count": 69,
+          "tweet_count": 311
+        },
+        "username": "xinshijie_1227",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-28T14:16:13.000Z",
+        "description": "☆ฅ/ᐠ .⸝⸝⸝. ྀིﾏฅ 自撮り/雑垢/絵/東方project/les ★",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "b23.tv/J57eZtu",
+                "end": 23,
+                "expanded_url": "https://b23.tv/J57eZtu",
+                "start": 0,
+                "url": "https://t.co/U1mOff6sVX"
+              }
+            ]
+          }
+        },
+        "id": "1508447794537070595",
+        "location": "幻想乡-猫猫国",
+        "name": "☆猫猫国国王桜夏一世☆",
+        "pinned_tweet_id": "1830170661119279567",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1862250844554432512/eXMlPDSh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27172,
+          "following_count": 276,
+          "like_count": 6818,
+          "listed_count": 40,
+          "media_count": 982,
+          "tweet_count": 4447
+        },
+        "url": "https://t.co/U1mOff6sVX",
+        "username": "sakura2333owo",
+        "verified": false
+      }
+    ]
+  }
+}

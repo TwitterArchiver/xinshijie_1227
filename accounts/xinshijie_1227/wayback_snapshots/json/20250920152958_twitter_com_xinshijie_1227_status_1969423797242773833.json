@@ -1,0 +1,311 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1969267091363463168"
+      ],
+      "media_source_tweet_id": [
+        "1969267181771804999"
+      ]
+    },
+    "author_id": "1811430427535765504",
+    "conversation_id": "1969423797242773833",
+    "created_at": "2025-09-20T15:29:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-20T16:29:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1969423797242773833"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1960389326258495492",
+          "start": 3,
+          "username": "looolzaozimin"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ABvO3u7yh5",
+          "end": 42,
+          "expanded_url": "https://x.com/looolzaozimin/status/1969267181771804999/video/1",
+          "media_key": "13_1969267091363463168",
+          "start": 19,
+          "url": "https://t.co/ABvO3u7yh5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1969423797242773833",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 74
+    },
+    "referenced_tweets": [
+      {
+        "id": "1969267181771804999",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @looolzaozimin: https://t.co/ABvO3u7yh5"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 22483,
+        "height": 960,
+        "media_key": "13_1969267091363463168",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1969267091363463168/img/rZAsKxUxy89j7hWt.jpg",
+        "public_metrics": {
+          "view_count": 15646
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1969267091363463168/vid/avc1/320x426/eNTWQ4UanW9BNruV.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1969267091363463168/vid/avc1/480x640/qbJmo-McsCEbB9Ps.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1969267091363463168/vid/avc1/720x960/XRJ-BAXWDAIvP7BD.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1969267091363463168/pl/O7nSs6DJpiapeSAI.m3u8?v=cfc"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "duration_ms": 22483,
+        "height": 960,
+        "media_key": "13_1969267091363463168",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1969267091363463168/img/rZAsKxUxy89j7hWt.jpg",
+        "public_metrics": {
+          "view_count": 15821
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1969267091363463168/vid/avc1/320x426/eNTWQ4UanW9BNruV.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1969267091363463168/vid/avc1/480x640/qbJmo-McsCEbB9Ps.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1969267091363463168/vid/avc1/720x960/XRJ-BAXWDAIvP7BD.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1969267091363463168/pl/O7nSs6DJpiapeSAI.m3u8?v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1969267091363463168"
+          ],
+          "media_source_tweet_id": [
+            "1969267181771804999"
+          ]
+        },
+        "author_id": "1811430427535765504",
+        "conversation_id": "1969423797242773833",
+        "created_at": "2025-09-20T15:29:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-20T16:29:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1969423797242773833"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1960389326258495492",
+              "start": 3,
+              "username": "looolzaozimin"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ABvO3u7yh5",
+              "end": 42,
+              "expanded_url": "https://x.com/looolzaozimin/status/1969267181771804999/video/1",
+              "media_key": "13_1969267091363463168",
+              "start": 19,
+              "url": "https://t.co/ABvO3u7yh5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969423797242773833",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 74
+        },
+        "referenced_tweets": [
+          {
+            "id": "1969267181771804999",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @looolzaozimin: https://t.co/ABvO3u7yh5"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1969267091363463168"
+          ]
+        },
+        "author_id": "1960389326258495492",
+        "conversation_id": "1969267181771804999",
+        "created_at": "2025-09-20T05:07:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-20T06:07:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1969267181771804999"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ABvO3u7yh5",
+              "end": 23,
+              "expanded_url": "https://x.com/looolzaozimin/status/1969267181771804999/video/1",
+              "media_key": "13_1969267091363463168",
+              "start": 0,
+              "url": "https://t.co/ABvO3u7yh5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969267181771804999",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 183,
+          "impression_count": 35920,
+          "like_count": 849,
+          "quote_count": 11,
+          "reply_count": 9,
+          "retweet_count": 74
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/ABvO3u7yh5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-11T16:01:12.000Z",
+        "description": "嗑药 | 自残 | 吐黑水 | 互联网的隐匿栖身之所『会回fo，对妹子会非常友好』哥特or地雷女｜狗屎馅俄罗斯大列巴@requiem_soulss ＞tg频道：https://t.co/5l18LxeR2N",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 73,
+                "start": 58,
+                "username": "requiem_soulss"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/+UUDcCzqoM_thM…",
+                "end": 103,
+                "expanded_url": "https://t.me/+UUDcCzqoM_thMjVl",
+                "start": 80,
+                "url": "https://t.co/5l18LxeR2N"
+              }
+            ]
+          }
+        },
+        "id": "1811430427535765504",
+        "location": "不再收🚪不再加男",
+        "name": "美術館館長",
+        "pinned_tweet_id": "1921997129985216603",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966128093455953920/kBuYT232_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 115,
+          "following_count": 162,
+          "like_count": 3149,
+          "listed_count": 1,
+          "media_count": 296,
+          "tweet_count": 1110
+        },
+        "username": "xinshijie_1227",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-26T17:10:37.000Z",
+        "description": "",
+        "id": "1960389326258495492",
+        "name": "下坠下坠下坠",
+        "pinned_tweet_id": "1960517212219040220",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960497573434941441/yMCbvHyg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1926,
+          "following_count": 11,
+          "like_count": 5,
+          "listed_count": 2,
+          "media_count": 6,
+          "tweet_count": 10
+        },
+        "username": "looolzaozimin",
+        "verified": false
+      }
+    ]
+  }
+}

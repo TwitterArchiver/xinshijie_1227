@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1811430427535765504",
+    "conversation_id": "1863294483531714753",
+    "created_at": "2024-12-03T16:11:47.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-03T17:11:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1863979452403007882"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1613181667543289861",
+          "start": 0,
+          "username": "maikey19438266"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1863979452403007882",
+    "in_reply_to_user_id": "1613181667543289861",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1863940101375771040",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@maikey19438266 正解"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1811430427535765504",
+        "conversation_id": "1863294483531714753",
+        "created_at": "2024-12-03T16:11:47.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-03T17:11:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1863979452403007882"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1613181667543289861",
+              "start": 0,
+              "username": "maikey19438266"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1863979452403007882",
+        "in_reply_to_user_id": "1613181667543289861",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1863940101375771040",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@maikey19438266 正解"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1613181667543289861",
+        "conversation_id": "1863294483531714753",
+        "created_at": "2024-12-03T13:35:25.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-03T14:35:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1863940101375771040"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1811430427535765504",
+              "start": 0,
+              "username": "xinshijie_1227"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1863940101375771040",
+        "in_reply_to_user_id": "1811430427535765504",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1863294483531714753",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xinshijie_1227 毒鸡汤是为了更好的当正能量🌝"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-11T16:01:12.000Z",
+        "description": "痛苦是没法被比较的，比较就成为装饰品了",
+        "id": "1811430427535765504",
+        "name": "˚・* ٭☣︎ 美術館館長 ☣︎٭ *・˚",
+        "pinned_tweet_id": "1861509761625387043",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1860344393850613760/tW2czgA9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 113,
+          "like_count": 990,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 124
+        },
+        "username": "xinshijie_1227",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-11T14:31:19.000Z",
+        "description": "私信需求，价格完美   +v:woZDXNL\n自仓发货\n电子烟简介电报群:https://t.co/DeLxSmHSaX",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/dianziyanxs",
+                "end": 60,
+                "expanded_url": "https://t.me/dianziyanxs",
+                "start": 37,
+                "url": "https://t.co/DeLxSmHSaX"
+              }
+            ]
+          }
+        },
+        "id": "1613181667543289861",
+        "name": "小行家(蛋白粉各教练证电子烟杆烟弹)",
+        "pinned_tweet_id": "1863632986509545735",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1852684036772397057/RydreVNn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 296,
+          "like_count": 15,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 141
+        },
+        "username": "maikey19438266",
+        "verified": false
+      }
+    ]
+  }
+}

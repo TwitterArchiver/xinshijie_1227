@@ -1,0 +1,147 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2063869669069500417"
+      ]
+    },
+    "author_id": "1811430427535765504",
+    "conversation_id": "2063869677999182228",
+    "created_at": "2026-06-08T06:24:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T07:24:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2063869677999182228"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/QcZlbCC42F",
+          "end": 38,
+          "expanded_url": "https://x.com/xinshijie_1227/status/2063869677999182228/photo/1",
+          "media_key": "3_2063869669069500417",
+          "start": 15,
+          "url": "https://t.co/QcZlbCC42F"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063869677999182228",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我这人确实不咋地，烂人一个， https://t.co/QcZlbCC42F"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 494,
+        "media_key": "3_2063869669069500417",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKRWh3eXMAEJVMl.jpg",
+        "width": 526
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063869669069500417"
+          ]
+        },
+        "author_id": "1811430427535765504",
+        "conversation_id": "2063869677999182228",
+        "created_at": "2026-06-08T06:24:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T07:24:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063869677999182228"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QcZlbCC42F",
+              "end": 38,
+              "expanded_url": "https://x.com/xinshijie_1227/status/2063869677999182228/photo/1",
+              "media_key": "3_2063869669069500417",
+              "start": 15,
+              "url": "https://t.co/QcZlbCC42F"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063869677999182228",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我这人确实不咋地，烂人一个， https://t.co/QcZlbCC42F"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-11T16:01:12.000Z",
+        "description": "嗑药吸毒自残 | 负能量 | 互联网的隐匿栖身之所 | 查成分互of | \ntg频道：https://t.co/q5Z49VdRn3",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/xinshijie0000",
+                "end": 66,
+                "expanded_url": "https://t.me/xinshijie0000",
+                "start": 43,
+                "url": "https://t.co/q5Z49VdRn3"
+              }
+            ]
+          }
+        },
+        "id": "1811430427535765504",
+        "location": "🚪8.88开放朋友圈陪闲聊",
+        "name": "美術館館長",
+        "pinned_tweet_id": "2035900548063568228",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037145672412258304/HWwdgB_x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 366,
+          "following_count": 234,
+          "like_count": 3962,
+          "listed_count": 1,
+          "media_count": 442,
+          "tweet_count": 1500
+        },
+        "username": "xinshijie_1227",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1811430427535765504",
+    "conversation_id": "1861028310437990787",
+    "created_at": "2024-11-25T12:45:00.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-25T13:45:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1861028310437990787"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1621552410048237569",
+          "start": 3,
+          "username": "amecandy_x"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1861028310437990787",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1860983516311531616",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @amecandy_x: 我没有生活我只是在我的小家里od完对着屏幕哭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1811430427535765504",
+        "conversation_id": "1861028310437990787",
+        "created_at": "2024-11-25T12:45:00.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-25T13:45:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1861028310437990787"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1621552410048237569",
+              "start": 3,
+              "username": "amecandy_x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1861028310437990787",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1860983516311531616",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @amecandy_x: 我没有生活我只是在我的小家里od完对着屏幕哭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1621552410048237569",
+        "conversation_id": "1860983516311531616",
+        "created_at": "2024-11-25T09:47:00.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-25T10:47:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1860983516311531616"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1860983516311531616",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 653,
+          "like_count": 19,
+          "quote_count": 1,
+          "reply_count": 5,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我没有生活我只是在我的小家里od完对着屏幕哭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-11T16:01:12.000Z",
+        "description": "嗑药 | 自残 | 垃圾话 | 无黄推黄楠滚，很好说话欢迎互of，只是一个有精神病的动漫宅",
+        "id": "1811430427535765504",
+        "name": "劳工儿子在天堂",
+        "pinned_tweet_id": "1857507046654095687",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1860344393850613760/tW2czgA9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33,
+          "following_count": 93,
+          "like_count": 830,
+          "listed_count": 0,
+          "tweet_count": 78
+        },
+        "username": "xinshijie_1227",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-03T16:53:25.000Z",
+        "description": "这里是Rain→    我是双相重抑重焦喜欢od的小女孩   佐匹克隆唯粉    ////    \n需要互 fo 请私信 需要我陪你请私信！我想陪着大家所以没有门槛🥹",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "angelkawaii.xyz",
+                "end": 23,
+                "expanded_url": "http://angelkawaii.xyz",
+                "start": 0,
+                "url": "https://t.co/CwKoKqRk8n"
+              }
+            ]
+          }
+        },
+        "id": "1621552410048237569",
+        "location": "不要对我键政⚠ 这是我的网站，oc小说连载处👉",
+        "name": "超絕最可愛 Rain 💙🧬",
+        "pinned_tweet_id": "1859215651895963901",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1772147307787739136/uXU9kK7f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1896,
+          "following_count": 1011,
+          "like_count": 13338,
+          "listed_count": 7,
+          "tweet_count": 4188
+        },
+        "url": "https://t.co/CwKoKqRk8n",
+        "username": "amecandy_x",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,274 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1942248765294776321",
+        "3_1942248764455911424"
+      ],
+      "media_source_tweet_id": [
+        "1942248769803681995",
+        "1942248769803681995"
+      ]
+    },
+    "author_id": "1811430427535765504",
+    "conversation_id": "1942431432422416723",
+    "created_at": "2025-07-08T03:51:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-08T04:51:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1942431432422416723"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 39,
+          "normalized_text": "goretwt",
+          "probability": 0.5244,
+          "start": 33,
+          "type": "Other"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 40,
+          "start": 32,
+          "tag": "goretwt"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1677764118932013057",
+          "start": 3,
+          "username": "dedeopotente"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/y9Xtw9iHua",
+          "end": 64,
+          "expanded_url": "https://x.com/dedeopotente/status/1942248769803681995/photo/1",
+          "media_key": "3_1942248765294776321",
+          "start": 41,
+          "url": "https://t.co/y9Xtw9iHua"
+        },
+        {
+          "display_url": "pic.x.com/y9Xtw9iHua",
+          "end": 64,
+          "expanded_url": "https://x.com/dedeopotente/status/1942248769803681995/photo/1",
+          "media_key": "3_1942248764455911424",
+          "start": 41,
+          "url": "https://t.co/y9Xtw9iHua"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1942431432422416723",
+    "lang": "pt",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 9
+    },
+    "referenced_tweets": [
+      {
+        "id": "1942248769803681995",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @dedeopotente: Caracolsito 🐌 #goretwt https://t.co/y9Xtw9iHua"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1942431432422416723].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1942431432422416723",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1942431432422416723"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1125,
+        "media_key": "3_1942248765294776321",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvRA9ijWEAEy2Mw.jpg",
+        "width": 839
+      },
+      {
+        "height": 721,
+        "media_key": "3_1942248764455911424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvRA9fbWAAAHUNg.jpg",
+        "width": 1028
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1942248765294776321",
+            "3_1942248764455911424"
+          ]
+        },
+        "author_id": "1677764118932013057",
+        "conversation_id": "1942248769803681995",
+        "created_at": "2025-07-07T15:46:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-07T16:46:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1942248769803681995"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 21,
+              "normalized_text": "goretwt",
+              "probability": 0.537,
+              "start": 15,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 22,
+              "start": 14,
+              "tag": "goretwt"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/y9Xtw9iHua",
+              "end": 46,
+              "expanded_url": "https://x.com/dedeopotente/status/1942248769803681995/photo/1",
+              "media_key": "3_1942248765294776321",
+              "start": 23,
+              "url": "https://t.co/y9Xtw9iHua"
+            },
+            {
+              "display_url": "pic.x.com/y9Xtw9iHua",
+              "end": 46,
+              "expanded_url": "https://x.com/dedeopotente/status/1942248769803681995/photo/1",
+              "media_key": "3_1942248764455911424",
+              "start": 23,
+              "url": "https://t.co/y9Xtw9iHua"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1942248769803681995",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 654,
+          "like_count": 48,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "Caracolsito 🐌 #goretwt https://t.co/y9Xtw9iHua"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-11T16:01:12.000Z",
+        "description": "嗑药 | 自残 | 吐黑水 | 互联网的隐匿栖身之所『会回fo，对妹子会非常友好』狗屎馅俄罗斯大列巴@requiem_soulss",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 50,
+                "username": "requiem_soulss"
+              }
+            ]
+          }
+        },
+        "id": "1811430427535765504",
+        "location": "不再收🚪不再加男",
+        "name": "美術館館長",
+        "pinned_tweet_id": "1921997129985216603",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1929041425536266242/Uwpg_cd1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 175,
+          "following_count": 160,
+          "like_count": 3167,
+          "listed_count": 0,
+          "media_count": 270,
+          "tweet_count": 1062
+        },
+        "username": "xinshijie_1227",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-08T19:38:44.000Z",
+        "description": "dedo uwu si\n@twicebpink_ miam9r 7u7\n#shtwt #goretwt",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 42,
+                "start": 36,
+                "tag": "shtwt"
+              },
+              {
+                "end": 51,
+                "start": 43,
+                "tag": "goretwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 24,
+                "start": 12,
+                "username": "twicebpink_"
+              }
+            ]
+          }
+        },
+        "id": "1677764118932013057",
+        "name": "dedositw 𖤐",
+        "pinned_tweet_id": "1913989424284582218",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1913394141104345088/bIUL-WjB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 265,
+          "following_count": 257,
+          "like_count": 20101,
+          "listed_count": 4,
+          "media_count": 398,
+          "tweet_count": 6872
+        },
+        "username": "dedeopotente",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,197 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1811430427535765504",
+    "conversation_id": "2031805736423211310",
+    "created_at": "2026-03-13T15:54:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-13T16:54:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2032485465090384033"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2027758990097321985",
+          "start": 0,
+          "username": "Kikorilkawaiii"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032485465090384033",
+    "in_reply_to_user_id": "2027758990097321985",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2031805736423211310",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kikorilkawaiii 我来！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1811430427535765504",
+        "conversation_id": "2031805736423211310",
+        "created_at": "2026-03-13T15:54:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-13T16:54:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032485465090384033"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2027758990097321985",
+              "start": 0,
+              "username": "Kikorilkawaiii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032485465090384033",
+        "in_reply_to_user_id": "2027758990097321985",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031805736423211310",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kikorilkawaiii 我来！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2027758990097321985",
+        "conversation_id": "2031805736423211310",
+        "created_at": "2026-03-11T18:53:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-11T19:53:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2031805736423211310"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2031805736423211310",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1996,
+          "like_count": 39,
+          "quote_count": 0,
+          "reply_count": 18,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "我居然马上100fo了🙀你们助力我吧！谁还互fo！！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-11T16:01:12.000Z",
+        "description": "嗑药 | 自残 | 吐黑水 ｜哥特or地雷女| 互联网的隐匿栖身之所｜狗屎馅俄罗斯大列巴@requiem_soulss tg频道：https://t.co/q5Z49Vdjxv（会在频道里发血图和日常照）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 59,
+                "start": 44,
+                "username": "requiem_soulss"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/xinshijie0000",
+                "end": 88,
+                "expanded_url": "https://t.me/xinshijie0000",
+                "start": 65,
+                "url": "https://t.co/q5Z49Vdjxv"
+              }
+            ]
+          }
+        },
+        "id": "1811430427535765504",
+        "location": "🚪8.88开放朋友圈陪闲聊",
+        "name": "美術館館長",
+        "pinned_tweet_id": "2024805135999017151",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009811412412157952/ARAxYDf-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 166,
+          "following_count": 211,
+          "like_count": 3676,
+          "listed_count": 1,
+          "media_count": 369,
+          "tweet_count": 1307
+        },
+        "username": "xinshijie_1227",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-28T14:54:53.000Z",
+        "description": "我是kikori 无业游民｜脑子不正常｜intp｜直fo就是觉得你很好想和你玩🥺🥺不太会说话 社交系统混乱。。互fo只互一个圈子的哦忘记了dd我！不加墙内联系方式orz……",
+        "id": "2027758990097321985",
+        "name": "きこり🎶",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027759833924227072/5vaks4uo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 155,
+          "following_count": 142,
+          "like_count": 230,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 345
+        },
+        "username": "Kikorilkawaiii",
+        "verified": false
+      }
+    ]
+  }
+}

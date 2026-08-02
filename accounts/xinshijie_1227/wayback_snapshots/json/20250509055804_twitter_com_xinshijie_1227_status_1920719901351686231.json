@@ -1,0 +1,106 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1920719883060269056"
+      ]
+    },
+    "author_id": "1811430427535765504",
+    "conversation_id": "1920719901351686231",
+    "created_at": "2025-05-09T05:58:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-09T06:58:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1920719901351686231"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/vFSTPDCb6Y",
+          "end": 23,
+          "expanded_url": "https://x.com/xinshijie_1227/status/1920719901351686231/photo/1",
+          "media_key": "3_1920719883060269056",
+          "start": 0,
+          "url": "https://t.co/vFSTPDCb6Y"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1920719901351686231",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/vFSTPDCb6Y"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1920719901351686231].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1920719901351686231",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1920719901351686231"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1920719883060269056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GqfEjqbWUAANNVf.jpg",
+        "width": 1536
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-11T16:01:12.000Z",
+        "description": "嗑药 | 自残 | 吐黑水 | 自由精神病 『会回fo，对妹子会非常友好』:3 我的俄罗斯男仆@requiem_soulss",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 62,
+                "start": 47,
+                "username": "requiem_soulss"
+              }
+            ]
+          }
+        },
+        "id": "1811430427535765504",
+        "location": "🚪50绿色陪聊男的过门女的免费",
+        "name": "美術館館長",
+        "pinned_tweet_id": "1901626066441019862",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1915520664599224322/2WrUI4Tq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 89,
+          "following_count": 155,
+          "like_count": 2952,
+          "listed_count": 1,
+          "media_count": 227,
+          "tweet_count": 894
+        },
+        "username": "xinshijie_1227",
+        "verified": false
+      }
+    ]
+  }
+}

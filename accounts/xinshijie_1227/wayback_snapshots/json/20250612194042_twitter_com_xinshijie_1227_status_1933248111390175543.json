@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1933248106478641153",
+        "3_1933248106612862979",
+        "3_1933248107640483840",
+        "3_1933248108542255104"
+      ]
+    },
+    "author_id": "1811430427535765504",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1933248111390175543",
+    "created_at": "2025-06-12T19:40:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-12T20:40:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1933248111390175543"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/fvNALxalCf",
+          "end": 36,
+          "expanded_url": "https://x.com/xinshijie_1227/status/1933248111390175543/photo/1",
+          "media_key": "3_1933248106478641153",
+          "start": 13,
+          "url": "https://t.co/fvNALxalCf"
+        },
+        {
+          "display_url": "pic.x.com/fvNALxalCf",
+          "end": 36,
+          "expanded_url": "https://x.com/xinshijie_1227/status/1933248111390175543/photo/1",
+          "media_key": "3_1933248106612862979",
+          "start": 13,
+          "url": "https://t.co/fvNALxalCf"
+        },
+        {
+          "display_url": "pic.x.com/fvNALxalCf",
+          "end": 36,
+          "expanded_url": "https://x.com/xinshijie_1227/status/1933248111390175543/photo/1",
+          "media_key": "3_1933248107640483840",
+          "start": 13,
+          "url": "https://t.co/fvNALxalCf"
+        },
+        {
+          "display_url": "pic.x.com/fvNALxalCf",
+          "end": 36,
+          "expanded_url": "https://x.com/xinshijie_1227/status/1933248111390175543/photo/1",
+          "media_key": "3_1933248108542255104",
+          "start": 13,
+          "url": "https://t.co/fvNALxalCf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1933248111390175543",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "电脑的摄像头拍我跟屎一样 https://t.co/fvNALxalCf"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 801,
+        "media_key": "3_1933248106478641153",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtRG6PlbIAEFrm8.jpg",
+        "width": 1399
+      },
+      {
+        "height": 505,
+        "media_key": "3_1933248106612862979",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtRG6QFbMAMIlpC.jpg",
+        "width": 896
+      },
+      {
+        "height": 448,
+        "media_key": "3_1933248107640483840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtRG6T6bcAAjQNc.jpg",
+        "width": 891
+      },
+      {
+        "height": 499,
+        "media_key": "3_1933248108542255104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtRG6XRbYAAZ4ba.jpg",
+        "width": 874
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1933248106478641153",
+            "3_1933248106612862979",
+            "3_1933248107640483840",
+            "3_1933248108542255104"
+          ]
+        },
+        "author_id": "1811430427535765504",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1933248111390175543",
+        "created_at": "2025-06-12T19:40:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-12T20:40:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1933248111390175543"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fvNALxalCf",
+              "end": 36,
+              "expanded_url": "https://x.com/xinshijie_1227/status/1933248111390175543/photo/1",
+              "media_key": "3_1933248106478641153",
+              "start": 13,
+              "url": "https://t.co/fvNALxalCf"
+            },
+            {
+              "display_url": "pic.x.com/fvNALxalCf",
+              "end": 36,
+              "expanded_url": "https://x.com/xinshijie_1227/status/1933248111390175543/photo/1",
+              "media_key": "3_1933248106612862979",
+              "start": 13,
+              "url": "https://t.co/fvNALxalCf"
+            },
+            {
+              "display_url": "pic.x.com/fvNALxalCf",
+              "end": 36,
+              "expanded_url": "https://x.com/xinshijie_1227/status/1933248111390175543/photo/1",
+              "media_key": "3_1933248107640483840",
+              "start": 13,
+              "url": "https://t.co/fvNALxalCf"
+            },
+            {
+              "display_url": "pic.x.com/fvNALxalCf",
+              "end": 36,
+              "expanded_url": "https://x.com/xinshijie_1227/status/1933248111390175543/photo/1",
+              "media_key": "3_1933248108542255104",
+              "start": 13,
+              "url": "https://t.co/fvNALxalCf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1933248111390175543",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "电脑的摄像头拍我跟屎一样 https://t.co/fvNALxalCf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-11T16:01:12.000Z",
+        "description": "嗑药 | 自残 | 吐黑水 | 互联网的隐匿栖身之所『会回fo，对妹子会非常友好』 | 男友@requiem_soulss",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 46,
+                "username": "requiem_soulss"
+              }
+            ]
+          }
+        },
+        "id": "1811430427535765504",
+        "location": "不再收🚪只加妹子",
+        "name": "美術館館長",
+        "pinned_tweet_id": "1921997129985216603",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1929041425536266242/Uwpg_cd1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 172,
+          "following_count": 164,
+          "like_count": 3107,
+          "listed_count": 0,
+          "media_count": 247,
+          "tweet_count": 1011
+        },
+        "username": "xinshijie_1227",
+        "verified": false
+      }
+    ]
+  }
+}

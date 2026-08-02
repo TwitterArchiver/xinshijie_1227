@@ -1,0 +1,283 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1811430427535765504",
+    "conversation_id": "2059183856209801520",
+    "created_at": "2026-05-28T19:20:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T20:20:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060078843696955882"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1658406663878242304",
+          "start": 0,
+          "username": "xiaohuli2282"
+        },
+        {
+          "end": 29,
+          "id": "1775522951749591040",
+          "start": 14,
+          "username": "binbin77930833"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060078843696955882",
+    "in_reply_to_user_id": "1658406663878242304",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059888757307060634",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiaohuli2282 @binbin77930833 我哭了我以为真的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1811430427535765504",
+        "conversation_id": "2059183856209801520",
+        "created_at": "2026-05-28T19:20:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T20:20:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060078843696955882"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1658406663878242304",
+              "start": 0,
+              "username": "xiaohuli2282"
+            },
+            {
+              "end": 29,
+              "id": "1775522951749591040",
+              "start": 14,
+              "username": "binbin77930833"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060078843696955882",
+        "in_reply_to_user_id": "1658406663878242304",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059888757307060634",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaohuli2282 @binbin77930833 我哭了我以为真的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1658406663878242304",
+        "conversation_id": "2059183856209801520",
+        "created_at": "2026-05-28T06:45:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T07:45:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059888757307060634"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1811430427535765504",
+              "start": 0,
+              "username": "xinshijie_1227"
+            },
+            {
+              "end": 31,
+              "id": "1775522951749591040",
+              "start": 16,
+              "username": "binbin77930833"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059888757307060634",
+        "in_reply_to_user_id": "1811430427535765504",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059459558922219588",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xinshijie_1227 @binbin77930833 能信的这辈子有了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-11T16:01:12.000Z",
+        "description": "嗑药吸毒自残 | 负能量 | 互联网的隐匿栖身之所 | 查成分互of | \ntg频道：https://t.co/q5Z49VdRn3 | 俄罗斯臭傻逼@requiem_soulss",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 90,
+                "start": 75,
+                "username": "requiem_soulss"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/xinshijie0000",
+                "end": 66,
+                "expanded_url": "https://t.me/xinshijie0000",
+                "start": 43,
+                "url": "https://t.co/q5Z49VdRn3"
+              }
+            ]
+          }
+        },
+        "id": "1811430427535765504",
+        "location": "🚪8.88开放朋友圈陪闲聊",
+        "name": "美術館館長",
+        "pinned_tweet_id": "2035900548063568228",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037145672412258304/HWwdgB_x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 371,
+          "following_count": 235,
+          "like_count": 3920,
+          "listed_count": 0,
+          "media_count": 431,
+          "tweet_count": 1474
+        },
+        "username": "xinshijie_1227",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-16T09:39:08.000Z",
+        "description": "这种天气可真少见啊。欸，你冷吗？冷的话，可以把手埋进我的尾巴毛里。",
+        "id": "1658406663878242304",
+        "name": "小狐狸",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1658406798397947904/7jLRVdE7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 3,
+          "like_count": 57,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 17
+        },
+        "username": "xiaohuli2282",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-03T13:57:29.000Z",
+        "description": "07年丨无证含糖丨mtf丨提供免费药物咨询丨药理低能选手丨互fo😭😭😭丨愿每一个药物滥用者脱离深渊丨最好的妈妈@07linseven匿名提问https://t.co/72Eg4eXMYj",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 55,
+                "username": "07linseven"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/binbin779",
+                "end": 93,
+                "expanded_url": "https://ngl.link/binbin779",
+                "start": 70,
+                "url": "https://t.co/72Eg4eXMYj"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yaowubaike.ca",
+                "end": 23,
+                "expanded_url": "http://yaowubaike.ca",
+                "start": 0,
+                "url": "https://t.co/JSuLk946oP"
+              }
+            ]
+          }
+        },
+        "id": "1775522951749591040",
+        "location": "普瑞巴林工厂🏭",
+        "name": "Rosemary#天国四",
+        "pinned_tweet_id": "2049463049023861091",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009670845724274690/Dujk7KSM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 513,
+          "following_count": 320,
+          "like_count": 1290,
+          "listed_count": 2,
+          "media_count": 68,
+          "tweet_count": 516
+        },
+        "url": "https://t.co/JSuLk946oP",
+        "username": "binbin77930833",
+        "verified": false
+      }
+    ]
+  }
+}

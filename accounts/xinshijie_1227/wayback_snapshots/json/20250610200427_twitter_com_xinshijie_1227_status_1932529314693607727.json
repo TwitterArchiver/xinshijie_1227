@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1811430427535765504",
+    "conversation_id": "1904728779957633449",
+    "created_at": "2025-06-10T20:04:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-10T21:04:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1932529314693607727"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1820798113474289664",
+          "start": 0,
+          "username": "oyl1365256"
+        },
+        {
+          "end": 24,
+          "id": "1889367901708361729",
+          "start": 12,
+          "username": "DoDo1758497"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1932529314693607727",
+    "in_reply_to_user_id": "1820798113474289664",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1932132880253354064",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@oyl1365256 @DoDo1758497 我家门口的药店，还有pdd上，pdd上有医生给你开处方"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1811430427535765504",
+        "conversation_id": "1904728779957633449",
+        "created_at": "2025-06-10T20:04:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-10T21:04:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1932529314693607727"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1820798113474289664",
+              "start": 0,
+              "username": "oyl1365256"
+            },
+            {
+              "end": 24,
+              "id": "1889367901708361729",
+              "start": 12,
+              "username": "DoDo1758497"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1932529314693607727",
+        "in_reply_to_user_id": "1820798113474289664",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1932132880253354064",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@oyl1365256 @DoDo1758497 我家门口的药店，还有pdd上，pdd上有医生给你开处方"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1820798113474289664",
+        "conversation_id": "1904728779957633449",
+        "created_at": "2025-06-09T17:49:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-09T18:49:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1932132880253354064"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1811430427535765504",
+              "start": 0,
+              "username": "xinshijie_1227"
+            },
+            {
+              "end": 28,
+              "id": "1889367901708361729",
+              "start": 16,
+              "username": "DoDo1758497"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1932132880253354064",
+        "in_reply_to_user_id": "1811430427535765504",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1932132622475694108",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xinshijie_1227 @DoDo1758497 能问一下pt哪买吗，我看是处方啊。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-11T16:01:12.000Z",
+        "description": "嗑药 | 自残 | 吐黑水 | 互联网的隐匿栖身之所『会回fo，对妹子会非常友好』 | 男友@requiem_soulss",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 46,
+                "username": "requiem_soulss"
+              }
+            ]
+          }
+        },
+        "id": "1811430427535765504",
+        "location": "不再收🚪只加妹子",
+        "name": "美術館館長",
+        "pinned_tweet_id": "1921997129985216603",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1929041425536266242/Uwpg_cd1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 178,
+          "following_count": 165,
+          "like_count": 3102,
+          "listed_count": 0,
+          "media_count": 242,
+          "tweet_count": 1005
+        },
+        "username": "xinshijie_1227",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-06T12:24:49.000Z",
+        "description": "",
+        "id": "1820798113474289664",
+        "name": "oyl",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1825636842563043329/8dCTpDAV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 72,
+          "like_count": 22,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 41
+        },
+        "username": "oyl1365256",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-11T17:36:38.000Z",
+        "description": "",
+        "id": "1889367901708361729",
+        "location": "in your heart",
+        "name": "加入你的昵称",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931018786112684033/UPMDroXI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 7,
+          "like_count": 7,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 16
+        },
+        "username": "DoDo1758497",
+        "verified": false
+      }
+    ]
+  }
+}

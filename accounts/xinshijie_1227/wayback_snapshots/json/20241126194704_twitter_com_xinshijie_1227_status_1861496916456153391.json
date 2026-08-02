@@ -1,0 +1,187 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1811430427535765504",
+    "conversation_id": "1861408146549592211",
+    "created_at": "2024-11-26T19:47:04.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-26T20:47:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1861496916456153391"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1836782122037874688",
+          "start": 0,
+          "username": "mio1738468"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1861496916456153391",
+    "in_reply_to_user_id": "1836782122037874688",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1861408146549592211",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mio1738468 跟心理咨询师的水平能力和职业素养有关系，反正我找了五次心理咨询，只有第五次遇到的医生一针见血在我模糊的言语中找到了我原生家庭的致命问题，其他的感觉纯属在骗我钱"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1811430427535765504",
+        "conversation_id": "1861408146549592211",
+        "created_at": "2024-11-26T19:47:04.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-26T20:47:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1861496916456153391"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1836782122037874688",
+              "start": 0,
+              "username": "mio1738468"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1861496916456153391",
+        "in_reply_to_user_id": "1836782122037874688",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1861408146549592211",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mio1738468 跟心理咨询师的水平能力和职业素养有关系，反正我找了五次心理咨询，只有第五次遇到的医生一针见血在我模糊的言语中找到了我原生家庭的致命问题，其他的感觉纯属在骗我钱"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1836782122037874688",
+        "conversation_id": "1861408146549592211",
+        "created_at": "2024-11-26T13:54:20.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-26T14:54:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1861408146549592211"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1861408146549592211",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 6044,
+          "like_count": 98,
+          "quote_count": 3,
+          "reply_count": 72,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "心理咨询真的有用吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-11T16:01:12.000Z",
+        "description": "痛苦是没法被比较的，比较就成为装饰品了",
+        "id": "1811430427535765504",
+        "name": "˚・* ٭☣︎ 美術館館長 ☣︎٭ *・˚",
+        "pinned_tweet_id": "1861491236710031661",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1860344393850613760/tW2czgA9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 101,
+          "like_count": 849,
+          "listed_count": 0,
+          "tweet_count": 87
+        },
+        "username": "xinshijie_1227",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-19T14:59:26.000Z",
+        "description": "我是今予/双相/碎碎念-分享日常/🚪20/50，好友位/纯绿陪聊，给的越多越热情/粥批/紫菜小号@jy3152509243 /谢谢你和我一起玩😽/手作围巾长期有售",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 48,
+                "username": "jy3152509243"
+              }
+            ]
+          }
+        },
+        "id": "1836782122037874688",
+        "location": "距离你3km",
+        "name": "今天也在被碳酸锂噎死",
+        "pinned_tweet_id": "1857845525556638103",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1848603443956748290/A5Wh6pB6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2879,
+          "following_count": 470,
+          "like_count": 5646,
+          "listed_count": 3,
+          "tweet_count": 4454
+        },
+        "username": "mio1738468",
+        "verified": false
+      }
+    ]
+  }
+}

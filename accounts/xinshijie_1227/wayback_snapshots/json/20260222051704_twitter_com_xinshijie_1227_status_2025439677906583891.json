@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1811430427535765504",
+    "conversation_id": "2024702725599219750",
+    "created_at": "2026-02-22T05:17:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-22T06:17:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025439677906583891"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1999654663638134784",
+          "start": 0,
+          "username": "xzhny138674"
+        },
+        {
+          "end": 29,
+          "id": "1957509667787325440",
+          "start": 13,
+          "username": "pleazdontleavme"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025439677906583891",
+    "in_reply_to_user_id": "1999654663638134784",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025439414089093180",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xzhny138674 @pleazdontleavme 好🥲"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1811430427535765504",
+        "conversation_id": "2024702725599219750",
+        "created_at": "2026-02-22T05:17:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-22T06:17:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025439677906583891"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1999654663638134784",
+              "start": 0,
+              "username": "xzhny138674"
+            },
+            {
+              "end": 29,
+              "id": "1957509667787325440",
+              "start": 13,
+              "username": "pleazdontleavme"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025439677906583891",
+        "in_reply_to_user_id": "1999654663638134784",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025439414089093180",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xzhny138674 @pleazdontleavme 好🥲"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1999654663638134784",
+        "conversation_id": "2024702725599219750",
+        "created_at": "2026-02-22T05:16:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-22T06:16:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025439414089093180"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1811430427535765504",
+              "start": 0,
+              "username": "xinshijie_1227"
+            },
+            {
+              "end": 32,
+              "id": "1957509667787325440",
+              "start": 16,
+              "username": "pleazdontleavme"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025439414089093180",
+        "in_reply_to_user_id": "1811430427535765504",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025430942488428711",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xinshijie_1227 @pleazdontleavme 现在都是预埋包，以后那些现埋的就别信了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-11T16:01:12.000Z",
+        "description": "嗑药 | 自残 | 吐黑水 ｜哥特or地雷女| 互联网的隐匿栖身之所｜狗屎馅俄罗斯大列巴@requiem_soulss tg频道：https://t.co/q5Z49Vdjxv（会在频道里发血图和日常照）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 59,
+                "start": 44,
+                "username": "requiem_soulss"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/xinshijie0000",
+                "end": 88,
+                "expanded_url": "https://t.me/xinshijie0000",
+                "start": 65,
+                "url": "https://t.co/q5Z49Vdjxv"
+              }
+            ]
+          }
+        },
+        "id": "1811430427535765504",
+        "location": "🚪8.88开放朋友圈陪闲聊",
+        "name": "美術館館長",
+        "pinned_tweet_id": "2024805135999017151",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009811412412157952/ARAxYDf-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 148,
+          "following_count": 203,
+          "like_count": 3606,
+          "listed_count": 1,
+          "media_count": 363,
+          "tweet_count": 1278
+        },
+        "username": "xinshijie_1227",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-13T01:37:01.000Z",
+        "description": "",
+        "id": "1999654663638134784",
+        "name": "Ki",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018581899908960256/qBrvlN06_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 16,
+          "like_count": 3,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 20
+        },
+        "username": "xzhny138674",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-18T18:27:41.000Z",
+        "description": "08女/bi/lgbt全友好/同类互fo/我叫下水道/可以扩列/自残穿孔od/cptsd/bpd/dpd/极度依赖/无药可救",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/y69659y",
+                "end": 23,
+                "expanded_url": "https://ngl.link/y69659y",
+                "start": 0,
+                "url": "https://t.co/JcxwpFXiEy"
+              }
+            ]
+          }
+        },
+        "id": "1957509667787325440",
+        "location": "Припять",
+        "name": "骯髒下水道里的卑劣嘔吐物",
+        "pinned_tweet_id": "2024317059778453846",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023757108576219139/uzRSkV9f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 264,
+          "following_count": 504,
+          "like_count": 2909,
+          "listed_count": 0,
+          "media_count": 61,
+          "tweet_count": 1132
+        },
+        "url": "https://t.co/JcxwpFXiEy",
+        "username": "pleazdontleavme",
+        "verified": false
+      }
+    ]
+  }
+}

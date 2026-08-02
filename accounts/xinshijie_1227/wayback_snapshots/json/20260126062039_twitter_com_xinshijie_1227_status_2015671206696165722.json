@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1811430427535765504",
+    "conversation_id": "2015590545020842412",
+    "created_at": "2026-01-26T06:20:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-26T07:20:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2015671206696165722"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1641968587102621696",
+          "start": 0,
+          "username": "0voki33Me"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015671206696165722",
+    "in_reply_to_user_id": "1641968587102621696",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2015661857890304012",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@0voki33Me 骇死力"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1811430427535765504",
+        "conversation_id": "2015590545020842412",
+        "created_at": "2026-01-26T06:20:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-26T07:20:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015671206696165722"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1641968587102621696",
+              "start": 0,
+              "username": "0voki33Me"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015671206696165722",
+        "in_reply_to_user_id": "1641968587102621696",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015661857890304012",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@0voki33Me 骇死力"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1641968587102621696",
+        "conversation_id": "2015590545020842412",
+        "created_at": "2026-01-26T05:43:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-26T06:43:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015661857890304012"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1811430427535765504",
+              "start": 0,
+              "username": "xinshijie_1227"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015661857890304012",
+        "in_reply_to_user_id": "1811430427535765504",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 26,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015590545020842412",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xinshijie_1227 我不行了好阔怕"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-11T16:01:12.000Z",
+        "description": "嗑药 | 自残 | 吐黑水 | 互联网的隐匿栖身之所｜哥特or地雷女｜狗屎馅俄罗斯大列巴@requiem_soulss            tg频道：https://t.co/q5Z49Vdjxv（会在频道里发血图和日常照）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 59,
+                "start": 44,
+                "username": "requiem_soulss"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/xinshijie0000",
+                "end": 99,
+                "expanded_url": "https://t.me/xinshijie0000",
+                "start": 76,
+                "url": "https://t.co/q5Z49Vdjxv"
+              }
+            ]
+          }
+        },
+        "id": "1811430427535765504",
+        "location": "不再收🚪不再加男",
+        "name": "美術館館長",
+        "pinned_tweet_id": "1921997129985216603",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009811412412157952/ARAxYDf-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 134,
+          "following_count": 186,
+          "like_count": 3272,
+          "listed_count": 1,
+          "media_count": 348,
+          "tweet_count": 1221
+        },
+        "username": "xinshijie_1227",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-01T01:00:11.000Z",
+        "description": "温良人士一枚骂我我鸟都不鸟你 默认骂我的臭婊子本人及其爸爸妈妈爷爷奶奶外公外婆哥哥弟弟姐姐妹妹伯父伯母叔叔婶婶堂兄堂姐堂弟堂妹阿姨姨父表兄表姐表弟表妹老公老婆公公婆婆岳父岳母嫂子弟媳姐夫妹夫全部死光光死不瞑目死无全尸暴尸荒野粉身碎骨身首异处肝脑涂地尸骨无存抱恨终天饮恨而终死于非命死无葬身含恨九泉 提问箱⬇️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/0voki33me",
+                "end": 23,
+                "expanded_url": "https://ngl.link/0voki33me",
+                "start": 0,
+                "url": "https://t.co/Dhfap4dheT"
+              }
+            ]
+          }
+        },
+        "id": "1641968587102621696",
+        "location": "距离你1m",
+        "name": "4w4y",
+        "pinned_tweet_id": "2015665677303267619",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015651938621116416/tuOlJ8YV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 356,
+          "following_count": 921,
+          "like_count": 4068,
+          "listed_count": 0,
+          "media_count": 118,
+          "tweet_count": 2272
+        },
+        "url": "https://t.co/Dhfap4dheT",
+        "username": "0voki33Me",
+        "verified": false
+      }
+    ]
+  }
+}

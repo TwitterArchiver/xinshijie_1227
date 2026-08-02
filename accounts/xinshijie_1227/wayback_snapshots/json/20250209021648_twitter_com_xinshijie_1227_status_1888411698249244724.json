@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1888096086889320448"
+      ],
+      "media_source_tweet_id": [
+        "1888096137631907928"
+      ]
+    },
+    "author_id": "1811430427535765504",
+    "conversation_id": "1888411698249244724",
+    "created_at": "2025-02-09T02:16:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-09T03:16:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1888411698249244724"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1707898678327812096",
+          "start": 3,
+          "username": "lxIxIxlxl"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/DiIj1klsS6",
+          "end": 38,
+          "expanded_url": "https://x.com/lxIxIxlxl/status/1888096137631907928/photo/1",
+          "media_key": "3_1888096086889320448",
+          "start": 15,
+          "url": "https://t.co/DiIj1klsS6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1888411698249244724",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 129
+    },
+    "referenced_tweets": [
+      {
+        "id": "1888096137631907928",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @lxIxIxlxl: https://t.co/DiIj1klsS6"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 678,
+        "media_key": "3_1888096086889320448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GjPdYzDX0AAxjWF.jpg",
+        "width": 736
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1888096086889320448"
+          ],
+          "media_source_tweet_id": [
+            "1888096137631907928"
+          ]
+        },
+        "author_id": "1811430427535765504",
+        "conversation_id": "1888411698249244724",
+        "created_at": "2025-02-09T02:16:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-09T03:16:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1888411698249244724"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1707898678327812096",
+              "start": 3,
+              "username": "lxIxIxlxl"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/DiIj1klsS6",
+              "end": 38,
+              "expanded_url": "https://x.com/lxIxIxlxl/status/1888096137631907928/photo/1",
+              "media_key": "3_1888096086889320448",
+              "start": 15,
+              "url": "https://t.co/DiIj1klsS6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1888411698249244724",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 129
+        },
+        "referenced_tweets": [
+          {
+            "id": "1888096137631907928",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @lxIxIxlxl: https://t.co/DiIj1klsS6"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1888096086889320448"
+          ]
+        },
+        "author_id": "1707898678327812096",
+        "conversation_id": "1888096137631907928",
+        "created_at": "2025-02-08T05:22:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-08T06:22:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1888096137631907928"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DiIj1klsS6",
+              "end": 23,
+              "expanded_url": "https://x.com/lxIxIxlxl/status/1888096137631907928/photo/1",
+              "media_key": "3_1888096086889320448",
+              "start": 0,
+              "url": "https://t.co/DiIj1klsS6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1888096137631907928",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 141,
+          "impression_count": 33712,
+          "like_count": 1917,
+          "quote_count": 8,
+          "reply_count": 12,
+          "retweet_count": 129
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/DiIj1klsS6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-11T16:01:12.000Z",
+        "description": "od | 自残 | 吐黑水 bi 对妹子会非常友好^_^   会回fo",
+        "id": "1811430427535765504",
+        "location": "🚪50绿色陪聊",
+        "name": "美術館館長",
+        "pinned_tweet_id": "1886044580723949727",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1884080533770231811/F8kuy6DT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40,
+          "following_count": 110,
+          "like_count": 1556,
+          "listed_count": 0,
+          "media_count": 75,
+          "tweet_count": 331
+        },
+        "username": "xinshijie_1227",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-29T23:22:38.000Z",
+        "description": "الحساب للبيع🛑 @88i16r",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 14,
+                "username": "88i16r"
+              }
+            ]
+          }
+        },
+        "id": "1707898678327812096",
+        "name": "🚬",
+        "pinned_tweet_id": "1883941573576253926",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1813359459755843584/WU2Jbgep_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 194271,
+          "following_count": 3230,
+          "like_count": 615,
+          "listed_count": 337,
+          "media_count": 927,
+          "tweet_count": 1070
+        },
+        "username": "lxIxIxlxl",
+        "verified": true
+      }
+    ]
+  }
+}

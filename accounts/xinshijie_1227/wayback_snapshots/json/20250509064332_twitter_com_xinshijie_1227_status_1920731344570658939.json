@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1811430427535765504",
+    "conversation_id": "1920402347211002051",
+    "created_at": "2025-05-09T06:43:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-09T07:43:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1920731344570658939"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1757089118381846529",
+          "start": 0,
+          "username": "1643341449Lucy"
+        },
+        {
+          "end": 24,
+          "id": "1433678976564662273",
+          "start": 16,
+          "username": "hsn8086"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1920731344570658939",
+    "in_reply_to_user_id": "1757089118381846529",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1920592468627558894",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@1643341449Lucy @hsn8086 天赋怪怎么打"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1811430427535765504",
+        "conversation_id": "1920402347211002051",
+        "created_at": "2025-05-09T06:43:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-09T07:43:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1920731344570658939"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1757089118381846529",
+              "start": 0,
+              "username": "1643341449Lucy"
+            },
+            {
+              "end": 24,
+              "id": "1433678976564662273",
+              "start": 16,
+              "username": "hsn8086"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1920731344570658939",
+        "in_reply_to_user_id": "1757089118381846529",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1920592468627558894",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@1643341449Lucy @hsn8086 天赋怪怎么打"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1757089118381846529",
+        "conversation_id": "1920402347211002051",
+        "created_at": "2025-05-08T21:31:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-08T22:31:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1920592468627558894"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1433678976564662273",
+              "start": 0,
+              "username": "hsn8086"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1920592468627558894",
+        "in_reply_to_user_id": "1433678976564662273",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 8435,
+          "like_count": 107,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1920402347211002051",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hsn8086 吃汉堡吧碳水上下置"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-11T16:01:12.000Z",
+        "description": "嗑药 | 自残 | 吐黑水 | 自由精神病 『会回fo，对妹子会非常友好』:3 我的俄罗斯男仆@requiem_soulss",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 62,
+                "start": 47,
+                "username": "requiem_soulss"
+              }
+            ]
+          }
+        },
+        "id": "1811430427535765504",
+        "location": "🚪50绿色陪聊男的过门女的免费",
+        "name": "美術館館長",
+        "pinned_tweet_id": "1901626066441019862",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1915520664599224322/2WrUI4Tq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 89,
+          "following_count": 156,
+          "like_count": 2955,
+          "listed_count": 1,
+          "media_count": 228,
+          "tweet_count": 897
+        },
+        "username": "xinshijie_1227",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-12T17:08:10.000Z",
+        "description": "我的生活碎片及树洞",
+        "id": "1757089118381846529",
+        "location": "Singapore",
+        "name": "🦋",
+        "pinned_tweet_id": "1916432946451411004",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1916835683068682240/IgziDlat_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 5,
+          "like_count": 37,
+          "listed_count": 1,
+          "media_count": 44,
+          "tweet_count": 172
+        },
+        "username": "1643341449Lucy",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-03T06:31:41.000Z",
+        "description": "你好, 我是hsn! 老图: @hsn8086xe | 注: 推文内容仅供娱乐,真假自辨!",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 15,
+                "username": "hsn8086xe"
+              }
+            ]
+          }
+        },
+        "id": "1433678976564662273",
+        "location": "Internet",
+        "name": "hsn",
+        "pinned_tweet_id": "1909591657043144887",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1881530651159179264/61qPk38t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 65455,
+          "following_count": 960,
+          "like_count": 39708,
+          "listed_count": 148,
+          "media_count": 10628,
+          "tweet_count": 16810
+        },
+        "username": "hsn8086",
+        "verified": true
+      }
+    ]
+  }
+}

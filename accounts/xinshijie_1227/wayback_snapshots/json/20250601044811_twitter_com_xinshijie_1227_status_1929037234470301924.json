@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1811430427535765504",
+    "conversation_id": "1928721643544678662",
+    "created_at": "2025-06-01T04:48:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-01T05:48:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1929037234470301924"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1771573867305152512",
+          "start": 0,
+          "username": "MStubbo9888"
+        },
+        {
+          "end": 25,
+          "id": "1541015582434287617",
+          "start": 13,
+          "username": "sacrimtechs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1929037234470301924",
+    "in_reply_to_user_id": "1771573867305152512",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1928747208678986000",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MStubbo9888 @sacrimtechs 真的假的他能帮忙追款吗，我们定金走的是微信"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1811430427535765504",
+        "conversation_id": "1928721643544678662",
+        "created_at": "2025-06-01T04:48:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-01T05:48:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1929037234470301924"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1771573867305152512",
+              "start": 0,
+              "username": "MStubbo9888"
+            },
+            {
+              "end": 25,
+              "id": "1541015582434287617",
+              "start": 13,
+              "username": "sacrimtechs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1929037234470301924",
+        "in_reply_to_user_id": "1771573867305152512",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1928747208678986000",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MStubbo9888 @sacrimtechs 真的假的他能帮忙追款吗，我们定金走的是微信"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1771573867305152512",
+        "conversation_id": "1928721643544678662",
+        "created_at": "2025-05-31T09:35:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-31T10:35:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1928747208678986000"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1811430427535765504",
+              "start": 0,
+              "username": "xinshijie_1227"
+            },
+            {
+              "end": 35,
+              "id": "1541015582434287617",
+              "start": 23,
+              "username": "sacrimtechs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1928747208678986000",
+        "in_reply_to_user_id": "1811430427535765504",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1928721643544678662",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xinshijie_1227 不要失去希望，@sacrimtechs 帮助我找回了丢失的资金，你也可以给他发消息。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-11T16:01:12.000Z",
+        "description": "嗑药 | 自残 | 吐黑水 | 自由精神病 『会回fo，对妹子会非常友好』 不卖不约不发本人相关的任何色情内容 | 男友兼仆人@requiem_soulss",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 78,
+                "start": 63,
+                "username": "requiem_soulss"
+              }
+            ]
+          }
+        },
+        "id": "1811430427535765504",
+        "location": "🚪50绿色陪聊男的过门女的免费",
+        "name": "美術館館長",
+        "pinned_tweet_id": "1921997129985216603",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1915520664599224322/2WrUI4Tq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 183,
+          "following_count": 163,
+          "like_count": 3068,
+          "listed_count": 0,
+          "media_count": 239,
+          "tweet_count": 982
+        },
+        "username": "xinshijie_1227",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-23T16:25:14.000Z",
+        "description": "crypto enthusiast..investing..bitcoin",
+        "id": "1771573867305152512",
+        "name": "Matt stubbo",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1771574102077149184/N5S4kguA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 74,
+          "following_count": 40,
+          "like_count": 1,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 6047
+        },
+        "username": "MStubbo9888",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-26T11:09:30.000Z",
+        "description": "RECOVERY OF CRYPTO ASSETS AND STOLEN NFTS|| HACKING for the greater good|| JUSTIFIER|| DM 👨‍💻 is OPEN 247",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/sacrim_techs",
+                "end": 23,
+                "expanded_url": "https://t.me/sacrim_techs",
+                "start": 0,
+                "url": "https://t.co/SOIVR7LnYq"
+              }
+            ]
+          }
+        },
+        "id": "1541015582434287617",
+        "name": "SACRIM RECOVERY AGENCY",
+        "pinned_tweet_id": "1723054279294844964",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1723051369400049664/qB1mQXkH_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 5871,
+          "following_count": 99,
+          "like_count": 1,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 120
+        },
+        "url": "https://t.co/SOIVR7LnYq",
+        "username": "sacrimtechs",
+        "verified": true
+      }
+    ]
+  }
+}

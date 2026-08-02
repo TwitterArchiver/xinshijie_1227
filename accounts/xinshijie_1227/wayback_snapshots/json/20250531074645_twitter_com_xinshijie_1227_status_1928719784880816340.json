@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1811430427535765504",
+    "conversation_id": "1928719784880816340",
+    "created_at": "2025-05-31T07:46:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-31T08:46:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1928719784880816340"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1592865779241734144",
+          "start": 3,
+          "username": "yuanyuan774"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1928719784880816340",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 98
+    },
+    "referenced_tweets": [
+      {
+        "id": "1920336446868627564",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yuanyuan774: 哥:妹妹好骚啊，流了这么多水，哥帮你把跳蛋塞进去\n哥:哟，你换新跳蛋啦，你的旧跳蛋呢\n妹:这都让你看出来啦，我的旧跳蛋让我放转转二手平台回收了\n哥:妹，你喷的好高啊\n妹:也没有很高啦，我喷的那么高主要得有一个专业的跳蛋，这是我在得物买的，便宜还…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1811430427535765504",
+        "conversation_id": "1928719784880816340",
+        "created_at": "2025-05-31T07:46:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-31T08:46:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1928719784880816340"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1592865779241734144",
+              "start": 3,
+              "username": "yuanyuan774"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1928719784880816340",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 98
+        },
+        "referenced_tweets": [
+          {
+            "id": "1920336446868627564",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yuanyuan774: 哥:妹妹好骚啊，流了这么多水，哥帮你把跳蛋塞进去\n哥:哟，你换新跳蛋啦，你的旧跳蛋呢\n妹:这都让你看出来啦，我的旧跳蛋让我放转转二手平台回收了\n哥:妹，你喷的好高啊\n妹:也没有很高啦，我喷的那么高主要得有一个专业的跳蛋，这是我在得物买的，便宜还…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592865779241734144",
+        "conversation_id": "1920336446868627564",
+        "created_at": "2025-05-08T04:34:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-08T05:34:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1920336446868627564"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1920336446868627564",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 98,
+          "impression_count": 208139,
+          "like_count": 2617,
+          "quote_count": 18,
+          "reply_count": 156,
+          "retweet_count": 98
+        },
+        "reply_settings": "everyone",
+        "text": "哥:妹妹好骚啊，流了这么多水，哥帮你把跳蛋塞进去\n哥:哟，你换新跳蛋啦，你的旧跳蛋呢\n妹:这都让你看出来啦，我的旧跳蛋让我放转转二手平台回收了\n哥:妹，你喷的好高啊\n妹:也没有很高啦，我喷的那么高主要得有一个专业的跳蛋，这是我在得物买的，便宜还保真"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-11T16:01:12.000Z",
+        "description": "嗑药 | 自残 | 吐黑水 | 自由精神病 『会回fo，对妹子会非常友好』 不卖不约不发本人相关的任何色情内容 | 男友兼仆人@requiem_soulss",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 78,
+                "start": 63,
+                "username": "requiem_soulss"
+              }
+            ]
+          }
+        },
+        "id": "1811430427535765504",
+        "location": "🚪50绿色陪聊男的过门女的免费",
+        "name": "美術館館長",
+        "pinned_tweet_id": "1921997129985216603",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1915520664599224322/2WrUI4Tq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 184,
+          "following_count": 163,
+          "like_count": 3063,
+          "listed_count": 0,
+          "media_count": 239,
+          "tweet_count": 977
+        },
+        "username": "xinshijie_1227",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-16T13:03:00.000Z",
+        "description": "路边的小猫是我变的⁃ ⩊ ⁃",
+        "id": "1592865779241734144",
+        "location": "喜欢就打钱",
+        "name": "你是不是欠",
+        "pinned_tweet_id": "1927374338707145034",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922329752402051075/lE1Q0HWe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9677,
+          "following_count": 300,
+          "like_count": 26415,
+          "listed_count": 16,
+          "media_count": 1028,
+          "tweet_count": 21257
+        },
+        "username": "yuanyuan774",
+        "verified": false
+      }
+    ]
+  }
+}

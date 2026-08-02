@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1811430427535765504",
+    "conversation_id": "1886243448245854610",
+    "created_at": "2025-02-04T20:37:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-04T21:37:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1886876732390826363"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1886876732390826363",
+    "in_reply_to_user_id": "1811430427535765504",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1886243448245854610",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "其实我很讨厌改花刀这个梗，不管割的深浅痛苦存在就是存在啊，过的开心谁愿意用刀割自己"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1811430427535765504",
+        "conversation_id": "1886243448245854610",
+        "created_at": "2025-02-04T20:37:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-04T21:37:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1886876732390826363"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1886876732390826363",
+        "in_reply_to_user_id": "1811430427535765504",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1886243448245854610",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "其实我很讨厌改花刀这个梗，不管割的深浅痛苦存在就是存在啊，过的开心谁愿意用刀割自己"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1886243428037730304",
+            "3_1886243428591415297"
+          ]
+        },
+        "author_id": "1811430427535765504",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1886243448245854610",
+        "created_at": "2025-02-03T02:40:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-03T03:40:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1886243448245854610"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NmzluBA3LK",
+              "end": 51,
+              "expanded_url": "https://x.com/xinshijie_1227/status/1886243448245854610/photo/1",
+              "media_key": "3_1886243428037730304",
+              "start": 28,
+              "url": "https://t.co/NmzluBA3LK"
+            },
+            {
+              "display_url": "pic.x.com/NmzluBA3LK",
+              "end": 51,
+              "expanded_url": "https://x.com/xinshijie_1227/status/1886243448245854610/photo/1",
+              "media_key": "3_1886243428591415297",
+              "start": 28,
+              "url": "https://t.co/NmzluBA3LK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1886243448245854610",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 560,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "虽然大家都在玩改花刀的梗 但是改花刀真的很像自残的伤口 https://t.co/NmzluBA3LK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-11T16:01:12.000Z",
+        "description": "od | 自残 | 吐黑水     bi 对妹子会很友好^_^",
+        "id": "1811430427535765504",
+        "location": "🚪50绿色陪聊",
+        "name": "美術館館長",
+        "pinned_tweet_id": "1886044557634404531",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1884080533770231811/F8kuy6DT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36,
+          "following_count": 109,
+          "like_count": 1437,
+          "listed_count": 0,
+          "media_count": 62,
+          "tweet_count": 289
+        },
+        "username": "xinshijie_1227",
+        "verified": false
+      }
+    ]
+  }
+}

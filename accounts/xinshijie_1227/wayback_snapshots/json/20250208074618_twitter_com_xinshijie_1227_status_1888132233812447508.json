@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1811430427535765504",
+    "conversation_id": "1887518837446516745",
+    "created_at": "2025-02-08T07:46:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-08T08:46:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1888132233812447508"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1593992720040660992",
+          "start": 0,
+          "username": "naiyoupaofuaa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1888132233812447508",
+    "in_reply_to_user_id": "1593992720040660992",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1887518837446516745",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@naiyoupaofuaa 除了尖叫土拨鼠那个烂梗玩两遍让我很无语意外其他的挺不错的，当搞笑片看就行了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1811430427535765504",
+        "conversation_id": "1887518837446516745",
+        "created_at": "2025-02-08T07:46:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-08T08:46:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1888132233812447508"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1593992720040660992",
+              "start": 0,
+              "username": "naiyoupaofuaa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1888132233812447508",
+        "in_reply_to_user_id": "1593992720040660992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1887518837446516745",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@naiyoupaofuaa 除了尖叫土拨鼠那个烂梗玩两遍让我很无语意外其他的挺不错的，当搞笑片看就行了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1593992720040660992",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          }
+        ],
+        "conversation_id": "1887518837446516745",
+        "created_at": "2025-02-06T15:08:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-06T16:08:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1887518837446516745"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1887518837446516745",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 24290,
+          "like_count": 89,
+          "quote_count": 0,
+          "reply_count": 87,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "哪吒真的有那么好看吗😦感觉墙内每个软件都在夸他 我明天休班在考虑要不要去看🤔 （我平时其实是懒得去电影院看电影的，但听说很好看所以有点想去"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-11T16:01:12.000Z",
+        "description": "od | 自残 | 吐黑水     bi 对妹子会很友好^_^",
+        "id": "1811430427535765504",
+        "location": "🚪50绿色陪聊",
+        "name": "美術館館長",
+        "pinned_tweet_id": "1886044580723949727",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1884080533770231811/F8kuy6DT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39,
+          "following_count": 109,
+          "like_count": 1490,
+          "listed_count": 0,
+          "media_count": 65,
+          "tweet_count": 301
+        },
+        "username": "xinshijie_1227",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-19T15:41:10.000Z",
+        "description": "碎碎念 😶｜05｜168/115｜istp｜👇🏻下面是个提问箱（可能会集中回复一下下）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/eeyore78811",
+                "end": 23,
+                "expanded_url": "https://ngl.link/eeyore78811",
+                "start": 0,
+                "url": "https://t.co/DRykCWvqVe"
+              }
+            ]
+          }
+        },
+        "id": "1593992720040660992",
+        "location": "天天开心",
+        "name": "奶油泡芙",
+        "pinned_tweet_id": "1877291739750236509",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1877341625845698560/IX-xprkS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 535,
+          "following_count": 129,
+          "like_count": 780,
+          "listed_count": 0,
+          "media_count": 78,
+          "tweet_count": 313
+        },
+        "url": "https://t.co/DRykCWvqVe",
+        "username": "naiyoupaofuaa",
+        "verified": false
+      }
+    ]
+  }
+}

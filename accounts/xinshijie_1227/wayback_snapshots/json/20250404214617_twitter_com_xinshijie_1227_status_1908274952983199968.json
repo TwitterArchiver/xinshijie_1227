@@ -1,0 +1,288 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1811430427535765504",
+    "conversation_id": "1908151317236687037",
+    "created_at": "2025-04-04T21:46:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-04T22:46:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1908274952983199968"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1668826909235372037",
+          "start": 0,
+          "username": "Tailmating"
+        },
+        {
+          "end": 24,
+          "id": "1823248694805962752",
+          "start": 12,
+          "username": "Sexytodashu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1908274952983199968",
+    "in_reply_to_user_id": "1668826909235372037",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1908166036500664541",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Tailmating @Sexytodashu 宝宝你好惨"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1811430427535765504",
+        "conversation_id": "1908151317236687037",
+        "created_at": "2025-04-04T21:46:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-04T22:46:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1908274952983199968"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1668826909235372037",
+              "start": 0,
+              "username": "Tailmating"
+            },
+            {
+              "end": 24,
+              "id": "1823248694805962752",
+              "start": 12,
+              "username": "Sexytodashu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1908274952983199968",
+        "in_reply_to_user_id": "1668826909235372037",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1908166036500664541",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Tailmating @Sexytodashu 宝宝你好惨"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1668826909235372037",
+        "conversation_id": "1908151317236687037",
+        "created_at": "2025-04-04T14:33:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-04T15:33:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1908166036500664541"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1823248694805962752",
+              "start": 0,
+              "username": "Sexytodashu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1908166036500664541",
+        "in_reply_to_user_id": "1823248694805962752",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5163,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1908151317236687037",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sexytodashu 我私信里全是。。。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-11T16:01:12.000Z",
+        "description": "嗑药 | 自残 | 吐黑水 | 自由精神病 \n 『会回fo，对妹子会非常友好』:3\n我的男仆@requiem_soulss",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 46,
+                "username": "requiem_soulss"
+              }
+            ]
+          }
+        },
+        "id": "1811430427535765504",
+        "location": "🚪50绿色陪聊男的过门女的免费",
+        "name": "美術館館長",
+        "pinned_tweet_id": "1901626066441019862",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907513117610749952/QI3vAE-V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 74,
+          "following_count": 139,
+          "like_count": 2755,
+          "listed_count": 1,
+          "media_count": 162,
+          "tweet_count": 719
+        },
+        "username": "xinshijie_1227",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-14T03:45:25.000Z",
+        "description": "Puppy ☆₊⁺🦴🐾₊⁺★｜没关注私信送小黑屋一间｜回礼貌私信 不闲聊 话多拉黑 发屌骂我先出示双亲死亡证明｜小女孩萌都请和我玩🫰🏻｜有🚪168无封顶｜自用vpn🚀：https://t.co/qnNfZJRPcD",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "wwwwwl.sogood9.com/#/register?cod…",
+                "end": 107,
+                "expanded_url": "https://wwwwwl.sogood9.com/#/register?code=U1foS9wp",
+                "start": 84,
+                "url": "https://t.co/qnNfZJRPcD"
+              }
+            ]
+          }
+        },
+        "id": "1668826909235372037",
+        "location": "皇宫",
+        "name": "Koi7",
+        "pinned_tweet_id": "1856278702218252712",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866799733127217152/G3RfblpK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40104,
+          "following_count": 452,
+          "like_count": 65437,
+          "listed_count": 109,
+          "media_count": 268,
+          "tweet_count": 20281
+        },
+        "username": "Tailmating",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-13T06:42:31.000Z",
+        "description": "『 解答各类黄推问题 · 记录网友发骚日常原· 原创黄推知心奶妈 』Web3.被套小白菜一枚『#BTC｜#ETH｜#SOL｜#每日大赛｜#日理万姬 』希望大家能在X上开心快乐冲浪，晚上一定要大头控制住小头！不要上当受骗！女生联系阿房宫进行原创验证@SexytoGbds啵啵🫶",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 51,
+                "start": 47,
+                "tag": "BTC"
+              },
+              {
+                "end": 56,
+                "start": 52,
+                "tag": "ETH"
+              },
+              {
+                "end": 61,
+                "start": 57,
+                "tag": "SOL"
+              },
+              {
+                "end": 67,
+                "start": 62,
+                "tag": "每日大赛"
+              },
+              {
+                "end": 73,
+                "start": 68,
+                "tag": "日理万姬"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 134,
+                "start": 123,
+                "username": "SexytoGbds"
+              }
+            ]
+          }
+        },
+        "id": "1823248694805962752",
+        "name": "Big叔",
+        "pinned_tweet_id": "1900896176838148365",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1891054819605147648/dth3Do_l_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1221268,
+          "following_count": 796,
+          "like_count": 0,
+          "listed_count": 930,
+          "media_count": 607,
+          "tweet_count": 1884
+        },
+        "username": "Sexytodashu",
+        "verified": true
+      }
+    ]
+  }
+}

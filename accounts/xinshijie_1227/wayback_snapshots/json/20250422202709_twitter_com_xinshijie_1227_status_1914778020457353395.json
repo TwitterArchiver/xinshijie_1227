@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1811430427535765504",
+    "conversation_id": "1914198735057465588",
+    "created_at": "2025-04-22T20:27:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-22T21:27:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1914778020457353395"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1507396901594820608",
+          "start": 0,
+          "username": "hgds01"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1914778020457353395",
+    "in_reply_to_user_id": "1507396901594820608",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1914198735057465588",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hgds01 我和我对象"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_1914198727826501632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GpCZmeGacAA4LX3.jpg",
+        "width": 1082
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1811430427535765504",
+        "conversation_id": "1914198735057465588",
+        "created_at": "2025-04-22T20:27:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-22T21:27:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1914778020457353395"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1507396901594820608",
+              "start": 0,
+              "username": "hgds01"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1914778020457353395",
+        "in_reply_to_user_id": "1507396901594820608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1914198735057465588",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hgds01 我和我对象"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1914198727826501632"
+          ]
+        },
+        "author_id": "1507396901594820608",
+        "conversation_id": "1914198735057465588",
+        "created_at": "2025-04-21T06:05:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-21T07:05:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1914198735057465588"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6H7D2YnUU4",
+              "end": 23,
+              "expanded_url": "https://x.com/hgds01/status/1914198735057465588/photo/1",
+              "media_key": "3_1914198727826501632",
+              "start": 0,
+              "url": "https://t.co/6H7D2YnUU4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1914198735057465588",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 179,
+          "impression_count": 288820,
+          "like_count": 3478,
+          "quote_count": 47,
+          "reply_count": 77,
+          "retweet_count": 145
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/6H7D2YnUU4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-11T16:01:12.000Z",
+        "description": "嗑药 | 自残 | 吐黑水 | 自由精神病 『会回fo，对妹子会非常友好』:3 我的俄罗斯男仆@requiem_soulss",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 62,
+                "start": 47,
+                "username": "requiem_soulss"
+              }
+            ]
+          }
+        },
+        "id": "1811430427535765504",
+        "location": "🚪50绿色陪聊男的过门女的免费",
+        "name": "美術館館長",
+        "pinned_tweet_id": "1901626066441019862",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912603105671192576/6oBBqr6j_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 82,
+          "following_count": 143,
+          "like_count": 2891,
+          "listed_count": 1,
+          "media_count": 204,
+          "tweet_count": 836
+        },
+        "username": "xinshijie_1227",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-25T16:40:26.000Z",
+        "description": "‼️广告自辩‼️/感谢你的关注 /接受投稿 过稿即回复 /作品观点不代表本人观点 仅供娱乐/部分作品搬运 侵删/小号@hgds520",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 58,
+                "username": "hgds520"
+              }
+            ]
+          }
+        },
+        "id": "1507396901594820608",
+        "name": "恋",
+        "pinned_tweet_id": "1914734660741149155",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1853640703144046592/OC2mQ87G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 72257,
+          "following_count": 2882,
+          "like_count": 42298,
+          "listed_count": 91,
+          "media_count": 1977,
+          "tweet_count": 6249
+        },
+        "username": "hgds01",
+        "verified": true
+      }
+    ]
+  }
+}

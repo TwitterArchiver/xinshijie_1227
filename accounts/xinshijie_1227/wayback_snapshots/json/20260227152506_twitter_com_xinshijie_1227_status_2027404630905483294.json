@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1811430427535765504",
+    "conversation_id": "2027085142804902122",
+    "created_at": "2026-02-27T15:25:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-27T16:25:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027404630905483294"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1472219833261772801",
+          "start": 0,
+          "username": "xxx_jjkk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027404630905483294",
+    "in_reply_to_user_id": "1472219833261772801",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027085142804902122",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xxx_jjkk pr在药效发作的时候简直就像温柔的天使一样，但是一旦你不吃药了，戒断反应会把你折磨的痛不欲生，迫使你逐渐加量而且离不了他"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1824,
+        "media_key": "3_2027085139973640193",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCGnMeGaEAEXb6B.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1811430427535765504",
+        "conversation_id": "2027085142804902122",
+        "created_at": "2026-02-27T15:25:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T16:25:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027404630905483294"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1472219833261772801",
+              "start": 0,
+              "username": "xxx_jjkk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027404630905483294",
+        "in_reply_to_user_id": "1472219833261772801",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027085142804902122",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xxx_jjkk pr在药效发作的时候简直就像温柔的天使一样，但是一旦你不吃药了，戒断反应会把你折磨的痛不欲生，迫使你逐渐加量而且离不了他"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2027085139973640193"
+          ]
+        },
+        "author_id": "1472219833261772801",
+        "conversation_id": "2027085142804902122",
+        "created_at": "2026-02-26T18:15:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-26T19:15:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027085142804902122"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ewTkgY9HN1",
+              "end": 124,
+              "expanded_url": "https://x.com/xxx_jjkk/status/2027085142804902122/photo/1",
+              "media_key": "3_2027085139973640193",
+              "start": 101,
+              "url": "https://t.co/ewTkgY9HN1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027085142804902122",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 3552,
+          "like_count": 70,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "原来现在普瑞巴林已经被正式认为是可以改善焦虑症的药了。\n那我猛猛的磕啊，某种意义上来说终于可以得到我一直想要的正规治疗了。\n没有钱看医生，不想留案底，最后误打误撞吃了真的能改善自己焦虑的药。谢谢pr。 https://t.co/ewTkgY9HN1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-11T16:01:12.000Z",
+        "description": "嗑药 | 自残 | 吐黑水 ｜哥特or地雷女| 互联网的隐匿栖身之所｜狗屎馅俄罗斯大列巴@requiem_soulss tg频道：https://t.co/q5Z49Vdjxv（会在频道里发血图和日常照）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 59,
+                "start": 44,
+                "username": "requiem_soulss"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/xinshijie0000",
+                "end": 88,
+                "expanded_url": "https://t.me/xinshijie0000",
+                "start": 65,
+                "url": "https://t.co/q5Z49Vdjxv"
+              }
+            ]
+          }
+        },
+        "id": "1811430427535765504",
+        "location": "🚪8.88开放朋友圈陪闲聊",
+        "name": "美術館館長",
+        "pinned_tweet_id": "2024805135999017151",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009811412412157952/ARAxYDf-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 155,
+          "following_count": 205,
+          "like_count": 3673,
+          "listed_count": 1,
+          "media_count": 365,
+          "tweet_count": 1289
+        },
+        "username": "xinshijie_1227",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-18T14:59:07.000Z",
+        "description": "我的人生都储存在这个小小的屏幕里面\n当我有天离开后\n起码还这个地方有过我存在的痕迹",
+        "id": "1472219833261772801",
+        "name": "旖旎",
+        "pinned_tweet_id": "1998847554071704055",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027067181448798208/Fcxrrme-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 58,
+          "following_count": 198,
+          "like_count": 1980,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 257
+        },
+        "username": "xxx_jjkk",
+        "verified": false
+      }
+    ]
+  }
+}

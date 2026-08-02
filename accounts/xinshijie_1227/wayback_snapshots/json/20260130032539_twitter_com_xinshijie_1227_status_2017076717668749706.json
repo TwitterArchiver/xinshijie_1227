@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1811430427535765504",
+    "conversation_id": "1867857388654743857",
+    "created_at": "2026-01-30T03:25:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-30T04:25:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2017076717668749706"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2007965463251456000",
+          "start": 0,
+          "username": "liuyueyue666"
+        },
+        {
+          "end": 24,
+          "id": "3022697779",
+          "start": 14,
+          "username": "RXdruglab"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2017076717668749706",
+    "in_reply_to_user_id": "2007965463251456000",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2016738958001283079",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@liuyueyue666 @RXdruglab 试过，吸完以后没感觉，应该是不能吸（也有可能每个人体质不一样吧）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1811430427535765504",
+        "conversation_id": "1867857388654743857",
+        "created_at": "2026-01-30T03:25:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-30T04:25:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017076717668749706"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2007965463251456000",
+              "start": 0,
+              "username": "liuyueyue666"
+            },
+            {
+              "end": 24,
+              "id": "3022697779",
+              "start": 14,
+              "username": "RXdruglab"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017076717668749706",
+        "in_reply_to_user_id": "2007965463251456000",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016738958001283079",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@liuyueyue666 @RXdruglab 试过，吸完以后没感觉，应该是不能吸（也有可能每个人体质不一样吧）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2007965463251456000",
+        "conversation_id": "1867857388654743857",
+        "created_at": "2026-01-29T05:03:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-29T06:03:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016738958001283079"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1811430427535765504",
+              "start": 0,
+              "username": "xinshijie_1227"
+            },
+            {
+              "end": 26,
+              "id": "3022697779",
+              "start": 16,
+              "username": "RXdruglab"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016738958001283079",
+        "in_reply_to_user_id": "1811430427535765504",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1910038637548560636",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xinshijie_1227 @RXdruglab 同问，你试过没"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-11T16:01:12.000Z",
+        "description": "嗑药 | 自残 | 吐黑水 | 互联网的隐匿栖身之所｜哥特or地雷女｜狗屎馅俄罗斯大列巴@requiem_soulss            tg频道：https://t.co/q5Z49Vdjxv（会在频道里发血图和日常照）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 59,
+                "start": 44,
+                "username": "requiem_soulss"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/xinshijie0000",
+                "end": 99,
+                "expanded_url": "https://t.me/xinshijie0000",
+                "start": 76,
+                "url": "https://t.co/q5Z49Vdjxv"
+              }
+            ]
+          }
+        },
+        "id": "1811430427535765504",
+        "location": "不再收🚪不再加男",
+        "name": "美術館館長",
+        "pinned_tweet_id": "1921997129985216603",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009811412412157952/ARAxYDf-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 136,
+          "following_count": 186,
+          "like_count": 3276,
+          "listed_count": 1,
+          "media_count": 349,
+          "tweet_count": 1226
+        },
+        "username": "xinshijie_1227",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-05T00:01:55.000Z",
+        "description": "月蚀朝日重生号",
+        "id": "2007965463251456000",
+        "location": "420not found ",
+        "name": "MooN",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009171776635588611/bjS6PUhi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 33,
+          "like_count": 2,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 9
+        },
+        "username": "liuyueyue666",
+        "verified": false
+      },
+      {
+        "created_at": "2015-02-16T15:27:54.000Z",
+        "description": "本不一定什么时候就没，请添加下方网址的telegram频道以获得持续更新。\n以禁毒、法律教育及损害减少（harm reduction）为目的，通过非世俗及去道德的理念，追求真实的知识与反馈。除替代为目的，部分良性物质，以及特殊情况下的损害减少，不推荐任何人摄入我提及的物质。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/XDrugLab",
+                "end": 23,
+                "expanded_url": "https://t.me/XDrugLab",
+                "start": 0,
+                "url": "https://t.co/KMcpbSmDcL"
+              }
+            ]
+          }
+        },
+        "id": "3022697779",
+        "name": "药物实验室",
+        "pinned_tweet_id": "1917542345039569145",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854259369203879954/nxgmCDHX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17342,
+          "following_count": 18,
+          "like_count": 31,
+          "listed_count": 20,
+          "media_count": 52,
+          "tweet_count": 1488
+        },
+        "url": "https://t.co/KMcpbSmDcL",
+        "username": "RXdruglab",
+        "verified": false
+      }
+    ]
+  }
+}

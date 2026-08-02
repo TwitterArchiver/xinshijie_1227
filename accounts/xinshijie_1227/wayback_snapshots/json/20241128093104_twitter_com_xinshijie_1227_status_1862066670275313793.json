@@ -1,0 +1,286 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1811430427535765504",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to  marketing and advertiser agencies, publishers of magazines, newspapers, blogs, books",
+          "id": "1557697121477832705",
+          "name": "Publisher & News Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "1280550787207147521",
+          "name": "Arts & culture"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Books and literature",
+          "id": "847519659179954178",
+          "name": "Books"
+        }
+      },
+      {
+        "domain": {
+          "description": "A product taxonomy for labeling categories of products. ",
+          "id": "173",
+          "name": "Product Taxonomy"
+        },
+        "entity": {
+          "description": "Books and literature",
+          "id": "847519659179954178",
+          "name": "Books"
+        }
+      }
+    ],
+    "conversation_id": "1861403142770041325",
+    "created_at": "2024-11-28T09:31:04.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-28T10:31:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1862066670275313793"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1782247418353926145",
+          "start": 0,
+          "username": "saaaki1_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1862066670275313793",
+    "in_reply_to_user_id": "1782247418353926145",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1861403142770041325",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@saaaki1_ 那个梦游文学不就是这样，墙内漏阴癖"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1811430427535765504",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to  marketing and advertiser agencies, publishers of magazines, newspapers, blogs, books",
+              "id": "1557697121477832705",
+              "name": "Publisher & News Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Books and literature",
+              "id": "847519659179954178",
+              "name": "Books"
+            }
+          },
+          {
+            "domain": {
+              "description": "A product taxonomy for labeling categories of products. ",
+              "id": "173",
+              "name": "Product Taxonomy"
+            },
+            "entity": {
+              "description": "Books and literature",
+              "id": "847519659179954178",
+              "name": "Books"
+            }
+          }
+        ],
+        "conversation_id": "1861403142770041325",
+        "created_at": "2024-11-28T09:31:04.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-28T10:31:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1862066670275313793"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1782247418353926145",
+              "start": 0,
+              "username": "saaaki1_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1862066670275313793",
+        "in_reply_to_user_id": "1782247418353926145",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1861403142770041325",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@saaaki1_ 那个梦游文学不就是这样，墙内漏阴癖"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1782247418353926145",
+        "conversation_id": "1861403142770041325",
+        "created_at": "2024-11-26T13:34:27.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-26T14:34:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1861403142770041325"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1861403142770041325",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 61342,
+          "like_count": 452,
+          "quote_count": 5,
+          "reply_count": 55,
+          "retweet_count": 17
+        },
+        "reply_settings": "everyone",
+        "text": "在抖音发od的你们疯了啊我操"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-11T16:01:12.000Z",
+        "description": "痛苦是没法被比较的，比较就成为装饰品了",
+        "id": "1811430427535765504",
+        "name": "˚・* ٭☣︎ 美術館館長 ☣︎٭ *・˚",
+        "pinned_tweet_id": "1861509761625387043",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1860344393850613760/tW2czgA9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33,
+          "following_count": 102,
+          "like_count": 897,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 96
+        },
+        "username": "xinshijie_1227",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-22T03:18:13.000Z",
+        "description": "叫我言言/saki 💀｜want moots ｜#selfharm",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 33,
+                "start": 24,
+                "tag": "selfharm"
+              }
+            ]
+          }
+        },
+        "id": "1782247418353926145",
+        "name": "kikiller",
+        "pinned_tweet_id": "1848758585909727572",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1818159066297868288/YJlea1_D_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 291,
+          "following_count": 243,
+          "like_count": 1848,
+          "listed_count": 2,
+          "media_count": 11,
+          "tweet_count": 830
+        },
+        "username": "saaaki1_",
+        "verified": false
+      }
+    ]
+  }
+}

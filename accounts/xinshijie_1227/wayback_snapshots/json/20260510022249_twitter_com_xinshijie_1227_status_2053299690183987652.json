@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1811430427535765504",
+    "conversation_id": "2035900548063568228",
+    "created_at": "2026-05-10T02:22:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-10T03:22:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053299690183987652"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2032733782714003456",
+          "start": 0,
+          "username": "ShiKongxiaukxx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053299690183987652",
+    "in_reply_to_user_id": "2032733782714003456",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053274091613004213",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ShiKongxiaukxx 嘻嘻"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1811430427535765504",
+        "conversation_id": "2035900548063568228",
+        "created_at": "2026-05-10T02:22:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T03:22:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053299690183987652"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2032733782714003456",
+              "start": 0,
+              "username": "ShiKongxiaukxx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053299690183987652",
+        "in_reply_to_user_id": "2032733782714003456",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053274091613004213",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ShiKongxiaukxx 嘻嘻"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2032733782714003456",
+        "conversation_id": "2035900548063568228",
+        "created_at": "2026-05-10T00:41:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T01:41:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053274091613004213"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1811430427535765504",
+              "start": 0,
+              "username": "xinshijie_1227"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053274091613004213",
+        "in_reply_to_user_id": "1811430427535765504",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035900548063568228",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xinshijie_1227 支持"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-11T16:01:12.000Z",
+        "description": "嗑药 | 自残 | 负能量 | 御宅族| 互联网的隐匿栖身之所 | \ntg频道：https://t.co/q5Z49Vdjxv（会在频道里发血图和日常照）",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/xinshijie0000",
+                "end": 63,
+                "expanded_url": "https://t.me/xinshijie0000",
+                "start": 40,
+                "url": "https://t.co/q5Z49Vdjxv"
+              }
+            ]
+          }
+        },
+        "id": "1811430427535765504",
+        "location": "🚪8.88开放朋友圈陪闲聊",
+        "name": "美術館館長",
+        "pinned_tweet_id": "2035900548063568228",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037145672412258304/HWwdgB_x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 173,
+          "following_count": 212,
+          "like_count": 3883,
+          "listed_count": 1,
+          "media_count": 413,
+          "tweet_count": 1404
+        },
+        "username": "xinshijie_1227",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-14T08:22:29.000Z",
+        "description": "一个平凡普通的小男生\n现在处于不想上学的尖端，厌倦了学校与我自己给予的绩效主义\n正在探索：OD | 护肤 |  致幻 | 上头 \n有经验的可以拉我一把~三克油~\nQvQ",
+        "id": "2032733782714003456",
+        "name": "skx309",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045166691257339904/fGMzlFSe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 61,
+          "like_count": 137,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 39
+        },
+        "username": "ShiKongxiaukxx",
+        "verified": false
+      }
+    ]
+  }
+}

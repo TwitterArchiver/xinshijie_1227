@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1811430427535765504",
+    "conversation_id": "2047104800400318841",
+    "created_at": "2026-04-24T06:11:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-24T07:11:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047559144324931885"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1472219833261772801",
+          "start": 0,
+          "username": "xxx_jjkk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047559144324931885",
+    "in_reply_to_user_id": "1472219833261772801",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047104800400318841",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xxx_jjkk 傻逼吧"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1602,
+        "media_key": "3_2047104788387799040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGjG9YHbIAAUWmq.jpg",
+        "width": 921
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1811430427535765504",
+        "conversation_id": "2047104800400318841",
+        "created_at": "2026-04-24T06:11:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T07:11:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047559144324931885"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1472219833261772801",
+              "start": 0,
+              "username": "xxx_jjkk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047559144324931885",
+        "in_reply_to_user_id": "1472219833261772801",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047104800400318841",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xxx_jjkk 傻逼吧"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047104788387799040"
+          ]
+        },
+        "author_id": "1472219833261772801",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2047104800400318841",
+        "created_at": "2026-04-23T00:06:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T01:06:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047104800400318841"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/p2T3LFTiL6",
+              "end": 56,
+              "expanded_url": "https://x.com/xxx_jjkk/status/2047104800400318841/photo/1",
+              "media_key": "3_2047104788387799040",
+              "start": 33,
+              "url": "https://t.co/p2T3LFTiL6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047104800400318841",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 8373,
+          "like_count": 117,
+          "quote_count": 0,
+          "reply_count": 26,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你妈的能不能别转我的东西回墙内了求求了 896489648964 https://t.co/p2T3LFTiL6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-11T16:01:12.000Z",
+        "description": "嗑药 | 自残 | 负能量 | 御宅族| 互联网的隐匿栖身之所 | 傻逼俄罗斯男友@requiem_soulss | tg频道：https://t.co/q5Z49VdRn3（会在频道里发血图和日常照）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 41,
+                "username": "requiem_soulss"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/xinshijie0000",
+                "end": 87,
+                "expanded_url": "https://t.me/xinshijie0000",
+                "start": 64,
+                "url": "https://t.co/q5Z49VdRn3"
+              }
+            ]
+          }
+        },
+        "id": "1811430427535765504",
+        "location": "🚪8.88开放朋友圈陪闲聊",
+        "name": "美術館館長",
+        "pinned_tweet_id": "2035900548063568228",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037145672412258304/HWwdgB_x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 166,
+          "following_count": 207,
+          "like_count": 3847,
+          "listed_count": 1,
+          "media_count": 404,
+          "tweet_count": 1382
+        },
+        "username": "xinshijie_1227",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-18T14:59:07.000Z",
+        "description": "我把一生都存进这小小的屏幕里\n当我离去\n这里至少还留有我曾活过的痕迹\n@yn_xxxjkjk 2.0备份一下互关",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 46,
+                "start": 35,
+                "username": "yn_xxxjkjk"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xxxynyn",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xxxynyn",
+                "start": 0,
+                "url": "https://t.co/yz1Ew7xhf4"
+              }
+            ]
+          }
+        },
+        "id": "1472219833261772801",
+        "location": "🚪",
+        "name": "旖旎",
+        "pinned_tweet_id": "2045469984315658626",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035262095277862912/s0vuE8mi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 997,
+          "following_count": 445,
+          "like_count": 11238,
+          "listed_count": 0,
+          "media_count": 98,
+          "tweet_count": 1684
+        },
+        "url": "https://t.co/yz1Ew7xhf4",
+        "username": "xxx_jjkk",
+        "verified": false
+      }
+    ]
+  }
+}

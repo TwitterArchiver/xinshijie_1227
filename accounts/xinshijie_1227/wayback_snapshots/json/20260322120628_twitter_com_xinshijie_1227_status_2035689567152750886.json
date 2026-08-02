@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1811430427535765504",
+    "conversation_id": "2035252782153036190",
+    "created_at": "2026-03-22T12:06:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-22T13:06:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2035689567152750886"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1999504877337395200",
+          "start": 0,
+          "username": "chuan_0123"
+        },
+        {
+          "end": 26,
+          "id": "1544362896406323200",
+          "start": 12,
+          "username": "_Shotgun_fire"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2035689567152750886",
+    "in_reply_to_user_id": "1999504877337395200",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2035252782153036190",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chuan_0123 @_Shotgun_fire 看懂的人已经哭了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1811430427535765504",
+        "conversation_id": "2035252782153036190",
+        "created_at": "2026-03-22T12:06:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-22T13:06:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035689567152750886"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1999504877337395200",
+              "start": 0,
+              "username": "chuan_0123"
+            },
+            {
+              "end": 26,
+              "id": "1544362896406323200",
+              "start": 12,
+              "username": "_Shotgun_fire"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035689567152750886",
+        "in_reply_to_user_id": "1999504877337395200",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035252782153036190",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chuan_0123 @_Shotgun_fire 看懂的人已经哭了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1999504877337395200",
+        "conversation_id": "2035252782153036190",
+        "created_at": "2026-03-21T07:10:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-21T08:10:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2035252782153036190"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2035252782153036190",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 7392,
+          "like_count": 203,
+          "quote_count": 1,
+          "reply_count": 7,
+          "retweet_count": 30
+        },
+        "reply_settings": "everyone",
+        "text": "无需补充，立即开方无需补充，立即开方无需补充，立即开方无需补充，立即开方无需补充，立即开方无需补充，立即开方无需补充，立即开方无需补充，立即开方无需补充，立即开方无需补充，立即开方无需补充，立即开方无需补充，立即开方无需补充，立即开方无需补充，立即开方无需补充，立即开方无需补充"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-11T16:01:12.000Z",
+        "description": "嗑药 | 自残 | 吐黑水 | 御宅族| 互联网的隐匿栖身之所 | 傻逼俄罗斯男友@requiem_soulss  |  tg频道：https://t.co/q5Z49VdRn3（会在频道里发血图和日常照）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 41,
+                "username": "requiem_soulss"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/xinshijie0000",
+                "end": 89,
+                "expanded_url": "https://t.me/xinshijie0000",
+                "start": 66,
+                "url": "https://t.co/q5Z49VdRn3"
+              }
+            ]
+          }
+        },
+        "id": "1811430427535765504",
+        "location": "🚪8.88开放朋友圈陪闲聊",
+        "name": "美術館館長",
+        "pinned_tweet_id": "2024805135999017151",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033580584837300225/zBVz95fh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 169,
+          "following_count": 215,
+          "like_count": 3720,
+          "listed_count": 1,
+          "media_count": 384,
+          "tweet_count": 1331
+        },
+        "username": "xinshijie_1227",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-12T15:41:53.000Z",
+        "description": "我是川川/20↑/大体雑多垢 病み注意/無言フォロー失礼いたしました/直fo＝喜欢你/泛性恋顺女 已有女友/努力戒割戒药中/关取随意 回fo请私信！祝你以后都开心/误清请私信orz不是故意的/🚪88互关免费",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/chuan123",
+                "end": 23,
+                "expanded_url": "https://ngl.link/chuan123",
+                "start": 0,
+                "url": "https://t.co/kmXUmkntXo"
+              }
+            ]
+          }
+        },
+        "id": "1999504877337395200",
+        "location": "╰(⇀‸↼)╯→提问箱",
+        "name": "虚空薯条教主",
+        "pinned_tweet_id": "2026652867160051770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026599141066027012/50v9Dmba_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 609,
+          "following_count": 336,
+          "like_count": 10825,
+          "listed_count": 2,
+          "media_count": 287,
+          "tweet_count": 5494
+        },
+        "url": "https://t.co/kmXUmkntXo",
+        "username": "chuan_0123",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-05T16:50:00.000Z",
+        "description": "fuck@uuu",
+        "id": "1544362896406323200",
+        "name": "饭蛸",
+        "pinned_tweet_id": "1888474373134414232",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844607761272930307/vEU7tycE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27,
+          "following_count": 138,
+          "like_count": 4838,
+          "listed_count": 0,
+          "media_count": 47,
+          "tweet_count": 1277
+        },
+        "username": "_Shotgun_fire",
+        "verified": false
+      }
+    ]
+  }
+}

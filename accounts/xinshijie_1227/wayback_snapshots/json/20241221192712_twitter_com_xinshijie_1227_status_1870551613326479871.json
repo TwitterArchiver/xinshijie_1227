@@ -1,0 +1,158 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1811430427535765504",
+    "conversation_id": "1870551613326479871",
+    "created_at": "2024-12-21T19:27:12.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-21T20:27:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1870551613326479871"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/xinshijie_1227…",
+          "end": 128,
+          "expanded_url": "https://twitter.com/xinshijie_1227/status/1870550756505579970",
+          "start": 105,
+          "url": "https://t.co/hP34TknEQ8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1870551613326479871",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1870550756505579970",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "打字除了有点手软以为没有任何不舒服的地方，很清醒，很舒服，很幸福，我感觉我好久没有这么兴奋这么舒服了，真的不想吐哎，我现在一遍打游戏一遍听歌，感觉所有痛苦都消失了，幸福的想哭，我已经好久没有哭过了，感觉好舒服 https://t.co/hP34TknEQ8"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1811430427535765504",
+        "conversation_id": "1870551613326479871",
+        "created_at": "2024-12-21T19:27:12.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-21T20:27:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1870551613326479871"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/xinshijie_1227…",
+              "end": 128,
+              "expanded_url": "https://twitter.com/xinshijie_1227/status/1870550756505579970",
+              "start": 105,
+              "url": "https://t.co/hP34TknEQ8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1870551613326479871",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1870550756505579970",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "打字除了有点手软以为没有任何不舒服的地方，很清醒，很舒服，很幸福，我感觉我好久没有这么兴奋这么舒服了，真的不想吐哎，我现在一遍打游戏一遍听歌，感觉所有痛苦都消失了，幸福的想哭，我已经好久没有哭过了，感觉好舒服 https://t.co/hP34TknEQ8"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1811430427535765504",
+        "conversation_id": "1870550756505579970",
+        "created_at": "2024-12-21T19:23:48.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-21T20:23:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1870550756505579970"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1870550756505579970",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我领了一粒可达鸭的小鸭丸，第一次尝试，半小时的前用可乐送服了，可能是因为空腹➕用碳酸饮料送服所以上头特别快，太他妈爽了。。。。真的太爽了，一点想吐的感觉都没有，也不会像磕美金刚一样一直想吐口吃解离，就是很清醒的爽。浑身都很放松，从头到脚酥酥麻麻，一会打完斯普拉遁继续写感受，太爽了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-11T16:01:12.000Z",
+        "description": "痛苦是没法被比较的，比较就成为装饰品了          \n\n    🚪50绿色陪聊",
+        "id": "1811430427535765504",
+        "name": "˚・* ٭☣︎ 美術館館長 ☣︎٭ *・˚",
+        "pinned_tweet_id": "1864645753240736160",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870216553251434496/ge9CNg3z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32,
+          "following_count": 124,
+          "like_count": 1300,
+          "listed_count": 0,
+          "media_count": 54,
+          "tweet_count": 235
+        },
+        "username": "xinshijie_1227",
+        "verified": false
+      }
+    ]
+  }
+}

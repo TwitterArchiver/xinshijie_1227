@@ -1,0 +1,145 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1932530829994983424"
+      ]
+    },
+    "author_id": "1811430427535765504",
+    "conversation_id": "1932530845102805449",
+    "created_at": "2025-06-10T20:10:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-10T21:10:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1932530845102805449"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/sAE2ETUGC1",
+          "end": 42,
+          "expanded_url": "https://x.com/xinshijie_1227/status/1932530845102805449/photo/1",
+          "media_key": "3_1932530829994983424",
+          "start": 19,
+          "url": "https://t.co/sAE2ETUGC1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1932530845102805449",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "for@requiem_soulss https://t.co/sAE2ETUGC1"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1932530829994983424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtG6jQdXgAAd_Gx.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1932530829994983424"
+          ]
+        },
+        "author_id": "1811430427535765504",
+        "conversation_id": "1932530845102805449",
+        "created_at": "2025-06-10T20:10:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-10T21:10:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1932530845102805449"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/sAE2ETUGC1",
+              "end": 42,
+              "expanded_url": "https://x.com/xinshijie_1227/status/1932530845102805449/photo/1",
+              "media_key": "3_1932530829994983424",
+              "start": 19,
+              "url": "https://t.co/sAE2ETUGC1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1932530845102805449",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "for@requiem_soulss https://t.co/sAE2ETUGC1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-11T16:01:12.000Z",
+        "description": "嗑药 | 自残 | 吐黑水 | 互联网的隐匿栖身之所『会回fo，对妹子会非常友好』 | 男友@requiem_soulss",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 46,
+                "username": "requiem_soulss"
+              }
+            ]
+          }
+        },
+        "id": "1811430427535765504",
+        "location": "不再收🚪只加妹子",
+        "name": "美術館館長",
+        "pinned_tweet_id": "1921997129985216603",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1929041425536266242/Uwpg_cd1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 178,
+          "following_count": 165,
+          "like_count": 3103,
+          "listed_count": 0,
+          "media_count": 243,
+          "tweet_count": 1007
+        },
+        "username": "xinshijie_1227",
+        "verified": false
+      }
+    ]
+  }
+}

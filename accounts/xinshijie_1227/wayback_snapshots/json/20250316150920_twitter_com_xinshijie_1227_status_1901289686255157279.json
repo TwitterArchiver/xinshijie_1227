@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1811430427535765504",
+    "conversation_id": "1901260223119335866",
+    "created_at": "2025-03-16T15:09:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-16T16:09:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1901289686255157279"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1810705896332566528",
+          "start": 0,
+          "username": "uhhjbjnh6669230"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1901289686255157279",
+    "in_reply_to_user_id": "1810705896332566528",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1901283463061487652",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@uhhjbjnh6669230 活着很痛苦"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1811430427535765504",
+        "conversation_id": "1901260223119335866",
+        "created_at": "2025-03-16T15:09:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-16T16:09:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1901289686255157279"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1810705896332566528",
+              "start": 0,
+              "username": "uhhjbjnh6669230"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1901289686255157279",
+        "in_reply_to_user_id": "1810705896332566528",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1901283463061487652",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@uhhjbjnh6669230 活着很痛苦"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1810705896332566528",
+        "conversation_id": "1901260223119335866",
+        "created_at": "2025-03-16T14:44:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-16T15:44:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1901283463061487652"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1811430427535765504",
+              "start": 0,
+              "username": "xinshijie_1227"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1901283463061487652",
+        "in_reply_to_user_id": "1811430427535765504",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1901260223119335866",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xinshijie_1227 你还有很多游戏没有玩！所以请珍惜生命！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-11T16:01:12.000Z",
+        "description": "嗑药 | 自残 | 吐黑水 | 自由精神病 \n 『会回fo，对妹子会非常友好』:3\n我的男仆@requiem_soulss",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 46,
+                "username": "requiem_soulss"
+              }
+            ]
+          }
+        },
+        "id": "1811430427535765504",
+        "location": "🚪50绿色陪聊男的过门女的免费",
+        "name": "美術館館長",
+        "pinned_tweet_id": "1886044580723949727",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1884080533770231811/F8kuy6DT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 56,
+          "following_count": 139,
+          "like_count": 2314,
+          "listed_count": 0,
+          "media_count": 115,
+          "tweet_count": 510
+        },
+        "username": "xinshijie_1227",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-09T16:01:51.000Z",
+        "description": "Glad to meet you, I'm Chinese, and I like tomb robbing notes (I heard they were released in Japan, welcome to make friends!!!) My translation is not very good",
+        "id": "1810705896332566528",
+        "name": "Bottle Evil 99",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1845057912181313552/V3VE4CBM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 73,
+          "like_count": 45,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 22
+        },
+        "username": "uhhjbjnh6669230",
+        "verified": false
+      }
+    ]
+  }
+}

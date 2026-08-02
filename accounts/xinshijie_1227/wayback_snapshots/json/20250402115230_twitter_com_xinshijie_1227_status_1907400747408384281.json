@@ -1,0 +1,212 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1811430427535765504",
+    "conversation_id": "1907400747408384281",
+    "created_at": "2025-04-02T11:52:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-02T12:52:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1907400747408384281"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/od_angelkaii_o…",
+          "end": 35,
+          "expanded_url": "https://twitter.com/od_angelkaii_od/status/1907400188110754088",
+          "start": 12,
+          "url": "https://t.co/kfo4nJdaAA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1907400747408384281",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1907400188110754088",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "是od百科，我们有救了 https://t.co/kfo4nJdaAA"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1811430427535765504",
+        "conversation_id": "1907400747408384281",
+        "created_at": "2025-04-02T11:52:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-02T12:52:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1907400747408384281"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/od_angelkaii_o…",
+              "end": 35,
+              "expanded_url": "https://twitter.com/od_angelkaii_od/status/1907400188110754088",
+              "start": 12,
+              "url": "https://t.co/kfo4nJdaAA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1907400747408384281",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1907400188110754088",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "是od百科，我们有救了 https://t.co/kfo4nJdaAA"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1797727504540807168",
+        "conversation_id": "1907400188110754088",
+        "created_at": "2025-04-02T11:50:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-02T12:50:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1907400188110754088"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1907400188110754088",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 27,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "普瑞巴林耐药不要慌，火速喝可乐汽水饮料，不管用上巴氯芬褪黑素"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-11T16:01:12.000Z",
+        "description": "嗑药 | 自残 | 吐黑水 | 自由精神病 \n 『会回fo，对妹子会非常友好』:3\n我的男仆@requiem_soulss",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 46,
+                "username": "requiem_soulss"
+              }
+            ]
+          }
+        },
+        "id": "1811430427535765504",
+        "location": "🚪50绿色陪聊男的过门女的免费",
+        "name": "美術館館長",
+        "pinned_tweet_id": "1901626066441019862",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1884080533770231811/F8kuy6DT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 72,
+          "following_count": 139,
+          "like_count": 2723,
+          "listed_count": 1,
+          "media_count": 156,
+          "tweet_count": 696
+        },
+        "username": "xinshijie_1227",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-03T20:30:21.000Z",
+        "description": "最好的od百科，最专业的od专家.全民od，人类崛起. 欢迎投稿报告我们，平时工作繁忙回复慢谢谢，自杀干预请找@HANLIANYI331 由于特殊性，我们不提供自杀干预相关行动",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 55,
+                "username": "HANLIANYI331"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "overdose.day",
+                "end": 23,
+                "expanded_url": "https://www.overdose.day/",
+                "start": 0,
+                "url": "https://t.co/ZzzwvEW8Sn"
+              }
+            ]
+          }
+        },
+        "id": "1797727504540807168",
+        "name": "overdose百科",
+        "pinned_tweet_id": "1904764660899078619",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1901666312570777600/blNmmpzA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7013,
+          "following_count": 4760,
+          "like_count": 3673,
+          "listed_count": 4,
+          "media_count": 338,
+          "tweet_count": 4203
+        },
+        "url": "https://t.co/ZzzwvEW8Sn",
+        "username": "od_angelkaii_od",
+        "verified": true
+      }
+    ]
+  }
+}

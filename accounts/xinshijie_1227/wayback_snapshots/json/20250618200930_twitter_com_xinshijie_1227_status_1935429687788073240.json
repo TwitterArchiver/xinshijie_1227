@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1811430427535765504",
+    "conversation_id": "1928555098889703679",
+    "created_at": "2025-06-18T20:09:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-18T21:09:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1935429687788073240"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1653626109295222784",
+          "start": 0,
+          "username": "aamelody77"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1935429687788073240",
+    "in_reply_to_user_id": "1653626109295222784",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1934839430281670855",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@aamelody77 少吃能屎药A"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1811430427535765504",
+        "conversation_id": "1928555098889703679",
+        "created_at": "2025-06-18T20:09:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-18T21:09:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1935429687788073240"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1653626109295222784",
+              "start": 0,
+              "username": "aamelody77"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1935429687788073240",
+        "in_reply_to_user_id": "1653626109295222784",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1934839430281670855",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aamelody77 少吃能屎药A"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1653626109295222784",
+        "conversation_id": "1928555098889703679",
+        "created_at": "2025-06-17T05:04:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-17T06:04:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1934839430281670855"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1811430427535765504",
+              "start": 0,
+              "username": "xinshijie_1227"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1934839430281670855",
+        "in_reply_to_user_id": "1811430427535765504",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1928555098889703679",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xinshijie_1227 连续磕金刚烷胺一周了 今天发现自己清醒的时候也开始精神分裂了……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-11T16:01:12.000Z",
+        "description": "嗑药 | 自残 | 吐黑水 | 互联网的隐匿栖身之所『会回fo，对妹子会非常友好』 | 我要嫁给Захар@requiem_soulss",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 53,
+                "username": "requiem_soulss"
+              }
+            ]
+          }
+        },
+        "id": "1811430427535765504",
+        "location": "不再收🚪只加妹子",
+        "name": "美術館館長",
+        "pinned_tweet_id": "1921997129985216603",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1929041425536266242/Uwpg_cd1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 177,
+          "following_count": 164,
+          "like_count": 3101,
+          "listed_count": 0,
+          "media_count": 248,
+          "tweet_count": 1013
+        },
+        "username": "xinshijie_1227",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-03T05:02:53.000Z",
+        "description": "",
+        "id": "1653626109295222784",
+        "name": "神。",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1653626599424794625/VemF-XO8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 15,
+          "like_count": 2,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 2
+        },
+        "username": "aamelody77",
+        "verified": false
+      }
+    ]
+  }
+}

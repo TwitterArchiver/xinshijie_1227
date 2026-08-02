@@ -1,0 +1,185 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1811430427535765504",
+    "conversation_id": "1856216648635822563",
+    "created_at": "2024-11-13T07:34:44.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-13T08:34:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1856601577039212746"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1799771721542848512",
+          "start": 0,
+          "username": "syccc0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1856601577039212746",
+    "in_reply_to_user_id": "1799771721542848512",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1856216648635822563",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@syccc0 你说号主被夺舍了我都信"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1811430427535765504",
+        "conversation_id": "1856216648635822563",
+        "created_at": "2024-11-13T07:34:44.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-13T08:34:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1856601577039212746"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1799771721542848512",
+              "start": 0,
+              "username": "syccc0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1856601577039212746",
+        "in_reply_to_user_id": "1799771721542848512",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1856216648635822563",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@syccc0 你说号主被夺舍了我都信"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1799771721542848512",
+        "conversation_id": "1856216648635822563",
+        "created_at": "2024-11-12T06:05:10.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-12T07:05:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1856216648635822563"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1856216648635822563",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 4641,
+          "like_count": 109,
+          "quote_count": 0,
+          "reply_count": 11,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "地雷厌男infp女几个月不上线突然开始晒娃了是什么恐怖片😰😰"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-11T16:01:12.000Z",
+        "description": "你妈的，怎么这样啊",
+        "id": "1811430427535765504",
+        "name": "劳工儿子在天堂",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1852369059402444800/4MzSILkf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 88,
+          "like_count": 711,
+          "listed_count": 0,
+          "tweet_count": 56
+        },
+        "username": "xinshijie_1227",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-09T11:53:17.000Z",
+        "description": "19岁过期JK大学生 / MTX /坐标两广/ 码农预备役 /友:@TheKoorei 🚪支付宝口令红包88 English is ok",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 33,
+                "username": "TheKoorei"
+              }
+            ]
+          }
+        },
+        "id": "1799771721542848512",
+        "location": "San Jose, CA",
+        "name": "syccc💸",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1829134581972512770/49IEwKTF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1349,
+          "following_count": 467,
+          "like_count": 5486,
+          "listed_count": 6,
+          "tweet_count": 925
+        },
+        "username": "syccc0",
+        "verified": false
+      }
+    ]
+  }
+}

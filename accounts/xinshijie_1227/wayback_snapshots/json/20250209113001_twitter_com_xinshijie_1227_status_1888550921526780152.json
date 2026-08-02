@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1811430427535765504",
+    "conversation_id": "1888550921526780152",
+    "created_at": "2025-02-09T11:30:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-09T12:30:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1888550921526780152"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/caicaihi1110/s…",
+          "end": 25,
+          "expanded_url": "https://twitter.com/caicaihi1110/status/1888449621900616081",
+          "start": 2,
+          "url": "https://t.co/c9zgi4X1oF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1888550921526780152",
+    "lang": "art",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1888449621900616081",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "😼 https://t.co/c9zgi4X1oF"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1811430427535765504",
+        "conversation_id": "1888550921526780152",
+        "created_at": "2025-02-09T11:30:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-09T12:30:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1888550921526780152"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/caicaihi1110/s…",
+              "end": 25,
+              "expanded_url": "https://twitter.com/caicaihi1110/status/1888449621900616081",
+              "start": 2,
+              "url": "https://t.co/c9zgi4X1oF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1888550921526780152",
+        "lang": "art",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1888449621900616081",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "😼 https://t.co/c9zgi4X1oF"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1888449542187880448"
+          ]
+        },
+        "author_id": "1697848099090411520",
+        "conversation_id": "1888449621900616081",
+        "created_at": "2025-02-09T04:47:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-09T05:47:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1888449621900616081"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xPgCCGmFDK",
+              "end": 35,
+              "expanded_url": "https://x.com/caicaihi1110/status/1888449621900616081/photo/1",
+              "media_key": "3_1888449542187880448",
+              "start": 12,
+              "url": "https://t.co/xPgCCGmFDK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1888449621900616081",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 14,
+          "impression_count": 7555,
+          "like_count": 99,
+          "quote_count": 13,
+          "reply_count": 23,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "这才是真正的女寝修罗场 https://t.co/xPgCCGmFDK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-11T16:01:12.000Z",
+        "description": "od | 自残 | 吐黑水 bi 对妹子会非常友好^_^   会回fo",
+        "id": "1811430427535765504",
+        "location": "🚪50绿色陪聊",
+        "name": "美術館館長",
+        "pinned_tweet_id": "1886044580723949727",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1884080533770231811/F8kuy6DT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40,
+          "following_count": 111,
+          "like_count": 1592,
+          "listed_count": 0,
+          "media_count": 75,
+          "tweet_count": 333
+        },
+        "username": "xinshijie_1227",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-02T05:45:13.000Z",
+        "description": "想要幸福一点点",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/caicaihi1110",
+                "end": 23,
+                "expanded_url": "https://ngl.link/caicaihi1110",
+                "start": 0,
+                "url": "https://t.co/Js7nPgt21v"
+              }
+            ]
+          }
+        },
+        "id": "1697848099090411520",
+        "name": "香菜百香果小蛋糕",
+        "pinned_tweet_id": "1835753779079385489",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1802332289323642880/XatYNQ4D_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7256,
+          "following_count": 1332,
+          "like_count": 21658,
+          "listed_count": 5,
+          "media_count": 595,
+          "tweet_count": 5569
+        },
+        "url": "https://t.co/Js7nPgt21v",
+        "username": "caicaihi1110",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1811430427535765504",
+    "conversation_id": "2024789123937288462",
+    "created_at": "2026-02-22T04:38:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-22T05:38:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025429974367539295"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2017934187907665920",
+          "start": 0,
+          "username": "ch8_we"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025429974367539295",
+    "in_reply_to_user_id": "2017934187907665920",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025139019588534467",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ch8_we 在网上买的话可以去医院急诊开一个纸质病例，就说你神经痛或者带状疱疹后遗症，要么就是在线下药店买"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2025139017478766592",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBq9NO2bAAACKss.jpg",
+        "width": 921
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1811430427535765504",
+        "conversation_id": "2024789123937288462",
+        "created_at": "2026-02-22T04:38:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-22T05:38:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025429974367539295"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2017934187907665920",
+              "start": 0,
+              "username": "ch8_we"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025429974367539295",
+        "in_reply_to_user_id": "2017934187907665920",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025139019588534467",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ch8_we 在网上买的话可以去医院急诊开一个纸质病例，就说你神经痛或者带状疱疹后遗症，要么就是在线下药店买"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2025139017478766592"
+          ]
+        },
+        "author_id": "2017934187907665920",
+        "conversation_id": "2024789123937288462",
+        "created_at": "2026-02-21T09:22:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-21T10:22:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025139019588534467"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1811430427535765504",
+              "start": 0,
+              "username": "xinshijie_1227"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/u1ENVQbhWY",
+              "end": 69,
+              "expanded_url": "https://x.com/ch8_we/status/2025139019588534467/photo/1",
+              "media_key": "3_2025139017478766592",
+              "start": 46,
+              "url": "https://t.co/u1ENVQbhWY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025139019588534467",
+        "in_reply_to_user_id": "1811430427535765504",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024789123937288462",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xinshijie_1227 老师请问你普瑞在哪里买到的啊，我pdd用处方也买不到了…… https://t.co/u1ENVQbhWY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-11T16:01:12.000Z",
+        "description": "嗑药 | 自残 | 吐黑水 ｜哥特or地雷女| 互联网的隐匿栖身之所｜狗屎馅俄罗斯大列巴@requiem_soulss tg频道：https://t.co/q5Z49Vdjxv（会在频道里发血图和日常照）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 59,
+                "start": 44,
+                "username": "requiem_soulss"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/xinshijie0000",
+                "end": 88,
+                "expanded_url": "https://t.me/xinshijie0000",
+                "start": 65,
+                "url": "https://t.co/q5Z49Vdjxv"
+              }
+            ]
+          }
+        },
+        "id": "1811430427535765504",
+        "location": "🚪8.88开放朋友圈陪闲聊",
+        "name": "美術館館長",
+        "pinned_tweet_id": "2024805135999017151",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009811412412157952/ARAxYDf-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 147,
+          "following_count": 199,
+          "like_count": 3602,
+          "listed_count": 1,
+          "media_count": 363,
+          "tweet_count": 1272
+        },
+        "username": "xinshijie_1227",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-01T12:13:58.000Z",
+        "description": "trans girl with 🍬(ﾉ∇︎〃 )/emotional/high school student/07",
+        "id": "2017934187907665920",
+        "location": "Baltimore, MD",
+        "name": "mikki_z🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022374462272999425/DerK3NDT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 35,
+          "like_count": 228,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 20
+        },
+        "username": "ch8_we",
+        "verified": false
+      }
+    ]
+  }
+}

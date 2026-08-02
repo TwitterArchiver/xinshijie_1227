@@ -1,0 +1,199 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1811430427535765504",
+    "conversation_id": "2048306694183436773",
+    "created_at": "2026-04-27T10:24:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-27T11:24:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048709858090791304"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1868203874726887424",
+          "start": 0,
+          "username": "daozhir"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048709858090791304",
+    "in_reply_to_user_id": "1868203874726887424",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048306694183436773",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@daozhir 全城断货了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1811430427535765504",
+        "conversation_id": "2048306694183436773",
+        "created_at": "2026-04-27T10:24:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T11:24:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048709858090791304"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1868203874726887424",
+              "start": 0,
+              "username": "daozhir"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048709858090791304",
+        "in_reply_to_user_id": "1868203874726887424",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048306694183436773",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@daozhir 全城断货了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1868203874726887424",
+        "conversation_id": "2048306694183436773",
+        "created_at": "2026-04-26T07:42:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T08:42:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048306694183436773"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2048306694183436773",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 5127,
+          "like_count": 50,
+          "quote_count": 0,
+          "reply_count": 11,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "网上买不到普瑞可以去线下\n75mg 18/盒 150mg 30/盒\n碰上优惠75mg能到10块多点\n大部分不需要处方，需要名字 年龄 一般不要身份证，进口国产一般都有"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-11T16:01:12.000Z",
+        "description": "嗑药 | 自残 | 负能量 | 御宅族| 互联网的隐匿栖身之所 | 傻逼俄罗斯男友@requiem_soulss | tg频道：https://t.co/q5Z49VdRn3（会在频道里发血图和日常照）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 41,
+                "username": "requiem_soulss"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/xinshijie0000",
+                "end": 87,
+                "expanded_url": "https://t.me/xinshijie0000",
+                "start": 64,
+                "url": "https://t.co/q5Z49VdRn3"
+              }
+            ]
+          }
+        },
+        "id": "1811430427535765504",
+        "location": "🚪8.88开放朋友圈陪闲聊",
+        "name": "美術館館長",
+        "pinned_tweet_id": "2035900548063568228",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037145672412258304/HWwdgB_x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 166,
+          "following_count": 207,
+          "like_count": 3849,
+          "listed_count": 1,
+          "media_count": 406,
+          "tweet_count": 1388
+        },
+        "username": "xinshijie_1227",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-15T07:58:21.000Z",
+        "description": "丨lesbian丨 顺女丨overdose丨LGBTQ+全友好丨 fo同类 没fo私我丨欢迎找我聊聊天丨",
+        "id": "1868203874726887424",
+        "location": "Ciudad Autónoma de Buenos Aire",
+        "name": "Hola",
+        "pinned_tweet_id": "2025485601240441319",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989222275498012674/zZ3PsBCt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 984,
+          "following_count": 468,
+          "like_count": 1364,
+          "listed_count": 1,
+          "media_count": 41,
+          "tweet_count": 1014
+        },
+        "username": "daozhir",
+        "verified": false
+      }
+    ]
+  }
+}

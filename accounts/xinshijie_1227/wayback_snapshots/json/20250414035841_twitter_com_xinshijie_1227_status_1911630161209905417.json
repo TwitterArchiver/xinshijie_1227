@@ -1,0 +1,169 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1911629789514887168"
+      ]
+    },
+    "author_id": "1811430427535765504",
+    "conversation_id": "1911630161209905417",
+    "created_at": "2025-04-14T03:58:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-14T04:58:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1911630161209905417"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/rCIrd90tA4",
+          "end": 59,
+          "expanded_url": "https://x.com/xinshijie_1227/status/1911630161209905417/video/1",
+          "media_key": "13_1911629789514887168",
+          "start": 36,
+          "url": "https://t.co/rCIrd90tA4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1911630161209905417",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "鼻吸思诺思，这种方法仅限于吃思诺思会狂吐的人（比如我）因为鼻子真的会痛 https://t.co/rCIrd90tA4"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 119733,
+        "height": 720,
+        "media_key": "13_1911629789514887168",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1911629789514887168/img/dYKk471ohb4PNesi.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1911629789514887168/vid/avc1/360x270/N2uru8pxQzkfRHQ0.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1911629789514887168/vid/avc1/480x360/yVzXz21kL-yYWHTs.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1911629789514887168/vid/avc1/960x720/EXZVw93Az1Y8XxBq.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1911629789514887168/pl/JJ--RL2TlsEmjY8U.m3u8?tag=14"
+          }
+        ],
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1911629789514887168"
+          ]
+        },
+        "author_id": "1811430427535765504",
+        "conversation_id": "1911630161209905417",
+        "created_at": "2025-04-14T03:58:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-14T04:58:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1911630161209905417"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rCIrd90tA4",
+              "end": 59,
+              "expanded_url": "https://x.com/xinshijie_1227/status/1911630161209905417/video/1",
+              "media_key": "13_1911629789514887168",
+              "start": 36,
+              "url": "https://t.co/rCIrd90tA4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1911630161209905417",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "鼻吸思诺思，这种方法仅限于吃思诺思会狂吐的人（比如我）因为鼻子真的会痛 https://t.co/rCIrd90tA4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-11T16:01:12.000Z",
+        "description": "嗑药 | 自残 | 吐黑水 | 自由精神病 『会回fo，对妹子会非常友好』:3 我的俄罗斯男仆@requiem_soulss",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 62,
+                "start": 47,
+                "username": "requiem_soulss"
+              }
+            ]
+          }
+        },
+        "id": "1811430427535765504",
+        "location": "🚪50绿色陪聊男的过门女的免费",
+        "name": "美術館館長",
+        "pinned_tweet_id": "1901626066441019862",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907513117610749952/QI3vAE-V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 76,
+          "following_count": 139,
+          "like_count": 2857,
+          "listed_count": 1,
+          "media_count": 183,
+          "tweet_count": 784
+        },
+        "username": "xinshijie_1227",
+        "verified": false
+      }
+    ]
+  }
+}

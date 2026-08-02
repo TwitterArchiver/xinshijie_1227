@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1811430427535765504",
+    "conversation_id": "2063867308284514460",
+    "created_at": "2026-06-08T06:14:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T07:14:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2063867308284514460"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ratshelprats/s…",
+          "end": 32,
+          "expanded_url": "https://twitter.com/ratshelprats/status/2063657982995616082",
+          "start": 9,
+          "url": "https://t.co/yBiNuz14St"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063867308284514460",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063657982995616082",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "。。。？？？？？ https://t.co/yBiNuz14St"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 11981,
+        "height": 480,
+        "media_key": "7_2063657959704674304",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2063657959704674304/pu/img/dSBmplAYbwqcwH_q.jpg",
+        "public_metrics": {
+          "view_count": 7857
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2063657959704674304/pu/vid/avc1/288x270/mSvMaEWEcORZgxXU.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2063657959704674304/pu/vid/avc1/384x360/DpGxgeoDqDWOQ3BW.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2063657959704674304/pu/vid/avc1/512x480/QYt-MQRuhBdIBcfd.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2063657959704674304/pu/pl/lFlzi3W0WvquWM9q.m3u8?v=cfc"
+          }
+        ],
+        "width": 512
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1811430427535765504",
+        "conversation_id": "2063867308284514460",
+        "created_at": "2026-06-08T06:14:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T07:14:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063867308284514460"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ratshelprats/s…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/ratshelprats/status/2063657982995616082",
+              "start": 9,
+              "url": "https://t.co/yBiNuz14St"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063867308284514460",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063657982995616082",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "。。。？？？？？ https://t.co/yBiNuz14St"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2063657959704674304"
+          ]
+        },
+        "author_id": "1782932905419046912",
+        "conversation_id": "2063657982995616082",
+        "created_at": "2026-06-07T16:22:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T17:22:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063657982995616082"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Jh5ESdT1vl",
+              "end": 34,
+              "expanded_url": "https://x.com/ratshelprats/status/2063657982995616082/video/1",
+              "media_key": "7_2063657959704674304",
+              "start": 11,
+              "url": "https://t.co/Jh5ESdT1vl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063657982995616082",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 96,
+          "impression_count": 14516,
+          "like_count": 377,
+          "quote_count": 1,
+          "reply_count": 48,
+          "retweet_count": 15
+        },
+        "reply_settings": "everyone",
+        "text": "晚安亲爱的朋友们♥️ https://t.co/Jh5ESdT1vl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-11T16:01:12.000Z",
+        "description": "嗑药吸毒自残 | 负能量 | 互联网的隐匿栖身之所 | 查成分互of | \ntg频道：https://t.co/q5Z49VdRn3",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/xinshijie0000",
+                "end": 66,
+                "expanded_url": "https://t.me/xinshijie0000",
+                "start": 43,
+                "url": "https://t.co/q5Z49VdRn3"
+              }
+            ]
+          }
+        },
+        "id": "1811430427535765504",
+        "location": "🚪8.88开放朋友圈陪闲聊",
+        "name": "美術館館長",
+        "pinned_tweet_id": "2035900548063568228",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037145672412258304/HWwdgB_x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 366,
+          "following_count": 234,
+          "like_count": 3959,
+          "listed_count": 1,
+          "media_count": 441,
+          "tweet_count": 1496
+        },
+        "username": "xinshijie_1227",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-24T00:41:54.000Z",
+        "description": "大鼠王（老鼠国王）",
+        "id": "1782932905419046912",
+        "name": "老鼠帮助老鼠🐭☝️",
+        "pinned_tweet_id": "2062796908100567386",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1822487372774494208/h_lDDH_u_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 108740,
+          "following_count": 487,
+          "like_count": 95500,
+          "listed_count": 161,
+          "media_count": 620,
+          "tweet_count": 1551
+        },
+        "username": "ratshelprats",
+        "verified": true
+      }
+    ]
+  }
+}

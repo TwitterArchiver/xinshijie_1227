@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1811430427535765504",
+    "conversation_id": "2063670415944548646",
+    "created_at": "2026-06-08T06:16:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T07:16:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063867727811342761"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2053536595668541440",
+          "start": 0,
+          "username": "7L7mam"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063867727811342761",
+    "in_reply_to_user_id": "2053536595668541440",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063848420805099591",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@7L7mam 我失恋了，其次我确实是个疯子"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1811430427535765504",
+        "conversation_id": "2063670415944548646",
+        "created_at": "2026-06-08T06:16:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T07:16:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063867727811342761"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2053536595668541440",
+              "start": 0,
+              "username": "7L7mam"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063867727811342761",
+        "in_reply_to_user_id": "2053536595668541440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063848420805099591",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@7L7mam 我失恋了，其次我确实是个疯子"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053536595668541440",
+        "conversation_id": "2063670415944548646",
+        "created_at": "2026-06-08T04:59:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T05:59:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063848420805099591"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1811430427535765504",
+              "start": 0,
+              "username": "xinshijie_1227"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063848420805099591",
+        "in_reply_to_user_id": "1811430427535765504",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063670415944548646",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xinshijie_1227 Brooo are you okay? the fuck is wrong with you, why did you almost chop off you arm, are you insane"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-11T16:01:12.000Z",
+        "description": "嗑药吸毒自残 | 负能量 | 互联网的隐匿栖身之所 | 查成分互of | \ntg频道：https://t.co/q5Z49VdRn3",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/xinshijie0000",
+                "end": 66,
+                "expanded_url": "https://t.me/xinshijie0000",
+                "start": 43,
+                "url": "https://t.co/q5Z49VdRn3"
+              }
+            ]
+          }
+        },
+        "id": "1811430427535765504",
+        "location": "🚪8.88开放朋友圈陪闲聊",
+        "name": "美術館館長",
+        "pinned_tweet_id": "2035900548063568228",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037145672412258304/HWwdgB_x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 366,
+          "following_count": 234,
+          "like_count": 3959,
+          "listed_count": 1,
+          "media_count": 441,
+          "tweet_count": 1497
+        },
+        "username": "xinshijie_1227",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-10T18:04:34.000Z",
+        "description": "RMA FAN\nFUCK ISRAEL\nFUCK WOKIES\nFUCK REPUBLICANS\nFUCK AMERICANS\nFUCK FUCK FUCK FRANCE\nFUCK FUCK FUCK FRENCH PEOPLE\nFUCK FUCK FUCK FRENCH FOOD\nFUCK FUCK FUCK ARS",
+        "id": "2053536595668541440",
+        "name": "7way_L7mam",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053537339784241153/84KJtiWz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 68,
+          "like_count": 56,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 513
+        },
+        "username": "7L7mam",
+        "verified": false
+      }
+    ]
+  }
+}

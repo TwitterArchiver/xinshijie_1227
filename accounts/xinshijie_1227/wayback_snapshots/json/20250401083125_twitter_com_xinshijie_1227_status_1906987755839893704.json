@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1811430427535765504",
+    "conversation_id": "1906930940477387060",
+    "created_at": "2025-04-01T08:31:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-01T09:31:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1906987755839893704"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1585204501149110274",
+          "start": 0,
+          "username": "jiajia1216ovo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1906987755839893704",
+    "in_reply_to_user_id": "1585204501149110274",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1906930940477387060",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jiajia1216ovo 亚儿的脸是我这辈子梦寐以求的啊尖下巴大眼睛小鼻子你在焦虑什么"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1811430427535765504",
+        "conversation_id": "1906930940477387060",
+        "created_at": "2025-04-01T08:31:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-01T09:31:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1906987755839893704"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1585204501149110274",
+              "start": 0,
+              "username": "jiajia1216ovo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1906987755839893704",
+        "in_reply_to_user_id": "1585204501149110274",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1906930940477387060",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jiajia1216ovo 亚儿的脸是我这辈子梦寐以求的啊尖下巴大眼睛小鼻子你在焦虑什么"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1585204501149110274",
+        "conversation_id": "1906930940477387060",
+        "created_at": "2025-04-01T04:45:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-01T05:45:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1906930940477387060"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1906930940477387060",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 641,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我讨厌千篇一律的妆容 我讨厌自己"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-11T16:01:12.000Z",
+        "description": "嗑药 | 自残 | 吐黑水 | 自由精神病 \n 『会回fo，对妹子会非常友好』:3\n我的男仆@requiem_soulss",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 46,
+                "username": "requiem_soulss"
+              }
+            ]
+          }
+        },
+        "id": "1811430427535765504",
+        "location": "🚪50绿色陪聊男的过门女的免费",
+        "name": "美術館館長",
+        "pinned_tweet_id": "1901626066441019862",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1884080533770231811/F8kuy6DT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 73,
+          "following_count": 138,
+          "like_count": 2713,
+          "listed_count": 1,
+          "media_count": 155,
+          "tweet_count": 690
+        },
+        "username": "xinshijie_1227",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-26T09:39:52.000Z",
+        "description": "推特被限流 关注我的ins：sophiaqwq00因为本人穷困潦倒 走投无路 从今天正式开始收门槛 。。88元好友位 188陪聊和举牌",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/sophiasssophia1",
+                "end": 23,
+                "expanded_url": "https://t.me/sophiasssophia1",
+                "start": 0,
+                "url": "https://t.co/mGexvdIi1b"
+              }
+            ]
+          }
+        },
+        "id": "1585204501149110274",
+        "location": "转帖一条52（24h",
+        "name": "Sophia",
+        "pinned_tweet_id": "1897035813340504176",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906686956089823232/p0cXE7n7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14289,
+          "following_count": 395,
+          "like_count": 9827,
+          "listed_count": 12,
+          "media_count": 558,
+          "tweet_count": 3252
+        },
+        "url": "https://t.co/mGexvdIi1b",
+        "username": "jiajia1216ovo",
+        "verified": false
+      }
+    ]
+  }
+}

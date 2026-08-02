@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2059648627312640005",
+        "3_2059648627312660483"
+      ]
+    },
+    "author_id": "1811430427535765504",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2059648644882542785",
+    "created_at": "2026-05-27T14:51:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T15:51:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2059648644882542785"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1889857476461207552",
+          "start": 2,
+          "username": "requiem_soulss"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/SBZZ1eZCyC",
+          "end": 56,
+          "expanded_url": "https://x.com/xinshijie_1227/status/2059648644882542785/photo/1",
+          "media_key": "3_2059648627312640005",
+          "start": 33,
+          "url": "https://t.co/SBZZ1eZCyC"
+        },
+        {
+          "display_url": "pic.x.com/SBZZ1eZCyC",
+          "end": 56,
+          "expanded_url": "https://x.com/xinshijie_1227/status/2059648644882542785/photo/1",
+          "media_key": "3_2059648627312660483",
+          "start": 33,
+          "url": "https://t.co/SBZZ1eZCyC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059648644882542785",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我跟@requiem_soulss 的steam主页，死宅蒸鹅心 https://t.co/SBZZ1eZCyC"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 768,
+        "media_key": "3_2059648627312640005",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJVXg5kXQAUu74A.jpg",
+        "width": 1024
+      },
+      {
+        "height": 576,
+        "media_key": "3_2059648627312660483",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJVXg5kXkAMKdGL.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059648627312640005",
+            "3_2059648627312660483"
+          ]
+        },
+        "author_id": "1811430427535765504",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2059648644882542785",
+        "created_at": "2026-05-27T14:51:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T15:51:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059648644882542785"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1889857476461207552",
+              "start": 2,
+              "username": "requiem_soulss"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/SBZZ1eZCyC",
+              "end": 56,
+              "expanded_url": "https://x.com/xinshijie_1227/status/2059648644882542785/photo/1",
+              "media_key": "3_2059648627312640005",
+              "start": 33,
+              "url": "https://t.co/SBZZ1eZCyC"
+            },
+            {
+              "display_url": "pic.x.com/SBZZ1eZCyC",
+              "end": 56,
+              "expanded_url": "https://x.com/xinshijie_1227/status/2059648644882542785/photo/1",
+              "media_key": "3_2059648627312660483",
+              "start": 33,
+              "url": "https://t.co/SBZZ1eZCyC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059648644882542785",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我跟@requiem_soulss 的steam主页，死宅蒸鹅心 https://t.co/SBZZ1eZCyC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-11T16:01:12.000Z",
+        "description": "嗑药 | 自残 | 负能量 | 御宅族| 互联网的隐匿栖身之所 | 互fo请私信 | \ntg频道：https://t.co/q5Z49VdRn3 | 俄罗斯臭傻逼@requiem_soulss",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 96,
+                "start": 81,
+                "username": "requiem_soulss"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/xinshijie0000",
+                "end": 72,
+                "expanded_url": "https://t.me/xinshijie0000",
+                "start": 49,
+                "url": "https://t.co/q5Z49VdRn3"
+              }
+            ]
+          }
+        },
+        "id": "1811430427535765504",
+        "location": "🚪8.88开放朋友圈陪闲聊",
+        "name": "美術館館長",
+        "pinned_tweet_id": "2035900548063568228",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037145672412258304/HWwdgB_x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 360,
+          "following_count": 234,
+          "like_count": 3908,
+          "listed_count": 0,
+          "media_count": 427,
+          "tweet_count": 1465
+        },
+        "username": "xinshijie_1227",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-13T02:02:11.000Z",
+        "description": "любимая жена @xinshijie_1227",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 13,
+                "username": "xinshijie_1227"
+              }
+            ]
+          }
+        },
+        "id": "1889857476461207552",
+        "name": "hatred",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931641936063905792/cCJ04XuX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 11,
+          "like_count": 281,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 163
+        },
+        "username": "requiem_soulss",
+        "verified": false
+      }
+    ]
+  }
+}

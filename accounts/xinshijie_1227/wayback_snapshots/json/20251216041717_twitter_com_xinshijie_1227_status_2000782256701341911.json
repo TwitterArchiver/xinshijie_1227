@@ -1,0 +1,198 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1811430427535765504",
+    "conversation_id": "2000521861910966630",
+    "created_at": "2025-12-16T04:17:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-16T05:17:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2000782256701341911"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1999723623536574464",
+          "start": 0,
+          "username": "gaHKibIWtD53306"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2000782256701341911",
+    "in_reply_to_user_id": "1999723623536574464",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2000521861910966630",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gaHKibIWtD53306 我用的免费的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1811430427535765504",
+        "conversation_id": "2000521861910966630",
+        "created_at": "2025-12-16T04:17:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-16T05:17:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000782256701341911"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1999723623536574464",
+              "start": 0,
+              "username": "gaHKibIWtD53306"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000782256701341911",
+        "in_reply_to_user_id": "1999723623536574464",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000521861910966630",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gaHKibIWtD53306 我用的免费的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1999723623536574464",
+        "conversation_id": "2000521861910966630",
+        "created_at": "2025-12-15T11:02:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-15T12:02:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2000521861910966630"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2000521861910966630",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 13,
+          "impression_count": 47893,
+          "like_count": 93,
+          "quote_count": 0,
+          "reply_count": 234,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "我用的加速器45块钱一个月。我有点心痛"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-11T16:01:12.000Z",
+        "description": "嗑药 | 自残 | 吐黑水 | 互联网的隐匿栖身之所『会回fo，对妹子会非常友好』哥特or地雷女｜狗屎馅俄罗斯大列巴@requiem_soulss ＞tg频道：https://t.co/q5Z49VdRn3（会在频道里发血图和日常）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 73,
+                "start": 58,
+                "username": "requiem_soulss"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/xinshijie0000",
+                "end": 103,
+                "expanded_url": "https://t.me/xinshijie0000",
+                "start": 80,
+                "url": "https://t.co/q5Z49VdRn3"
+              }
+            ]
+          }
+        },
+        "id": "1811430427535765504",
+        "location": "不再收🚪不再加男",
+        "name": "美術館館長",
+        "pinned_tweet_id": "1921997129985216603",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972651267144167424/LOOtLmEt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 129,
+          "following_count": 168,
+          "like_count": 3204,
+          "listed_count": 1,
+          "media_count": 336,
+          "tweet_count": 1180
+        },
+        "username": "xinshijie_1227",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-13T06:10:49.000Z",
+        "description": "我是缺爱逼 1225摩羯 ISFP 我是话唠。我每天发贴量上百。不搞黄不卖。纯绿。",
+        "id": "1999723623536574464",
+        "name": "谁能一直爱我",
+        "pinned_tweet_id": "2000147742283489304",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999723765044043776/VJqvA-u9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 323,
+          "following_count": 102,
+          "like_count": 225,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 141
+        },
+        "username": "gaHKibIWtD53306",
+        "verified": false
+      }
+    ]
+  }
+}

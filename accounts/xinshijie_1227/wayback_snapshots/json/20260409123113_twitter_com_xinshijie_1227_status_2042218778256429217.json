@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1811430427535765504",
+    "conversation_id": "2041862324525424866",
+    "created_at": "2026-04-09T12:31:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-09T13:31:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042218778256429217"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1843350227245510656",
+          "start": 0,
+          "username": "houhuilema"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042218778256429217",
+    "in_reply_to_user_id": "1843350227245510656",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041868237848424650",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@houhuilema 喝完这玩意我吐出来的东西是紫色的，纯工业酒精"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1811430427535765504",
+        "conversation_id": "2041862324525424866",
+        "created_at": "2026-04-09T12:31:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T13:31:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042218778256429217"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1843350227245510656",
+              "start": 0,
+              "username": "houhuilema"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042218778256429217",
+        "in_reply_to_user_id": "1843350227245510656",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041868237848424650",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@houhuilema 喝完这玩意我吐出来的东西是紫色的，纯工业酒精"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843350227245510656",
+        "conversation_id": "2041862324525424866",
+        "created_at": "2026-04-08T13:18:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T14:18:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041868237848424650"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1811430427535765504",
+              "start": 0,
+              "username": "xinshijie_1227"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041868237848424650",
+        "in_reply_to_user_id": "1811430427535765504",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041862324525424866",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xinshijie_1227 这个喝了可能胃不舒服\n\n感觉不如喝啤酒🍺"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-11T16:01:12.000Z",
+        "description": "嗑药 | 自残 | 负能量 | 御宅族| 互联网的隐匿栖身之所 | 傻逼俄罗斯男友@requiem_soulss | tg频道：https://t.co/q5Z49VdRn3（会在频道里发血图和日常照）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 41,
+                "username": "requiem_soulss"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/xinshijie0000",
+                "end": 87,
+                "expanded_url": "https://t.me/xinshijie0000",
+                "start": 64,
+                "url": "https://t.co/q5Z49VdRn3"
+              }
+            ]
+          }
+        },
+        "id": "1811430427535765504",
+        "location": "🚪8.88开放朋友圈陪闲聊",
+        "name": "美術館館長",
+        "pinned_tweet_id": "2035900548063568228",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037145672412258304/HWwdgB_x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 165,
+          "following_count": 211,
+          "like_count": 3832,
+          "listed_count": 1,
+          "media_count": 394,
+          "tweet_count": 1359
+        },
+        "username": "xinshijie_1227",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-07T17:58:52.000Z",
+        "description": "痴汉｜intp｜狂奔至腐烂就好｜我想占有你，我想吃掉你",
+        "id": "1843350227245510656",
+        "location": "：",
+        "name": "Bo",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039437730724372480/2h3VcTrZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 2,
+          "like_count": 5089,
+          "listed_count": 1,
+          "media_count": 65,
+          "tweet_count": 1031
+        },
+        "username": "houhuilema",
+        "verified": false
+      }
+    ]
+  }
+}

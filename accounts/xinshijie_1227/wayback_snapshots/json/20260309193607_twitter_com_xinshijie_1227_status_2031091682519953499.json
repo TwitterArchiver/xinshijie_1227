@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1811430427535765504",
+    "conversation_id": "2030918895650160886",
+    "created_at": "2026-03-09T19:36:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-09T20:36:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2031091682519953499"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1919090536180600832",
+          "start": 0,
+          "username": "dokigirlluv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2031091682519953499",
+    "in_reply_to_user_id": "1919090536180600832",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2030918895650160886",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dokigirlluv 亚儿咋这么惨"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2030918887609647104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HC9F98-awAA7OWK.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1811430427535765504",
+        "conversation_id": "2030918895650160886",
+        "created_at": "2026-03-09T19:36:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-09T20:36:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031091682519953499"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1919090536180600832",
+              "start": 0,
+              "username": "dokigirlluv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031091682519953499",
+        "in_reply_to_user_id": "1919090536180600832",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030918895650160886",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dokigirlluv 亚儿咋这么惨"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2030918887609647104"
+          ]
+        },
+        "author_id": "1919090536180600832",
+        "conversation_id": "2030918895650160886",
+        "created_at": "2026-03-09T08:09:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-09T09:09:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2030918895650160886"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/aXWBFuL4wS",
+              "end": 69,
+              "expanded_url": "https://x.com/dokigirlluv/status/2030918895650160886/photo/1",
+              "media_key": "3_2030918887609647104",
+              "start": 46,
+              "url": "https://t.co/aXWBFuL4wS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030918895650160886",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 4785,
+          "like_count": 68,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你们一直在在那说我以前接爸爸活我就是卖的 但是我他妈接的是纯绿啊 我也没有卖逼[破涕为笑] https://t.co/aXWBFuL4wS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-11T16:01:12.000Z",
+        "description": "嗑药 | 自残 | 吐黑水 ｜哥特or地雷女| 互联网的隐匿栖身之所｜狗屎馅俄罗斯大列巴@requiem_soulss tg频道：https://t.co/q5Z49Vdjxv（会在频道里发血图和日常照）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 59,
+                "start": 44,
+                "username": "requiem_soulss"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/xinshijie0000",
+                "end": 88,
+                "expanded_url": "https://t.me/xinshijie0000",
+                "start": 65,
+                "url": "https://t.co/q5Z49Vdjxv"
+              }
+            ]
+          }
+        },
+        "id": "1811430427535765504",
+        "location": "🚪8.88开放朋友圈陪闲聊",
+        "name": "美術館館長",
+        "pinned_tweet_id": "2024805135999017151",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009811412412157952/ARAxYDf-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 162,
+          "following_count": 209,
+          "like_count": 3656,
+          "listed_count": 1,
+          "media_count": 367,
+          "tweet_count": 1301
+        },
+        "username": "xinshijie_1227",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-04T18:03:42.000Z",
+        "description": "https://t.co/k2PgJQA6kY",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/sophiasssophia1",
+                "end": 23,
+                "expanded_url": "https://t.me/sophiasssophia1",
+                "start": 0,
+                "url": "https://t.co/k2PgJQA6kY"
+              }
+            ]
+          }
+        },
+        "id": "1919090536180600832",
+        "name": "Sophia",
+        "pinned_tweet_id": "2026772813017919851",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030163344611807232/BxI1OBk0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12924,
+          "following_count": 52,
+          "like_count": 742,
+          "listed_count": 5,
+          "media_count": 147,
+          "tweet_count": 382
+        },
+        "username": "dokigirlluv",
+        "verified": false
+      }
+    ]
+  }
+}

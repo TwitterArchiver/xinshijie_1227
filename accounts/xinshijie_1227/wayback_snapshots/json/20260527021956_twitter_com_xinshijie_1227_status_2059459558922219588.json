@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1811430427535765504",
+    "conversation_id": "2059183856209801520",
+    "created_at": "2026-05-27T02:19:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T03:19:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059459558922219588"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1775522951749591040",
+          "start": 0,
+          "username": "binbin77930833"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059459558922219588",
+    "in_reply_to_user_id": "1775522951749591040",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059183856209801520",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@binbin77930833 真的假的价格怎么说"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1811430427535765504",
+        "conversation_id": "2059183856209801520",
+        "created_at": "2026-05-27T02:19:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T03:19:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059459558922219588"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1775522951749591040",
+              "start": 0,
+              "username": "binbin77930833"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059459558922219588",
+        "in_reply_to_user_id": "1775522951749591040",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059183856209801520",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@binbin77930833 真的假的价格怎么说"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1775522951749591040",
+        "conversation_id": "2059183856209801520",
+        "created_at": "2026-05-26T08:04:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T09:04:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059183856209801520"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2059183856209801520",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 46,
+          "impression_count": 9286,
+          "like_count": 192,
+          "quote_count": 0,
+          "reply_count": 17,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "告诉各位oder一个好消息，我们自主研发的药物滥用大模型“迷迭香”即将投入使用，该模型接入中推大部分wiki数据，是您药物滥用之旅的不二之选，我们预计将在近半个月投入使用，届时所有oder都可获得每日30次免费提问次数，欢迎关注我们以获取最新信息。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-11T16:01:12.000Z",
+        "description": "嗑药 | 自残 | 负能量 | 御宅族| 互联网的隐匿栖身之所 | 互fo请私信 | \ntg频道：https://t.co/q5Z49VdRn3 | 俄罗斯臭傻逼@requiem_soulss",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 96,
+                "start": 81,
+                "username": "requiem_soulss"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/xinshijie0000",
+                "end": 72,
+                "expanded_url": "https://t.me/xinshijie0000",
+                "start": 49,
+                "url": "https://t.co/q5Z49VdRn3"
+              }
+            ]
+          }
+        },
+        "id": "1811430427535765504",
+        "location": "🚪8.88开放朋友圈陪闲聊",
+        "name": "美術館館長",
+        "pinned_tweet_id": "2035900548063568228",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037145672412258304/HWwdgB_x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 358,
+          "following_count": 230,
+          "like_count": 3904,
+          "listed_count": 0,
+          "media_count": 424,
+          "tweet_count": 1459
+        },
+        "username": "xinshijie_1227",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-03T13:57:29.000Z",
+        "description": "07年丨无证含糖丨mtf丨提供免费药物咨询丨药理低能选手丨互fo😭😭😭丨愿每一个药物滥用者脱离深渊丨最好的妈妈@07linseven匿名提问https://t.co/72Eg4eXMYj",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 55,
+                "username": "07linseven"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/binbin779",
+                "end": 93,
+                "expanded_url": "https://ngl.link/binbin779",
+                "start": 70,
+                "url": "https://t.co/72Eg4eXMYj"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yaowubaike.ca",
+                "end": 23,
+                "expanded_url": "http://yaowubaike.ca",
+                "start": 0,
+                "url": "https://t.co/JSuLk946oP"
+              }
+            ]
+          }
+        },
+        "id": "1775522951749591040",
+        "location": "普瑞巴林工厂🏭",
+        "name": "Rosemary#天国四",
+        "pinned_tweet_id": "2049463049023861091",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009670845724274690/Dujk7KSM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 445,
+          "following_count": 317,
+          "like_count": 1286,
+          "listed_count": 2,
+          "media_count": 68,
+          "tweet_count": 512
+        },
+        "url": "https://t.co/JSuLk946oP",
+        "username": "binbin77930833",
+        "verified": false
+      }
+    ]
+  }
+}

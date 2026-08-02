@@ -1,0 +1,171 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1935430901808177152",
+        "3_1935430901812346880"
+      ]
+    },
+    "author_id": "1811430427535765504",
+    "conversation_id": "1935430922712555605",
+    "created_at": "2025-06-18T20:14:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-18T21:14:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1935430922712555605"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/yuhV4DA5W6",
+          "end": 29,
+          "expanded_url": "https://x.com/xinshijie_1227/status/1935430922712555605/photo/1",
+          "media_key": "3_1935430901808177152",
+          "start": 6,
+          "url": "https://t.co/yuhV4DA5W6"
+        },
+        {
+          "display_url": "pic.x.com/yuhV4DA5W6",
+          "end": 29,
+          "expanded_url": "https://x.com/xinshijie_1227/status/1935430922712555605/photo/1",
+          "media_key": "3_1935430901812346880",
+          "start": 6,
+          "url": "https://t.co/yuhV4DA5W6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1935430922712555605",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我剪刘海了 https://t.co/yuhV4DA5W6"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1935430901808177152",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtwIJp2XIAActUa.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1935430901812346880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtwIJp3WwAAdEGo.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1935430901808177152",
+            "3_1935430901812346880"
+          ]
+        },
+        "author_id": "1811430427535765504",
+        "conversation_id": "1935430922712555605",
+        "created_at": "2025-06-18T20:14:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-18T21:14:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1935430922712555605"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yuhV4DA5W6",
+              "end": 29,
+              "expanded_url": "https://x.com/xinshijie_1227/status/1935430922712555605/photo/1",
+              "media_key": "3_1935430901808177152",
+              "start": 6,
+              "url": "https://t.co/yuhV4DA5W6"
+            },
+            {
+              "display_url": "pic.x.com/yuhV4DA5W6",
+              "end": 29,
+              "expanded_url": "https://x.com/xinshijie_1227/status/1935430922712555605/photo/1",
+              "media_key": "3_1935430901812346880",
+              "start": 6,
+              "url": "https://t.co/yuhV4DA5W6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1935430922712555605",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我剪刘海了 https://t.co/yuhV4DA5W6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-11T16:01:12.000Z",
+        "description": "嗑药 | 自残 | 吐黑水 | 互联网的隐匿栖身之所『会回fo，对妹子会非常友好』 | 我要嫁给Захар@requiem_soulss",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 53,
+                "username": "requiem_soulss"
+              }
+            ]
+          }
+        },
+        "id": "1811430427535765504",
+        "location": "不再收🚪只加妹子",
+        "name": "美術館館長",
+        "pinned_tweet_id": "1921997129985216603",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1929041425536266242/Uwpg_cd1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 177,
+          "following_count": 164,
+          "like_count": 3103,
+          "listed_count": 0,
+          "media_count": 253,
+          "tweet_count": 1019
+        },
+        "username": "xinshijie_1227",
+        "verified": false
+      }
+    ]
+  }
+}

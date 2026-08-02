@@ -1,0 +1,289 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1811430427535765504",
+    "conversation_id": "2035896523205267583",
+    "created_at": "2026-03-23T01:48:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-23T02:48:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2035896523205267583"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 85,
+          "start": 79,
+          "tag": "shtwt"
+        },
+        {
+          "end": 94,
+          "start": 86,
+          "tag": "shedtwt"
+        },
+        {
+          "end": 103,
+          "start": 95,
+          "tag": "goretwt"
+        },
+        {
+          "end": 111,
+          "start": 104,
+          "tag": "988twt"
+        },
+        {
+          "end": 121,
+          "start": 112,
+          "tag": "988shtwt"
+        },
+        {
+          "end": 131,
+          "start": 122,
+          "tag": "beanstwt"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2025775398890491904",
+          "start": 3,
+          "username": "ripkenno"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2035896523205267583",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 56
+    },
+    "referenced_tweets": [
+      {
+        "id": "2035796414907679026",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ripkenno: fingering tiny fascia cut with a tip of a knife ofc all fake sfx #shtwt #shedtwt #goretwt #988twt #988shtwt #beanstwt #slittw…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2035896523205267583].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2035896523205267583",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2035896523205267583"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 21936,
+        "height": 956,
+        "media_key": "13_2035796336243572736",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2035796336243572736/img/JqCV-Vvxey66XuGj.jpg",
+        "public_metrics": {
+          "view_count": 1883
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2035796336243572736/vid/avc1/320x424/0mwIankccnJpkgn8.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2035796336243572736/vid/avc1/480x636/K3KEcKEV7uw038VJ.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2035796336243572736/vid/avc1/720x956/GJd5SbxD3Fd3y6b3.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2035796336243572736/pl/q5nGv31839kqHYx-.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2035796336243572736"
+          ]
+        },
+        "author_id": "2025775398890491904",
+        "conversation_id": "2035796414907679026",
+        "created_at": "2026-03-22T19:11:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-22T20:11:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2035796414907679026"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 71,
+              "start": 65,
+              "tag": "shtwt"
+            },
+            {
+              "end": 80,
+              "start": 72,
+              "tag": "shedtwt"
+            },
+            {
+              "end": 89,
+              "start": 81,
+              "tag": "goretwt"
+            },
+            {
+              "end": 97,
+              "start": 90,
+              "tag": "988twt"
+            },
+            {
+              "end": 107,
+              "start": 98,
+              "tag": "988shtwt"
+            },
+            {
+              "end": 117,
+              "start": 108,
+              "tag": "beanstwt"
+            },
+            {
+              "end": 126,
+              "start": 118,
+              "tag": "slittwt"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/BwVE47p12D",
+              "end": 168,
+              "expanded_url": "https://x.com/ripkenno/status/2035796414907679026/video/1",
+              "media_key": "13_2035796336243572736",
+              "start": 145,
+              "url": "https://t.co/BwVE47p12D"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035796414907679026",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 69,
+          "impression_count": 4555,
+          "like_count": 460,
+          "quote_count": 3,
+          "reply_count": 35,
+          "retweet_count": 56
+        },
+        "reply_settings": "everyone",
+        "text": "fingering tiny fascia cut with a tip of a knife ofc all fake sfx #shtwt #shedtwt #goretwt #988twt #988shtwt #beanstwt #slittwt audio sucks ik 😳🥺 https://t.co/BwVE47p12D"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-11T16:01:12.000Z",
+        "description": "嗑药 | 自残 | 吐黑水 | 御宅族| 互联网的隐匿栖身之所 | 傻逼俄罗斯男友@requiem_soulss  |  tg频道：https://t.co/q5Z49VdRn3（会在频道里发血图和日常照）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 41,
+                "username": "requiem_soulss"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/xinshijie0000",
+                "end": 89,
+                "expanded_url": "https://t.me/xinshijie0000",
+                "start": 66,
+                "url": "https://t.co/q5Z49VdRn3"
+              }
+            ]
+          }
+        },
+        "id": "1811430427535765504",
+        "location": "🚪8.88开放朋友圈陪闲聊",
+        "name": "美術館館長",
+        "pinned_tweet_id": "2024805135999017151",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033580584837300225/zBVz95fh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 169,
+          "following_count": 216,
+          "like_count": 3746,
+          "listed_count": 1,
+          "media_count": 384,
+          "tweet_count": 1336
+        },
+        "username": "xinshijie_1227",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-23T03:31:31.000Z",
+        "description": "bmi 15 ndni 16y bipolar, conduct disorder \ndo not be surprised by my actions - account is for research/art purposes only HORROR MOVIE SFX ART ⚠️backup @kenno606",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 160,
+                "start": 151,
+                "username": "kenno606"
+              }
+            ]
+          }
+        },
+        "id": "2025775398890491904",
+        "location": "block dont report",
+        "name": "kenno",
+        "pinned_tweet_id": "2033271730781790279",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028318967203246080/jLjOLN3u_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3331,
+          "following_count": 470,
+          "like_count": 3109,
+          "listed_count": 6,
+          "media_count": 56,
+          "tweet_count": 561
+        },
+        "username": "ripkenno",
+        "verified": false
+      }
+    ]
+  }
+}

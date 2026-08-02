@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1811430427535765504",
+    "conversation_id": "1919950861070962889",
+    "created_at": "2025-05-08T06:44:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-08T07:44:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1920369164037877879"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1550188270495027200",
+          "start": 0,
+          "username": "Hushlog_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1920369164037877879",
+    "in_reply_to_user_id": "1550188270495027200",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1920048064930123803",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Hushlog_ 🥰"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1811430427535765504",
+        "conversation_id": "1919950861070962889",
+        "created_at": "2025-05-08T06:44:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-08T07:44:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1920369164037877879"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1550188270495027200",
+              "start": 0,
+              "username": "Hushlog_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1920369164037877879",
+        "in_reply_to_user_id": "1550188270495027200",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1920048064930123803",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Hushlog_ 🥰"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1550188270495027200",
+        "conversation_id": "1919950861070962889",
+        "created_at": "2025-05-07T09:28:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-07T10:28:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1920048064930123803"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1811430427535765504",
+              "start": 0,
+              "username": "xinshijie_1227"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1920048064930123803",
+        "in_reply_to_user_id": "1811430427535765504",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1919950861070962889",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xinshijie_1227 我亲亲"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-11T16:01:12.000Z",
+        "description": "嗑药 | 自残 | 吐黑水 | 自由精神病 『会回fo，对妹子会非常友好』:3 我的俄罗斯男仆@requiem_soulss",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 62,
+                "start": 47,
+                "username": "requiem_soulss"
+              }
+            ]
+          }
+        },
+        "id": "1811430427535765504",
+        "location": "🚪50绿色陪聊男的过门女的免费",
+        "name": "美術館館長",
+        "pinned_tweet_id": "1901626066441019862",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1915520664599224322/2WrUI4Tq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 89,
+          "following_count": 155,
+          "like_count": 2953,
+          "listed_count": 1,
+          "media_count": 226,
+          "tweet_count": 892
+        },
+        "username": "xinshijie_1227",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-21T18:38:02.000Z",
+        "description": "| 尝试复学大学生 | 双相 | cn阿树/黄瓜 | 互fo请私信 | 小号 @hushlog35 | 黄瓜与鸡肉同嚼有汉堡滋味。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 39,
+                "username": "hushlog35"
+              }
+            ]
+          }
+        },
+        "id": "1550188270495027200",
+        "location": "黑色空间",
+        "name": "黄瓜🥒",
+        "pinned_tweet_id": "1768187096857288940",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1849371111794044928/QBv-uHxZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1356,
+          "following_count": 164,
+          "like_count": 21400,
+          "listed_count": 4,
+          "media_count": 615,
+          "tweet_count": 6177
+        },
+        "username": "Hushlog_",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,120 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1811430427535765504",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      }
+    ],
+    "conversation_id": "1860578198792319465",
+    "created_at": "2024-11-24T06:56:25.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-24T07:56:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1860578198792319465"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1860578198792319465",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "双城之战真的好好看。。简直是艺术品，给我一种国内蜜汁3D动画永远企及不了的感觉，。，真的很艺术啊不管是美工还是配乐"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1811430427535765504",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          }
+        ],
+        "conversation_id": "1860578198792319465",
+        "created_at": "2024-11-24T06:56:25.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-24T07:56:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1860578198792319465"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1860578198792319465",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "双城之战真的好好看。。简直是艺术品，给我一种国内蜜汁3D动画永远企及不了的感觉，。，真的很艺术啊不管是美工还是配乐"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-11T16:01:12.000Z",
+        "description": "嗑药 | 自残 | 垃圾话 | 无黄推黄楠滚，很好说话欢迎互of，只是一个有精神病的动漫宅",
+        "id": "1811430427535765504",
+        "name": "劳工儿子在天堂",
+        "pinned_tweet_id": "1857507046654095687",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1860344393850613760/tW2czgA9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 93,
+          "like_count": 798,
+          "listed_count": 0,
+          "tweet_count": 72
+        },
+        "username": "xinshijie_1227",
+        "verified": false
+      }
+    ]
+  }
+}

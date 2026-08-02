@@ -1,0 +1,92 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1811430427535765504",
+    "conversation_id": "1880724895912599711",
+    "created_at": "2025-01-18T21:12:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-18T22:12:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1880724895912599711"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1880724895912599711",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "小美美你怎么背叛我，五个小时了我的药效呢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1811430427535765504",
+        "conversation_id": "1880724895912599711",
+        "created_at": "2025-01-18T21:12:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-18T22:12:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1880724895912599711"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1880724895912599711",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "小美美你怎么背叛我，五个小时了我的药效呢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-11T16:01:12.000Z",
+        "description": "梦想是操烂所有人的后门        \n\n    bi🚪50绿色陪聊",
+        "id": "1811430427535765504",
+        "name": "美術館館長",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1880660134885732352/6fY0vKs1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 132,
+          "like_count": 1332,
+          "listed_count": 0,
+          "media_count": 55,
+          "tweet_count": 257
+        },
+        "username": "xinshijie_1227",
+        "verified": false
+      }
+    ]
+  }
+}

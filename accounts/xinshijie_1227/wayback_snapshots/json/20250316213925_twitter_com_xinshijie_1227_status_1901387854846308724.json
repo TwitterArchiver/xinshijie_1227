@@ -1,0 +1,199 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1901387851629289472",
+        "3_1901387851142725633"
+      ]
+    },
+    "author_id": "1811430427535765504",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1901387854846308724",
+    "created_at": "2025-03-16T21:39:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-16T22:39:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1901387854846308724"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/18xRXKSmte",
+          "end": 28,
+          "expanded_url": "https://x.com/xinshijie_1227/status/1901387854846308724/photo/1",
+          "media_key": "3_1901387851629289472",
+          "start": 5,
+          "url": "https://t.co/18xRXKSmte"
+        },
+        {
+          "display_url": "pic.x.com/18xRXKSmte",
+          "end": 28,
+          "expanded_url": "https://x.com/xinshijie_1227/status/1901387854846308724/photo/1",
+          "media_key": "3_1901387851142725633",
+          "start": 5,
+          "url": "https://t.co/18xRXKSmte"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1901387854846308724",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "走起走起 https://t.co/18xRXKSmte"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1901387851629289472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GmMWLVSbYAA9cJE.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1594,
+        "media_key": "3_1901387851142725633",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GmMWLTebAAEYZOs.jpg",
+        "width": 2125
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1901387851629289472",
+            "3_1901387851142725633"
+          ]
+        },
+        "author_id": "1811430427535765504",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1901387854846308724",
+        "created_at": "2025-03-16T21:39:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-16T22:39:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1901387854846308724"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/18xRXKSmte",
+              "end": 28,
+              "expanded_url": "https://x.com/xinshijie_1227/status/1901387854846308724/photo/1",
+              "media_key": "3_1901387851629289472",
+              "start": 5,
+              "url": "https://t.co/18xRXKSmte"
+            },
+            {
+              "display_url": "pic.x.com/18xRXKSmte",
+              "end": 28,
+              "expanded_url": "https://x.com/xinshijie_1227/status/1901387854846308724/photo/1",
+              "media_key": "3_1901387851142725633",
+              "start": 5,
+              "url": "https://t.co/18xRXKSmte"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1901387854846308724",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "走起走起 https://t.co/18xRXKSmte"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-11T16:01:12.000Z",
+        "description": "嗑药 | 自残 | 吐黑水 | 自由精神病 \n 『会回fo，对妹子会非常友好』:3\n我的男仆@requiem_soulss",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 46,
+                "username": "requiem_soulss"
+              }
+            ]
+          }
+        },
+        "id": "1811430427535765504",
+        "location": "🚪50绿色陪聊男的过门女的免费",
+        "name": "美術館館長",
+        "pinned_tweet_id": "1886044580723949727",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1884080533770231811/F8kuy6DT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 56,
+          "following_count": 138,
+          "like_count": 2323,
+          "listed_count": 0,
+          "media_count": 116,
+          "tweet_count": 517
+        },
+        "username": "xinshijie_1227",
+        "verified": false
+      }
+    ]
+  }
+}

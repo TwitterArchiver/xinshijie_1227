@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1811430427535765504",
+    "conversation_id": "2024702725599219750",
+    "created_at": "2026-02-20T19:37:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-20T20:37:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024931408691822764"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1568476290386382849",
+          "start": 0,
+          "username": "StevenY83164918"
+        },
+        {
+          "end": 33,
+          "id": "1957509667787325440",
+          "start": 17,
+          "username": "pleazdontleavme"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024931408691822764",
+    "in_reply_to_user_id": "1568476290386382849",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024905124288893279",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@StevenY83164918 @pleazdontleavme 我已经药物成瘾了我也不知道该怎么戒掉╮( •́ω•̀ )╭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1811430427535765504",
+        "conversation_id": "2024702725599219750",
+        "created_at": "2026-02-20T19:37:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-20T20:37:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024931408691822764"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1568476290386382849",
+              "start": 0,
+              "username": "StevenY83164918"
+            },
+            {
+              "end": 33,
+              "id": "1957509667787325440",
+              "start": 17,
+              "username": "pleazdontleavme"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024931408691822764",
+        "in_reply_to_user_id": "1568476290386382849",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024905124288893279",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@StevenY83164918 @pleazdontleavme 我已经药物成瘾了我也不知道该怎么戒掉╮( •́ω•̀ )╭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1568476290386382849",
+        "conversation_id": "2024702725599219750",
+        "created_at": "2026-02-20T17:52:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-20T18:52:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024905124288893279"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1811430427535765504",
+              "start": 0,
+              "username": "xinshijie_1227"
+            },
+            {
+              "end": 32,
+              "id": "1957509667787325440",
+              "start": 16,
+              "username": "pleazdontleavme"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024905124288893279",
+        "in_reply_to_user_id": "1811430427535765504",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024788451623837754",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xinshijie_1227 @pleazdontleavme 别吃了😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-11T16:01:12.000Z",
+        "description": "嗑药 | 自残 | 吐黑水 ｜哥特or地雷女| 互联网的隐匿栖身之所｜狗屎馅俄罗斯大列巴@requiem_soulss tg频道：https://t.co/q5Z49Vdjxv（会在频道里发血图和日常照）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 59,
+                "start": 44,
+                "username": "requiem_soulss"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/xinshijie0000",
+                "end": 88,
+                "expanded_url": "https://t.me/xinshijie0000",
+                "start": 65,
+                "url": "https://t.co/q5Z49Vdjxv"
+              }
+            ]
+          }
+        },
+        "id": "1811430427535765504",
+        "location": "🚪8.88开放朋友圈陪闲聊",
+        "name": "美術館館長",
+        "pinned_tweet_id": "2024805135999017151",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009811412412157952/ARAxYDf-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 147,
+          "following_count": 197,
+          "like_count": 3587,
+          "listed_count": 1,
+          "media_count": 362,
+          "tweet_count": 1264
+        },
+        "username": "xinshijie_1227",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-10T05:48:04.000Z",
+        "description": "",
+        "id": "1568476290386382849",
+        "name": "G.Sia",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1578714049499406336/sFlexlwz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 322,
+          "like_count": 20,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 171
+        },
+        "username": "StevenY83164918",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-18T18:27:41.000Z",
+        "description": "08女/bi/lgbt全友好/同类互fo/我叫下水道/可以扩列/自残穿孔od/cptsd/bpd/dpd/极度依赖/无药可救",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/y69659y",
+                "end": 23,
+                "expanded_url": "https://ngl.link/y69659y",
+                "start": 0,
+                "url": "https://t.co/JcxwpFXiEy"
+              }
+            ]
+          }
+        },
+        "id": "1957509667787325440",
+        "location": "Припять",
+        "name": "骯髒下水道里的卑劣嘔吐物",
+        "pinned_tweet_id": "2024317059778453846",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023757108576219139/uzRSkV9f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 221,
+          "following_count": 476,
+          "like_count": 2935,
+          "listed_count": 0,
+          "media_count": 60,
+          "tweet_count": 1101
+        },
+        "url": "https://t.co/JcxwpFXiEy",
+        "username": "pleazdontleavme",
+        "verified": false
+      }
+    ]
+  }
+}

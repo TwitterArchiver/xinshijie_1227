@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1942520704991100928",
+        "3_1942520704743923712",
+        "3_1942520704748183552",
+        "3_1942520704940781568"
+      ]
+    },
+    "author_id": "1811430427535765504",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1942520787577233913",
+    "created_at": "2025-07-08T09:47:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-08T10:47:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1942520787577233913"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/cuONbUWEjm",
+          "end": 29,
+          "expanded_url": "https://x.com/xinshijie_1227/status/1942520787577233913/photo/1",
+          "media_key": "3_1942520704991100928",
+          "start": 6,
+          "url": "https://t.co/cuONbUWEjm"
+        },
+        {
+          "display_url": "pic.x.com/cuONbUWEjm",
+          "end": 29,
+          "expanded_url": "https://x.com/xinshijie_1227/status/1942520787577233913/photo/1",
+          "media_key": "3_1942520704743923712",
+          "start": 6,
+          "url": "https://t.co/cuONbUWEjm"
+        },
+        {
+          "display_url": "pic.x.com/cuONbUWEjm",
+          "end": 29,
+          "expanded_url": "https://x.com/xinshijie_1227/status/1942520787577233913/photo/1",
+          "media_key": "3_1942520704748183552",
+          "start": 6,
+          "url": "https://t.co/cuONbUWEjm"
+        },
+        {
+          "display_url": "pic.x.com/cuONbUWEjm",
+          "end": 29,
+          "expanded_url": "https://x.com/xinshijie_1227/status/1942520787577233913/photo/1",
+          "media_key": "3_1942520704940781568",
+          "start": 6,
+          "url": "https://t.co/cuONbUWEjm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1942520787577233913",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "楚酱..! https://t.co/cuONbUWEjm"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1942520704991100928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvU4Sg3WAAAulAh.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1536,
+        "media_key": "3_1942520704743923712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvU4Sf8aYAAMMq6.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_1942520704748183552",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvU4Sf9bYAA9Gzo.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_1942520704940781568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvU4SgrWMAAegPd.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1942520704991100928",
+            "3_1942520704743923712",
+            "3_1942520704748183552",
+            "3_1942520704940781568"
+          ]
+        },
+        "author_id": "1811430427535765504",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1942520787577233913",
+        "created_at": "2025-07-08T09:47:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-08T10:47:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1942520787577233913"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cuONbUWEjm",
+              "end": 29,
+              "expanded_url": "https://x.com/xinshijie_1227/status/1942520787577233913/photo/1",
+              "media_key": "3_1942520704991100928",
+              "start": 6,
+              "url": "https://t.co/cuONbUWEjm"
+            },
+            {
+              "display_url": "pic.x.com/cuONbUWEjm",
+              "end": 29,
+              "expanded_url": "https://x.com/xinshijie_1227/status/1942520787577233913/photo/1",
+              "media_key": "3_1942520704743923712",
+              "start": 6,
+              "url": "https://t.co/cuONbUWEjm"
+            },
+            {
+              "display_url": "pic.x.com/cuONbUWEjm",
+              "end": 29,
+              "expanded_url": "https://x.com/xinshijie_1227/status/1942520787577233913/photo/1",
+              "media_key": "3_1942520704748183552",
+              "start": 6,
+              "url": "https://t.co/cuONbUWEjm"
+            },
+            {
+              "display_url": "pic.x.com/cuONbUWEjm",
+              "end": 29,
+              "expanded_url": "https://x.com/xinshijie_1227/status/1942520787577233913/photo/1",
+              "media_key": "3_1942520704940781568",
+              "start": 6,
+              "url": "https://t.co/cuONbUWEjm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1942520787577233913",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "楚酱..! https://t.co/cuONbUWEjm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-11T16:01:12.000Z",
+        "description": "嗑药 | 自残 | 吐黑水 | 互联网的隐匿栖身之所『会回fo，对妹子会非常友好』狗屎馅俄罗斯大列巴@requiem_soulss",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 50,
+                "username": "requiem_soulss"
+              }
+            ]
+          }
+        },
+        "id": "1811430427535765504",
+        "location": "不再收🚪不再加男",
+        "name": "美術館館長",
+        "pinned_tweet_id": "1921997129985216603",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1929041425536266242/Uwpg_cd1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 173,
+          "following_count": 161,
+          "like_count": 3169,
+          "listed_count": 0,
+          "media_count": 272,
+          "tweet_count": 1064
+        },
+        "username": "xinshijie_1227",
+        "verified": false
+      }
+    ]
+  }
+}

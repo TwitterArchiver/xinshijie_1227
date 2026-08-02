@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1811430427535765504",
+    "conversation_id": "1890323169006981315",
+    "created_at": "2025-02-15T12:45:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-15T13:45:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1890744275240968233"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1206634579076902912",
+          "start": 0,
+          "username": "sunnych40905859"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1890744275240968233",
+    "in_reply_to_user_id": "1206634579076902912",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1890549867744788979",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sunnych40905859 无所吊谓了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1811430427535765504",
+        "conversation_id": "1890323169006981315",
+        "created_at": "2025-02-15T12:45:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-15T13:45:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1890744275240968233"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1206634579076902912",
+              "start": 0,
+              "username": "sunnych40905859"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1890744275240968233",
+        "in_reply_to_user_id": "1206634579076902912",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1890549867744788979",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sunnych40905859 无所吊谓了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1206634579076902912",
+        "conversation_id": "1890323169006981315",
+        "created_at": "2025-02-14T23:53:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-15T00:53:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1890549867744788979"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1811430427535765504",
+              "start": 0,
+              "username": "xinshijie_1227"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1890549867744788979",
+        "in_reply_to_user_id": "1811430427535765504",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1890323169006981315",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xinshijie_1227 抱抱你  顺便送你我的人生四字真理：无所屌谓   你连死都不怕了 这个世界上的所有事情所有人都无所屌谓"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-11T16:01:12.000Z",
+        "description": "od | 自残 | 吐黑水 \n屎尿屁大王 bi 对妹子会非常友好^_^   会回fo",
+        "id": "1811430427535765504",
+        "location": "🚪50绿色陪聊",
+        "name": "美術館館長",
+        "pinned_tweet_id": "1886044580723949727",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1884080533770231811/F8kuy6DT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44,
+          "following_count": 117,
+          "like_count": 1716,
+          "listed_count": 0,
+          "media_count": 91,
+          "tweet_count": 374
+        },
+        "username": "xinshijie_1227",
+        "verified": false
+      },
+      {
+        "created_at": "2019-12-16T17:58:04.000Z",
+        "description": "",
+        "id": "1206634579076902912",
+        "location": "Wan Chai District, Hong Kong",
+        "name": "123",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1497618410473017345/qjyqfzKT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 76,
+          "like_count": 16,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 16
+        },
+        "username": "sunnych40905859",
+        "verified": false
+      }
+    ]
+  }
+}

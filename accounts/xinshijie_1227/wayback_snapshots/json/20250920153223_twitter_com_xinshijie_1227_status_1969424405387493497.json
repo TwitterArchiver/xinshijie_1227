@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1969424179197067268",
+        "13_1969424179188707328",
+        "3_1969424392200601601",
+        "3_1969424392229998592"
+      ]
+    },
+    "author_id": "1811430427535765504",
+    "conversation_id": "1969424405387493497",
+    "created_at": "2025-09-20T15:32:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-20T16:32:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1969424405387493497"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/jnk1Mp7sQX",
+          "end": 33,
+          "expanded_url": "https://x.com/xinshijie_1227/status/1969424405387493497/video/1",
+          "media_key": "13_1969424179197067268",
+          "start": 10,
+          "url": "https://t.co/jnk1Mp7sQX"
+        },
+        {
+          "display_url": "pic.x.com/jnk1Mp7sQX",
+          "end": 33,
+          "expanded_url": "https://x.com/xinshijie_1227/status/1969424405387493497/video/1",
+          "media_key": "13_1969424179188707328",
+          "start": 10,
+          "url": "https://t.co/jnk1Mp7sQX"
+        },
+        {
+          "display_url": "pic.x.com/jnk1Mp7sQX",
+          "end": 33,
+          "expanded_url": "https://x.com/xinshijie_1227/status/1969424405387493497/video/1",
+          "media_key": "3_1969424392200601601",
+          "start": 10,
+          "url": "https://t.co/jnk1Mp7sQX"
+        },
+        {
+          "display_url": "pic.x.com/jnk1Mp7sQX",
+          "end": 33,
+          "expanded_url": "https://x.com/xinshijie_1227/status/1969424405387493497/video/1",
+          "media_key": "3_1969424392229998592",
+          "start": 10,
+          "url": "https://t.co/jnk1Mp7sQX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1969424405387493497",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我割腕把手筋割断了 https://t.co/jnk1Mp7sQX"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1969424405387493497].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1969424405387493497",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1969424405387493497"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 19503,
+        "height": 1280,
+        "media_key": "13_1969424179197067268",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1969424179197067268/img/mPyla9I5J8ogTK6_.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1969424179197067268/vid/avc1/320x568/jQ1OeeWRrUg7LMKV.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1969424179197067268/vid/avc1/480x852/V0EIiG7OhpJnx0xH.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1969424179197067268/vid/avc1/720x1280/YZTSEb_koa3PR9Rt.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1969424179197067268/pl/WuDLk90LQ7FCb6mR.m3u8"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "duration_ms": 23576,
+        "height": 720,
+        "media_key": "13_1969424179188707328",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1969424179188707328/img/-9VDvj8YkMcv22BM.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1969424179188707328/vid/avc1/480x270/tzJ3Qqn_4XEcFvlK.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1969424179188707328/vid/avc1/640x360/mzE2_b3U-DAvT2Qz.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1969424179188707328/vid/avc1/1280x720/O6KfwR1ERD4OnEST.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1969424179188707328/pl/R4Ei3HtHc1WuF7RY.m3u8"
+          }
+        ],
+        "width": 1280
+      },
+      {
+        "height": 1920,
+        "media_key": "3_1969424392200601601",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1TNDN0bQAEw4Hf.jpg",
+        "width": 1080
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1969424392229998592",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1TNDN7b0AAxl2X.jpg",
+        "width": 1536
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-11T16:01:12.000Z",
+        "description": "嗑药 | 自残 | 吐黑水 | 互联网的隐匿栖身之所『会回fo，对妹子会非常友好』哥特or地雷女｜狗屎馅俄罗斯大列巴@requiem_soulss ＞tg频道：https://t.co/5l18LxeR2N",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 73,
+                "start": 58,
+                "username": "requiem_soulss"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/+UUDcCzqoM_thM…",
+                "end": 103,
+                "expanded_url": "https://t.me/+UUDcCzqoM_thMjVl",
+                "start": 80,
+                "url": "https://t.co/5l18LxeR2N"
+              }
+            ]
+          }
+        },
+        "id": "1811430427535765504",
+        "location": "不再收🚪不再加男",
+        "name": "美術館館長",
+        "pinned_tweet_id": "1921997129985216603",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966128093455953920/kBuYT232_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 115,
+          "following_count": 162,
+          "like_count": 3149,
+          "listed_count": 1,
+          "media_count": 297,
+          "tweet_count": 1111
+        },
+        "username": "xinshijie_1227",
+        "verified": false
+      }
+    ]
+  }
+}

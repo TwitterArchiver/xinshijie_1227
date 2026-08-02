@@ -1,0 +1,303 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1811430427535765504",
+    "conversation_id": "2051322350579458436",
+    "created_at": "2026-05-06T10:12:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-06T11:12:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051968215807312133"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1989965282799226880",
+          "start": 0,
+          "username": "DQadopt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051968215807312133",
+    "in_reply_to_user_id": "1989965282799226880",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051322350579458436",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DQadopt 世界第一幸福的情侣"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2051322313707270144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHfCxqRasAAtEcm.jpg",
+        "width": 768
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2051322313715691520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHfCxqTbMAA6LL2.jpg",
+        "width": 768
+      },
+      {
+        "height": 768,
+        "media_key": "3_2051322313698861056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHfCxqPaYAA2per.jpg",
+        "width": 1024
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2051290579649314816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHel6fsaQAAJu8G.jpg",
+        "width": 768
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1811430427535765504",
+        "conversation_id": "2051322350579458436",
+        "created_at": "2026-05-06T10:12:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T11:12:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051968215807312133"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1989965282799226880",
+              "start": 0,
+              "username": "DQadopt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051968215807312133",
+        "in_reply_to_user_id": "1989965282799226880",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051322350579458436",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DQadopt 世界第一幸福的情侣"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2051322313707270144",
+            "3_2051322313715691520",
+            "3_2051322313698861056",
+            "3_2051290579649314816"
+          ]
+        },
+        "author_id": "1989965282799226880",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2051322350579458436",
+        "created_at": "2026-05-04T15:25:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T16:25:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051322350579458436"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7UPCztS8Ur",
+              "end": 47,
+              "expanded_url": "https://x.com/DQadopt/status/2051322350579458436/photo/1",
+              "media_key": "3_2051322313707270144",
+              "start": 24,
+              "url": "https://t.co/7UPCztS8Ur"
+            },
+            {
+              "display_url": "pic.x.com/7UPCztS8Ur",
+              "end": 47,
+              "expanded_url": "https://x.com/DQadopt/status/2051322350579458436/photo/1",
+              "media_key": "3_2051322313715691520",
+              "start": 24,
+              "url": "https://t.co/7UPCztS8Ur"
+            },
+            {
+              "display_url": "pic.x.com/7UPCztS8Ur",
+              "end": 47,
+              "expanded_url": "https://x.com/DQadopt/status/2051322350579458436/photo/1",
+              "media_key": "3_2051322313698861056",
+              "start": 24,
+              "url": "https://t.co/7UPCztS8Ur"
+            },
+            {
+              "display_url": "pic.x.com/7UPCztS8Ur",
+              "end": 47,
+              "expanded_url": "https://x.com/DQadopt/status/2051322350579458436/photo/1",
+              "media_key": "3_2051290579649314816",
+              "start": 24,
+              "url": "https://t.co/7UPCztS8Ur"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051322350579458436",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6272,
+          "like_count": 104,
+          "quote_count": 0,
+          "reply_count": 22,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我是全世界最爱小鸟、最保护小鸟、最在意小鸟的人 https://t.co/7UPCztS8Ur"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-11T16:01:12.000Z",
+        "description": "嗑药 | 自残 | 负能量 | 御宅族| 互联网的隐匿栖身之所 | 傻逼俄罗斯男友@requiem_soulss | tg频道：https://t.co/q5Z49VdRn3（会在频道里发血图和日常照）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 41,
+                "username": "requiem_soulss"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/xinshijie0000",
+                "end": 87,
+                "expanded_url": "https://t.me/xinshijie0000",
+                "start": 64,
+                "url": "https://t.co/q5Z49VdRn3"
+              }
+            ]
+          }
+        },
+        "id": "1811430427535765504",
+        "location": "🚪8.88开放朋友圈陪闲聊",
+        "name": "美術館館長",
+        "pinned_tweet_id": "2035900548063568228",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037145672412258304/HWwdgB_x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 172,
+          "following_count": 209,
+          "like_count": 3860,
+          "listed_count": 1,
+          "media_count": 409,
+          "tweet_count": 1392
+        },
+        "username": "xinshijie_1227",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-16T07:54:40.000Z",
+        "description": "有个很爱的女朋友叫小鸟丨我站在这里，是为了击破真善美的臆想，查拉图斯特拉独自下山，没有碰到任何人。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dqadopt",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dqadopt",
+                "start": 0,
+                "url": "https://t.co/nFHbt8f2ne"
+              }
+            ]
+          }
+        },
+        "id": "1989965282799226880",
+        "location": "千百次孤独",
+        "name": "查拉图斯特拉.",
+        "pinned_tweet_id": "2051669162335023145",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008710992977362944/ooE2SguW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2260,
+          "following_count": 342,
+          "like_count": 3341,
+          "listed_count": 1,
+          "media_count": 360,
+          "tweet_count": 3866
+        },
+        "url": "https://t.co/nFHbt8f2ne",
+        "username": "DQadopt",
+        "verified": false
+      }
+    ]
+  }
+}

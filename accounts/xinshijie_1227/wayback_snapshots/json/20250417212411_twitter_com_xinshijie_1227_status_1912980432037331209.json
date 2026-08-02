@@ -1,0 +1,105 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1811430427535765504",
+    "conversation_id": "1912980432037331209",
+    "created_at": "2025-04-17T21:24:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-17T22:24:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1912980432037331209"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1912980432037331209",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我觉得恋爱就像抽烟一样，吸入口中的第一口烟总是让人觉得幸福，随着燃烧口感也开始变得苦涩，直至燃尽到烟把烟味变得呛人，抽烟的人还是会面目狰狞地把烟吸进嘴里，直到开始烫手才丢掉，因为人总会觉得这是最后一根烟所以十分不舍，但其实还是会在之后从烟盒里掏出下一根烟点燃"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1811430427535765504",
+        "conversation_id": "1912980432037331209",
+        "created_at": "2025-04-17T21:24:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-17T22:24:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1912980432037331209"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1912980432037331209",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我觉得恋爱就像抽烟一样，吸入口中的第一口烟总是让人觉得幸福，随着燃烧口感也开始变得苦涩，直至燃尽到烟把烟味变得呛人，抽烟的人还是会面目狰狞地把烟吸进嘴里，直到开始烫手才丢掉，因为人总会觉得这是最后一根烟所以十分不舍，但其实还是会在之后从烟盒里掏出下一根烟点燃"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-11T16:01:12.000Z",
+        "description": "嗑药 | 自残 | 吐黑水 | 自由精神病 『会回fo，对妹子会非常友好』:3 我的俄罗斯男仆@requiem_soulss",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 62,
+                "start": 47,
+                "username": "requiem_soulss"
+              }
+            ]
+          }
+        },
+        "id": "1811430427535765504",
+        "location": "🚪50绿色陪聊男的过门女的免费",
+        "name": "美術館館長",
+        "pinned_tweet_id": "1901626066441019862",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912603105671192576/6oBBqr6j_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 78,
+          "following_count": 142,
+          "like_count": 2878,
+          "listed_count": 1,
+          "media_count": 192,
+          "tweet_count": 809
+        },
+        "username": "xinshijie_1227",
+        "verified": false
+      }
+    ]
+  }
+}

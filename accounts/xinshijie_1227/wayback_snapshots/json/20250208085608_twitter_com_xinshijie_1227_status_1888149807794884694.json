@@ -1,0 +1,170 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1811430427535765504",
+    "conversation_id": "1888148951939117171",
+    "created_at": "2025-02-08T08:56:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-08T09:56:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1888149807794884694"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1888149807794884694",
+    "in_reply_to_user_id": "1811430427535765504",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1888148951939117171",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "还有一套东立的炎拳没有发货 不过那个我确认过了是正品"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1811430427535765504",
+        "conversation_id": "1888148951939117171",
+        "created_at": "2025-02-08T08:56:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-08T09:56:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1888149807794884694"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1888149807794884694",
+        "in_reply_to_user_id": "1811430427535765504",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1888148951939117171",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "还有一套东立的炎拳没有发货 不过那个我确认过了是正品"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1888148932825624577"
+          ]
+        },
+        "author_id": "1811430427535765504",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1888148951939117171",
+        "created_at": "2025-02-08T08:52:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-08T09:52:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1888148951939117171"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fZ65rX35jR",
+              "end": 67,
+              "expanded_url": "https://x.com/xinshijie_1227/status/1888148951939117171/photo/1",
+              "media_key": "3_1888148932825624577",
+              "start": 44,
+              "url": "https://t.co/fZ65rX35jR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1888148951939117171",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "买书收到假书了 一打开一股霉味好臭 气死了 明明说好的是东立出版结果是自印 当我傻子吗 https://t.co/fZ65rX35jR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-11T16:01:12.000Z",
+        "description": "od | 自残 | 吐黑水     bi 对妹子会很友好^_^",
+        "id": "1811430427535765504",
+        "location": "🚪50绿色陪聊",
+        "name": "美術館館長",
+        "pinned_tweet_id": "1886044580723949727",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1884080533770231811/F8kuy6DT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39,
+          "following_count": 109,
+          "like_count": 1505,
+          "listed_count": 0,
+          "media_count": 67,
+          "tweet_count": 308
+        },
+        "username": "xinshijie_1227",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1811430427535765504",
+    "conversation_id": "2064094894298374165",
+    "created_at": "2026-06-10T04:25:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T05:25:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064564486250660028"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1973601480100945923",
+          "start": 0,
+          "username": "JnKiOp_a123"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064564486250660028",
+    "in_reply_to_user_id": "1973601480100945923",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064361027064451292",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JnKiOp_a123 金刚晚安"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1811430427535765504",
+        "conversation_id": "2064094894298374165",
+        "created_at": "2026-06-10T04:25:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T05:25:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064564486250660028"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1973601480100945923",
+              "start": 0,
+              "username": "JnKiOp_a123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064564486250660028",
+        "in_reply_to_user_id": "1973601480100945923",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064361027064451292",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JnKiOp_a123 金刚晚安"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1973601480100945923",
+        "conversation_id": "2064094894298374165",
+        "created_at": "2026-06-09T14:56:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T15:56:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064361027064451292"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1811430427535765504",
+              "start": 0,
+              "username": "xinshijie_1227"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064361027064451292",
+        "in_reply_to_user_id": "1811430427535765504",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064094894298374165",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xinshijie_1227 这什么药"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-11T16:01:12.000Z",
+        "description": "嗑药吸毒自残 | 负能量 | 互联网的隐匿栖身之所 | 查成分互of | \ntg频道：https://t.co/q5Z49VdRn3",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/xinshijie0000",
+                "end": 66,
+                "expanded_url": "https://t.me/xinshijie0000",
+                "start": 43,
+                "url": "https://t.co/q5Z49VdRn3"
+              }
+            ]
+          }
+        },
+        "id": "1811430427535765504",
+        "location": "🚪8.88开放朋友圈陪闲聊",
+        "name": "美術館館長",
+        "pinned_tweet_id": "2035900548063568228",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037145672412258304/HWwdgB_x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 375,
+          "following_count": 234,
+          "like_count": 3968,
+          "listed_count": 1,
+          "media_count": 444,
+          "tweet_count": 1506
+        },
+        "username": "xinshijie_1227",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-02T04:11:16.000Z",
+        "description": "精神病一个，没法社交了；",
+        "id": "1973601480100945923",
+        "name": "焚情",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024791438538768384/BqtF35Dq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37,
+          "following_count": 57,
+          "like_count": 239,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 53
+        },
+        "username": "JnKiOp_a123",
+        "verified": false
+      }
+    ]
+  }
+}

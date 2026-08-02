@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1880314902767710209"
+      ],
+      "media_source_tweet_id": [
+        "1880314914771988707"
+      ]
+    },
+    "author_id": "1811430427535765504",
+    "conversation_id": "1902962631520162184",
+    "created_at": "2025-03-21T05:57:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-21T06:57:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1902962631520162184"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1264250766",
+          "start": 3,
+          "username": "httpdevils"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/NN5nBFq0ym",
+          "end": 39,
+          "expanded_url": "https://x.com/httpdevils/status/1880314914771988707/photo/1",
+          "media_key": "3_1880314902767710209",
+          "start": 16,
+          "url": "https://t.co/NN5nBFq0ym"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1902962631520162184",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 240
+    },
+    "referenced_tweets": [
+      {
+        "id": "1880314914771988707",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @httpdevils: https://t.co/NN5nBFq0ym"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1902962631520162184].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1902962631520162184",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1902962631520162184"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 618,
+        "media_key": "3_1880314902767710209",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Ghg4cRVXsAE8Lg4.jpg",
+        "width": 828
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1880314902767710209"
+          ]
+        },
+        "author_id": "1264250766",
+        "conversation_id": "1880314914771988707",
+        "created_at": "2025-01-17T18:03:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-17T19:03:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1880314914771988707"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NN5nBFq0ym",
+              "end": 23,
+              "expanded_url": "https://x.com/httpdevils/status/1880314914771988707/photo/1",
+              "media_key": "3_1880314902767710209",
+              "start": 0,
+              "url": "https://t.co/NN5nBFq0ym"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1880314914771988707",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 249,
+          "impression_count": 169128,
+          "like_count": 1773,
+          "quote_count": 12,
+          "reply_count": 5,
+          "retweet_count": 240
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/NN5nBFq0ym"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-11T16:01:12.000Z",
+        "description": "嗑药 | 自残 | 吐黑水 | 自由精神病 \n 『会回fo，对妹子会非常友好』:3\n我的男仆@requiem_soulss",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 46,
+                "username": "requiem_soulss"
+              }
+            ]
+          }
+        },
+        "id": "1811430427535765504",
+        "location": "🚪50绿色陪聊男的过门女的免费",
+        "name": "美術館館長",
+        "pinned_tweet_id": "1901626066441019862",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1884080533770231811/F8kuy6DT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 64,
+          "following_count": 145,
+          "like_count": 2485,
+          "listed_count": 1,
+          "media_count": 129,
+          "tweet_count": 593
+        },
+        "username": "xinshijie_1227",
+        "verified": false
+      },
+      {
+        "created_at": "2013-03-13T11:46:17.000Z",
+        "description": "a safe place of love",
+        "id": "1264250766",
+        "location": "dm for promo",
+        "name": "ִֶָ",
+        "pinned_tweet_id": "1751694404002136405",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1896751325909594112/vp_-TOwN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 705422,
+          "following_count": 3,
+          "like_count": 86906,
+          "listed_count": 1352,
+          "media_count": 2587,
+          "tweet_count": 7695
+        },
+        "username": "httpdevils",
+        "verified": true
+      }
+    ]
+  }
+}

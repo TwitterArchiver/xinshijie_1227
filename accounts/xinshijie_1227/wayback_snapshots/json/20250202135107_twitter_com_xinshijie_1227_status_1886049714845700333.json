@@ -1,0 +1,155 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1811430427535765504",
+    "conversation_id": "1886048422253523400",
+    "created_at": "2025-02-02T13:51:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-02T14:51:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1886049714845700333"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1886049714845700333",
+    "in_reply_to_user_id": "1811430427535765504",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1886048422253523400",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我们只是单纯的好朋友，但是我也很讨厌他已读不回，不管是谁我都很讨厌已读不回，就是很久都已读不回"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1811430427535765504",
+        "conversation_id": "1886048422253523400",
+        "created_at": "2025-02-02T13:51:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-02T14:51:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1886049714845700333"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1886049714845700333",
+        "in_reply_to_user_id": "1811430427535765504",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1886048422253523400",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我们只是单纯的好朋友，但是我也很讨厌他已读不回，不管是谁我都很讨厌已读不回，就是很久都已读不回"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1886048419535556608"
+          ]
+        },
+        "author_id": "1811430427535765504",
+        "conversation_id": "1886048422253523400",
+        "created_at": "2025-02-02T13:45:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-02T14:45:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1886048422253523400"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mQiqaaibc8",
+              "end": 86,
+              "expanded_url": "https://x.com/xinshijie_1227/status/1886048422253523400/photo/1",
+              "media_key": "3_1886048419535556608",
+              "start": 63,
+              "url": "https://t.co/mQiqaaibc8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1886048422253523400",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "小miron，我有时候特别想把他眼睛那一圈挖下来裱起来珍藏，但是他每次回信息特别慢的时候我就想拿筷子插他眼睛气的小女子囧架架 https://t.co/mQiqaaibc8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-11T16:01:12.000Z",
+        "description": "od | 自残 | 垃圾话     对妹子会很友好^_^\n\n    bi🚪50绿色陪聊",
+        "id": "1811430427535765504",
+        "name": "美術館館長",
+        "pinned_tweet_id": "1886044557634404531",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1884080533770231811/F8kuy6DT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33,
+          "following_count": 106,
+          "like_count": 1397,
+          "listed_count": 0,
+          "media_count": 61,
+          "tweet_count": 282
+        },
+        "username": "xinshijie_1227",
+        "verified": false
+      }
+    ]
+  }
+}

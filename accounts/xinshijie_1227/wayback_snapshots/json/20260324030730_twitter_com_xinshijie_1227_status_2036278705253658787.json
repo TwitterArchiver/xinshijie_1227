@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1811430427535765504",
+    "conversation_id": "2035645729151295631",
+    "created_at": "2026-03-24T03:07:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-24T04:07:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2036278705253658787"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "1507396901594820608",
+          "start": 0,
+          "username": "hgds0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036278705253658787",
+    "in_reply_to_user_id": "1507396901594820608",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 2,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2035645729151295631",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hgds0 犹抱希儿半遮面"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2035645697849249792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEAQ-hTbUAAWuMC.jpg",
+        "width": 890
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1811430427535765504",
+        "conversation_id": "2035645729151295631",
+        "created_at": "2026-03-24T03:07:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-24T04:07:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036278705253658787"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "1507396901594820608",
+              "start": 0,
+              "username": "hgds0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036278705253658787",
+        "in_reply_to_user_id": "1507396901594820608",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035645729151295631",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hgds0 犹抱希儿半遮面"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2035645697849249792"
+          ]
+        },
+        "author_id": "1507396901594820608",
+        "conversation_id": "2035645729151295631",
+        "created_at": "2026-03-22T09:12:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-22T10:12:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2035645729151295631"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WxzKBYelRp",
+              "end": 23,
+              "expanded_url": "https://x.com/hgds0/status/2035645729151295631/photo/1",
+              "media_key": "3_2035645697849249792",
+              "start": 0,
+              "url": "https://t.co/WxzKBYelRp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035645729151295631",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 73,
+          "impression_count": 100990,
+          "like_count": 1361,
+          "quote_count": 7,
+          "reply_count": 22,
+          "retweet_count": 34
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/WxzKBYelRp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-11T16:01:12.000Z",
+        "description": "嗑药 | 自残 | 负能量 | 御宅族| 互联网的隐匿栖身之所 | 傻逼俄罗斯男友@requiem_soulss | tg频道：https://t.co/q5Z49VdRn3（会在频道里发血图和日常照）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 41,
+                "username": "requiem_soulss"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/xinshijie0000",
+                "end": 87,
+                "expanded_url": "https://t.me/xinshijie0000",
+                "start": 64,
+                "url": "https://t.co/q5Z49VdRn3"
+              }
+            ]
+          }
+        },
+        "id": "1811430427535765504",
+        "location": "🚪8.88开放朋友圈陪闲聊",
+        "name": "美術館館長",
+        "pinned_tweet_id": "2035900548063568228",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033580584837300225/zBVz95fh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 170,
+          "following_count": 217,
+          "like_count": 3797,
+          "listed_count": 1,
+          "media_count": 386,
+          "tweet_count": 1341
+        },
+        "username": "xinshijie_1227",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-25T16:40:26.000Z",
+        "description": "接受投稿 过稿即回复 /部分作品搬运 侵删/推广自辩‼️",
+        "id": "1507396901594820608",
+        "name": "恋",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1853640703144046592/OC2mQ87G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 97264,
+          "following_count": 2490,
+          "like_count": 43885,
+          "listed_count": 140,
+          "media_count": 3886,
+          "tweet_count": 8266
+        },
+        "username": "hgds0",
+        "verified": true
+      }
+    ]
+  }
+}

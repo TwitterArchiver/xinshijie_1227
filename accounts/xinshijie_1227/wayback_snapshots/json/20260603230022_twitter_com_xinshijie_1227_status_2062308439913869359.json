@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1850645581229703169"
+      ],
+      "media_source_tweet_id": [
+        "1850645584945828161"
+      ]
+    },
+    "author_id": "1811430427535765504",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2062308439913869359",
+    "created_at": "2026-06-03T23:00:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-04T00:00:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062308439913869359"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 20,
+          "start": 14,
+          "tag": "shtwt"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1753556247058472962",
+          "start": 3,
+          "username": "boillnes"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/bztejAsQz0",
+          "end": 47,
+          "expanded_url": "https://x.com/helineses/status/1850645584945828161/photo/1",
+          "media_key": "3_1850645581229703169",
+          "start": 24,
+          "url": "https://t.co/bztejAsQz0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062308439913869359",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2051
+    },
+    "referenced_tweets": [
+      {
+        "id": "1850645584945828161",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @boillnes: #shtwt nm https://t.co/bztejAsQz0"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2062308439913869359].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2062308439913869359",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2062308439913869359"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1178,
+        "media_key": "3_1850645581229703169",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Ga7QWdpXwAEmaJZ.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1850645581229703169"
+          ]
+        },
+        "author_id": "1753556247058472962",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1850645584945828161",
+        "created_at": "2024-10-27T21:07:45.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-27T22:07:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1850645584945828161"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 6,
+              "start": 0,
+              "tag": "shtwt"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/bztejAsQz0",
+              "end": 33,
+              "expanded_url": "https://x.com/helineses/status/1850645584945828161/photo/1",
+              "media_key": "3_1850645581229703169",
+              "start": 10,
+              "url": "https://t.co/bztejAsQz0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1850645584945828161",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2145,
+          "impression_count": 75504,
+          "like_count": 10176,
+          "quote_count": 47,
+          "reply_count": 256,
+          "retweet_count": 2051
+        },
+        "reply_settings": "everyone",
+        "text": "#shtwt nm https://t.co/bztejAsQz0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-11T16:01:12.000Z",
+        "description": "嗑药吸毒自残 | 负能量 | 互联网的隐匿栖身之所 | 查成分互of | \ntg频道：https://t.co/q5Z49VdRn3 | 俄罗斯臭傻逼@requiem_soulss",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 90,
+                "start": 75,
+                "username": "requiem_soulss"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/xinshijie0000",
+                "end": 66,
+                "expanded_url": "https://t.me/xinshijie0000",
+                "start": 43,
+                "url": "https://t.co/q5Z49VdRn3"
+              }
+            ]
+          }
+        },
+        "id": "1811430427535765504",
+        "location": "🚪8.88开放朋友圈陪闲聊",
+        "name": "美術館館長",
+        "pinned_tweet_id": "2035900548063568228",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037145672412258304/HWwdgB_x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 367,
+          "following_count": 235,
+          "like_count": 3923,
+          "listed_count": 0,
+          "media_count": 438,
+          "tweet_count": 1484
+        },
+        "username": "xinshijie_1227",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-02T23:10:35.000Z",
+        "description": "*none of my post are mine.\n#shtwt #goretwt  ! follow @iboillness",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 33,
+                "start": 27,
+                "tag": "shtwt"
+              },
+              {
+                "end": 42,
+                "start": 34,
+                "tag": "goretwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 64,
+                "start": 53,
+                "username": "iboillness"
+              }
+            ]
+          }
+        },
+        "id": "1753556247058472962",
+        "location": "confetti confetti confetti ",
+        "name": "iboi",
+        "pinned_tweet_id": "2041493076372267041",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041311312257630208/ap5ozr1d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9551,
+          "following_count": 65,
+          "like_count": 5709,
+          "listed_count": 13,
+          "media_count": 281,
+          "tweet_count": 1289
+        },
+        "username": "boillnes",
+        "verified": false
+      }
+    ]
+  }
+}

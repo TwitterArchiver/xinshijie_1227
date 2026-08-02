@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1914059484357349376",
+        "3_1914059484378378240",
+        "3_1914059484378370048",
+        "3_1914059484407730176"
+      ]
+    },
+    "author_id": "1811430427535765504",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1914059493798809744",
+    "created_at": "2025-04-20T20:51:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-20T21:51:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1914059493798809744"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/mL8n91uRvH",
+          "end": 26,
+          "expanded_url": "https://x.com/xinshijie_1227/status/1914059493798809744/photo/1",
+          "media_key": "3_1914059484357349376",
+          "start": 3,
+          "url": "https://t.co/mL8n91uRvH"
+        },
+        {
+          "display_url": "pic.x.com/mL8n91uRvH",
+          "end": 26,
+          "expanded_url": "https://x.com/xinshijie_1227/status/1914059493798809744/photo/1",
+          "media_key": "3_1914059484378378240",
+          "start": 3,
+          "url": "https://t.co/mL8n91uRvH"
+        },
+        {
+          "display_url": "pic.x.com/mL8n91uRvH",
+          "end": 26,
+          "expanded_url": "https://x.com/xinshijie_1227/status/1914059493798809744/photo/1",
+          "media_key": "3_1914059484378370048",
+          "start": 3,
+          "url": "https://t.co/mL8n91uRvH"
+        },
+        {
+          "display_url": "pic.x.com/mL8n91uRvH",
+          "end": 26,
+          "expanded_url": "https://x.com/xinshijie_1227/status/1914059493798809744/photo/1",
+          "media_key": "3_1914059484407730176",
+          "start": 3,
+          "url": "https://t.co/mL8n91uRvH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1914059493798809744",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "带派 https://t.co/mL8n91uRvH"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 797,
+        "media_key": "3_1914059484357349376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GpAa9bwWUAAXY6F.jpg",
+        "width": 720
+      },
+      {
+        "height": 437,
+        "media_key": "3_1914059484378378240",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GpAa9b1XMAAhFfP.jpg",
+        "width": 422
+      },
+      {
+        "height": 423,
+        "media_key": "3_1914059484378370048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GpAa9b1XEAAcVDf.jpg",
+        "width": 421
+      },
+      {
+        "height": 547,
+        "media_key": "3_1914059484407730176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GpAa9b8XEAANk0X.jpg",
+        "width": 542
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1914059484357349376",
+            "3_1914059484378378240",
+            "3_1914059484378370048",
+            "3_1914059484407730176"
+          ]
+        },
+        "author_id": "1811430427535765504",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1914059493798809744",
+        "created_at": "2025-04-20T20:51:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-20T21:51:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1914059493798809744"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mL8n91uRvH",
+              "end": 26,
+              "expanded_url": "https://x.com/xinshijie_1227/status/1914059493798809744/photo/1",
+              "media_key": "3_1914059484357349376",
+              "start": 3,
+              "url": "https://t.co/mL8n91uRvH"
+            },
+            {
+              "display_url": "pic.x.com/mL8n91uRvH",
+              "end": 26,
+              "expanded_url": "https://x.com/xinshijie_1227/status/1914059493798809744/photo/1",
+              "media_key": "3_1914059484378378240",
+              "start": 3,
+              "url": "https://t.co/mL8n91uRvH"
+            },
+            {
+              "display_url": "pic.x.com/mL8n91uRvH",
+              "end": 26,
+              "expanded_url": "https://x.com/xinshijie_1227/status/1914059493798809744/photo/1",
+              "media_key": "3_1914059484378370048",
+              "start": 3,
+              "url": "https://t.co/mL8n91uRvH"
+            },
+            {
+              "display_url": "pic.x.com/mL8n91uRvH",
+              "end": 26,
+              "expanded_url": "https://x.com/xinshijie_1227/status/1914059493798809744/photo/1",
+              "media_key": "3_1914059484407730176",
+              "start": 3,
+              "url": "https://t.co/mL8n91uRvH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1914059493798809744",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "带派 https://t.co/mL8n91uRvH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-11T16:01:12.000Z",
+        "description": "嗑药 | 自残 | 吐黑水 | 自由精神病 『会回fo，对妹子会非常友好』:3 我的俄罗斯男仆@requiem_soulss",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 62,
+                "start": 47,
+                "username": "requiem_soulss"
+              }
+            ]
+          }
+        },
+        "id": "1811430427535765504",
+        "location": "🚪50绿色陪聊男的过门女的免费",
+        "name": "美術館館長",
+        "pinned_tweet_id": "1901626066441019862",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912603105671192576/6oBBqr6j_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 81,
+          "following_count": 143,
+          "like_count": 2889,
+          "listed_count": 1,
+          "media_count": 200,
+          "tweet_count": 827
+        },
+        "username": "xinshijie_1227",
+        "verified": false
+      }
+    ]
+  }
+}

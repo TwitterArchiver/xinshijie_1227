@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1811430427535765504",
+    "conversation_id": "1913262900850077765",
+    "created_at": "2025-04-18T16:06:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-18T17:06:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1913262900850077765"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/mdlwxhn11111/s…",
+          "end": 41,
+          "expanded_url": "https://twitter.com/mdlwxhn11111/status/1912692004699664648",
+          "start": 18,
+          "url": "https://t.co/9dnNalvPK6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1913262900850077765",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1912692004699664648",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "笑得我逼疼，我就爱看这种恶俗的东西 https://t.co/9dnNalvPK6"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1811430427535765504",
+        "conversation_id": "1913262900850077765",
+        "created_at": "2025-04-18T16:06:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-18T17:06:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1913262900850077765"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/mdlwxhn11111/s…",
+              "end": 41,
+              "expanded_url": "https://twitter.com/mdlwxhn11111/status/1912692004699664648",
+              "start": 18,
+              "url": "https://t.co/9dnNalvPK6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1913262900850077765",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1912692004699664648",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "笑得我逼疼，我就爱看这种恶俗的东西 https://t.co/9dnNalvPK6"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1800046292724563968",
+        "conversation_id": "1912692004699664648",
+        "created_at": "2025-04-17T02:18:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-17T03:18:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1912692004699664648"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1912692004699664648",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 31,
+          "impression_count": 116272,
+          "like_count": 1545,
+          "quote_count": 2,
+          "reply_count": 124,
+          "retweet_count": 34
+        },
+        "reply_settings": "everyone",
+        "text": "如果内衣叫奶罩的话，那男生的内裤岂不是叫鸡笼？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-11T16:01:12.000Z",
+        "description": "嗑药 | 自残 | 吐黑水 | 自由精神病 『会回fo，对妹子会非常友好』:3 我的俄罗斯男仆@requiem_soulss",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 62,
+                "start": 47,
+                "username": "requiem_soulss"
+              }
+            ]
+          }
+        },
+        "id": "1811430427535765504",
+        "location": "🚪50绿色陪聊男的过门女的免费",
+        "name": "美術館館長",
+        "pinned_tweet_id": "1901626066441019862",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912603105671192576/6oBBqr6j_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 78,
+          "following_count": 142,
+          "like_count": 2884,
+          "listed_count": 1,
+          "media_count": 194,
+          "tweet_count": 815
+        },
+        "username": "xinshijie_1227",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-10T06:04:30.000Z",
+        "description": "发点碎碎念or发疯日常 欢迎有意思有礼貌的人来找我互动！喜欢有礼貌的人！！ 回有礼貌有意思的私信（让人感到不舒服的私信会拉黑），发图发语音发神拉黑，不高冷噢 看到的互动都会回复！！（没有回复就是没看到或者不小心用意念回复了！！）",
+        "id": "1800046292724563968",
+        "location": "不加v（熟悉互关以外）",
+        "name": "麦当当大薯条（早睡早起上吊版）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1889389645605249026/ct8VBDYf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14442,
+          "following_count": 144,
+          "like_count": 22559,
+          "listed_count": 32,
+          "media_count": 140,
+          "tweet_count": 4885
+        },
+        "username": "Mdlwxhn11111",
+        "verified": false
+      }
+    ]
+  }
+}

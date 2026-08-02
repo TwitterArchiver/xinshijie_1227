@@ -1,0 +1,92 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1811430427535765504",
+    "conversation_id": "1861097886366458110",
+    "created_at": "2024-11-25T17:21:28.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-25T18:21:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1861097886366458110"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1861097886366458110",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我操你妈逼晚安能不能鼻吸啊，快鸡吧把我吃死了，吃到嘴里一股死味臭的要死，还肚子疼"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1811430427535765504",
+        "conversation_id": "1861097886366458110",
+        "created_at": "2024-11-25T17:21:28.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-25T18:21:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1861097886366458110"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1861097886366458110",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我操你妈逼晚安能不能鼻吸啊，快鸡吧把我吃死了，吃到嘴里一股死味臭的要死，还肚子疼"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-11T16:01:12.000Z",
+        "description": "嗑药 | 自残 | 垃圾话 | 无黄推黄楠滚，很好说话欢迎互of，只是一个有精神病的动漫宅",
+        "id": "1811430427535765504",
+        "name": "劳工儿子在天堂",
+        "pinned_tweet_id": "1857507046654095687",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1860344393850613760/tW2czgA9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33,
+          "following_count": 100,
+          "like_count": 834,
+          "listed_count": 0,
+          "tweet_count": 81
+        },
+        "username": "xinshijie_1227",
+        "verified": false
+      }
+    ]
+  }
+}

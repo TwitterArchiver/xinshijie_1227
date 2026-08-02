@@ -1,0 +1,168 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1925765640255627264"
+      ]
+    },
+    "author_id": "1811430427535765504",
+    "conversation_id": "1925765695230431249",
+    "created_at": "2025-05-23T04:08:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-23T05:08:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1925765695230431249"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 48,
+          "start": 43,
+          "tag": "普瑞巴林"
+        },
+        {
+          "end": 54,
+          "start": 49,
+          "tag": "pr80"
+        },
+        {
+          "end": 58,
+          "start": 55,
+          "tag": "od"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/tqTxyECkP5",
+          "end": 82,
+          "expanded_url": "https://x.com/xinshijie_1227/status/1925765695230431249/photo/1",
+          "media_key": "3_1925765640255627264",
+          "start": 59,
+          "url": "https://t.co/tqTxyECkP5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1925765695230431249",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "有没有人要pr80盒子的，家里堆不下了，可以买来做枪装逼，四毛钱一个，应该有五六十盒 #普瑞巴林 #pr80 #od https://t.co/tqTxyECkP5"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1925765640255627264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GrmxpYwW4AAW3eK.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1925765640255627264"
+          ]
+        },
+        "author_id": "1811430427535765504",
+        "conversation_id": "1925765695230431249",
+        "created_at": "2025-05-23T04:08:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-23T05:08:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1925765695230431249"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 48,
+              "start": 43,
+              "tag": "普瑞巴林"
+            },
+            {
+              "end": 54,
+              "start": 49,
+              "tag": "pr80"
+            },
+            {
+              "end": 58,
+              "start": 55,
+              "tag": "od"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/tqTxyECkP5",
+              "end": 82,
+              "expanded_url": "https://x.com/xinshijie_1227/status/1925765695230431249/photo/1",
+              "media_key": "3_1925765640255627264",
+              "start": 59,
+              "url": "https://t.co/tqTxyECkP5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1925765695230431249",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有没有人要pr80盒子的，家里堆不下了，可以买来做枪装逼，四毛钱一个，应该有五六十盒 #普瑞巴林 #pr80 #od https://t.co/tqTxyECkP5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-11T16:01:12.000Z",
+        "description": "嗑药 | 自残 | 吐黑水 | 自由精神病 『会回fo，对妹子会非常友好』 不卖不约不发本人相关的任何色情内容",
+        "id": "1811430427535765504",
+        "location": "🚪50绿色陪聊男的过门女的免费",
+        "name": "Yumochka",
+        "pinned_tweet_id": "1921997129985216603",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1915520664599224322/2WrUI4Tq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 195,
+          "following_count": 162,
+          "like_count": 3038,
+          "listed_count": 1,
+          "media_count": 226,
+          "tweet_count": 933
+        },
+        "username": "xinshijie_1227",
+        "verified": false
+      }
+    ]
+  }
+}

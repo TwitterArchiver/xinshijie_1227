@@ -1,0 +1,180 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2017113339814617089",
+        "3_2017113339831472134",
+        "3_2017113339827277824",
+        "3_2017113339818860544"
+      ]
+    },
+    "author_id": "1811430427535765504",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2017113356612841806",
+    "created_at": "2026-01-30T05:51:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-30T06:51:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2017113356612841806"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/dMZV81P3sk",
+          "end": 29,
+          "expanded_url": "https://x.com/xinshijie_1227/status/2017113356612841806/photo/1",
+          "media_key": "3_2017113339814617089",
+          "start": 6,
+          "url": "https://t.co/dMZV81P3sk"
+        },
+        {
+          "display_url": "pic.x.com/dMZV81P3sk",
+          "end": 29,
+          "expanded_url": "https://x.com/xinshijie_1227/status/2017113356612841806/photo/1",
+          "media_key": "3_2017113339831472134",
+          "start": 6,
+          "url": "https://t.co/dMZV81P3sk"
+        },
+        {
+          "display_url": "pic.x.com/dMZV81P3sk",
+          "end": 29,
+          "expanded_url": "https://x.com/xinshijie_1227/status/2017113356612841806/photo/1",
+          "media_key": "3_2017113339827277824",
+          "start": 6,
+          "url": "https://t.co/dMZV81P3sk"
+        },
+        {
+          "display_url": "pic.x.com/dMZV81P3sk",
+          "end": 29,
+          "expanded_url": "https://x.com/xinshijie_1227/status/2017113356612841806/photo/1",
+          "media_key": "3_2017113339818860544",
+          "start": 6,
+          "url": "https://t.co/dMZV81P3sk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2017113356612841806",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我又想割了 https://t.co/dMZV81P3sk"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2017113356612841806].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2017113356612841806",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2017113356612841806"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2017113339814617089",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_455TtaIAEnCWT.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1712,
+        "media_key": "3_2017113339831472134",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_455TxbUAYyTIM.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2017113339827277824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_455TwbUAA_r4l.jpg",
+        "width": 768
+      },
+      {
+        "height": 1738,
+        "media_key": "3_2017113339818860544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_455Tua4AAm296.jpg",
+        "width": 2048
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-11T16:01:12.000Z",
+        "description": "嗑药 | 自残 | 吐黑水 | 互联网的隐匿栖身之所｜哥特or地雷女｜狗屎馅俄罗斯大列巴@requiem_soulss            tg频道：https://t.co/q5Z49Vdjxv（会在频道里发血图和日常照）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 59,
+                "start": 44,
+                "username": "requiem_soulss"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/xinshijie0000",
+                "end": 99,
+                "expanded_url": "https://t.me/xinshijie0000",
+                "start": 76,
+                "url": "https://t.co/q5Z49Vdjxv"
+              }
+            ]
+          }
+        },
+        "id": "1811430427535765504",
+        "location": "不再收🚪不再加男",
+        "name": "美術館館長",
+        "pinned_tweet_id": "1921997129985216603",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009811412412157952/ARAxYDf-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 136,
+          "following_count": 186,
+          "like_count": 3284,
+          "listed_count": 1,
+          "media_count": 350,
+          "tweet_count": 1229
+        },
+        "username": "xinshijie_1227",
+        "verified": false
+      }
+    ]
+  }
+}

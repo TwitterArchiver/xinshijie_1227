@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1811430427535765504",
+    "conversation_id": "2035566041477030260",
+    "created_at": "2026-03-22T14:36:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-22T15:36:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2035727309643083944"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1716325928479903744",
+          "start": 0,
+          "username": "qiu_song60259"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2035727309643083944",
+    "in_reply_to_user_id": "1716325928479903744",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2035566041477030260",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qiu_song60259 连人带盒两斤，确实瘦了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1811430427535765504",
+        "conversation_id": "2035566041477030260",
+        "created_at": "2026-03-22T14:36:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-22T15:36:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035727309643083944"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1716325928479903744",
+              "start": 0,
+              "username": "qiu_song60259"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035727309643083944",
+        "in_reply_to_user_id": "1716325928479903744",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035566041477030260",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qiu_song60259 连人带盒两斤，确实瘦了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1716325928479903744",
+        "conversation_id": "2035566041477030260",
+        "created_at": "2026-03-22T03:55:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-22T04:55:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2035566041477030260"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2035566041477030260",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 8094,
+          "like_count": 259,
+          "quote_count": 2,
+          "reply_count": 8,
+          "retweet_count": 43
+        },
+        "reply_settings": "everyone",
+        "text": "准备液断减肥，早餐一瓶百草枯，中午一瓶敌敌畏，晚上一瓶浓硫酸，期待蜕变"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-11T16:01:12.000Z",
+        "description": "嗑药 | 自残 | 吐黑水 | 御宅族| 互联网的隐匿栖身之所 | 傻逼俄罗斯男友@requiem_soulss  |  tg频道：https://t.co/q5Z49VdRn3（会在频道里发血图和日常照）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 41,
+                "username": "requiem_soulss"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/xinshijie0000",
+                "end": 89,
+                "expanded_url": "https://t.me/xinshijie0000",
+                "start": 66,
+                "url": "https://t.co/q5Z49VdRn3"
+              }
+            ]
+          }
+        },
+        "id": "1811430427535765504",
+        "location": "🚪8.88开放朋友圈陪闲聊",
+        "name": "美術館館長",
+        "pinned_tweet_id": "2024805135999017151",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033580584837300225/zBVz95fh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 169,
+          "following_count": 215,
+          "like_count": 3732,
+          "listed_count": 1,
+          "media_count": 384,
+          "tweet_count": 1334
+        },
+        "username": "xinshijie_1227",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-23T05:29:38.000Z",
+        "description": "其实我也不太了解你丨我是苦瓜/小咪咪（别忘记我我喜欢改头像和名字TωT）|小号闭关只过互关熟人@Kuguadawang6677 我只是个可怜的住宿生上学常驻小号@o65518kuguagua 每天给我发一百条匿名好不好(๑•̀ω•́๑)",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 47,
+                "username": "Kuguadawang6677"
+              },
+              {
+                "end": 95,
+                "start": 80,
+                "username": "o65518kuguagua"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E8%8B%A6%E7%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E8%8B%A6%E7%93%9C%E5%A4%A7%E7%8E%8B",
+                "start": 0,
+                "url": "https://t.co/YLzBwcux6c"
+              }
+            ]
+          }
+        },
+        "id": "1716325928479903744",
+        "location": "暂时无法告知      匿名→",
+        "name": "擦去你眼角的泪",
+        "pinned_tweet_id": "2035054781144998185",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035213801264689152/oBVhKu4C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2888,
+          "following_count": 1364,
+          "like_count": 13142,
+          "listed_count": 8,
+          "media_count": 368,
+          "tweet_count": 7218
+        },
+        "url": "https://t.co/YLzBwcux6c",
+        "username": "qiu_song60259",
+        "verified": false
+      }
+    ]
+  }
+}

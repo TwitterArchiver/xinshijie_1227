@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1811430427535765504",
+    "conversation_id": "1882903498058338599",
+    "created_at": "2025-07-19T20:12:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-19T21:12:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1946664420878520332"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1347886497677025288",
+          "start": 0,
+          "username": "change20040404"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1946664420878520332",
+    "in_reply_to_user_id": "1347886497677025288",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1945826949374620132",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@change20040404 哎我磕sns不爽光他妈的想睡觉😔"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1811430427535765504",
+        "conversation_id": "1882903498058338599",
+        "created_at": "2025-07-19T20:12:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-19T21:12:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1946664420878520332"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1347886497677025288",
+              "start": 0,
+              "username": "change20040404"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1946664420878520332",
+        "in_reply_to_user_id": "1347886497677025288",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1945826949374620132",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@change20040404 哎我磕sns不爽光他妈的想睡觉😔"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1347886497677025288",
+        "conversation_id": "1882903498058338599",
+        "created_at": "2025-07-17T12:44:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-17T13:44:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1945826949374620132"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1811430427535765504",
+              "start": 0,
+              "username": "xinshijie_1227"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1945826949374620132",
+        "in_reply_to_user_id": "1811430427535765504",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1882903498058338599",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xinshijie_1227 需要吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-11T16:01:12.000Z",
+        "description": "嗑药 | 自残 | 吐黑水 | 互联网的隐匿栖身之所『会回fo，对妹子会非常友好』狗屎馅俄罗斯大列巴@requiem_soulss ＞tg频道：https://t.co/5l18LxeR2N",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 50,
+                "username": "requiem_soulss"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/+UUDcCzqoM_thM…",
+                "end": 95,
+                "expanded_url": "https://t.me/+UUDcCzqoM_thMjVl",
+                "start": 72,
+                "url": "https://t.co/5l18LxeR2N"
+              }
+            ]
+          }
+        },
+        "id": "1811430427535765504",
+        "location": "不再收🚪不再加男",
+        "name": "美術館館長",
+        "pinned_tweet_id": "1921997129985216603",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1929041425536266242/Uwpg_cd1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 175,
+          "following_count": 162,
+          "like_count": 3170,
+          "listed_count": 0,
+          "media_count": 278,
+          "tweet_count": 1074
+        },
+        "username": "xinshijie_1227",
+        "verified": false
+      },
+      {
+        "created_at": "2021-01-09T12:42:48.000Z",
+        "description": "唉",
+        "id": "1347886497677025288",
+        "location": "Guangdong",
+        "name": "hanabi",
+        "pinned_tweet_id": "1876325955201077555",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886470892987015169/naRZKtsX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 23,
+          "like_count": 3,
+          "listed_count": 0,
+          "media_count": 89,
+          "tweet_count": 545
+        },
+        "username": "change20040404",
+        "verified": false
+      }
+    ]
+  }
+}

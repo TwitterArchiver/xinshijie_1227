@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1811430427535765504",
+    "conversation_id": "1895883432938652139",
+    "created_at": "2025-03-02T17:25:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-02T18:25:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1896250563937071429"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1854549691775725568",
+          "start": 0,
+          "username": "sc3n3gh0ust_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1896250563937071429",
+    "in_reply_to_user_id": "1854549691775725568",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1895883432938652139",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sc3n3gh0ust_ 歪头好萌"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 15063,
+        "height": 1280,
+        "media_key": "13_1895866642854187008",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1895866642854187008/img/NSlZJwXmOrzg6DI4.jpg",
+        "public_metrics": {
+          "view_count": 491
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1895866642854187008/vid/avc1/320x568/fWFUrrGOEquLroyF.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1895866642854187008/vid/avc1/480x852/EIKONP5Tf80EhXoM.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1895866642854187008/vid/avc1/720x1280/ZrPgNfYspLvdyxRW.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1895866642854187008/pl/A2LYqiILAGuAAecJ.m3u8?tag=14"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1811430427535765504",
+        "conversation_id": "1895883432938652139",
+        "created_at": "2025-03-02T17:25:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-02T18:25:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1896250563937071429"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1854549691775725568",
+              "start": 0,
+              "username": "sc3n3gh0ust_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1896250563937071429",
+        "in_reply_to_user_id": "1854549691775725568",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1895883432938652139",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sc3n3gh0ust_ 歪头好萌"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1895866642854187008"
+          ]
+        },
+        "author_id": "1854549691775725568",
+        "conversation_id": "1895883432938652139",
+        "created_at": "2025-03-01T17:06:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-01T18:06:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1895883432938652139"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 8,
+              "normalized_text": "scenegirl",
+              "probability": 0.5831,
+              "start": 0,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/lvWT3lq1aj",
+              "end": 41,
+              "expanded_url": "https://x.com/sc3n3gh0ust_/status/1895883432938652139/video/1",
+              "media_key": "13_1895866642854187008",
+              "start": 18,
+              "url": "https://t.co/lvWT3lq1aj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1895883432938652139",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1405,
+          "like_count": 39,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "scenegirl selfie🦭 https://t.co/lvWT3lq1aj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-11T16:01:12.000Z",
+        "description": "od | 自残 | 吐黑水 \n屎尿屁大王 bi 对妹子会非常友好^_^   会回fo",
+        "id": "1811430427535765504",
+        "location": "🚪50绿色陪聊男的过门女的免费",
+        "name": "美術館館長",
+        "pinned_tweet_id": "1886044580723949727",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1884080533770231811/F8kuy6DT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 51,
+          "following_count": 132,
+          "like_count": 2040,
+          "listed_count": 0,
+          "media_count": 105,
+          "tweet_count": 461
+        },
+        "username": "xinshijie_1227",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-07T15:41:34.000Z",
+        "description": "废话推｜绘画账号：@_RotteNCaT_233 我没有门，只和互关扩列，查主页成分回fo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 9,
+                "username": "_RotteNCaT_233"
+              }
+            ]
+          }
+        },
+        "id": "1854549691775725568",
+        "name": "~꯱ׁׅ֒ᝯׁꫀׁׅܻꪀׁׅꫀׁׅܻᧁׁhׁׅ֮ᨵׁׅυׁׅ꯱ׁׅ֒tׁׅ~shtwt",
+        "pinned_tweet_id": "1886312524636618841",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893909195918909440/IuXiLBEj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 926,
+          "following_count": 66,
+          "like_count": 442,
+          "listed_count": 1,
+          "media_count": 96,
+          "tweet_count": 549
+        },
+        "username": "sc3n3gh0ust_",
+        "verified": false
+      }
+    ]
+  }
+}

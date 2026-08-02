@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1811430427535765504",
+    "conversation_id": "1894024626482868302",
+    "created_at": "2025-02-25T15:56:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-25T16:56:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1894416133308256685"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1448187795571286017",
+          "start": 0,
+          "username": "shuiyebush1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1894416133308256685",
+    "in_reply_to_user_id": "1448187795571286017",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1894024626482868302",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shuiyebush1 啊？自从右美沙芬列管以后我一直吃的金刚烷胺了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1811430427535765504",
+        "conversation_id": "1894024626482868302",
+        "created_at": "2025-02-25T15:56:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-25T16:56:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1894416133308256685"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1448187795571286017",
+              "start": 0,
+              "username": "shuiyebush1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1894416133308256685",
+        "in_reply_to_user_id": "1448187795571286017",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1894024626482868302",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shuiyebush1 啊？自从右美沙芬列管以后我一直吃的金刚烷胺了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1448187795571286017",
+        "conversation_id": "1894024626482868302",
+        "created_at": "2025-02-24T14:00:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-24T15:00:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1894024626482868302"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1894024626482868302",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 5338,
+          "like_count": 97,
+          "quote_count": 1,
+          "reply_count": 12,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "普瑞巴林列管并不会是一个好消息，oder们不会因此停止od的脚步，他们只能去寻找更冷门更危险的药物，比如苯海索，美金刚，金刚烷胺，这些药物的危害远大于普瑞巴林"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-11T16:01:12.000Z",
+        "description": "od | 自残 | 吐黑水 \n屎尿屁大王 bi 对妹子会非常友好^_^   会回fo",
+        "id": "1811430427535765504",
+        "location": "🚪50绿色陪聊男的过门女的免费",
+        "name": "美術館館長",
+        "pinned_tweet_id": "1886044580723949727",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1884080533770231811/F8kuy6DT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 50,
+          "following_count": 130,
+          "like_count": 1978,
+          "listed_count": 0,
+          "media_count": 104,
+          "tweet_count": 439
+        },
+        "username": "xinshijie_1227",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-13T07:24:21.000Z",
+        "description": "爱人是@FlowersRainFall",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 3,
+                "username": "FlowersRainFall"
+              }
+            ]
+          }
+        },
+        "id": "1448187795571286017",
+        "name": "清水",
+        "pinned_tweet_id": "1882740769926369783",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893929697249239040/D6HK7GwU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5175,
+          "following_count": 584,
+          "like_count": 41282,
+          "listed_count": 17,
+          "media_count": 2093,
+          "tweet_count": 15748
+        },
+        "username": "shuiyebush1",
+        "verified": false
+      }
+    ]
+  }
+}

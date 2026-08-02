@@ -1,0 +1,184 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1882855829138976768",
+        "3_1882855830347030529",
+        "3_1882855830346973184"
+      ]
+    },
+    "author_id": "1811430427535765504",
+    "conversation_id": "1882855833530474524",
+    "created_at": "2025-01-24T18:19:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-24T19:19:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1882855833530474524"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/AE1t7AnYP5",
+          "end": 23,
+          "expanded_url": "https://x.com/xinshijie_1227/status/1882855833530474524/photo/1",
+          "media_key": "3_1882855829138976768",
+          "start": 0,
+          "url": "https://t.co/AE1t7AnYP5"
+        },
+        {
+          "display_url": "pic.x.com/AE1t7AnYP5",
+          "end": 23,
+          "expanded_url": "https://x.com/xinshijie_1227/status/1882855833530474524/photo/1",
+          "media_key": "3_1882855830347030529",
+          "start": 0,
+          "url": "https://t.co/AE1t7AnYP5"
+        },
+        {
+          "display_url": "pic.x.com/AE1t7AnYP5",
+          "end": 23,
+          "expanded_url": "https://x.com/xinshijie_1227/status/1882855833530474524/photo/1",
+          "media_key": "3_1882855830346973184",
+          "start": 0,
+          "url": "https://t.co/AE1t7AnYP5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1882855833530474524",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/AE1t7AnYP5"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1882855829138976768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GiE_ZpsaMAAN7kH.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1636,
+        "media_key": "3_1882855830347030529",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GiE_ZuMboAES_la.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1636,
+        "media_key": "3_1882855830346973184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GiE_ZuMawAAEXu8.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1882855829138976768",
+            "3_1882855830347030529",
+            "3_1882855830346973184"
+          ]
+        },
+        "author_id": "1811430427535765504",
+        "conversation_id": "1882855833530474524",
+        "created_at": "2025-01-24T18:19:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-24T19:19:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1882855833530474524"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/AE1t7AnYP5",
+              "end": 23,
+              "expanded_url": "https://x.com/xinshijie_1227/status/1882855833530474524/photo/1",
+              "media_key": "3_1882855829138976768",
+              "start": 0,
+              "url": "https://t.co/AE1t7AnYP5"
+            },
+            {
+              "display_url": "pic.x.com/AE1t7AnYP5",
+              "end": 23,
+              "expanded_url": "https://x.com/xinshijie_1227/status/1882855833530474524/photo/1",
+              "media_key": "3_1882855830347030529",
+              "start": 0,
+              "url": "https://t.co/AE1t7AnYP5"
+            },
+            {
+              "display_url": "pic.x.com/AE1t7AnYP5",
+              "end": 23,
+              "expanded_url": "https://x.com/xinshijie_1227/status/1882855833530474524/photo/1",
+              "media_key": "3_1882855830346973184",
+              "start": 0,
+              "url": "https://t.co/AE1t7AnYP5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1882855833530474524",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/AE1t7AnYP5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-11T16:01:12.000Z",
+        "description": "梦想是操烂所有人的后门        \n\n    bi🚪50绿色陪聊",
+        "id": "1811430427535765504",
+        "name": "美術館館長",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1880660134885732352/6fY0vKs1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 131,
+          "like_count": 1367,
+          "listed_count": 0,
+          "media_count": 55,
+          "tweet_count": 265
+        },
+        "username": "xinshijie_1227",
+        "verified": false
+      }
+    ]
+  }
+}

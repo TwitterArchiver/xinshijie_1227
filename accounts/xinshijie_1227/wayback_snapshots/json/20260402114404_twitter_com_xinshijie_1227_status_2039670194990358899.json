@@ -1,0 +1,199 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1811430427535765504",
+    "conversation_id": "2039057203307397629",
+    "created_at": "2026-04-02T11:44:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-02T12:44:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039670194990358899"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1933114395854610432",
+          "start": 0,
+          "username": "eweisi32"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039670194990358899",
+    "in_reply_to_user_id": "1933114395854610432",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039057203307397629",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@eweisi32 我去，不早说！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1811430427535765504",
+        "conversation_id": "2039057203307397629",
+        "created_at": "2026-04-02T11:44:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T12:44:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039670194990358899"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1933114395854610432",
+              "start": 0,
+              "username": "eweisi32"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039670194990358899",
+        "in_reply_to_user_id": "1933114395854610432",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039057203307397629",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@eweisi32 我去，不早说！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1933114395854610432",
+        "conversation_id": "2039057203307397629",
+        "created_at": "2026-03-31T19:08:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T20:08:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039057203307397629"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2039057203307397629",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 10095,
+          "like_count": 167,
+          "quote_count": 4,
+          "reply_count": 27,
+          "retweet_count": 19
+        },
+        "reply_settings": "everyone",
+        "text": "当你躺在床上感觉没有药效的时候——下来走几步就知道了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-11T16:01:12.000Z",
+        "description": "嗑药 | 自残 | 负能量 | 御宅族| 互联网的隐匿栖身之所 | 傻逼俄罗斯男友@requiem_soulss | tg频道：https://t.co/q5Z49VdRn3（会在频道里发血图和日常照）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 41,
+                "username": "requiem_soulss"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/xinshijie0000",
+                "end": 87,
+                "expanded_url": "https://t.me/xinshijie0000",
+                "start": 64,
+                "url": "https://t.co/q5Z49VdRn3"
+              }
+            ]
+          }
+        },
+        "id": "1811430427535765504",
+        "location": "🚪8.88开放朋友圈陪闲聊",
+        "name": "美術館館長",
+        "pinned_tweet_id": "2035900548063568228",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037145672412258304/HWwdgB_x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 166,
+          "following_count": 214,
+          "like_count": 3836,
+          "listed_count": 1,
+          "media_count": 393,
+          "tweet_count": 1354
+        },
+        "username": "xinshijie_1227",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-12T10:49:36.000Z",
+        "description": "叫我蚀蚀就好…\n我会塔罗占卜可以找我 | 餐劵 | 互fo直关 | \n自残伤口可定制 | 喜欢我请打钱…无上限",
+        "id": "1933114395854610432",
+        "location": "🚪35好友位pyq/66陪聊照片/99语音/133一切",
+        "name": "Marvin",
+        "pinned_tweet_id": "2038696284224114769",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026791231880368129/j4ztiHVS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 300,
+          "following_count": 360,
+          "like_count": 1091,
+          "listed_count": 0,
+          "media_count": 67,
+          "tweet_count": 368
+        },
+        "username": "eweisi32",
+        "verified": false
+      }
+    ]
+  }
+}

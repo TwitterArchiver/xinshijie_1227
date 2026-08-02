@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1811430427535765504",
+    "conversation_id": "1862460898201542785",
+    "created_at": "2024-11-29T17:38:49.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-29T18:38:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1862551805437387101"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1454696629743669255",
+          "start": 0,
+          "username": "guinea__pig__"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1862551805437387101",
+    "in_reply_to_user_id": "1454696629743669255",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1862476141870948443",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@guinea__pig__ 70一条裤衩带水不包邮，一人仅交易一次"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1811430427535765504",
+        "conversation_id": "1862460898201542785",
+        "created_at": "2024-11-29T17:38:49.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-29T18:38:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1862551805437387101"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1454696629743669255",
+              "start": 0,
+              "username": "guinea__pig__"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1862551805437387101",
+        "in_reply_to_user_id": "1454696629743669255",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1862476141870948443",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@guinea__pig__ 70一条裤衩带水不包邮，一人仅交易一次"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1454696629743669255",
+        "conversation_id": "1862460898201542785",
+        "created_at": "2024-11-29T12:38:10.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-29T13:38:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1862476141870948443"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1811430427535765504",
+              "start": 0,
+              "username": "xinshijie_1227"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1862476141870948443",
+        "in_reply_to_user_id": "1811430427535765504",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1862460898201542785",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xinshijie_1227 怎么卖"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-11T16:01:12.000Z",
+        "description": "痛苦是没法被比较的，比较就成为装饰品了",
+        "id": "1811430427535765504",
+        "name": "˚・* ٭☣︎ 美術館館長 ☣︎٭ *・˚",
+        "pinned_tweet_id": "1861509761625387043",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1860344393850613760/tW2czgA9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40,
+          "following_count": 103,
+          "like_count": 938,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 112
+        },
+        "username": "xinshijie_1227",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-31T06:28:17.000Z",
+        "description": "",
+        "id": "1454696629743669255",
+        "name": "957569",
+        "pinned_tweet_id": "1591635088655384577",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1862476984191758337/Tc5Y_PGU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 86,
+          "following_count": 131,
+          "like_count": 10,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 20
+        },
+        "username": "guinea__pig__",
+        "verified": false
+      }
+    ]
+  }
+}

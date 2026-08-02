@@ -1,0 +1,169 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1910404373798060032"
+      ]
+    },
+    "author_id": "1811430427535765504",
+    "conversation_id": "1910405014616473708",
+    "created_at": "2025-04-10T18:50:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-10T19:50:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1910405014616473708"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/I0RHPdWhiI",
+          "end": 31,
+          "expanded_url": "https://x.com/xinshijie_1227/status/1910405014616473708/video/1",
+          "media_key": "13_1910404373798060032",
+          "start": 8,
+          "url": "https://t.co/I0RHPdWhiI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1910405014616473708",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我老公早就死了 https://t.co/I0RHPdWhiI"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 4766,
+        "height": 720,
+        "media_key": "13_1910404373798060032",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1910404373798060032/img/VC1UHYxd-5_vlcLS.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1910404373798060032/vid/avc1/480x270/k4Wna4cKwmVcYlK5.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1910404373798060032/vid/avc1/640x360/BlPKStS-rBur3N4Y.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1910404373798060032/vid/avc1/1280x720/ZUs55JLevUVM-Lnp.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1910404373798060032/pl/ncuaDCu3kRhHSJfB.m3u8?tag=14"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1910404373798060032"
+          ]
+        },
+        "author_id": "1811430427535765504",
+        "conversation_id": "1910405014616473708",
+        "created_at": "2025-04-10T18:50:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-10T19:50:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1910405014616473708"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/I0RHPdWhiI",
+              "end": 31,
+              "expanded_url": "https://x.com/xinshijie_1227/status/1910405014616473708/video/1",
+              "media_key": "13_1910404373798060032",
+              "start": 8,
+              "url": "https://t.co/I0RHPdWhiI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1910405014616473708",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我老公早就死了 https://t.co/I0RHPdWhiI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-11T16:01:12.000Z",
+        "description": "嗑药 | 自残 | 吐黑水 | 自由精神病 \n 『会回fo，对妹子会非常友好』:3\n我的男仆@requiem_soulss",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 46,
+                "username": "requiem_soulss"
+              }
+            ]
+          }
+        },
+        "id": "1811430427535765504",
+        "location": "🚪50绿色陪聊男的过门女的免费",
+        "name": "美術館館長",
+        "pinned_tweet_id": "1901626066441019862",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907513117610749952/QI3vAE-V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 75,
+          "following_count": 139,
+          "like_count": 2831,
+          "listed_count": 1,
+          "media_count": 174,
+          "tweet_count": 767
+        },
+        "username": "xinshijie_1227",
+        "verified": false
+      }
+    ]
+  }
+}

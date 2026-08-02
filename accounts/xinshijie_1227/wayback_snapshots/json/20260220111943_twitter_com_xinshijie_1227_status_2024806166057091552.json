@@ -1,0 +1,180 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2024806157408411648",
+        "3_2024806157412700160"
+      ]
+    },
+    "author_id": "1811430427535765504",
+    "conversation_id": "2024806166057091552",
+    "created_at": "2026-02-20T11:19:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-20T12:19:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2024806166057091552"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/7y0ucrlMly",
+          "end": 29,
+          "expanded_url": "https://x.com/xinshijie_1227/status/2024806166057091552/photo/1",
+          "media_key": "3_2024806157408411648",
+          "start": 6,
+          "url": "https://t.co/7y0ucrlMly"
+        },
+        {
+          "display_url": "pic.x.com/7y0ucrlMly",
+          "end": 29,
+          "expanded_url": "https://x.com/xinshijie_1227/status/2024806166057091552/photo/1",
+          "media_key": "3_2024806157412700160",
+          "start": 6,
+          "url": "https://t.co/7y0ucrlMly"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024806166057091552",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "丧钟为谁鸣 https://t.co/7y0ucrlMly"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2024806157408411648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBmOeOdaIAANKUf.jpg",
+        "width": 820
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2024806157412700160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBmOeOebkAAQIl6.jpg",
+        "width": 820
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2024806157408411648",
+            "3_2024806157412700160"
+          ]
+        },
+        "author_id": "1811430427535765504",
+        "conversation_id": "2024806166057091552",
+        "created_at": "2026-02-20T11:19:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-20T12:19:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024806166057091552"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7y0ucrlMly",
+              "end": 29,
+              "expanded_url": "https://x.com/xinshijie_1227/status/2024806166057091552/photo/1",
+              "media_key": "3_2024806157408411648",
+              "start": 6,
+              "url": "https://t.co/7y0ucrlMly"
+            },
+            {
+              "display_url": "pic.x.com/7y0ucrlMly",
+              "end": 29,
+              "expanded_url": "https://x.com/xinshijie_1227/status/2024806166057091552/photo/1",
+              "media_key": "3_2024806157412700160",
+              "start": 6,
+              "url": "https://t.co/7y0ucrlMly"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024806166057091552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "丧钟为谁鸣 https://t.co/7y0ucrlMly"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-11T16:01:12.000Z",
+        "description": "嗑药 | 自残 | 吐黑水 ｜哥特or地雷女| 互联网的隐匿栖身之所｜狗屎馅俄罗斯大列巴@requiem_soulss tg频道：https://t.co/q5Z49Vdjxv（会在频道里发血图和日常照）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 59,
+                "start": 44,
+                "username": "requiem_soulss"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/xinshijie0000",
+                "end": 88,
+                "expanded_url": "https://t.me/xinshijie0000",
+                "start": 65,
+                "url": "https://t.co/q5Z49Vdjxv"
+              }
+            ]
+          }
+        },
+        "id": "1811430427535765504",
+        "location": "🚪8.88开放朋友圈陪闲聊",
+        "name": "美術館館長",
+        "pinned_tweet_id": "2024805135999017151",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009811412412157952/ARAxYDf-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 142,
+          "following_count": 193,
+          "like_count": 3583,
+          "listed_count": 1,
+          "media_count": 361,
+          "tweet_count": 1260
+        },
+        "username": "xinshijie_1227",
+        "verified": false
+      }
+    ]
+  }
+}

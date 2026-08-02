@@ -1,0 +1,169 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1928552008325144576"
+      ]
+    },
+    "author_id": "1811430427535765504",
+    "conversation_id": "1928552225602723885",
+    "created_at": "2025-05-30T20:40:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-30T21:40:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1928552225602723885"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/XHDwVXflfg",
+          "end": 23,
+          "expanded_url": "https://x.com/xinshijie_1227/status/1928552225602723885/video/1",
+          "media_key": "13_1928552008325144576",
+          "start": 0,
+          "url": "https://t.co/XHDwVXflfg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1928552225602723885",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/XHDwVXflfg"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 21670,
+        "height": 1280,
+        "media_key": "13_1928552008325144576",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1928552008325144576/img/InxI6tyNWZKzy6nA.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1928552008325144576/vid/avc1/320x568/ANG0H5PCrno_gWBq.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1928552008325144576/vid/avc1/480x852/wDGOOpGmCLJXMCRT.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1928552008325144576/vid/avc1/720x1280/oKYR8g53N6xvsonw.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1928552008325144576/pl/tB01W7Rxxp-LXvIa.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1928552008325144576"
+          ]
+        },
+        "author_id": "1811430427535765504",
+        "conversation_id": "1928552225602723885",
+        "created_at": "2025-05-30T20:40:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-30T21:40:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1928552225602723885"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XHDwVXflfg",
+              "end": 23,
+              "expanded_url": "https://x.com/xinshijie_1227/status/1928552225602723885/video/1",
+              "media_key": "13_1928552008325144576",
+              "start": 0,
+              "url": "https://t.co/XHDwVXflfg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1928552225602723885",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/XHDwVXflfg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-11T16:01:12.000Z",
+        "description": "嗑药 | 自残 | 吐黑水 | 自由精神病 『会回fo，对妹子会非常友好』 不卖不约不发本人相关的任何色情内容 | 男友兼仆人@requiem_soulss",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 78,
+                "start": 63,
+                "username": "requiem_soulss"
+              }
+            ]
+          }
+        },
+        "id": "1811430427535765504",
+        "location": "🚪50绿色陪聊男的过门女的免费",
+        "name": "美術館館長",
+        "pinned_tweet_id": "1921997129985216603",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1915520664599224322/2WrUI4Tq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 182,
+          "following_count": 163,
+          "like_count": 3063,
+          "listed_count": 0,
+          "media_count": 238,
+          "tweet_count": 969
+        },
+        "username": "xinshijie_1227",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1811430427535765504",
+    "conversation_id": "2071724057104376001",
+    "created_at": "2026-07-02T08:13:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-02T09:13:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072594471414354340"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2056655773502160896",
+          "start": 0,
+          "username": "simaojie"
+        },
+        {
+          "end": 17,
+          "id": "2058988352054218752",
+          "start": 10,
+          "username": "Ta1z19"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072594471414354340",
+    "in_reply_to_user_id": "2056655773502160896",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072289775005130830",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@simaojie @Ta1z19 窒息感，和上吊自杀的感觉很像，很爽，感觉要尿失禁了实则并没有，但是对于不喜欢窒息感的人来说确实没有价值"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1811430427535765504",
+        "conversation_id": "2071724057104376001",
+        "created_at": "2026-07-02T08:13:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T09:13:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072594471414354340"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2056655773502160896",
+              "start": 0,
+              "username": "simaojie"
+            },
+            {
+              "end": 17,
+              "id": "2058988352054218752",
+              "start": 10,
+              "username": "Ta1z19"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072594471414354340",
+        "in_reply_to_user_id": "2056655773502160896",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072289775005130830",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@simaojie @Ta1z19 窒息感，和上吊自杀的感觉很像，很爽，感觉要尿失禁了实则并没有，但是对于不喜欢窒息感的人来说确实没有价值"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2056655773502160896",
+        "conversation_id": "2071724057104376001",
+        "created_at": "2026-07-01T12:02:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T13:02:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072289775005130830"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2058988352054218752",
+              "start": 0,
+              "username": "Ta1z19"
+            },
+            {
+              "end": 23,
+              "id": "1811430427535765504",
+              "start": 8,
+              "username": "xinshijie_1227"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072289775005130830",
+        "in_reply_to_user_id": "2058988352054218752",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 39,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071922514637574536",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ta1z19 @xinshijie_1227 对了，这个罐有什么吸的价值吗？成分不就是丁烷吗，有什么好吸的😂😂😂"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-11T16:01:12.000Z",
+        "description": "嗑药吸毒自残 | 负能量精神病 | 查成分互of | \ntg频道：https://t.co/q5Z49Vdjxv｜男友@requiem_soulss",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 74,
+                "start": 59,
+                "username": "requiem_soulss"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/xinshijie0000",
+                "end": 56,
+                "expanded_url": "https://t.me/xinshijie0000",
+                "start": 33,
+                "url": "https://t.co/q5Z49Vdjxv"
+              }
+            ]
+          }
+        },
+        "id": "1811430427535765504",
+        "location": "🚪8.88开放朋友圈陪闲聊",
+        "name": "美術館館長",
+        "pinned_tweet_id": "2035900548063568228",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037145672412258304/HWwdgB_x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 373,
+          "following_count": 246,
+          "like_count": 3998,
+          "listed_count": 0,
+          "media_count": 461,
+          "tweet_count": 1543
+        },
+        "url": "",
+        "username": "xinshijie_1227",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-19T08:39:50.000Z",
+        "description": "你们可以叫我kaki/小卉\n欢迎互fo互转！！\n女宝宝们直fo就行我都会回关的",
+        "id": "2056655773502160896",
+        "location": "不收门槛不接线下男的别骚扰别评论别私信",
+        "name": "Kaki",
+        "pinned_tweet_id": "2059672691880431756",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056656578166898688/pLNOT_SJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 354,
+          "following_count": 191,
+          "like_count": 477,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 234
+        },
+        "url": "",
+        "username": "simaojie",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-25T19:08:55.000Z",
+        "description": "🎵🎸与bass手 双相 不涉政不吸毒喜欢会回fo 正常合理用药 叫我太子。药理学爱好者/化学爱好者/迷幻掌控者/清醒梦主宰/中西部情绪与华丽金属/我只存在於我",
+        "id": "2058988352054218752",
+        "name": "Ta1z9 3.0",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070204928799432704/isCUmZ2W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 400,
+          "following_count": 62,
+          "like_count": 1668,
+          "listed_count": 0,
+          "media_count": 58,
+          "tweet_count": 798
+        },
+        "url": "",
+        "username": "Ta1z19",
+        "verified": false
+      }
+    ]
+  }
+}

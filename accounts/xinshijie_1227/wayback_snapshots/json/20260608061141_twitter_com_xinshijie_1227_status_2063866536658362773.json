@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1811430427535765504",
+    "conversation_id": "2063615028453138696",
+    "created_at": "2026-06-08T06:11:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T07:11:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063866536658362773"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1978805839705387008",
+          "start": 0,
+          "username": "dngyu166010"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063866536658362773",
+    "in_reply_to_user_id": "1978805839705387008",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063615028453138696",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dngyu166010 看到天使降临了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2032,
+        "media_key": "3_2063615021205348354",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKNu7aQa4AIXY1y.jpg",
+        "width": 1525
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1811430427535765504",
+        "conversation_id": "2063615028453138696",
+        "created_at": "2026-06-08T06:11:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T07:11:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063866536658362773"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1978805839705387008",
+              "start": 0,
+              "username": "dngyu166010"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063866536658362773",
+        "in_reply_to_user_id": "1978805839705387008",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063615028453138696",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dngyu166010 看到天使降临了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063615021205348354"
+          ]
+        },
+        "author_id": "1978805839705387008",
+        "conversation_id": "2063615028453138696",
+        "created_at": "2026-06-07T13:32:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T14:32:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063615028453138696"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WUJp2N7i7G",
+              "end": 26,
+              "expanded_url": "https://x.com/dngyu166010/status/2063615028453138696/photo/1",
+              "media_key": "3_2063615021205348354",
+              "start": 3,
+              "url": "https://t.co/WUJp2N7i7G"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063615028453138696",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 26,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "ねぇ https://t.co/WUJp2N7i7G"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-11T16:01:12.000Z",
+        "description": "嗑药吸毒自残 | 负能量 | 互联网的隐匿栖身之所 | 查成分互of | \ntg频道：https://t.co/q5Z49VdRn3",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/xinshijie0000",
+                "end": 66,
+                "expanded_url": "https://t.me/xinshijie0000",
+                "start": 43,
+                "url": "https://t.co/q5Z49VdRn3"
+              }
+            ]
+          }
+        },
+        "id": "1811430427535765504",
+        "location": "🚪8.88开放朋友圈陪闲聊",
+        "name": "美術館館長",
+        "pinned_tweet_id": "2035900548063568228",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037145672412258304/HWwdgB_x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 366,
+          "following_count": 234,
+          "like_count": 3958,
+          "listed_count": 1,
+          "media_count": 441,
+          "tweet_count": 1494
+        },
+        "username": "xinshijie_1227",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-16T12:50:58.000Z",
+        "description": "幽灵｜性无能拒一切黄",
+        "id": "1978805839705387008",
+        "name": "好大一片麦子！咱们俩坏一坏吧！",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978806893100568576/hsKxLtIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 154,
+          "like_count": 7215,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 187
+        },
+        "username": "dngyu166010",
+        "verified": false
+      }
+    ]
+  }
+}

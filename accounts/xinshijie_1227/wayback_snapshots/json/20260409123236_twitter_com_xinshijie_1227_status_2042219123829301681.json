@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1811430427535765504",
+    "conversation_id": "2041899685850587172",
+    "created_at": "2026-04-09T12:32:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-09T13:32:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042219123829301681"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1868203874726887424",
+          "start": 0,
+          "username": "daozhir"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042219123829301681",
+    "in_reply_to_user_id": "1868203874726887424",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041899685850587172",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@daozhir 啥时候让我入选我也想当老资历"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1792,
+        "media_key": "3_2041899662312140803",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFZI7Kca8AMoaIa.jpg",
+        "width": 828
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1811430427535765504",
+        "conversation_id": "2041899685850587172",
+        "created_at": "2026-04-09T12:32:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T13:32:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042219123829301681"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1868203874726887424",
+              "start": 0,
+              "username": "daozhir"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042219123829301681",
+        "in_reply_to_user_id": "1868203874726887424",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041899685850587172",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@daozhir 啥时候让我入选我也想当老资历"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2041899662312140803"
+          ]
+        },
+        "author_id": "1868203874726887424",
+        "conversation_id": "2041899685850587172",
+        "created_at": "2026-04-08T15:23:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T16:23:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041899685850587172"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jwWH3Ad0Oe",
+              "end": 37,
+              "expanded_url": "https://x.com/daozhir/status/2041899685850587172/photo/1",
+              "media_key": "3_2041899662312140803",
+              "start": 14,
+              "url": "https://t.co/jwWH3Ad0Oe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041899685850587172",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3023,
+          "like_count": 73,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "太遗憾了 我的推文没有入选 https://t.co/jwWH3Ad0Oe"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-11T16:01:12.000Z",
+        "description": "嗑药 | 自残 | 负能量 | 御宅族| 互联网的隐匿栖身之所 | 傻逼俄罗斯男友@requiem_soulss | tg频道：https://t.co/q5Z49VdRn3（会在频道里发血图和日常照）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 41,
+                "username": "requiem_soulss"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/xinshijie0000",
+                "end": 87,
+                "expanded_url": "https://t.me/xinshijie0000",
+                "start": 64,
+                "url": "https://t.co/q5Z49VdRn3"
+              }
+            ]
+          }
+        },
+        "id": "1811430427535765504",
+        "location": "🚪8.88开放朋友圈陪闲聊",
+        "name": "美術館館長",
+        "pinned_tweet_id": "2035900548063568228",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037145672412258304/HWwdgB_x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 165,
+          "following_count": 211,
+          "like_count": 3833,
+          "listed_count": 1,
+          "media_count": 395,
+          "tweet_count": 1361
+        },
+        "username": "xinshijie_1227",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-15T07:58:21.000Z",
+        "description": "丨lesbian丨 顺女丨overdose丨LGBTQ+全友好丨 fo同类 没fo私我丨欢迎找我聊聊天丨",
+        "id": "1868203874726887424",
+        "location": "Ciudad Autónoma de Buenos Aire",
+        "name": "Hola",
+        "pinned_tweet_id": "2025485601240441319",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989222275498012674/zZ3PsBCt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 946,
+          "following_count": 436,
+          "like_count": 1359,
+          "listed_count": 1,
+          "media_count": 39,
+          "tweet_count": 964
+        },
+        "username": "daozhir",
+        "verified": false
+      }
+    ]
+  }
+}

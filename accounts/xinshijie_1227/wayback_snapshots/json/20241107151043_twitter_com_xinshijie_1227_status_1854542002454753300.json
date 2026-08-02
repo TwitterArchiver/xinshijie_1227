@@ -1,0 +1,337 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1854541997799059456"
+      ]
+    },
+    "author_id": "1811430427535765504",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+          "id": "856562205210198020",
+          "name": "Five Nights at Freddy's"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+          "id": "856562205210198020",
+          "name": "Five Nights at Freddy's"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491899016900083712",
+          "name": "Horror games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491899125926821900",
+          "name": "Survival games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491899742686642203",
+          "name": "Point & click games"
+        }
+      }
+    ],
+    "conversation_id": "1854542002454753300",
+    "created_at": "2024-11-07T15:10:43.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-07T16:10:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1854542002454753300"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 42,
+          "start": 37,
+          "tag": "FNAF"
+        },
+        {
+          "end": 61,
+          "start": 43,
+          "tag": "FivenightatFreddy"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/NwwjhCPWVf",
+          "end": 85,
+          "expanded_url": "https://x.com/xinshijie_1227/status/1854542002454753300/photo/1",
+          "media_key": "3_1854541997799059456",
+          "start": 62,
+          "url": "https://t.co/NwwjhCPWVf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1854542002454753300",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "“哥们你不是弗莱迪啊？？”\n“我也妹说我是啊”\n\n忘记画领结了对不起。。\n#FNAF #FivenightatFreddy https://t.co/NwwjhCPWVf"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1992,
+        "media_key": "3_1854541997799059456",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GbyoHwfbMAATAJQ.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1854541997799059456"
+          ]
+        },
+        "author_id": "1811430427535765504",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "856562205210198020",
+              "name": "Five Nights at Freddy's"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "856562205210198020",
+              "name": "Five Nights at Freddy's"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491899016900083712",
+              "name": "Horror games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491899125926821900",
+              "name": "Survival games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491899742686642203",
+              "name": "Point & click games"
+            }
+          }
+        ],
+        "conversation_id": "1854542002454753300",
+        "created_at": "2024-11-07T15:10:43.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-07T16:10:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1854542002454753300"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 42,
+              "start": 37,
+              "tag": "FNAF"
+            },
+            {
+              "end": 61,
+              "start": 43,
+              "tag": "FivenightatFreddy"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/NwwjhCPWVf",
+              "end": 85,
+              "expanded_url": "https://x.com/xinshijie_1227/status/1854542002454753300/photo/1",
+              "media_key": "3_1854541997799059456",
+              "start": 62,
+              "url": "https://t.co/NwwjhCPWVf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1854542002454753300",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "“哥们你不是弗莱迪啊？？”\n“我也妹说我是啊”\n\n忘记画领结了对不起。。\n#FNAF #FivenightatFreddy https://t.co/NwwjhCPWVf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-11T16:01:12.000Z",
+        "description": "自由精神病颅内艺术家                                          \n         \n(双性恋。。",
+        "id": "1811430427535765504",
+        "name": "劳工儿子在天堂",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1852369059402444800/4MzSILkf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33,
+          "following_count": 86,
+          "like_count": 619,
+          "listed_count": 0,
+          "tweet_count": 47
+        },
+        "username": "xinshijie_1227",
+        "verified": false
+      }
+    ]
+  }
+}

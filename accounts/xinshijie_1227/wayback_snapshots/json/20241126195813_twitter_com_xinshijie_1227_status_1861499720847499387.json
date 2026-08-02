@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1811430427535765504",
+    "conversation_id": "1861313310681071645",
+    "created_at": "2024-11-26T19:58:13.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-26T20:58:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1861499720847499387"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1602663153623388161",
+          "start": 0,
+          "username": "knd_8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1861499720847499387",
+    "in_reply_to_user_id": "1602663153623388161",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1861313310681071645",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@knd_8964 那些花大几千买一个铁皮的人感觉都是在装逼而已，只是打着“我爱我推”的口号当装逼的理由\n1不是黄金珠宝2也不是金签限量，现在一些霓虹本土的铁片子价格也在50左右，价格正常的就买正版，但是我还没有脑残到花2500去买一个普通徽章"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1811430427535765504",
+        "conversation_id": "1861313310681071645",
+        "created_at": "2024-11-26T19:58:13.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-26T20:58:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1861499720847499387"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1602663153623388161",
+              "start": 0,
+              "username": "knd_8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1861499720847499387",
+        "in_reply_to_user_id": "1602663153623388161",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1861313310681071645",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@knd_8964 那些花大几千买一个铁皮的人感觉都是在装逼而已，只是打着“我爱我推”的口号当装逼的理由\n1不是黄金珠宝2也不是金签限量，现在一些霓虹本土的铁片子价格也在50左右，价格正常的就买正版，但是我还没有脑残到花2500去买一个普通徽章"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1861313302162489344"
+          ]
+        },
+        "author_id": "1602663153623388161",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1861313310681071645",
+        "created_at": "2024-11-26T07:37:29.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-26T08:37:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1861313310681071645"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vDOwPWzONu",
+              "end": 32,
+              "expanded_url": "https://x.com/knd_8964/status/1861313310681071645/photo/1",
+              "media_key": "3_1861313302162489344",
+              "start": 9,
+              "url": "https://t.co/vDOwPWzONu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1861313310681071645",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 15675,
+          "like_count": 320,
+          "quote_count": 6,
+          "reply_count": 42,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "这铁皮这么值钱？ https://t.co/vDOwPWzONu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-11T16:01:12.000Z",
+        "description": "痛苦是没法被比较的，比较就成为装饰品了",
+        "id": "1811430427535765504",
+        "name": "˚・* ٭☣︎ 美術館館長 ☣︎٭ *・˚",
+        "pinned_tweet_id": "1861491236710031661",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1860344393850613760/tW2czgA9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 101,
+          "like_count": 851,
+          "listed_count": 0,
+          "tweet_count": 88
+        },
+        "username": "xinshijie_1227",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-13T13:54:21.000Z",
+        "description": "啥时候大都会区域更到九的时候叫我一声（似了",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/kanade…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/kanade-8964.bsky.social",
+                "start": 0,
+                "url": "https://t.co/Czvo6RndGT"
+              }
+            ]
+          }
+        },
+        "id": "1602663153623388161",
+        "location": "导流槽雅座",
+        "name": "超级泡面高手小气走",
+        "pinned_tweet_id": "1741502377004576895",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1845797448633184256/y-BKXgHT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2708,
+          "following_count": 4077,
+          "like_count": 52427,
+          "listed_count": 9,
+          "tweet_count": 8236
+        },
+        "url": "https://t.co/Czvo6RndGT",
+        "username": "knd_8964",
+        "verified": false
+      }
+    ]
+  }
+}

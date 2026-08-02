@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1811430427535765504",
+    "conversation_id": "1887537641559892456",
+    "created_at": "2025-02-09T00:47:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-09T01:47:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1888389299965693997"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1585204501149110274",
+          "start": 0,
+          "username": "jiajia1216ovo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1888389299965693997",
+    "in_reply_to_user_id": "1585204501149110274",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1887537641559892456",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jiajia1216ovo 那咋了要不是我想再活两年我早就掏自己的器官去卖钱了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1811430427535765504",
+        "conversation_id": "1887537641559892456",
+        "created_at": "2025-02-09T00:47:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-09T01:47:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1888389299965693997"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1585204501149110274",
+              "start": 0,
+              "username": "jiajia1216ovo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1888389299965693997",
+        "in_reply_to_user_id": "1585204501149110274",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1887537641559892456",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jiajia1216ovo 那咋了要不是我想再活两年我早就掏自己的器官去卖钱了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1585204501149110274",
+        "conversation_id": "1887537641559892456",
+        "created_at": "2025-02-06T16:23:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-06T17:23:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1887537641559892456"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1887537641559892456",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 14502,
+          "like_count": 83,
+          "quote_count": 0,
+          "reply_count": 12,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "拿买卵这件事来羞辱我无法对我造成实质性的伤害，那是我为了活着而付出的代价"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-11T16:01:12.000Z",
+        "description": "od | 自残 | 吐黑水     bi 对妹子会很友好^_^",
+        "id": "1811430427535765504",
+        "location": "🚪50绿色陪聊",
+        "name": "美術館館長",
+        "pinned_tweet_id": "1886044580723949727",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1884080533770231811/F8kuy6DT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40,
+          "following_count": 109,
+          "like_count": 1547,
+          "listed_count": 0,
+          "media_count": 72,
+          "tweet_count": 321
+        },
+        "username": "xinshijie_1227",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-26T09:39:52.000Z",
+        "description": "门槛88 188/位 不接爸爸活不接线下没有坐标",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/sophiasssophia1",
+                "end": 23,
+                "expanded_url": "https://t.me/sophiasssophia1",
+                "start": 0,
+                "url": "https://t.co/mGexvdIi1b"
+              }
+            ]
+          }
+        },
+        "id": "1585204501149110274",
+        "location": "5.2km",
+        "name": "Sophia",
+        "pinned_tweet_id": "1886135459182727334",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888121542875439104/RqceQOYC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12140,
+          "following_count": 397,
+          "like_count": 9026,
+          "listed_count": 16,
+          "media_count": 473,
+          "tweet_count": 2741
+        },
+        "url": "https://t.co/mGexvdIi1b",
+        "username": "jiajia1216ovo",
+        "verified": false
+      }
+    ]
+  }
+}

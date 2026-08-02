@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1811430427535765504",
+    "conversation_id": "1904074707730850154",
+    "created_at": "2025-03-25T07:20:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-25T08:20:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1904433294751707560"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1576102262581080065",
+          "start": 0,
+          "username": "Amelia181672271"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1904433294751707560",
+    "in_reply_to_user_id": "1576102262581080065",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1904074707730850154",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Amelia181672271 我靠好大的杰瑞"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1904073938931781632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GmyhKMQbkAAbN-_.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1811430427535765504",
+        "conversation_id": "1904074707730850154",
+        "created_at": "2025-03-25T07:20:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-25T08:20:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1904433294751707560"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1576102262581080065",
+              "start": 0,
+              "username": "Amelia181672271"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1904433294751707560",
+        "in_reply_to_user_id": "1576102262581080065",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1904074707730850154",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Amelia181672271 我靠好大的杰瑞"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1904073938931781632"
+          ]
+        },
+        "author_id": "1576102262581080065",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1904074707730850154",
+        "created_at": "2025-03-24T07:36:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-24T08:36:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1904074707730850154"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bIUoDXvHR4",
+              "end": 47,
+              "expanded_url": "https://x.com/Amelia181672271/status/1904074707730850154/photo/1",
+              "media_key": "3_1904073938931781632",
+              "start": 24,
+              "url": "https://t.co/bIUoDXvHR4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1904074707730850154",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 88,
+          "impression_count": 323831,
+          "like_count": 1142,
+          "quote_count": 30,
+          "reply_count": 228,
+          "retweet_count": 81
+        },
+        "reply_settings": "everyone",
+        "text": "日本最大的牛肉蓋飯連鎖，顧客吃到超大隻老鼠🤮🤮 https://t.co/bIUoDXvHR4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-11T16:01:12.000Z",
+        "description": "嗑药 | 自残 | 吐黑水 | 自由精神病 \n 『会回fo，对妹子会非常友好』:3\n我的男仆@requiem_soulss",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 46,
+                "username": "requiem_soulss"
+              }
+            ]
+          }
+        },
+        "id": "1811430427535765504",
+        "location": "🚪50绿色陪聊男的过门女的免费",
+        "name": "美術館館長",
+        "pinned_tweet_id": "1901626066441019862",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1884080533770231811/F8kuy6DT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 65,
+          "following_count": 134,
+          "like_count": 2603,
+          "listed_count": 1,
+          "media_count": 134,
+          "tweet_count": 636
+        },
+        "username": "xinshijie_1227",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-01T06:51:12.000Z",
+        "description": "中華兒女! 自強不息! 講台灣真實狀況。",
+        "id": "1576102262581080065",
+        "location": "台灣台北市大安區仁愛路",
+        "name": "Amelia",
+        "pinned_tweet_id": "1894658424778232081",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1804462758244806657/6D3cRYN0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25589,
+          "following_count": 101,
+          "like_count": 12070,
+          "listed_count": 96,
+          "media_count": 3097,
+          "tweet_count": 11716
+        },
+        "username": "Amelia181672271",
+        "verified": false
+      }
+    ]
+  }
+}

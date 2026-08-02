@@ -1,0 +1,198 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1811430427535765504",
+    "conversation_id": "2034567110601703673",
+    "created_at": "2026-03-19T14:25:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-19T15:25:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2034637418331283490"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1536716629505359872",
+          "start": 0,
+          "username": "cigsafterdrug"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034637418331283490",
+    "in_reply_to_user_id": "1536716629505359872",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2034567110601703673",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cigsafterdrug 人屎和狗屎我必须选一个吃吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1811430427535765504",
+        "conversation_id": "2034567110601703673",
+        "created_at": "2026-03-19T14:25:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-19T15:25:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034637418331283490"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1536716629505359872",
+              "start": 0,
+              "username": "cigsafterdrug"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034637418331283490",
+        "in_reply_to_user_id": "1536716629505359872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034567110601703673",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cigsafterdrug 人屎和狗屎我必须选一个吃吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1536716629505359872",
+        "conversation_id": "2034567110601703673",
+        "created_at": "2026-03-19T09:46:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-19T10:46:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2034567110601703673"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2034567110601703673",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 585,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 11,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "美金刚跟晚安哪个更拉"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-11T16:01:12.000Z",
+        "description": "嗑药 | 自残 | 吐黑水 | 御宅族| 互联网的隐匿栖身之所 | 傻逼俄罗斯男友@requiem_soulss  |  tg频道：https://t.co/q5Z49VdRn3（会在频道里发血图和日常照）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 41,
+                "username": "requiem_soulss"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/xinshijie0000",
+                "end": 89,
+                "expanded_url": "https://t.me/xinshijie0000",
+                "start": 66,
+                "url": "https://t.co/q5Z49VdRn3"
+              }
+            ]
+          }
+        },
+        "id": "1811430427535765504",
+        "location": "🚪8.88开放朋友圈陪闲聊",
+        "name": "美術館館長",
+        "pinned_tweet_id": "2024805135999017151",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033580584837300225/zBVz95fh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 168,
+          "following_count": 211,
+          "like_count": 3719,
+          "listed_count": 1,
+          "media_count": 383,
+          "tweet_count": 1330
+        },
+        "username": "xinshijie_1227",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-14T14:26:29.000Z",
+        "description": "✟可以叫我迴/小迴/任何你喜歡的✟ 任何群體全歡迎 \n目前只和同類互fo抱歉orz\n只要幸福就好了 祝你幸福",
+        "id": "1536716629505359872",
+        "name": "plsDontkissmeonthesidewalk",
+        "pinned_tweet_id": "2025667823016751527",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026943929120444416/QS8rXF5w_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 281,
+          "following_count": 295,
+          "like_count": 18580,
+          "listed_count": 0,
+          "media_count": 66,
+          "tweet_count": 1118
+        },
+        "username": "cigsafterdrug",
+        "verified": false
+      }
+    ]
+  }
+}

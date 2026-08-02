@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1811430427535765504",
+    "conversation_id": "1876513863858016538",
+    "created_at": "2025-01-24T21:25:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-24T22:25:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1882902594106122409"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1703297947121901568",
+          "start": 0,
+          "username": "xue_zhi2008"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1882902594106122409",
+    "in_reply_to_user_id": "1703297947121901568",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1876513863858016538",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xue_zhi2008 直接挂精神科去开吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1811430427535765504",
+        "conversation_id": "1876513863858016538",
+        "created_at": "2025-01-24T21:25:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-24T22:25:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1882902594106122409"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1703297947121901568",
+              "start": 0,
+              "username": "xue_zhi2008"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1882902594106122409",
+        "in_reply_to_user_id": "1703297947121901568",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1876513863858016538",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xue_zhi2008 直接挂精神科去开吗"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1876513855595315200"
+          ]
+        },
+        "author_id": "1703297947121901568",
+        "conversation_id": "1876513863858016538",
+        "created_at": "2025-01-07T06:19:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-07T07:19:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1876513863858016538"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/68UOLZue0o",
+              "end": 51,
+              "expanded_url": "https://x.com/xue_zhi2008/status/1876513863858016538/photo/1",
+              "media_key": "3_1876513855595315200",
+              "start": 28,
+              "url": "https://t.co/68UOLZue0o"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1876513863858016538",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 5292,
+          "like_count": 34,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "想开一个睡眠障碍的证明在外院用思诺思\n然后就大证+1了 https://t.co/68UOLZue0o"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-11T16:01:12.000Z",
+        "description": "od | 自残 | 垃圾话     对妹子会很友好^_^\n\n    bi🚪50绿色陪聊",
+        "id": "1811430427535765504",
+        "name": "美術館館長",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1880660134885732352/6fY0vKs1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 108,
+          "like_count": 1378,
+          "listed_count": 0,
+          "media_count": 55,
+          "tweet_count": 269
+        },
+        "username": "xinshijie_1227",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-17T06:41:15.000Z",
+        "description": "2008.4.28出厂🎉||2021.7.29持证/20.11.11含糖MtF🏳️‍⚧️||持“证”ADHD&ASD🤕||2024.4.28大证||411已约2026.7手术🥳||退役CChOer🧪||拒绝od但我也理解||业余:药理学💊＆有机化学⚗️",
+        "id": "1703297947121901568",
+        "location": "重庆市",
+        "name": "AAA 布织道9代传人-织不唧",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1841829606376312832/re_4oKm6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1381,
+          "following_count": 359,
+          "like_count": 6197,
+          "listed_count": 2,
+          "media_count": 373,
+          "tweet_count": 1439
+        },
+        "username": "xue_zhi2008",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1811430427535765504",
+    "conversation_id": "2070170033225859488",
+    "created_at": "2026-06-27T13:05:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-27T14:05:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070855965742686460"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1920665768750182401",
+          "start": 0,
+          "username": "Restorelife0771"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070855965742686460",
+    "in_reply_to_user_id": "1920665768750182401",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070329366467518958",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Restorelife0771 笑死了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1811430427535765504",
+        "conversation_id": "2070170033225859488",
+        "created_at": "2026-06-27T13:05:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T14:05:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070855965742686460"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1920665768750182401",
+              "start": 0,
+              "username": "Restorelife0771"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070855965742686460",
+        "in_reply_to_user_id": "1920665768750182401",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070329366467518958",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Restorelife0771 笑死了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920665768750182401",
+        "conversation_id": "2070170033225859488",
+        "created_at": "2026-06-26T02:12:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T03:12:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070329366467518958"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1811430427535765504",
+              "start": 0,
+              "username": "xinshijie_1227"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070329366467518958",
+        "in_reply_to_user_id": "1811430427535765504",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 114,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070170033225859488",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xinshijie_1227 晶哥的钓鱼能力亚于 Deepseek。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-11T16:01:12.000Z",
+        "description": "嗑药吸毒自残 | 负能量精神病 | 查成分互of | \ntg频道：https://t.co/q5Z49Vdjxv｜男友@requiem_soulss",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 74,
+                "start": 59,
+                "username": "requiem_soulss"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/xinshijie0000",
+                "end": 56,
+                "expanded_url": "https://t.me/xinshijie0000",
+                "start": 33,
+                "url": "https://t.co/q5Z49Vdjxv"
+              }
+            ]
+          }
+        },
+        "id": "1811430427535765504",
+        "location": "🚪8.88开放朋友圈陪闲聊",
+        "name": "美術館館長",
+        "pinned_tweet_id": "2035900548063568228",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037145672412258304/HWwdgB_x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 377,
+          "following_count": 247,
+          "like_count": 3996,
+          "listed_count": 0,
+          "media_count": 458,
+          "tweet_count": 1538
+        },
+        "url": "",
+        "username": "xinshijie_1227",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-09T02:23:09.000Z",
+        "description": "账号尾数改成 0772 就能搜到我的另一个账号。；\n顺男友跨 ；*非* MtF/顺女 请注意；\n喜欢玩音游 喜欢听电音 在学习日语 成绩很差\n是个胖子 属于 98% 健全人(可能无攻击性)；\nにほんの友達が欲しい",
+        "id": "1920665768750182401",
+        "name": "Restorelife0771",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920699900645261312/_sh8PWQb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 87,
+          "following_count": 260,
+          "like_count": 5118,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 973
+        },
+        "url": "",
+        "username": "Restorelife0771",
+        "verified": false
+      }
+    ]
+  }
+}

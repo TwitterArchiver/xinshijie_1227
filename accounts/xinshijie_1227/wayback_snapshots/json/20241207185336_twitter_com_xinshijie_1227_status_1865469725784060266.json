@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1865469721170382848"
+      ]
+    },
+    "author_id": "1811430427535765504",
+    "conversation_id": "1865469725784060266",
+    "created_at": "2024-12-07T18:53:36.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-07T19:53:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1865469725784060266"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/WcoF4KJQlw",
+          "end": 88,
+          "expanded_url": "https://x.com/xinshijie_1227/status/1865469725784060266/photo/1",
+          "media_key": "3_1865469721170382848",
+          "start": 65,
+          "url": "https://t.co/WcoF4KJQlw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1865469725784060266",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "感觉好害羞呀，在第一次在教室里偷偷玩漏出，大白兔漏出来好怕被人看到，又很期待被看到时漏出下流的样子，有没有帅哥喜欢我的大白兔呀～ https://t.co/WcoF4KJQlw"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1865469725784060266].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1865469725784060266",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1865469725784060266"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_1865469721170382848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GeN60-WbkAAUfAu.jpg",
+        "width": 1280
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-11T16:01:12.000Z",
+        "description": "痛苦是没法被比较的，比较就成为装饰品了",
+        "id": "1811430427535765504",
+        "name": "˚・* ٭☣︎ 美術館館長 ☣︎٭ *・˚",
+        "pinned_tweet_id": "1865297185614725475",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1860344393850613760/tW2czgA9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27,
+          "following_count": 116,
+          "like_count": 1128,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 164
+        },
+        "username": "xinshijie_1227",
+        "verified": false
+      }
+    ]
+  }
+}

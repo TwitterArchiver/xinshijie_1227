@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2036835237611941888"
+      ],
+      "media_source_tweet_id": [
+        "2036835250261884997"
+      ]
+    },
+    "author_id": "1811430427535765504",
+    "conversation_id": "2037143646961643689",
+    "created_at": "2026-03-26T12:24:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-26T13:24:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037143646961643689"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1981563709102477312",
+          "start": 3,
+          "username": "yui804275429451"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/VEttRdRXws",
+          "end": 44,
+          "expanded_url": "https://x.com/yui804275429451/status/2036835250261884997/photo/1",
+          "media_key": "3_2036835237611941888",
+          "start": 21,
+          "url": "https://t.co/VEttRdRXws"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037143646961643689",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 96
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036835250261884997",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yui804275429451: https://t.co/VEttRdRXws"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2037143646961643689].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2037143646961643689",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2037143646961643689"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2036835237611941888",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HERK22PbsAAnR9W.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2036835237611941888"
+          ]
+        },
+        "author_id": "1981563709102477312",
+        "conversation_id": "2036835250261884997",
+        "created_at": "2026-03-25T15:59:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-25T16:59:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2036835250261884997"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VEttRdRXws",
+              "end": 23,
+              "expanded_url": "https://x.com/yui804275429451/status/2036835250261884997/photo/1",
+              "media_key": "3_2036835237611941888",
+              "start": 0,
+              "url": "https://t.co/VEttRdRXws"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036835250261884997",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 62,
+          "impression_count": 6594,
+          "like_count": 794,
+          "quote_count": 0,
+          "reply_count": 11,
+          "retweet_count": 96
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/VEttRdRXws"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-11T16:01:12.000Z",
+        "description": "嗑药 | 自残 | 负能量 | 御宅族| 互联网的隐匿栖身之所 | 傻逼俄罗斯男友@requiem_soulss | tg频道：https://t.co/q5Z49VdRn3（会在频道里发血图和日常照）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 41,
+                "username": "requiem_soulss"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/xinshijie0000",
+                "end": 87,
+                "expanded_url": "https://t.me/xinshijie0000",
+                "start": 64,
+                "url": "https://t.co/q5Z49VdRn3"
+              }
+            ]
+          }
+        },
+        "id": "1811430427535765504",
+        "location": "🚪8.88开放朋友圈陪闲聊",
+        "name": "美術館館長",
+        "pinned_tweet_id": "2035900548063568228",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033580584837300225/zBVz95fh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 166,
+          "following_count": 213,
+          "like_count": 3820,
+          "listed_count": 1,
+          "media_count": 389,
+          "tweet_count": 1345
+        },
+        "username": "xinshijie_1227",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-24T03:29:48.000Z",
+        "description": "希望天使降临在我身边",
+        "id": "1981563709102477312",
+        "location": "北校C栋",
+        "name": "rain",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015769888288067585/0C-Vs_Qv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10038,
+          "following_count": 441,
+          "like_count": 3596,
+          "listed_count": 13,
+          "media_count": 121,
+          "tweet_count": 1115
+        },
+        "username": "yui804275429451",
+        "verified": false
+      }
+    ]
+  }
+}

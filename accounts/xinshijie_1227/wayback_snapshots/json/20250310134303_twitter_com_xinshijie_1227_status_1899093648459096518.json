@@ -1,0 +1,169 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1899093540271255552"
+      ]
+    },
+    "author_id": "1811430427535765504",
+    "conversation_id": "1899093648459096518",
+    "created_at": "2025-03-10T13:43:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-10T14:43:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1899093648459096518"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/uNSpayVyub",
+          "end": 29,
+          "expanded_url": "https://x.com/xinshijie_1227/status/1899093648459096518/video/1",
+          "media_key": "7_1899093540271255552",
+          "start": 6,
+          "url": "https://t.co/uNSpayVyub"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1899093648459096518",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "笑得我直抽 https://t.co/uNSpayVyub"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 29945,
+        "height": 1278,
+        "media_key": "7_1899093540271255552",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1899093540271255552/pu/img/3zMJaykewlez9pjT.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1899093540271255552/pu/vid/avc1/320x656/JG9RoPah5vINGRP0.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1899093540271255552/pu/vid/avc1/480x986/BoRSbHjUE03bnM0n.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1899093540271255552/pu/vid/avc1/622x1278/pFnEqFy6YPhGHZP0.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1899093540271255552/pu/pl/TfrVFT6rL5ir1y48.m3u8?tag=12"
+          }
+        ],
+        "width": 622
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1899093540271255552"
+          ]
+        },
+        "author_id": "1811430427535765504",
+        "conversation_id": "1899093648459096518",
+        "created_at": "2025-03-10T13:43:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-10T14:43:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1899093648459096518"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uNSpayVyub",
+              "end": 29,
+              "expanded_url": "https://x.com/xinshijie_1227/status/1899093648459096518/video/1",
+              "media_key": "7_1899093540271255552",
+              "start": 6,
+              "url": "https://t.co/uNSpayVyub"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1899093648459096518",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "笑得我直抽 https://t.co/uNSpayVyub"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-11T16:01:12.000Z",
+        "description": "嗑药 | 自残 | 吐黑水 | 究极中二病 \n 『会回fo，对妹子会非常友好』:3\n我的男仆@requiem_soulss",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 46,
+                "username": "requiem_soulss"
+              }
+            ]
+          }
+        },
+        "id": "1811430427535765504",
+        "location": "🚪50绿色陪聊男的过门女的免费",
+        "name": "美術館館長",
+        "pinned_tweet_id": "1886044580723949727",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1884080533770231811/F8kuy6DT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 53,
+          "following_count": 134,
+          "like_count": 2160,
+          "listed_count": 0,
+          "media_count": 111,
+          "tweet_count": 494
+        },
+        "username": "xinshijie_1227",
+        "verified": false
+      }
+    ]
+  }
+}

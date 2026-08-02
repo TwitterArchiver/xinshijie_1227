@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1811430427535765504",
+    "conversation_id": "2022212311893815566",
+    "created_at": "2026-02-13T10:29:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-13T11:29:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2022256895550189788"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1448206950903255040",
+          "start": 0,
+          "username": "_Shikieiki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022256895550189788",
+    "in_reply_to_user_id": "1448206950903255040",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022212311893815566",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_Shikieiki 我吃pr已经吃破产了还想吃，我现在的情况是最大剂量吃过150mg三盒，75mg4盒，一起吃了但是没药效，而且两天就想吃一次🥲"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2022212305195610113",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBBXYJ-bsAEEEKM.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1811430427535765504",
+        "conversation_id": "2022212311893815566",
+        "created_at": "2026-02-13T10:29:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-13T11:29:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022256895550189788"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1448206950903255040",
+              "start": 0,
+              "username": "_Shikieiki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022256895550189788",
+        "in_reply_to_user_id": "1448206950903255040",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022212311893815566",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_Shikieiki 我吃pr已经吃破产了还想吃，我现在的情况是最大剂量吃过150mg三盒，75mg4盒，一起吃了但是没药效，而且两天就想吃一次🥲"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2022212305195610113"
+          ]
+        },
+        "author_id": "1448206950903255040",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2022212311893815566",
+        "created_at": "2026-02-13T07:32:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-13T08:32:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022212311893815566"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/oMf1u0Wpdf",
+              "end": 178,
+              "expanded_url": "https://x.com/_Shikieiki/status/2022212311893815566/photo/1",
+              "media_key": "3_2022212305195610113",
+              "start": 155,
+              "url": "https://t.co/oMf1u0Wpdf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022212311893815566",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 233,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "pr成瘾个人因素影响很大\n我个人认为判断有没有成瘾是看戒断反应 如果你按照这样吃有效果而且不想加量 且停药后没严重(持续久的)戒断反应那就是还好\n但是我认为一周三次可能还是有点多了) 一周两或者一次更好些\n另外我不清楚这边的8-10t是指75mg还是150mg1t的? 如果是150mg的话8t已经是很多了哦 https://t.co/oMf1u0Wpdf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-11T16:01:12.000Z",
+        "description": "嗑药 | 自残 | 吐黑水 | 互联网的隐匿栖身之所｜哥特or地雷女｜狗屎馅俄罗斯大列巴@requiem_soulss            tg频道：https://t.co/q5Z49Vdjxv（会在频道里发血图和日常照）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 59,
+                "start": 44,
+                "username": "requiem_soulss"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/xinshijie0000",
+                "end": 99,
+                "expanded_url": "https://t.me/xinshijie0000",
+                "start": 76,
+                "url": "https://t.co/q5Z49Vdjxv"
+              }
+            ]
+          }
+        },
+        "id": "1811430427535765504",
+        "location": "不再收🚪不再加男",
+        "name": "美術館館長",
+        "pinned_tweet_id": "1921997129985216603",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009811412412157952/ARAxYDf-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 136,
+          "following_count": 187,
+          "like_count": 3341,
+          "listed_count": 1,
+          "media_count": 355,
+          "tweet_count": 1242
+        },
+        "username": "xinshijie_1227",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-13T08:40:27.000Z",
+        "description": "四季大人我有罪啊啊啊啊",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/shikieiki1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/shikieiki1",
+                "start": 0,
+                "url": "https://t.co/Qn6EHYtmpP"
+              }
+            ]
+          }
+        },
+        "id": "1448206950903255040",
+        "location": "彼岸",
+        "name": "Shikieiki Yamaxanadu",
+        "pinned_tweet_id": "2014283443593740562",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1449781801912840192/JG7qKb04_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 439,
+          "following_count": 621,
+          "like_count": 19172,
+          "listed_count": 0,
+          "media_count": 244,
+          "tweet_count": 1815
+        },
+        "url": "https://t.co/Qn6EHYtmpP",
+        "username": "_Shikieiki",
+        "verified": false
+      }
+    ]
+  }
+}

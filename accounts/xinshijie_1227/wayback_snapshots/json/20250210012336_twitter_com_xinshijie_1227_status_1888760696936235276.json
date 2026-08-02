@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1811430427535765504",
+    "conversation_id": "1888747600666575126",
+    "created_at": "2025-02-10T01:23:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-10T02:23:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1888760696936235276"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1821065266006241280",
+          "start": 0,
+          "username": "KKivako2233"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1888760696936235276",
+    "in_reply_to_user_id": "1821065266006241280",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1888754734141698492",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KKivako2233 ( ´•ω•)ノ(._.`)好哦"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1811430427535765504",
+        "conversation_id": "1888747600666575126",
+        "created_at": "2025-02-10T01:23:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-10T02:23:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1888760696936235276"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1821065266006241280",
+              "start": 0,
+              "username": "KKivako2233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1888760696936235276",
+        "in_reply_to_user_id": "1821065266006241280",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1888754734141698492",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KKivako2233 ( ´•ω•)ノ(._.`)好哦"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1821065266006241280",
+        "conversation_id": "1888747600666575126",
+        "created_at": "2025-02-10T00:59:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-10T01:59:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1888754734141698492"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1811430427535765504",
+              "start": 0,
+              "username": "xinshijie_1227"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1888754734141698492",
+        "in_reply_to_user_id": "1811430427535765504",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1888747600666575126",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xinshijie_1227 抱抱泥…少割点哦"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-11T16:01:12.000Z",
+        "description": "od | 自残 | 吐黑水 bi 对妹子会非常友好^_^   会回fo",
+        "id": "1811430427535765504",
+        "location": "🚪50绿色陪聊",
+        "name": "美術館館長",
+        "pinned_tweet_id": "1886044580723949727",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1884080533770231811/F8kuy6DT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42,
+          "following_count": 112,
+          "like_count": 1608,
+          "listed_count": 0,
+          "media_count": 78,
+          "tweet_count": 338
+        },
+        "username": "xinshijie_1227",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-07T06:06:15.000Z",
+        "description": "看客…想被爱的猫猫，也可以是狗狗…\n二代目太宰治 \n是爵士吉他手，也是摇滚和emo队的成员，还可以弹贝斯和键盘）\ninfp哦\nsub/4i›1i\n喜欢大姐姐…\n10后哦\n在上海）可能有adhd和焦虑症但是不想去医院看…）\n穷鬼猫猫（狗狗）version限时发售中（（（",
+        "id": "1821065266006241280",
+        "location": "笼中鸟",
+        "name": "白色眼球和模糊化心脏的爱恋",
+        "pinned_tweet_id": "1884279550051590195",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863829978326224896/MPxDtf86_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 244,
+          "following_count": 1269,
+          "like_count": 7308,
+          "listed_count": 0,
+          "media_count": 99,
+          "tweet_count": 1998
+        },
+        "username": "KKivako2233",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,174 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1811430427535765504",
+    "conversation_id": "1838567391250518383",
+    "created_at": "2024-11-15T18:17:35.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-15T19:17:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1857488130494050589"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1595840964802723840",
+          "start": 0,
+          "username": "huan0502j"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1857488130494050589",
+    "in_reply_to_user_id": "1595840964802723840",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1838567391250518383",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@huan0502j 把一个烂铁片炒到两三千块钱，一看推图雷这雷那还阅番3，400+什么时候二次元成社交工具了，，。有毛病"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1811430427535765504",
+        "conversation_id": "1838567391250518383",
+        "created_at": "2024-11-15T18:17:35.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-15T19:17:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1857488130494050589"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1595840964802723840",
+              "start": 0,
+              "username": "huan0502j"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1857488130494050589",
+        "in_reply_to_user_id": "1595840964802723840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1838567391250518383",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@huan0502j 把一个烂铁片炒到两三千块钱，一看推图雷这雷那还阅番3，400+什么时候二次元成社交工具了，，。有毛病"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1595840964802723840",
+        "conversation_id": "1838567391250518383",
+        "created_at": "2024-09-24T13:13:19.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-24T14:13:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1838567391250518383"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1838567391250518383",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 512,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我因为圈地自萌两年前才刚刚接触到扩列和现在的谷子文化，感觉大受震撼不理解，所以我现在也基本上不买谷子因为真没啥用"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-11T16:01:12.000Z",
+        "description": "你妈的，怎么这样啊",
+        "id": "1811430427535765504",
+        "name": "劳工儿子在天堂",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1852369059402444800/4MzSILkf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32,
+          "following_count": 88,
+          "like_count": 721,
+          "listed_count": 0,
+          "tweet_count": 60
+        },
+        "username": "xinshijie_1227",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-24T18:05:10.000Z",
+        "description": "💖06‖辍学‖od‖中焦中抑‖友跨顺女‖🚪50 互关免费‖直fo查成分回‖欢迎来交友！爱所有互关！",
+        "id": "1595840964802723840",
+        "name": "✟幻音凌✟",
+        "pinned_tweet_id": "1827331610095878292",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1626300970006355969/yYBClncU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 688,
+          "following_count": 1080,
+          "like_count": 13960,
+          "listed_count": 1,
+          "tweet_count": 2733
+        },
+        "username": "huan0502j",
+        "verified": false
+      }
+    ]
+  }
+}

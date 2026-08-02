@@ -1,0 +1,307 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1811430427535765504",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A genre for books, like Fiction",
+          "id": "85",
+          "name": "Book Genre"
+        },
+        "entity": {
+          "description": "Comics",
+          "id": "847521144173350912",
+          "name": "Comics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839544274442051584",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Comics",
+          "id": "847521144173350912",
+          "name": "Comics"
+        }
+      }
+    ],
+    "conversation_id": "2034104681459552364",
+    "created_at": "2026-03-19T07:13:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-19T08:13:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2034528717096337662"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1852135214795100164",
+          "start": 0,
+          "username": "ayameeii"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034528717096337662",
+    "in_reply_to_user_id": "1852135214795100164",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2034104681459552364",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ayameeii 封闭式的不能拿手机或者只能固定时间发手机，每天定时定点排队吃药，每天只能看书看漫画或者跟别人聊天，一闹就会被绑在床上"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1811430427535765504",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A genre for books, like Fiction",
+              "id": "85",
+              "name": "Book Genre"
+            },
+            "entity": {
+              "description": "Comics",
+              "id": "847521144173350912",
+              "name": "Comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Comics",
+              "id": "847521144173350912",
+              "name": "Comics"
+            }
+          }
+        ],
+        "conversation_id": "2034104681459552364",
+        "created_at": "2026-03-19T07:13:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-19T08:13:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034528717096337662"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1852135214795100164",
+              "start": 0,
+              "username": "ayameeii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034528717096337662",
+        "in_reply_to_user_id": "1852135214795100164",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034104681459552364",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ayameeii 封闭式的不能拿手机或者只能固定时间发手机，每天定时定点排队吃药，每天只能看书看漫画或者跟别人聊天，一闹就会被绑在床上"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852135214795100164",
+        "conversation_id": "2034104681459552364",
+        "created_at": "2026-03-18T03:08:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-18T04:08:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2034104681459552364"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2034104681459552364",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 10775,
+          "like_count": 72,
+          "quote_count": 1,
+          "reply_count": 46,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "精神病院住院是什么样子的 住过的求求告诉我怎么样"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-11T16:01:12.000Z",
+        "description": "嗑药 | 自残 | 吐黑水 | 御宅族| 互联网的隐匿栖身之所 | 傻逼俄罗斯男友@requiem_soulss  |  tg频道：https://t.co/q5Z49VdRn3（会在频道里发血图和日常照）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 41,
+                "username": "requiem_soulss"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/xinshijie0000",
+                "end": 89,
+                "expanded_url": "https://t.me/xinshijie0000",
+                "start": 66,
+                "url": "https://t.co/q5Z49VdRn3"
+              }
+            ]
+          }
+        },
+        "id": "1811430427535765504",
+        "location": "🚪8.88开放朋友圈陪闲聊",
+        "name": "美術館館長",
+        "pinned_tweet_id": "2024805135999017151",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033580584837300225/zBVz95fh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 166,
+          "following_count": 210,
+          "like_count": 3700,
+          "listed_count": 1,
+          "media_count": 383,
+          "tweet_count": 1328
+        },
+        "username": "xinshijie_1227",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-31T23:47:06.000Z",
+        "description": "互联网依存 前世@ayamekiss",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 8,
+                "username": "ayamekiss"
+              }
+            ]
+          }
+        },
+        "id": "1852135214795100164",
+        "name": "绫绫绫",
+        "pinned_tweet_id": "2027766234981494956",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978206852908539904/zv_IdkSm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 653,
+          "following_count": 456,
+          "like_count": 7927,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 2838
+        },
+        "username": "ayameeii",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1811430427535765504",
+    "conversation_id": "1928552225602723885",
+    "created_at": "2025-06-05T16:20:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-05T17:20:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1930661022031081777"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1810705896332566528",
+          "start": 0,
+          "username": "uhhjbjnh6669230"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1930661022031081777",
+    "in_reply_to_user_id": "1810705896332566528",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1929790877830205479",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@uhhjbjnh6669230 pr大海"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1811430427535765504",
+        "conversation_id": "1928552225602723885",
+        "created_at": "2025-06-05T16:20:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-05T17:20:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1930661022031081777"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1810705896332566528",
+              "start": 0,
+              "username": "uhhjbjnh6669230"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1930661022031081777",
+        "in_reply_to_user_id": "1810705896332566528",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1929790877830205479",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@uhhjbjnh6669230 pr大海"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1810705896332566528",
+        "conversation_id": "1928552225602723885",
+        "created_at": "2025-06-03T06:42:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-03T07:42:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1929790877830205479"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1811430427535765504",
+              "start": 0,
+              "username": "xinshijie_1227"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1929790877830205479",
+        "in_reply_to_user_id": "1811430427535765504",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1928552225602723885",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xinshijie_1227 好多。。。一望无际的大海"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-11T16:01:12.000Z",
+        "description": "嗑药 | 自残 | 吐黑水 | 互联网的隐匿栖身之所『会回fo，对妹子会非常友好』 | 男友@requiem_soulss",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 46,
+                "username": "requiem_soulss"
+              }
+            ]
+          }
+        },
+        "id": "1811430427535765504",
+        "location": "不再收🚪只加妹子",
+        "name": "美術館館長",
+        "pinned_tweet_id": "1921997129985216603",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1929041425536266242/Uwpg_cd1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 172,
+          "following_count": 165,
+          "like_count": 3098,
+          "listed_count": 0,
+          "media_count": 240,
+          "tweet_count": 998
+        },
+        "username": "xinshijie_1227",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-09T16:01:51.000Z",
+        "description": "喵喵喵",
+        "id": "1810705896332566528",
+        "name": "小小雅",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906599466125434880/gtf2Q2WE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 91,
+          "like_count": 83,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 33
+        },
+        "username": "uhhjbjnh6669230",
+        "verified": false
+      }
+    ]
+  }
+}

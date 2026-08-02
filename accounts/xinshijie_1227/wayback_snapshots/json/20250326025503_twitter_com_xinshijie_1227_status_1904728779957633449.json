@@ -1,0 +1,145 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1904728766712033280"
+      ]
+    },
+    "author_id": "1811430427535765504",
+    "conversation_id": "1904728779957633449",
+    "created_at": "2025-03-26T02:55:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-26T03:55:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1904728779957633449"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/JHXIRqpMsS",
+          "end": 51,
+          "expanded_url": "https://x.com/xinshijie_1227/status/1904728779957633449/photo/1",
+          "media_key": "3_1904728766712033280",
+          "start": 28,
+          "url": "https://t.co/JHXIRqpMsS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1904728779957633449",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "昨晚吃了32t普瑞巴林，普瑞巴林药效真的好短啊.... https://t.co/JHXIRqpMsS"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1904728766712033280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gm70uL1WsAAf_T3.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1904728766712033280"
+          ]
+        },
+        "author_id": "1811430427535765504",
+        "conversation_id": "1904728779957633449",
+        "created_at": "2025-03-26T02:55:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-26T03:55:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1904728779957633449"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JHXIRqpMsS",
+              "end": 51,
+              "expanded_url": "https://x.com/xinshijie_1227/status/1904728779957633449/photo/1",
+              "media_key": "3_1904728766712033280",
+              "start": 28,
+              "url": "https://t.co/JHXIRqpMsS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1904728779957633449",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "昨晚吃了32t普瑞巴林，普瑞巴林药效真的好短啊.... https://t.co/JHXIRqpMsS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-11T16:01:12.000Z",
+        "description": "嗑药 | 自残 | 吐黑水 | 自由精神病 \n 『会回fo，对妹子会非常友好』:3\n我的男仆@requiem_soulss",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 46,
+                "username": "requiem_soulss"
+              }
+            ]
+          }
+        },
+        "id": "1811430427535765504",
+        "location": "🚪50绿色陪聊男的过门女的免费",
+        "name": "美術館館長",
+        "pinned_tweet_id": "1901626066441019862",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1884080533770231811/F8kuy6DT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 68,
+          "following_count": 135,
+          "like_count": 2629,
+          "listed_count": 1,
+          "media_count": 139,
+          "tweet_count": 646
+        },
+        "username": "xinshijie_1227",
+        "verified": false
+      }
+    ]
+  }
+}

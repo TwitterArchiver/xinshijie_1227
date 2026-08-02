@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1878413627394269184"
+      ],
+      "media_source_tweet_id": [
+        "1878413638190375204"
+      ]
+    },
+    "author_id": "1811430427535765504",
+    "conversation_id": "1886052817963794555",
+    "created_at": "2025-02-02T14:03:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-02T15:03:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1886052817963794555"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 30,
+          "normalized_text": "Kim Carlsson",
+          "probability": 0.9484,
+          "start": 19,
+          "type": "Person"
+        },
+        {
+          "end": 60,
+          "normalized_text": "Hypothermia",
+          "probability": 0.5127,
+          "start": 50,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1503131385694990346",
+          "start": 3,
+          "username": "BMplusLegions"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/VjXfmV0Gzm",
+          "end": 89,
+          "expanded_url": "https://x.com/BMplusLegions/status/1878413638190375204/photo/1",
+          "media_key": "3_1878413627394269184",
+          "start": 66,
+          "url": "https://t.co/VjXfmV0Gzm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1886052817963794555",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2441
+    },
+    "referenced_tweets": [
+      {
+        "id": "1878413638190375204",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @BMplusLegions: Kim Carlsson ( Lifelover &amp; Hypothermia...) https://t.co/VjXfmV0Gzm"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1886052817963794555].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1886052817963794555",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1886052817963794555"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 578,
+        "media_key": "3_1878413627394269184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GhF3PeoWoAAEFlO.jpg",
+        "width": 770
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1878413627394269184"
+          ]
+        },
+        "author_id": "1503131385694990346",
+        "conversation_id": "1878413638190375204",
+        "created_at": "2025-01-12T12:08:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-12T13:08:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1878413638190375204"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 11,
+              "normalized_text": "Kim Carlsson",
+              "probability": 0.9388,
+              "start": 0,
+              "type": "Person"
+            },
+            {
+              "end": 23,
+              "normalized_text": "Lifelover",
+              "probability": 0.4388,
+              "start": 15,
+              "type": "Other"
+            },
+            {
+              "end": 41,
+              "normalized_text": "Hypothermia",
+              "probability": 0.4455,
+              "start": 31,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/VjXfmV0Gzm",
+              "end": 70,
+              "expanded_url": "https://x.com/BMplusLegions/status/1878413638190375204/photo/1",
+              "media_key": "3_1878413627394269184",
+              "start": 47,
+              "url": "https://t.co/VjXfmV0Gzm"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "206c436ce43a43a3"
+        },
+        "id": "1878413638190375204",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 2651,
+          "impression_count": 382061,
+          "like_count": 19255,
+          "quote_count": 211,
+          "reply_count": 36,
+          "retweet_count": 2441
+        },
+        "reply_settings": "everyone",
+        "text": "Kim Carlsson ( Lifelover &amp; Hypothermia...) https://t.co/VjXfmV0Gzm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-11T16:01:12.000Z",
+        "description": "od | 自残 | 垃圾话     对妹子会很友好^_^\n\n    bi🚪50绿色陪聊",
+        "id": "1811430427535765504",
+        "name": "美術館館長",
+        "pinned_tweet_id": "1886044557634404531",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1884080533770231811/F8kuy6DT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33,
+          "following_count": 106,
+          "like_count": 1406,
+          "listed_count": 0,
+          "media_count": 61,
+          "tweet_count": 282
+        },
+        "username": "xinshijie_1227",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-13T22:10:54.000Z",
+        "description": "Black metal y Mas!!",
+        "id": "1503131385694990346",
+        "name": "BM+ Legions",
+        "pinned_tweet_id": "1885683394828198245",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1828844789124505600/Dw9A1Bk5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36296,
+          "following_count": 3421,
+          "like_count": 15610,
+          "listed_count": 49,
+          "media_count": 64525,
+          "tweet_count": 68008
+        },
+        "username": "BMplusLegions",
+        "verified": false
+      }
+    ]
+  }
+}

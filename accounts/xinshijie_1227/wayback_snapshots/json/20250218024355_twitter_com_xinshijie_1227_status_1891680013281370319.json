@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1811430427535765504",
+    "conversation_id": "1891140977689075977",
+    "created_at": "2025-02-18T02:43:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-18T03:43:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1891680013281370319"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1799228957931220992",
+          "start": 0,
+          "username": "Ricardo42454031"
+        },
+        {
+          "end": 29,
+          "id": "1747931023277502465",
+          "start": 17,
+          "username": "damatte8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1891680013281370319",
+    "in_reply_to_user_id": "1799228957931220992",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1891430830632796473",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ricardo42454031 @damatte8964 哇塞好深情啊是不是这样觉得的呀胯下挂二斤臭肉真以为自己是个人物了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1811430427535765504",
+        "conversation_id": "1891140977689075977",
+        "created_at": "2025-02-18T02:43:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-18T03:43:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1891680013281370319"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1799228957931220992",
+              "start": 0,
+              "username": "Ricardo42454031"
+            },
+            {
+              "end": 29,
+              "id": "1747931023277502465",
+              "start": 17,
+              "username": "damatte8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1891680013281370319",
+        "in_reply_to_user_id": "1799228957931220992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1891430830632796473",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ricardo42454031 @damatte8964 哇塞好深情啊是不是这样觉得的呀胯下挂二斤臭肉真以为自己是个人物了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1799228957931220992",
+        "conversation_id": "1891140977689075977",
+        "created_at": "2025-02-17T10:13:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-17T11:13:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1891430830632796473"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1747931023277502465",
+              "start": 0,
+              "username": "damatte8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1891430830632796473",
+        "in_reply_to_user_id": "1747931023277502465",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10268,
+          "like_count": 58,
+          "quote_count": 0,
+          "reply_count": 21,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1891140977689075977",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@damatte8964 爱只会给白纸，其余的只是鸡巴套子而已"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-11T16:01:12.000Z",
+        "description": "od | 自残 | 吐黑水 \n屎尿屁大王 bi 对妹子会非常友好^_^   会回fo",
+        "id": "1811430427535765504",
+        "location": "🚪50绿色陪聊男的过门女的免费",
+        "name": "美術館館長",
+        "pinned_tweet_id": "1886044580723949727",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1884080533770231811/F8kuy6DT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 45,
+          "following_count": 117,
+          "like_count": 1732,
+          "listed_count": 0,
+          "media_count": 97,
+          "tweet_count": 386
+        },
+        "username": "xinshijie_1227",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-07T23:56:50.000Z",
+        "description": "性爱悟道，肉身成圣",
+        "id": "1799228957931220992",
+        "name": "Ricardo",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1884036134696636416/e6J3v6E4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 68,
+          "like_count": 14,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 37
+        },
+        "username": "Ricardo42454031",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-18T10:37:04.000Z",
+        "description": "*セカイヘイワ*｜我系小咪呀｜有人格障碍和精神病抱歉｜ACG｜ボカロ｜我也不知道该怎么介绍自己，很感谢你来看我…！🚪都包含朋友圈w｜不线下谢谢你",
+        "id": "1747931023277502465",
+        "location": "🚪99纯绿陪聊/198非绿",
+        "name": "想帮男友乳交结果发现奶子不够大愤而撞墙自杀",
+        "pinned_tweet_id": "1866766840078164028",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1877564177814048768/c52VHZfr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27544,
+          "following_count": 634,
+          "like_count": 4299,
+          "listed_count": 34,
+          "media_count": 81,
+          "tweet_count": 1580
+        },
+        "username": "damatte8964",
+        "verified": false
+      }
+    ]
+  }
+}

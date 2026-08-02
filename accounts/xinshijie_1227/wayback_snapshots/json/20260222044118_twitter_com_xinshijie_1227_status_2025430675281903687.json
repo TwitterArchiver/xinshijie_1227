@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1811430427535765504",
+    "conversation_id": "2024702725599219750",
+    "created_at": "2026-02-22T04:41:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-22T05:41:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025430675281903687"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1568476290386382849",
+          "start": 0,
+          "username": "StevenY83164918"
+        },
+        {
+          "end": 33,
+          "id": "1957509667787325440",
+          "start": 17,
+          "username": "pleazdontleavme"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025430675281903687",
+    "in_reply_to_user_id": "1568476290386382849",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025137622189047974",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@StevenY83164918 @pleazdontleavme 谢谢哇，我现在在吃金刚烷胺不知道有没有这样的效果（）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1811430427535765504",
+        "conversation_id": "2024702725599219750",
+        "created_at": "2026-02-22T04:41:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-22T05:41:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025430675281903687"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1568476290386382849",
+              "start": 0,
+              "username": "StevenY83164918"
+            },
+            {
+              "end": 33,
+              "id": "1957509667787325440",
+              "start": 17,
+              "username": "pleazdontleavme"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025430675281903687",
+        "in_reply_to_user_id": "1568476290386382849",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025137622189047974",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@StevenY83164918 @pleazdontleavme 谢谢哇，我现在在吃金刚烷胺不知道有没有这样的效果（）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1568476290386382849",
+        "conversation_id": "2024702725599219750",
+        "created_at": "2026-02-21T09:16:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-21T10:16:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025137622189047974"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1811430427535765504",
+              "start": 0,
+              "username": "xinshijie_1227"
+            },
+            {
+              "end": 32,
+              "id": "1957509667787325440",
+              "start": 16,
+              "username": "pleazdontleavme"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025137622189047974",
+        "in_reply_to_user_id": "1811430427535765504",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024931408691822764",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xinshijie_1227 @pleazdontleavme 你长得那么可爱😭 要不要试试吃蘑菇或致幻剂（叹气 有实验报告说会降低成瘾性"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-11T16:01:12.000Z",
+        "description": "嗑药 | 自残 | 吐黑水 ｜哥特or地雷女| 互联网的隐匿栖身之所｜狗屎馅俄罗斯大列巴@requiem_soulss tg频道：https://t.co/q5Z49Vdjxv（会在频道里发血图和日常照）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 59,
+                "start": 44,
+                "username": "requiem_soulss"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/xinshijie0000",
+                "end": 88,
+                "expanded_url": "https://t.me/xinshijie0000",
+                "start": 65,
+                "url": "https://t.co/q5Z49Vdjxv"
+              }
+            ]
+          }
+        },
+        "id": "1811430427535765504",
+        "location": "🚪8.88开放朋友圈陪闲聊",
+        "name": "美術館館長",
+        "pinned_tweet_id": "2024805135999017151",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009811412412157952/ARAxYDf-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 147,
+          "following_count": 200,
+          "like_count": 3602,
+          "listed_count": 1,
+          "media_count": 363,
+          "tweet_count": 1273
+        },
+        "username": "xinshijie_1227",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-10T05:48:04.000Z",
+        "description": "",
+        "id": "1568476290386382849",
+        "name": "G.Sia",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1578714049499406336/sFlexlwz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 324,
+          "like_count": 20,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 172
+        },
+        "username": "StevenY83164918",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-18T18:27:41.000Z",
+        "description": "08女/bi/lgbt全友好/同类互fo/我叫下水道/可以扩列/自残穿孔od/cptsd/bpd/dpd/极度依赖/无药可救",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/y69659y",
+                "end": 23,
+                "expanded_url": "https://ngl.link/y69659y",
+                "start": 0,
+                "url": "https://t.co/JcxwpFXiEy"
+              }
+            ]
+          }
+        },
+        "id": "1957509667787325440",
+        "location": "Припять",
+        "name": "骯髒下水道里的卑劣嘔吐物",
+        "pinned_tweet_id": "2024317059778453846",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023757108576219139/uzRSkV9f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 264,
+          "following_count": 504,
+          "like_count": 2909,
+          "listed_count": 0,
+          "media_count": 61,
+          "tweet_count": 1132
+        },
+        "url": "https://t.co/JcxwpFXiEy",
+        "username": "pleazdontleavme",
+        "verified": false
+      }
+    ]
+  }
+}

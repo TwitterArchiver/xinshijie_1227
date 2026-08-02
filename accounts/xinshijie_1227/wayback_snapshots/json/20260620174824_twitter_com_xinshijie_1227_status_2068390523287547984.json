@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1811430427535765504",
+    "conversation_id": "2063360140774936787",
+    "created_at": "2026-06-20T17:48:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-20T18:48:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068390523287547984"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2058080982075637760",
+          "start": 0,
+          "username": "TWTuuvi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068390523287547984",
+    "in_reply_to_user_id": "2058080982075637760",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067680092038598782",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TWTuuvi 爱你"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1811430427535765504",
+        "conversation_id": "2063360140774936787",
+        "created_at": "2026-06-20T17:48:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T18:48:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068390523287547984"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2058080982075637760",
+              "start": 0,
+              "username": "TWTuuvi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068390523287547984",
+        "in_reply_to_user_id": "2058080982075637760",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067680092038598782",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TWTuuvi 爱你"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2058080982075637760",
+        "conversation_id": "2063360140774936787",
+        "created_at": "2026-06-18T18:45:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T19:45:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067680092038598782"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1811430427535765504",
+              "start": 0,
+              "username": "xinshijie_1227"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067680092038598782",
+        "in_reply_to_user_id": "1811430427535765504",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063360140774936787",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xinshijie_1227 老公你好美。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-11T16:01:12.000Z",
+        "description": "嗑药吸毒自残 | 负能量 | 互联网的隐匿栖身之所 | 查成分互of | \ntg频道：https://t.co/q5Z49VdRn3｜男友@requiem_soulss",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 84,
+                "start": 69,
+                "username": "requiem_soulss"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/xinshijie0000",
+                "end": 66,
+                "expanded_url": "https://t.me/xinshijie0000",
+                "start": 43,
+                "url": "https://t.co/q5Z49VdRn3"
+              }
+            ]
+          }
+        },
+        "id": "1811430427535765504",
+        "location": "🚪8.88开放朋友圈陪闲聊",
+        "name": "美術館館長",
+        "pinned_tweet_id": "2035900548063568228",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037145672412258304/HWwdgB_x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 382,
+          "following_count": 245,
+          "like_count": 3992,
+          "listed_count": 0,
+          "media_count": 450,
+          "tweet_count": 1522
+        },
+        "url": "",
+        "username": "xinshijie_1227",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-23T07:03:35.000Z",
+        "description": "养胃",
+        "id": "2058080982075637760",
+        "location": "美国",
+        "name": "怜惜真心浮沉",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058108173031288832/YriYDQbU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 1,
+          "like_count": 45,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 3
+        },
+        "url": "",
+        "username": "TWTuuvi",
+        "verified": false
+      }
+    ]
+  }
+}

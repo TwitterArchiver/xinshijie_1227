@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1811430427535765504",
+    "conversation_id": "2056220713955320205",
+    "created_at": "2026-05-21T09:53:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-21T10:53:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057399372871315925"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2026876224589701120",
+          "start": 0,
+          "username": "R1k0xo33w"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057399372871315925",
+    "in_reply_to_user_id": "2026876224589701120",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056933322924974575",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@R1k0xo33w 靠关系，之前能买现在也没有了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1811430427535765504",
+        "conversation_id": "2056220713955320205",
+        "created_at": "2026-05-21T09:53:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T10:53:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057399372871315925"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2026876224589701120",
+              "start": 0,
+              "username": "R1k0xo33w"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057399372871315925",
+        "in_reply_to_user_id": "2026876224589701120",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056933322924974575",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@R1k0xo33w 靠关系，之前能买现在也没有了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2026876224589701120",
+        "conversation_id": "2056220713955320205",
+        "created_at": "2026-05-20T03:01:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T04:01:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056933322924974575"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1811430427535765504",
+              "start": 0,
+              "username": "xinshijie_1227"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056933322924974575",
+        "in_reply_to_user_id": "1811430427535765504",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056905792742391897",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xinshijie_1227 那能开这么多么 医院最多给两盒处方"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-11T16:01:12.000Z",
+        "description": "嗑药 | 自残 | 负能量 | 御宅族| 互联网的隐匿栖身之所 | \ntg频道：https://t.co/q5Z49VdRn3（会在频道里发血图和日常照） | 俄罗斯臭傻逼@requiem_soulss",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 101,
+                "start": 86,
+                "username": "requiem_soulss"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/xinshijie0000",
+                "end": 63,
+                "expanded_url": "https://t.me/xinshijie0000",
+                "start": 40,
+                "url": "https://t.co/q5Z49VdRn3"
+              }
+            ]
+          }
+        },
+        "id": "1811430427535765504",
+        "location": "🚪8.88开放朋友圈陪闲聊",
+        "name": "美術館館長",
+        "pinned_tweet_id": "2035900548063568228",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037145672412258304/HWwdgB_x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 227,
+          "following_count": 221,
+          "like_count": 3885,
+          "listed_count": 0,
+          "media_count": 421,
+          "tweet_count": 1435
+        },
+        "username": "xinshijie_1227",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-26T04:25:31.000Z",
+        "description": "一直在找我是谁#颓废磕药#是个可爱的孩子#",
+        "id": "2026876224589701120",
+        "name": "鲤",
+        "pinned_tweet_id": "2035834585226019160",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038180445620453376/K2BlHK_U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39,
+          "following_count": 99,
+          "like_count": 654,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 535
+        },
+        "username": "R1k0xo33w",
+        "verified": false
+      }
+    ]
+  }
+}

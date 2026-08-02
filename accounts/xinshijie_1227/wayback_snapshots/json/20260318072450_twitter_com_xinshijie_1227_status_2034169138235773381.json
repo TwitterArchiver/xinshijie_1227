@@ -1,0 +1,298 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1811430427535765504",
+    "conversation_id": "2034169138235773381",
+    "created_at": "2026-03-18T07:24:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-18T08:24:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2034169138235773381"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1811430427535765504",
+          "start": 3,
+          "username": "xinshijie_1227"
+        },
+        {
+          "end": 34,
+          "id": "1916827882183360512",
+          "start": 20,
+          "username": "weizhanershen"
+        },
+        {
+          "end": 48,
+          "id": "1965246583379034117",
+          "start": 35,
+          "username": "hyunjennagua"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034169138235773381",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2034169046598619557",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xinshijie_1227: @weizhanershen @hyunjennagua 那我就是跟风狗胆小鬼死穷逼胆大的脑残"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1811430427535765504",
+        "conversation_id": "2034169138235773381",
+        "created_at": "2026-03-18T07:24:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-18T08:24:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034169138235773381"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1811430427535765504",
+              "start": 3,
+              "username": "xinshijie_1227"
+            },
+            {
+              "end": 34,
+              "id": "1916827882183360512",
+              "start": 20,
+              "username": "weizhanershen"
+            },
+            {
+              "end": 48,
+              "id": "1965246583379034117",
+              "start": 35,
+              "username": "hyunjennagua"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034169138235773381",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034169046598619557",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @xinshijie_1227: @weizhanershen @hyunjennagua 那我就是跟风狗胆小鬼死穷逼胆大的脑残"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1811430427535765504",
+        "conversation_id": "2034125052355240099",
+        "created_at": "2026-03-18T07:24:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-18T08:24:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034169046598619557"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1916827882183360512",
+              "start": 0,
+              "username": "weizhanershen"
+            },
+            {
+              "end": 28,
+              "id": "1965246583379034117",
+              "start": 15,
+              "username": "hyunjennagua"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034169046598619557",
+        "in_reply_to_user_id": "1916827882183360512",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034125052355240099",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@weizhanershen @hyunjennagua 那我就是跟风狗胆小鬼死穷逼胆大的脑残"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-11T16:01:12.000Z",
+        "description": "嗑药 | 自残 | 吐黑水 ｜哥特or地雷女| 互联网的隐匿栖身之所｜狗屎馅俄罗斯大列巴@requiem_soulss tg频道：https://t.co/q5Z49Vdjxv（会在频道里发血图和日常照）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 59,
+                "start": 44,
+                "username": "requiem_soulss"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/xinshijie0000",
+                "end": 88,
+                "expanded_url": "https://t.me/xinshijie0000",
+                "start": 65,
+                "url": "https://t.co/q5Z49Vdjxv"
+              }
+            ]
+          }
+        },
+        "id": "1811430427535765504",
+        "location": "🚪8.88开放朋友圈陪闲聊",
+        "name": "美術館館長",
+        "pinned_tweet_id": "2024805135999017151",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033580584837300225/zBVz95fh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 166,
+          "following_count": 210,
+          "like_count": 3690,
+          "listed_count": 1,
+          "media_count": 378,
+          "tweet_count": 1320
+        },
+        "username": "xinshijie_1227",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-28T12:12:45.000Z",
+        "description": "以战为刃，以生为誓\n浴血而战，向死而生\n守护苍生，不负使命\n法友革命，救赎不息\n\nhttps://t.co/RDgN9aswCI",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "fayou.sbs",
+                "end": 64,
+                "expanded_url": "https://fayou.sbs/",
+                "start": 41,
+                "url": "https://t.co/RDgN9aswCI"
+              }
+            ]
+          }
+        },
+        "id": "1916827882183360512",
+        "name": "法友百科",
+        "pinned_tweet_id": "2031165228168393176",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031163298104967168/n2DVSKSO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 128,
+          "following_count": 34,
+          "like_count": 9,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 40
+        },
+        "username": "weizhanershen",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-09T02:51:21.000Z",
+        "description": "简介施工中…好闺蜜：@colleen_ab6642",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 10,
+                "username": "colleen_ab6642"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jennie62981",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jennie62981",
+                "start": 0,
+                "url": "https://t.co/ia6I6dIa70"
+              }
+            ]
+          }
+        },
+        "id": "1965246583379034117",
+        "location": "0.1km",
+        "name": "南瓜",
+        "pinned_tweet_id": "2029078951105314916",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983478533969039360/kPjg1-25_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1113,
+          "following_count": 581,
+          "like_count": 3038,
+          "listed_count": 0,
+          "media_count": 183,
+          "tweet_count": 1679
+        },
+        "url": "https://t.co/ia6I6dIa70",
+        "username": "hyunjennagua",
+        "verified": false
+      }
+    ]
+  }
+}

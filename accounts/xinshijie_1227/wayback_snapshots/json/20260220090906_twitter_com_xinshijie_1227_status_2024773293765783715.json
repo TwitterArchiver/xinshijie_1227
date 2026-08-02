@@ -1,0 +1,390 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1811430427535765504",
+    "conversation_id": "2024180122958647725",
+    "created_at": "2026-02-20T09:09:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-20T10:09:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024773293765783715"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1986837441874173955",
+          "start": 0,
+          "username": "psyunnamed"
+        },
+        {
+          "end": 22,
+          "id": "1641968587102621696",
+          "start": 12,
+          "username": "0voki33Me"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024773293765783715",
+    "in_reply_to_user_id": "1986837441874173955",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024180122958647725",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@psyunnamed @0voki33Me 接接接"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2024180109025169408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBdVFafbUAACoUZ.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1811430427535765504",
+        "conversation_id": "2024180122958647725",
+        "created_at": "2026-02-20T09:09:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-20T10:09:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024773293765783715"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1986837441874173955",
+              "start": 0,
+              "username": "psyunnamed"
+            },
+            {
+              "end": 22,
+              "id": "1641968587102621696",
+              "start": 12,
+              "username": "0voki33Me"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024773293765783715",
+        "in_reply_to_user_id": "1986837441874173955",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024180122958647725",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@psyunnamed @0voki33Me 接接接"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2024180109025169408"
+          ]
+        },
+        "author_id": "1986837441874173955",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for New Years Eve for all years.",
+              "id": "1319305164751163393",
+              "name": "New Years Eve"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for the New Year's day for all years. ",
+              "id": "1457786335108816904",
+              "name": "New Year's day"
+            }
+          },
+          {
+            "domain": {
+              "description": "Holidays like Christmas or Halloween",
+              "id": "119",
+              "name": "Holiday"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for New Years Eve for all years.",
+              "id": "1319305164751163393",
+              "name": "New Years Eve"
+            }
+          },
+          {
+            "domain": {
+              "description": "Holidays like Christmas or Halloween",
+              "id": "119",
+              "name": "Holiday"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for the New Year's day for all years. ",
+              "id": "1457786335108816904",
+              "name": "New Year's day"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Holidays",
+              "id": "847548225712119808",
+              "name": "Holidays"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291095284756357120",
+              "name": "Cultural events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1296381531510849536",
+              "name": "New Years Eve\t"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for the New Year's day for all years. ",
+              "id": "1457786335108816904",
+              "name": "New Year's day"
+            }
+          }
+        ],
+        "conversation_id": "2024180122958647725",
+        "created_at": "2026-02-18T17:52:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T18:52:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024180122958647725"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/S3c0TS9taj",
+              "end": 37,
+              "expanded_url": "https://x.com/psyunnamed/status/2024180122958647725/photo/1",
+              "media_key": "3_2024180109025169408",
+              "start": 14,
+              "url": "https://t.co/S3c0TS9taj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024180122958647725",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2481,
+          "like_count": 52,
+          "quote_count": 0,
+          "reply_count": 12,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "新年红包给你这个好不好呀？ https://t.co/S3c0TS9taj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-11T16:01:12.000Z",
+        "description": "嗑药 | 自残 | 吐黑水 ｜哥特or地雷女| 互联网的隐匿栖身之所｜狗屎馅俄罗斯大列巴@requiem_soulss tg频道：https://t.co/q5Z49Vdjxv（会在频道里发血图和日常照）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 59,
+                "start": 44,
+                "username": "requiem_soulss"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/xinshijie0000",
+                "end": 88,
+                "expanded_url": "https://t.me/xinshijie0000",
+                "start": 65,
+                "url": "https://t.co/q5Z49Vdjxv"
+              }
+            ]
+          }
+        },
+        "id": "1811430427535765504",
+        "location": "🚪8.88开放朋友圈陪闲聊",
+        "name": "美術館館長",
+        "pinned_tweet_id": "1921997129985216603",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009811412412157952/ARAxYDf-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 139,
+          "following_count": 191,
+          "like_count": 3521,
+          "listed_count": 1,
+          "media_count": 358,
+          "tweet_count": 1252
+        },
+        "username": "xinshijie_1227",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-07T16:45:48.000Z",
+        "description": "天生精神病/咨询交流沟通友好/同类每一个都会互Fo/平价色胺供应/不用质疑我是什么小作坊，熟悉的人知道我。并且我自己也要吃。🧪点菜https://t.co/RDcVxOvkGw",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/auaquq",
+                "end": 88,
+                "expanded_url": "https://t.me/auaquq",
+                "start": 65,
+                "url": "https://t.co/RDcVxOvkGw"
+              }
+            ]
+          }
+        },
+        "id": "1986837441874173955",
+        "location": "✉️",
+        "name": "不命名",
+        "pinned_tweet_id": "1994764842704699839",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024024235845582848/DprGFWmo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 214,
+          "following_count": 197,
+          "like_count": 108,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 169
+        },
+        "username": "psyunnamed",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-01T01:00:11.000Z",
+        "description": "=静｜提问箱⬇️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/0voki33me",
+                "end": 23,
+                "expanded_url": "https://ngl.link/0voki33me",
+                "start": 0,
+                "url": "https://t.co/Dhfap4dheT"
+              }
+            ]
+          }
+        },
+        "id": "1641968587102621696",
+        "location": "1m",
+        "name": "4w4y",
+        "pinned_tweet_id": "2024513212876767280",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015651938621116416/tuOlJ8YV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 498,
+          "following_count": 1092,
+          "like_count": 5173,
+          "listed_count": 0,
+          "media_count": 178,
+          "tweet_count": 3617
+        },
+        "url": "https://t.co/Dhfap4dheT",
+        "username": "0voki33Me",
+        "verified": false
+      }
+    ]
+  }
+}

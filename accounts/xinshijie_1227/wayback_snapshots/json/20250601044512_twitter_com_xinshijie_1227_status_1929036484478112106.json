@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1811430427535765504",
+    "conversation_id": "1928721643544678662",
+    "created_at": "2025-06-01T04:45:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-01T05:45:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1929036484478112106"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1859176597686812672",
+          "start": 0,
+          "username": "HollandVault"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1929036484478112106",
+    "in_reply_to_user_id": "1859176597686812672",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1928816014143144097",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HollandVault 对方伪装成诚信卖家，收钱之后就把我拉黑了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1811430427535765504",
+        "conversation_id": "1928721643544678662",
+        "created_at": "2025-06-01T04:45:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-01T05:45:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1929036484478112106"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1859176597686812672",
+              "start": 0,
+              "username": "HollandVault"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1929036484478112106",
+        "in_reply_to_user_id": "1859176597686812672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1928816014143144097",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HollandVault 对方伪装成诚信卖家，收钱之后就把我拉黑了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1859176597686812672",
+        "conversation_id": "1928721643544678662",
+        "created_at": "2025-05-31T14:09:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-31T15:09:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1928816014143144097"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1811430427535765504",
+              "start": 0,
+              "username": "xinshijie_1227"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1928816014143144097",
+        "in_reply_to_user_id": "1811430427535765504",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1928721643544678662",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xinshijie_1227 何が起きましたか？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-11T16:01:12.000Z",
+        "description": "嗑药 | 自残 | 吐黑水 | 自由精神病 『会回fo，对妹子会非常友好』 不卖不约不发本人相关的任何色情内容 | 男友兼仆人@requiem_soulss",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 78,
+                "start": 63,
+                "username": "requiem_soulss"
+              }
+            ]
+          }
+        },
+        "id": "1811430427535765504",
+        "location": "🚪50绿色陪聊男的过门女的免费",
+        "name": "美術館館長",
+        "pinned_tweet_id": "1921997129985216603",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1915520664599224322/2WrUI4Tq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 183,
+          "following_count": 163,
+          "like_count": 3067,
+          "listed_count": 0,
+          "media_count": 239,
+          "tweet_count": 980
+        },
+        "username": "xinshijie_1227",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-20T10:07:23.000Z",
+        "description": "🎨 Digital artist & NFT curator | 🌎 Building the metaverse one pixel at a time | ✨ Join the journey into the future of art and collectibles.",
+        "id": "1859176597686812672",
+        "location": "Los Angeles, CA",
+        "name": "Jerry",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1864700232870592512/qqyJazv7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 52,
+          "following_count": 177,
+          "like_count": 172,
+          "listed_count": 1,
+          "media_count": 0,
+          "tweet_count": 676
+        },
+        "username": "HollandVault",
+        "verified": false
+      }
+    ]
+  }
+}

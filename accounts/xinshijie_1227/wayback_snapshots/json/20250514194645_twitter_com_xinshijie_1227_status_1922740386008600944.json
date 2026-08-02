@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1811430427535765504",
+    "conversation_id": "1922696896818106513",
+    "created_at": "2025-05-14T19:46:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-14T20:46:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1922740386008600944"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1914375374714351616",
+          "start": 0,
+          "username": "orang336699"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1922740386008600944",
+    "in_reply_to_user_id": "1914375374714351616",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1922702981985652899",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@orang336699 绳子断了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1811430427535765504",
+        "conversation_id": "1922696896818106513",
+        "created_at": "2025-05-14T19:46:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-14T20:46:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1922740386008600944"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1914375374714351616",
+              "start": 0,
+              "username": "orang336699"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1922740386008600944",
+        "in_reply_to_user_id": "1914375374714351616",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1922702981985652899",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@orang336699 绳子断了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1914375374714351616",
+        "conversation_id": "1922696896818106513",
+        "created_at": "2025-05-14T17:18:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-14T18:18:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1922702981985652899"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1811430427535765504",
+              "start": 0,
+              "username": "xinshijie_1227"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1922702981985652899",
+        "in_reply_to_user_id": "1811430427535765504",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1922696896818106513",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xinshijie_1227 不要啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-11T16:01:12.000Z",
+        "description": "嗑药 | 自残 | 吐黑水 | 自由精神病 『会回fo，对妹子会非常友好』 不卖不约不发本人相关的任何色情内容",
+        "id": "1811430427535765504",
+        "location": "🚪50绿色陪聊男的过门女的免费",
+        "name": "被老公和小三赶出家门的那个雨夜",
+        "pinned_tweet_id": "1921997129985216603",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1915520664599224322/2WrUI4Tq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 91,
+          "following_count": 159,
+          "like_count": 2992,
+          "listed_count": 1,
+          "media_count": 234,
+          "tweet_count": 930
+        },
+        "username": "xinshijie_1227",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-21T17:47:41.000Z",
+        "description": "orange/ 音游人/大一在上/会发表一些奇怪言论望谅解",
+        "id": "1914375374714351616",
+        "name": "orange",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914375829204951043/oHW5Tz62_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 239,
+          "like_count": 30,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 14
+        },
+        "username": "orang336699",
+        "verified": false
+      }
+    ]
+  }
+}

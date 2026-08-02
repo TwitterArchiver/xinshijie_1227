@@ -1,0 +1,158 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1941756581252636672"
+      ]
+    },
+    "author_id": "1811430427535765504",
+    "conversation_id": "1941756950305185856",
+    "created_at": "2025-07-06T07:11:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-06T08:11:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1941756950305185856"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/5e5sOuifNv",
+          "end": 58,
+          "expanded_url": "https://x.com/xinshijie_1227/status/1941756950305185856/video/1",
+          "media_key": "13_1941756581252636672",
+          "start": 35,
+          "url": "https://t.co/5e5sOuifNv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1941756950305185856",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "吉他张这个山根钉打的像纸人点睛了一样byd感觉今天晚上要来梦里吓我了 https://t.co/5e5sOuifNv"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 36720,
+        "height": 1280,
+        "media_key": "13_1941756581252636672",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1941756581252636672/img/7S5fQn3Vud25lxRj.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1941756581252636672/vid/avc1/320x690/l45p6INhWJz__v71.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1941756581252636672/vid/avc1/480x1036/WkRPWVWU6_5OLYOW.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1941756581252636672/vid/avc1/592x1280/W-oWF6w39WK60rgV.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1941756581252636672/pl/DaVNYYx8JEv_Azpp.m3u8"
+          }
+        ],
+        "width": 592
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1941756581252636672"
+          ]
+        },
+        "author_id": "1811430427535765504",
+        "conversation_id": "1941756950305185856",
+        "created_at": "2025-07-06T07:11:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-06T08:11:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1941756950305185856"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5e5sOuifNv",
+              "end": 58,
+              "expanded_url": "https://x.com/xinshijie_1227/status/1941756950305185856/video/1",
+              "media_key": "13_1941756581252636672",
+              "start": 35,
+              "url": "https://t.co/5e5sOuifNv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1941756950305185856",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "吉他张这个山根钉打的像纸人点睛了一样byd感觉今天晚上要来梦里吓我了 https://t.co/5e5sOuifNv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-11T16:01:12.000Z",
+        "description": "嗑药 | 自残 | 吐黑水 | 互联网的隐匿栖身之所『会回fo，对妹子会非常友好』虐杀动物后续会开新号发，，",
+        "id": "1811430427535765504",
+        "location": "不再收🚪不再加男",
+        "name": "美術館館長",
+        "pinned_tweet_id": "1921997129985216603",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1929041425536266242/Uwpg_cd1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 177,
+          "following_count": 162,
+          "like_count": 3162,
+          "listed_count": 0,
+          "media_count": 270,
+          "tweet_count": 1059
+        },
+        "username": "xinshijie_1227",
+        "verified": false
+      }
+    ]
+  }
+}

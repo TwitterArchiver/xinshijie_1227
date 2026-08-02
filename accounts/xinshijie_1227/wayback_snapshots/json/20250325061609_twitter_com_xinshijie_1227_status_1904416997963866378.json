@@ -1,0 +1,186 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1811430427535765504",
+    "conversation_id": "1904416997963866378",
+    "created_at": "2025-03-25T06:16:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-25T07:16:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1904416997963866378"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1845804987311595520",
+          "start": 3,
+          "username": "kakashiuvu09"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1904416997963866378",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 73
+    },
+    "referenced_tweets": [
+      {
+        "id": "1904085088104858021",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kakashiuvu09: 我的语言能力：\n尴尬：我不行了\n愤怒：我不行了\n无语：我不行了\n害羞：我不行了\n震惊：我不行了\n紧张：我不行了\n难过：我不行了\n害怕：我不行了\n喜欢：我不行了  \n开心：笑死我了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1811430427535765504",
+        "conversation_id": "1904416997963866378",
+        "created_at": "2025-03-25T06:16:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-25T07:16:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1904416997963866378"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1845804987311595520",
+              "start": 3,
+              "username": "kakashiuvu09"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1904416997963866378",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 73
+        },
+        "referenced_tweets": [
+          {
+            "id": "1904085088104858021",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kakashiuvu09: 我的语言能力：\n尴尬：我不行了\n愤怒：我不行了\n无语：我不行了\n害羞：我不行了\n震惊：我不行了\n紧张：我不行了\n难过：我不行了\n害怕：我不行了\n喜欢：我不行了  \n开心：笑死我了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1845804987311595520",
+        "conversation_id": "1904085088104858021",
+        "created_at": "2025-03-24T08:17:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-24T09:17:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1904085088104858021"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1904085088104858021",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 14,
+          "impression_count": 28896,
+          "like_count": 674,
+          "quote_count": 6,
+          "reply_count": 41,
+          "retweet_count": 73
+        },
+        "reply_settings": "everyone",
+        "text": "我的语言能力：\n尴尬：我不行了\n愤怒：我不行了\n无语：我不行了\n害羞：我不行了\n震惊：我不行了\n紧张：我不行了\n难过：我不行了\n害怕：我不行了\n喜欢：我不行了  \n开心：笑死我了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-11T16:01:12.000Z",
+        "description": "嗑药 | 自残 | 吐黑水 | 自由精神病 \n 『会回fo，对妹子会非常友好』:3\n我的男仆@requiem_soulss",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 46,
+                "username": "requiem_soulss"
+              }
+            ]
+          }
+        },
+        "id": "1811430427535765504",
+        "location": "🚪50绿色陪聊男的过门女的免费",
+        "name": "美術館館長",
+        "pinned_tweet_id": "1901626066441019862",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1884080533770231811/F8kuy6DT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 65,
+          "following_count": 133,
+          "like_count": 2598,
+          "listed_count": 1,
+          "media_count": 134,
+          "tweet_count": 632
+        },
+        "username": "xinshijie_1227",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-14T12:33:12.000Z",
+        "description": "",
+        "id": "1845804987311595520",
+        "name": "潮嘲熊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1894757665290784769/7c3zrYyF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23427,
+          "following_count": 103,
+          "like_count": 620,
+          "listed_count": 49,
+          "media_count": 58,
+          "tweet_count": 510
+        },
+        "username": "kakashiuvu09",
+        "verified": false
+      }
+    ]
+  }
+}

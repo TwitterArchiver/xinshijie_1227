@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1811430427535765504",
+    "conversation_id": "1900490553823039542",
+    "created_at": "2025-03-15T01:02:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-15T02:02:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1900714258356466114"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1797727504540807168",
+          "start": 0,
+          "username": "od_angelkaii_od"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1900714258356466114",
+    "in_reply_to_user_id": "1797727504540807168",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1900490553823039542",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@od_angelkaii_od 新神"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_1900490541168529409",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gl_mE_VXEAEPDFy.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1811430427535765504",
+        "conversation_id": "1900490553823039542",
+        "created_at": "2025-03-15T01:02:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-15T02:02:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1900714258356466114"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1797727504540807168",
+              "start": 0,
+              "username": "od_angelkaii_od"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1900714258356466114",
+        "in_reply_to_user_id": "1797727504540807168",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1900490553823039542",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@od_angelkaii_od 新神"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1900490541168529409"
+          ]
+        },
+        "author_id": "1797727504540807168",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1900490553823039542",
+        "created_at": "2025-03-14T10:13:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-14T11:13:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1900490553823039542"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tpp4oaG9Ky",
+              "end": 39,
+              "expanded_url": "https://x.com/od_angelkaii_od/status/1900490553823039542/photo/1",
+              "media_key": "3_1900490541168529409",
+              "start": 16,
+              "url": "https://t.co/tpp4oaG9Ky"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1900490553823039542",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3388,
+          "like_count": 52,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我不娼 我不狂 我就想当普瑞王 https://t.co/tpp4oaG9Ky"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-11T16:01:12.000Z",
+        "description": "嗑药 | 自残 | 吐黑水 | 自由精神病 \n 『会回fo，对妹子会非常友好』:3\n我的男仆@requiem_soulss",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 46,
+                "username": "requiem_soulss"
+              }
+            ]
+          }
+        },
+        "id": "1811430427535765504",
+        "location": "🚪50绿色陪聊男的过门女的免费",
+        "name": "美術館館長",
+        "pinned_tweet_id": "1886044580723949727",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1884080533770231811/F8kuy6DT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 55,
+          "following_count": 138,
+          "like_count": 2311,
+          "listed_count": 0,
+          "media_count": 115,
+          "tweet_count": 506
+        },
+        "username": "xinshijie_1227",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-03T20:30:21.000Z",
+        "description": "古希腊掌管od的神\n本账号为多人账号\n有事说事，没事别私聊，不然似全家",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "overdose.day",
+                "end": 23,
+                "expanded_url": "https://www.overdose.day/",
+                "start": 0,
+                "url": "https://t.co/ZzzwvEW8Sn"
+              }
+            ]
+          }
+        },
+        "id": "1797727504540807168",
+        "name": "overdose百科",
+        "pinned_tweet_id": "1899047988791804103",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1889532170391396352/BjXFZMK5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5089,
+          "following_count": 4287,
+          "like_count": 2756,
+          "listed_count": 4,
+          "media_count": 229,
+          "tweet_count": 2895
+        },
+        "url": "https://t.co/ZzzwvEW8Sn",
+        "username": "od_angelkaii_od",
+        "verified": false
+      }
+    ]
+  }
+}

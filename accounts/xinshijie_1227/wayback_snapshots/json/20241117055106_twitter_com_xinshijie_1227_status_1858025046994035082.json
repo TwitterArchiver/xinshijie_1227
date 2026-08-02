@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1811430427535765504",
+    "conversation_id": "1857630134947500263",
+    "created_at": "2024-11-17T05:51:06.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-17T06:51:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1858025046994035082"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "902877284918468608",
+          "start": 0,
+          "username": "RkMonoChrome_CN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1858025046994035082",
+    "in_reply_to_user_id": "902877284918468608",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1857630134947500263",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RkMonoChrome_CN 有寄吧毛用，两边都抵制不了到最后跟没抵制一样"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1811430427535765504",
+        "conversation_id": "1857630134947500263",
+        "created_at": "2024-11-17T05:51:06.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-17T06:51:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1858025046994035082"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "902877284918468608",
+              "start": 0,
+              "username": "RkMonoChrome_CN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1858025046994035082",
+        "in_reply_to_user_id": "902877284918468608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1857630134947500263",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RkMonoChrome_CN 有寄吧毛用，两边都抵制不了到最后跟没抵制一样"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "902877284918468608",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+              "id": "1557697289971322880",
+              "name": "Sports & Fitness Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Exercise and fitness",
+              "id": "847872878041219072",
+              "name": "Fitness"
+            }
+          },
+          {
+            "domain": {
+              "description": "for types of exercises& fitness and moves, e.g., yoga, crunches, squats ",
+              "id": "162",
+              "name": "Exercise & fitness"
+            },
+            "entity": {
+              "description": "Exercises",
+              "id": "872554146750017536",
+              "name": "Exercises"
+            }
+          }
+        ],
+        "conversation_id": "1857630134947500263",
+        "created_at": "2024-11-16T03:41:51.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-16T04:41:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1857630134947500263"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/uryuhirano/sta…",
+              "end": 54,
+              "expanded_url": "https://twitter.com/uryuhirano/status/1857027094351425805",
+              "start": 31,
+              "url": "https://t.co/RxbS6X3wSL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1857630134947500263",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 15002,
+          "like_count": 226,
+          "quote_count": 2,
+          "reply_count": 32,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "1857027094351425805",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "十几年前是中国人抵制日货，现在轮到日本人抵制国货了，令人感叹 https://t.co/RxbS6X3wSL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-11T16:01:12.000Z",
+        "description": "你妈的，怎么这样啊",
+        "id": "1811430427535765504",
+        "name": "劳工儿子在天堂",
+        "pinned_tweet_id": "1857507046654095687",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1852369059402444800/4MzSILkf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32,
+          "following_count": 91,
+          "like_count": 738,
+          "listed_count": 0,
+          "tweet_count": 65
+        },
+        "username": "xinshijie_1227",
+        "verified": false
+      },
+      {
+        "created_at": "2017-08-30T12:54:54.000Z",
+        "description": "日本語中国語両方支離滅裂ゴミ人間ド金欠人生失敗中国人限界御宅｜V老人｜ゲーム・アニメとか趣味色々｜1落ちカウンター 374\n𝕏⃠ \n※スパム・エロ垢・投資垢・インプレゾンビなどは一切お断り致します\n中文/English/日本語/한국어（조금밖에 할줄 모름）OK",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/rkmonochrome_c…",
+                "end": 23,
+                "expanded_url": "https://marshmallow-qa.com/rkmonochrome_cn?utm_medium=twitter&utm_source=promotion",
+                "start": 0,
+                "url": "https://t.co/FHKhXzzmes"
+              }
+            ]
+          }
+        },
+        "id": "902877284918468608",
+        "location": "現実世界・中国⇆ストリートのセカイ",
+        "name": "𝓜𝓸𝓷𝓸𝓒𝓱𝓻𝓸𝓶𝓮.(モノクロ) (𝓡𝓮:仮)",
+        "pinned_tweet_id": "1796940850121019472",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1821860495441457153/XpdeVbmw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3662,
+          "following_count": 4919,
+          "like_count": 418295,
+          "listed_count": 15,
+          "tweet_count": 59439
+        },
+        "url": "https://t.co/FHKhXzzmes",
+        "username": "RkMonoChrome_CN",
+        "verified": false
+      }
+    ]
+  }
+}

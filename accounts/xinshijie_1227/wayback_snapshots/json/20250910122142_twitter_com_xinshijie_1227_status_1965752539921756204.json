@@ -1,0 +1,146 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1965752524184616960",
+        "3_1965752524209803264"
+      ]
+    },
+    "author_id": "1811430427535765504",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1965752539921756204",
+    "created_at": "2025-09-10T12:21:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-10T13:21:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1965752539921756204"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/3WUMUEyNu2",
+          "end": 30,
+          "expanded_url": "https://x.com/xinshijie_1227/status/1965752539921756204/photo/1",
+          "media_key": "3_1965752524184616960",
+          "start": 7,
+          "url": "https://t.co/3WUMUEyNu2"
+        },
+        {
+          "display_url": "pic.x.com/3WUMUEyNu2",
+          "end": 30,
+          "expanded_url": "https://x.com/xinshijie_1227/status/1965752539921756204/photo/1",
+          "media_key": "3_1965752524209803264",
+          "start": 7,
+          "url": "https://t.co/3WUMUEyNu2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1965752539921756204",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我恨死你们了 https://t.co/3WUMUEyNu2"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1965752539921756204].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1965752539921756204",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1965752539921756204"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_1965752524184616960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0fBgXhaAAAEHih.jpg",
+        "width": 768
+      },
+      {
+        "height": 1024,
+        "media_key": "3_1965752524209803264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0fBgXnaUAAmXpN.jpg",
+        "width": 768
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-11T16:01:12.000Z",
+        "description": "嗑药 | 自残 | 吐黑水 | 互联网的隐匿栖身之所『会回fo，对妹子会非常友好』哥特or地雷女｜狗屎馅俄罗斯大列巴@requiem_soulss ＞tg频道：https://t.co/5l18LxeR2N",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 73,
+                "start": 58,
+                "username": "requiem_soulss"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/+UUDcCzqoM_thM…",
+                "end": 103,
+                "expanded_url": "https://t.me/+UUDcCzqoM_thMjVl",
+                "start": 80,
+                "url": "https://t.co/5l18LxeR2N"
+              }
+            ]
+          }
+        },
+        "id": "1811430427535765504",
+        "location": "不再收🚪不再加男",
+        "name": "美術館館長",
+        "pinned_tweet_id": "1921997129985216603",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965752156843339776/TqgEmCk0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 126,
+          "following_count": 162,
+          "like_count": 3135,
+          "listed_count": 1,
+          "media_count": 296,
+          "tweet_count": 1109
+        },
+        "username": "xinshijie_1227",
+        "verified": false
+      }
+    ]
+  }
+}

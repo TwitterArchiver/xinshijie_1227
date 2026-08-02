@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1811430427535765504",
+    "conversation_id": "1912603688444526767",
+    "created_at": "2025-04-17T04:33:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-17T05:33:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1912726125996024147"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1833695427251888128",
+          "start": 0,
+          "username": "mizuna494"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1912726125996024147",
+    "in_reply_to_user_id": "1833695427251888128",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1912681843192991956",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mizuna494 轻易不要尝试大剂量普瑞巴林真的会呼吸困难"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1811430427535765504",
+        "conversation_id": "1912603688444526767",
+        "created_at": "2025-04-17T04:33:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-17T05:33:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1912726125996024147"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1833695427251888128",
+              "start": 0,
+              "username": "mizuna494"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1912726125996024147",
+        "in_reply_to_user_id": "1833695427251888128",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1912681843192991956",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mizuna494 轻易不要尝试大剂量普瑞巴林真的会呼吸困难"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1833695427251888128",
+        "conversation_id": "1912603688444526767",
+        "created_at": "2025-04-17T01:37:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-17T02:37:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1912681843192991956"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1811430427535765504",
+              "start": 0,
+              "username": "xinshijie_1227"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1912681843192991956",
+        "in_reply_to_user_id": "1811430427535765504",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1912603688444526767",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xinshijie_1227 注意安全！🥺"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-11T16:01:12.000Z",
+        "description": "嗑药 | 自残 | 吐黑水 | 自由精神病 『会回fo，对妹子会非常友好』:3 我的俄罗斯男仆@requiem_soulss",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 62,
+                "start": 47,
+                "username": "requiem_soulss"
+              }
+            ]
+          }
+        },
+        "id": "1811430427535765504",
+        "location": "🚪50绿色陪聊男的过门女的免费",
+        "name": "美術館館長",
+        "pinned_tweet_id": "1901626066441019862",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912603105671192576/6oBBqr6j_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 78,
+          "following_count": 142,
+          "like_count": 2864,
+          "listed_count": 1,
+          "media_count": 191,
+          "tweet_count": 799
+        },
+        "username": "xinshijie_1227",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-11T02:34:21.000Z",
+        "description": "しにたい",
+        "id": "1833695427251888128",
+        "name": "444",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1911485117559685121/r1OchdWu_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 21,
+          "like_count": 457,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 189
+        },
+        "username": "mizuna494",
+        "verified": false
+      }
+    ]
+  }
+}

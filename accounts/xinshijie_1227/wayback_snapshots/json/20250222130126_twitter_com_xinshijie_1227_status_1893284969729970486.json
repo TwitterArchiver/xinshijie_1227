@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1811430427535765504",
+    "conversation_id": "1893015621769499111",
+    "created_at": "2025-02-22T13:01:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-22T14:01:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1893284969729970486"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1748650502806716416",
+          "start": 0,
+          "username": "w9195428323378"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1893284969729970486",
+    "in_reply_to_user_id": "1748650502806716416",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1893015621769499111",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@w9195428323378 还有之前吃右美，吃完头皮特别痒，我还以为是我没洗头的原因。。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1893015608356167680",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GkVXqopW4AAM_DZ.jpg",
+        "width": 1120
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1811430427535765504",
+        "conversation_id": "1893015621769499111",
+        "created_at": "2025-02-22T13:01:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-22T14:01:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1893284969729970486"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1748650502806716416",
+              "start": 0,
+              "username": "w9195428323378"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1893284969729970486",
+        "in_reply_to_user_id": "1748650502806716416",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1893015621769499111",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@w9195428323378 还有之前吃右美，吃完头皮特别痒，我还以为是我没洗头的原因。。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1893015608356167680"
+          ]
+        },
+        "author_id": "1748650502806716416",
+        "conversation_id": "1893015621769499111",
+        "created_at": "2025-02-21T19:11:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-21T20:11:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1893015621769499111"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ytTmah5NRl",
+              "end": 38,
+              "expanded_url": "https://x.com/w9195428323378/status/1893015621769499111/photo/1",
+              "media_key": "3_1893015608356167680",
+              "start": 15,
+              "url": "https://t.co/ytTmah5NRl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1893015621769499111",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1205,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "晚安和愚昧搞得我长了好多红点 https://t.co/ytTmah5NRl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-11T16:01:12.000Z",
+        "description": "od | 自残 | 吐黑水 \n屎尿屁大王 bi 对妹子会非常友好^_^   会回fo",
+        "id": "1811430427535765504",
+        "location": "🚪50绿色陪聊男的过门女的免费",
+        "name": "美術館館長",
+        "pinned_tweet_id": "1886044580723949727",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1884080533770231811/F8kuy6DT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 49,
+          "following_count": 126,
+          "like_count": 1870,
+          "listed_count": 0,
+          "media_count": 103,
+          "tweet_count": 415
+        },
+        "username": "xinshijie_1227",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-20T10:15:54.000Z",
+        "description": "爱我请打钱Z☡zᶻ",
+        "id": "1748650502806716416",
+        "location": "₊⁺ ꒰১ ♡ ໒꒱ ⁺₊",
+        "name": "T^T",
+        "pinned_tweet_id": "1885056624366412016",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1890185734947999744/zLNcGnKQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 592,
+          "following_count": 177,
+          "like_count": 4715,
+          "listed_count": 1,
+          "media_count": 307,
+          "tweet_count": 2360
+        },
+        "username": "w9195428323378",
+        "verified": false
+      }
+    ]
+  }
+}

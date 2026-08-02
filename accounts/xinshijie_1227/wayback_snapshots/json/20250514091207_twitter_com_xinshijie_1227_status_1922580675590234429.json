@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "16_1919070175187390466"
+      ],
+      "media_source_tweet_id": [
+        "1919070196997714368"
+      ]
+    },
+    "author_id": "1811430427535765504",
+    "conversation_id": "1922580675590234429",
+    "created_at": "2025-05-14T09:12:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-14T10:12:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1922580675590234429"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1749264825379700737",
+          "start": 3,
+          "username": "rndosru"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/8OjLNbZk2n",
+          "end": 36,
+          "expanded_url": "https://x.com/rndosru/status/1919070196997714368/photo/1",
+          "media_key": "16_1919070175187390466",
+          "start": 13,
+          "url": "https://t.co/8OjLNbZk2n"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1922580675590234429",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 135
+    },
+    "referenced_tweets": [
+      {
+        "id": "1919070196997714368",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @rndosru: https://t.co/8OjLNbZk2n"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 250,
+        "media_key": "16_1919070175187390466",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/GqHoKBsXUAIT1R6.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/GqHoKBsXUAIT1R6.mp4"
+          }
+        ],
+        "width": 500
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_1919070175187390466"
+          ],
+          "media_source_tweet_id": [
+            "1919070196997714368"
+          ]
+        },
+        "author_id": "1811430427535765504",
+        "conversation_id": "1922580675590234429",
+        "created_at": "2025-05-14T09:12:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-14T10:12:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1922580675590234429"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1749264825379700737",
+              "start": 3,
+              "username": "rndosru"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/8OjLNbZk2n",
+              "end": 36,
+              "expanded_url": "https://x.com/rndosru/status/1919070196997714368/photo/1",
+              "media_key": "16_1919070175187390466",
+              "start": 13,
+              "url": "https://t.co/8OjLNbZk2n"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1922580675590234429",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 135
+        },
+        "referenced_tweets": [
+          {
+            "id": "1919070196997714368",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @rndosru: https://t.co/8OjLNbZk2n"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_1919070175187390466"
+          ]
+        },
+        "author_id": "1749264825379700737",
+        "conversation_id": "1919070196997714368",
+        "created_at": "2025-05-04T16:42:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-04T17:42:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1919070196997714368"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8OjLNbZk2n",
+              "end": 23,
+              "expanded_url": "https://x.com/rndosru/status/1919070196997714368/photo/1",
+              "media_key": "16_1919070175187390466",
+              "start": 0,
+              "url": "https://t.co/8OjLNbZk2n"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1919070196997714368",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 39,
+          "impression_count": 14249,
+          "like_count": 499,
+          "quote_count": 8,
+          "reply_count": 3,
+          "retweet_count": 135
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/8OjLNbZk2n"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-11T16:01:12.000Z",
+        "description": "嗑药 | 自残 | 吐黑水 | 自由精神病 『会回fo，对妹子会非常友好』:3 我的俄罗斯男仆@requiem_soulss",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 62,
+                "start": 47,
+                "username": "requiem_soulss"
+              }
+            ]
+          }
+        },
+        "id": "1811430427535765504",
+        "location": "🚪50绿色陪聊男的过门女的免费",
+        "name": "美術館館長",
+        "pinned_tweet_id": "1921997129985216603",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1915520664599224322/2WrUI4Tq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 91,
+          "following_count": 159,
+          "like_count": 2983,
+          "listed_count": 1,
+          "media_count": 231,
+          "tweet_count": 919
+        },
+        "username": "xinshijie_1227",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-22T02:56:58.000Z",
+        "description": "anime archives ♡♡ sixteen",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "guns.lol/rndosru",
+                "end": 23,
+                "expanded_url": "http://guns.lol/rndosru",
+                "start": 0,
+                "url": "https://t.co/SkELmueTbE"
+              }
+            ]
+          }
+        },
+        "id": "1749264825379700737",
+        "location": " joey ૮ •͈  ༝  •͈ ა  ",
+        "name": "seru",
+        "pinned_tweet_id": "1921916370632999341",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1919768392182935552/NgDfHHSa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36186,
+          "following_count": 434,
+          "like_count": 46864,
+          "listed_count": 72,
+          "media_count": 1235,
+          "tweet_count": 4885
+        },
+        "url": "https://t.co/SkELmueTbE",
+        "username": "rndosru",
+        "verified": false
+      }
+    ]
+  }
+}

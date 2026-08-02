@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1941355974813487104"
+      ]
+    },
+    "author_id": "1811430427535765504",
+    "conversation_id": "1941355983651119546",
+    "created_at": "2025-07-05T04:38:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-05T05:38:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1941355983651119546"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/HBrp2ho0zm",
+          "end": 30,
+          "expanded_url": "https://x.com/xinshijie_1227/status/1941355983651119546/photo/1",
+          "media_key": "3_1941355974813487104",
+          "start": 7,
+          "url": "https://t.co/HBrp2ho0zm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1941355983651119546",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "你们谁给我买 https://t.co/HBrp2ho0zm"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 480,
+        "media_key": "3_1941355974813487104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvEU-S1XEAAo22r.jpg",
+        "width": 480
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1941355974813487104"
+          ]
+        },
+        "author_id": "1811430427535765504",
+        "conversation_id": "1941355983651119546",
+        "created_at": "2025-07-05T04:38:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-05T05:38:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1941355983651119546"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HBrp2ho0zm",
+              "end": 30,
+              "expanded_url": "https://x.com/xinshijie_1227/status/1941355983651119546/photo/1",
+              "media_key": "3_1941355974813487104",
+              "start": 7,
+              "url": "https://t.co/HBrp2ho0zm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1941355983651119546",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你们谁给我买 https://t.co/HBrp2ho0zm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-11T16:01:12.000Z",
+        "description": "嗑药 | 自残 | 吐黑水 | 互联网的隐匿栖身之所『会回fo，对妹子会非常友好』",
+        "id": "1811430427535765504",
+        "location": "不再收🚪只加妹子",
+        "name": "美術館館長",
+        "pinned_tweet_id": "1921997129985216603",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1929041425536266242/Uwpg_cd1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 179,
+          "following_count": 163,
+          "like_count": 3103,
+          "listed_count": 0,
+          "media_count": 262,
+          "tweet_count": 1040
+        },
+        "username": "xinshijie_1227",
+        "verified": false
+      }
+    ]
+  }
+}

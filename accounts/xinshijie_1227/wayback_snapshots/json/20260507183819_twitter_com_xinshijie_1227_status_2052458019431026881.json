@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1811430427535765504",
+    "conversation_id": "2052458019431026881",
+    "created_at": "2026-05-07T18:38:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-07T19:38:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052458019431026881"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1448206950903255040",
+          "start": 3,
+          "username": "_Shikieiki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052458019431026881",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 25
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050967377928659045",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @_Shikieiki: 我是不理解ODer们滥用普瑞巴林和右美沙芬妨碍到谁的利益了? 也没有危害/影响到他人的人身安全和利益阿..\n非要无脑全禁止，实际上真的有效吗...?\n一刀切之后反而会出现杂七杂八的真实性不明的药商，要么是骗子，要么是卖着未知成分的物质。\n还不如放…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1811430427535765504",
+        "conversation_id": "2052458019431026881",
+        "created_at": "2026-05-07T18:38:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T19:38:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052458019431026881"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1448206950903255040",
+              "start": 3,
+              "username": "_Shikieiki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052458019431026881",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 25
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050967377928659045",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @_Shikieiki: 我是不理解ODer们滥用普瑞巴林和右美沙芬妨碍到谁的利益了? 也没有危害/影响到他人的人身安全和利益阿..\n非要无脑全禁止，实际上真的有效吗...?\n一刀切之后反而会出现杂七杂八的真实性不明的药商，要么是骗子，要么是卖着未知成分的物质。\n还不如放…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1448206950903255040",
+        "conversation_id": "2050967377928659045",
+        "created_at": "2026-05-03T15:55:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-03T16:55:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050967377928659045"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2050967377928659045",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 13925,
+          "like_count": 203,
+          "quote_count": 4,
+          "reply_count": 13,
+          "retweet_count": 25
+        },
+        "reply_settings": "everyone",
+        "text": "我是不理解ODer们滥用普瑞巴林和右美沙芬妨碍到谁的利益了? 也没有危害/影响到他人的人身安全和利益阿..\n非要无脑全禁止，实际上真的有效吗...?\n一刀切之后反而会出现杂七杂八的真实性不明的药商，要么是骗子，要么是卖着未知成分的物质。\n还不如放开网上买普瑞/右美呢，至少是经过检验的安全物质..."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-11T16:01:12.000Z",
+        "description": "嗑药 | 自残 | 负能量 | 御宅族| 互联网的隐匿栖身之所 | 傻逼俄罗斯男友@requiem_soulss | tg频道：https://t.co/q5Z49VdRn3（会在频道里发血图和日常照）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 41,
+                "username": "requiem_soulss"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/xinshijie0000",
+                "end": 87,
+                "expanded_url": "https://t.me/xinshijie0000",
+                "start": 64,
+                "url": "https://t.co/q5Z49VdRn3"
+              }
+            ]
+          }
+        },
+        "id": "1811430427535765504",
+        "location": "🚪8.88开放朋友圈陪闲聊",
+        "name": "美術館館長",
+        "pinned_tweet_id": "2035900548063568228",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037145672412258304/HWwdgB_x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 171,
+          "following_count": 211,
+          "like_count": 3856,
+          "listed_count": 1,
+          "media_count": 409,
+          "tweet_count": 1393
+        },
+        "username": "xinshijie_1227",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-13T08:40:27.000Z",
+        "description": "因为魔法少女 就是能实现希望与梦想的",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "freeodwiki.org",
+                "end": 23,
+                "expanded_url": "http://freeodwiki.org",
+                "start": 0,
+                "url": "https://t.co/nDAVDyiKMs"
+              }
+            ]
+          }
+        },
+        "id": "1448206950903255040",
+        "location": "解离之家(内含DXM，美金刚，MK801，请自取)暂关提问",
+        "name": "Shikieiki Yamaxanadu",
+        "pinned_tweet_id": "2051617505437950457",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1449781801912840192/JG7qKb04_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 913,
+          "following_count": 916,
+          "like_count": 27986,
+          "listed_count": 1,
+          "media_count": 482,
+          "tweet_count": 3977
+        },
+        "url": "https://t.co/nDAVDyiKMs",
+        "username": "_Shikieiki",
+        "verified": false
+      }
+    ]
+  }
+}

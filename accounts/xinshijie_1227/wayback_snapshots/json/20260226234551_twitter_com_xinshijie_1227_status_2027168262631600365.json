@@ -1,0 +1,198 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1811430427535765504",
+    "conversation_id": "2026936604930224627",
+    "created_at": "2026-02-26T23:45:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-27T00:45:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027168262631600365"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1702221879434436608",
+          "start": 0,
+          "username": "8964zhajipai"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027168262631600365",
+    "in_reply_to_user_id": "1702221879434436608",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026936604930224627",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@8964zhajipai 万宝路黑色爆珠"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1811430427535765504",
+        "conversation_id": "2026936604930224627",
+        "created_at": "2026-02-26T23:45:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T00:45:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027168262631600365"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1702221879434436608",
+              "start": 0,
+              "username": "8964zhajipai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027168262631600365",
+        "in_reply_to_user_id": "1702221879434436608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026936604930224627",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@8964zhajipai 万宝路黑色爆珠"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1702221879434436608",
+        "conversation_id": "2026936604930224627",
+        "created_at": "2026-02-26T08:25:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-26T09:25:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026936604930224627"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2026936604930224627",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 3526,
+          "like_count": 34,
+          "quote_count": 0,
+          "reply_count": 28,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有没有烟推荐呀我没抽过"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-11T16:01:12.000Z",
+        "description": "嗑药 | 自残 | 吐黑水 ｜哥特or地雷女| 互联网的隐匿栖身之所｜狗屎馅俄罗斯大列巴@requiem_soulss tg频道：https://t.co/q5Z49Vdjxv（会在频道里发血图和日常照）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 59,
+                "start": 44,
+                "username": "requiem_soulss"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/xinshijie0000",
+                "end": 88,
+                "expanded_url": "https://t.me/xinshijie0000",
+                "start": 65,
+                "url": "https://t.co/q5Z49Vdjxv"
+              }
+            ]
+          }
+        },
+        "id": "1811430427535765504",
+        "location": "🚪8.88开放朋友圈陪闲聊",
+        "name": "美術館館長",
+        "pinned_tweet_id": "2024805135999017151",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009811412412157952/ARAxYDf-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 154,
+          "following_count": 204,
+          "like_count": 3670,
+          "listed_count": 1,
+          "media_count": 365,
+          "tweet_count": 1286
+        },
+        "username": "xinshijie_1227",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-14T07:25:04.000Z",
+        "description": "=小鸠/鸡排                                                             集日记朋友圈碎碎念垃圾桶裸照自残嗑药一体的神秘账号 || 互fo大欢迎=ω=                     我是钱性恋🚪188/288/520/1314",
+        "id": "1702221879434436608",
+        "name": "像素",
+        "pinned_tweet_id": "1952940934687277414",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1860587158731653120/sZ21AxRo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1516,
+          "following_count": 80,
+          "like_count": 275,
+          "listed_count": 4,
+          "media_count": 50,
+          "tweet_count": 427
+        },
+        "username": "8964zhajipai",
+        "verified": false
+      }
+    ]
+  }
+}

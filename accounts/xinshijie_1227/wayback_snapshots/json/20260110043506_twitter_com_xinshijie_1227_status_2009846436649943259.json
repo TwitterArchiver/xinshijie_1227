@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1811430427535765504",
+    "conversation_id": "2009633472793739565",
+    "created_at": "2026-01-10T04:35:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-10T05:35:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2009846436649943259"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "791973010978648064",
+          "start": 0,
+          "username": "jiaomei789"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2009846436649943259",
+    "in_reply_to_user_id": "791973010978648064",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2009633472793739565",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jiaomei789 求一下"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 292,
+        "media_key": "3_2009633466451886080",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-Om_YCaAAAkh5v.jpg",
+        "width": 312
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1811430427535765504",
+        "conversation_id": "2009633472793739565",
+        "created_at": "2026-01-10T04:35:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-10T05:35:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2009846436649943259"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "791973010978648064",
+              "start": 0,
+              "username": "jiaomei789"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009846436649943259",
+        "in_reply_to_user_id": "791973010978648064",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2009633472793739565",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jiaomei789 求一下"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2009633466451886080"
+          ]
+        },
+        "author_id": "791973010978648064",
+        "conversation_id": "2009633472793739565",
+        "created_at": "2026-01-09T14:28:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-09T15:28:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2009633472793739565"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HApdbgW2uG",
+              "end": 46,
+              "expanded_url": "https://x.com/jiaomei789/status/2009633472793739565/photo/1",
+              "media_key": "3_2009633466451886080",
+              "start": 23,
+              "url": "https://t.co/HApdbgW2uG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009633472793739565",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 60,
+          "impression_count": 548517,
+          "like_count": 1088,
+          "quote_count": 0,
+          "reply_count": 1254,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "精神小伙小妹的瓜\n\n赶紧看、我要删了.... https://t.co/HApdbgW2uG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-11T16:01:12.000Z",
+        "description": "嗑药 | 自残 | 吐黑水 | 互联网的隐匿栖身之所｜哥特or地雷女｜狗屎馅俄罗斯大列巴@requiem_soulss            tg频道：https://t.co/q5Z49Vdjxv（会在频道里发血图和日常照）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 59,
+                "start": 44,
+                "username": "requiem_soulss"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/xinshijie0000",
+                "end": 99,
+                "expanded_url": "https://t.me/xinshijie0000",
+                "start": 76,
+                "url": "https://t.co/q5Z49Vdjxv"
+              }
+            ]
+          }
+        },
+        "id": "1811430427535765504",
+        "location": "不再收🚪不再加男",
+        "name": "美術館館長",
+        "pinned_tweet_id": "1921997129985216603",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009811412412157952/ARAxYDf-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 134,
+          "following_count": 186,
+          "like_count": 3249,
+          "listed_count": 1,
+          "media_count": 342,
+          "tweet_count": 1208
+        },
+        "username": "xinshijie_1227",
+        "verified": false
+      },
+      {
+        "created_at": "2016-10-28T12:00:54.000Z",
+        "description": "大三在读生来推分享日常 关注的优先回复哦",
+        "id": "791973010978648064",
+        "location": "1.6km",
+        "name": "高中曼",
+        "pinned_tweet_id": "2009633472793739565",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006347246674366464/mdJ4htPx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 717,
+          "following_count": 0,
+          "like_count": 306,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 27
+        },
+        "username": "jiaomei789",
+        "verified": false
+      }
+    ]
+  }
+}

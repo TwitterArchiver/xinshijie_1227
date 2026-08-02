@@ -1,0 +1,199 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1920845081998692353",
+        "3_1920845082023874560"
+      ]
+    },
+    "author_id": "1811430427535765504",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1920845109840458135",
+    "created_at": "2025-05-09T14:15:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-09T15:15:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1920845109840458135"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/JA4nVJo29B",
+          "end": 58,
+          "expanded_url": "https://x.com/xinshijie_1227/status/1920845109840458135/photo/1",
+          "media_key": "3_1920845081998692353",
+          "start": 35,
+          "url": "https://t.co/JA4nVJo29B"
+        },
+        {
+          "display_url": "pic.x.com/JA4nVJo29B",
+          "end": 58,
+          "expanded_url": "https://x.com/xinshijie_1227/status/1920845109840458135/photo/1",
+          "media_key": "3_1920845082023874560",
+          "start": 35,
+          "url": "https://t.co/JA4nVJo29B"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1920845109840458135",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "出售普瑞巴林盒子，还有10盒在路上，一共40多盒，可以买来装逼，谁要 https://t.co/JA4nVJo29B"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1920845081998692353",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gqg2bM0WkAECGAq.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1920845082023874560",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gqg2bM6W0AALFJE.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1920845081998692353",
+            "3_1920845082023874560"
+          ]
+        },
+        "author_id": "1811430427535765504",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1920845109840458135",
+        "created_at": "2025-05-09T14:15:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-09T15:15:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1920845109840458135"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JA4nVJo29B",
+              "end": 58,
+              "expanded_url": "https://x.com/xinshijie_1227/status/1920845109840458135/photo/1",
+              "media_key": "3_1920845081998692353",
+              "start": 35,
+              "url": "https://t.co/JA4nVJo29B"
+            },
+            {
+              "display_url": "pic.x.com/JA4nVJo29B",
+              "end": 58,
+              "expanded_url": "https://x.com/xinshijie_1227/status/1920845109840458135/photo/1",
+              "media_key": "3_1920845082023874560",
+              "start": 35,
+              "url": "https://t.co/JA4nVJo29B"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1920845109840458135",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "出售普瑞巴林盒子，还有10盒在路上，一共40多盒，可以买来装逼，谁要 https://t.co/JA4nVJo29B"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-11T16:01:12.000Z",
+        "description": "嗑药 | 自残 | 吐黑水 | 自由精神病 『会回fo，对妹子会非常友好』:3 我的俄罗斯男仆@requiem_soulss",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 62,
+                "start": 47,
+                "username": "requiem_soulss"
+              }
+            ]
+          }
+        },
+        "id": "1811430427535765504",
+        "location": "🚪50绿色陪聊男的过门女的免费",
+        "name": "美術館館長",
+        "pinned_tweet_id": "1919950861070962889",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1915520664599224322/2WrUI4Tq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 90,
+          "following_count": 156,
+          "like_count": 2957,
+          "listed_count": 1,
+          "media_count": 230,
+          "tweet_count": 901
+        },
+        "username": "xinshijie_1227",
+        "verified": false
+      }
+    ]
+  }
+}

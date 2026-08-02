@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1811430427535765504",
+    "conversation_id": "2021606919035875546",
+    "created_at": "2026-02-12T20:42:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-12T21:42:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2022048767575532006"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "622036546",
+          "start": 0,
+          "username": "overdose_six"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022048767575532006",
+    "in_reply_to_user_id": "622036546",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2021606919035875546",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@overdose_six 这个日本进口的感冒药也可以o吗，还有就是可以发一下白兔止咳药的链接吗我买不到"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 537,
+        "media_key": "3_2021606914988355584",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HA4wxztasAAnr0q.jpg",
+        "width": 463
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1811430427535765504",
+        "conversation_id": "2021606919035875546",
+        "created_at": "2026-02-12T20:42:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-12T21:42:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022048767575532006"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "622036546",
+              "start": 0,
+              "username": "overdose_six"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022048767575532006",
+        "in_reply_to_user_id": "622036546",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021606919035875546",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@overdose_six 这个日本进口的感冒药也可以o吗，还有就是可以发一下白兔止咳药的链接吗我买不到"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2021606914988355584"
+          ]
+        },
+        "author_id": "622036546",
+        "conversation_id": "2021606919035875546",
+        "created_at": "2026-02-11T15:27:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-11T16:27:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2021606919035875546"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ToNMobnNjd",
+              "end": 38,
+              "expanded_url": "https://x.com/overdose_six/status/2021606919035875546/photo/1",
+              "media_key": "3_2021606914988355584",
+              "start": 15,
+              "url": "https://t.co/ToNMobnNjd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021606919035875546",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 5481,
+          "like_count": 88,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "od妹最不可能生的病就是咳嗽 https://t.co/ToNMobnNjd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-11T16:01:12.000Z",
+        "description": "嗑药 | 自残 | 吐黑水 | 互联网的隐匿栖身之所｜哥特or地雷女｜狗屎馅俄罗斯大列巴@requiem_soulss            tg频道：https://t.co/q5Z49Vdjxv（会在频道里发血图和日常照）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 59,
+                "start": 44,
+                "username": "requiem_soulss"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/xinshijie0000",
+                "end": 99,
+                "expanded_url": "https://t.me/xinshijie0000",
+                "start": 76,
+                "url": "https://t.co/q5Z49Vdjxv"
+              }
+            ]
+          }
+        },
+        "id": "1811430427535765504",
+        "location": "不再收🚪不再加男",
+        "name": "美術館館長",
+        "pinned_tweet_id": "1921997129985216603",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009811412412157952/ARAxYDf-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 136,
+          "following_count": 184,
+          "like_count": 3297,
+          "listed_count": 1,
+          "media_count": 352,
+          "tweet_count": 1236
+        },
+        "username": "xinshijie_1227",
+        "verified": false
+      },
+      {
+        "created_at": "2012-06-29T16:18:50.000Z",
+        "description": "太空极乐百科:https://t.co/yzGHPrJoAg  | 接受药物报告投稿 | 里账号:@fuck_8964 | 提问箱:https://t.co/b5c8bbntR6",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 59,
+                "start": 49,
+                "username": "fuck_8964"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "taikong.mom",
+                "end": 30,
+                "expanded_url": "http://taikong.mom",
+                "start": 7,
+                "url": "https://t.co/yzGHPrJoAg"
+              },
+              {
+                "display_url": "ngl.link/oder_six",
+                "end": 89,
+                "expanded_url": "https://ngl.link/oder_six",
+                "start": 66,
+                "url": "https://t.co/b5c8bbntR6"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "taikomg.mom",
+                "end": 23,
+                "expanded_url": "http://taikomg.mom",
+                "start": 0,
+                "url": "https://t.co/K8Wy74jyq7"
+              }
+            ]
+          }
+        },
+        "id": "622036546",
+        "location": "天国",
+        "name": "椎名#心宿二",
+        "pinned_tweet_id": "1982097076855996754",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004582178806693888/5V-kT5y0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2711,
+          "following_count": 96,
+          "like_count": 11294,
+          "listed_count": 8,
+          "media_count": 645,
+          "tweet_count": 3808
+        },
+        "url": "https://t.co/K8Wy74jyq7",
+        "username": "overdose_six",
+        "verified": false
+      }
+    ]
+  }
+}

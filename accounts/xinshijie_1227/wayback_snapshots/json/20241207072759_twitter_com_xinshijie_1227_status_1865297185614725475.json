@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1865297177058430976",
+        "3_1865297179302334466",
+        "3_1865297181311406083",
+        "3_1865297179390414848"
+      ]
+    },
+    "author_id": "1811430427535765504",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1865297185614725475",
+    "created_at": "2024-12-07T07:27:59.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-07T08:27:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1865297185614725475"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Qp55XKtyZj",
+          "end": 160,
+          "expanded_url": "https://x.com/xinshijie_1227/status/1865297185614725475/photo/1",
+          "media_key": "3_1865297177058430976",
+          "start": 137,
+          "url": "https://t.co/Qp55XKtyZj"
+        },
+        {
+          "display_url": "pic.x.com/Qp55XKtyZj",
+          "end": 160,
+          "expanded_url": "https://x.com/xinshijie_1227/status/1865297185614725475/photo/1",
+          "media_key": "3_1865297179302334466",
+          "start": 137,
+          "url": "https://t.co/Qp55XKtyZj"
+        },
+        {
+          "display_url": "pic.x.com/Qp55XKtyZj",
+          "end": 160,
+          "expanded_url": "https://x.com/xinshijie_1227/status/1865297185614725475/photo/1",
+          "media_key": "3_1865297181311406083",
+          "start": 137,
+          "url": "https://t.co/Qp55XKtyZj"
+        },
+        {
+          "display_url": "pic.x.com/Qp55XKtyZj",
+          "end": 160,
+          "expanded_url": "https://x.com/xinshijie_1227/status/1865297185614725475/photo/1",
+          "media_key": "3_1865297179390414848",
+          "start": 137,
+          "url": "https://t.co/Qp55XKtyZj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1865297185614725475",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "你好我是阿秋，你可以叫我小秋\n🚪50绿色陪聊，只收口令红包\n\n⚬自伤 | 嗑药 | 日常 | 垃圾话 | 有精神病，偶尔会搞cos，喷喷3/马车8可以一起玩呀\n\n⚬喜欢有礼貌的宝宝回of会查成分\n\n⚬我是双性恋但不会喜欢现实中的男性谢谢发吊死全家\n\n⚬无果照黄推无zz正确 https://t.co/Qp55XKtyZj"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1865297177058430976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GeLd5lcbUAAaL9I.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1865297179302334466",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GeLd5tzakAIIQv6.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1865297181311406083",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GeLd51SakAMab7r.jpg",
+        "width": 2048
+      },
+      {
+        "height": 839,
+        "media_key": "3_1865297179390414848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GeLd5uIakAADQo7.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1865297177058430976",
+            "3_1865297179302334466",
+            "3_1865297181311406083",
+            "3_1865297179390414848"
+          ]
+        },
+        "author_id": "1811430427535765504",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1865297185614725475",
+        "created_at": "2024-12-07T07:27:59.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-07T08:27:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1865297185614725475"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Qp55XKtyZj",
+              "end": 160,
+              "expanded_url": "https://x.com/xinshijie_1227/status/1865297185614725475/photo/1",
+              "media_key": "3_1865297177058430976",
+              "start": 137,
+              "url": "https://t.co/Qp55XKtyZj"
+            },
+            {
+              "display_url": "pic.x.com/Qp55XKtyZj",
+              "end": 160,
+              "expanded_url": "https://x.com/xinshijie_1227/status/1865297185614725475/photo/1",
+              "media_key": "3_1865297179302334466",
+              "start": 137,
+              "url": "https://t.co/Qp55XKtyZj"
+            },
+            {
+              "display_url": "pic.x.com/Qp55XKtyZj",
+              "end": 160,
+              "expanded_url": "https://x.com/xinshijie_1227/status/1865297185614725475/photo/1",
+              "media_key": "3_1865297181311406083",
+              "start": 137,
+              "url": "https://t.co/Qp55XKtyZj"
+            },
+            {
+              "display_url": "pic.x.com/Qp55XKtyZj",
+              "end": 160,
+              "expanded_url": "https://x.com/xinshijie_1227/status/1865297185614725475/photo/1",
+              "media_key": "3_1865297179390414848",
+              "start": 137,
+              "url": "https://t.co/Qp55XKtyZj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1865297185614725475",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你好我是阿秋，你可以叫我小秋\n🚪50绿色陪聊，只收口令红包\n\n⚬自伤 | 嗑药 | 日常 | 垃圾话 | 有精神病，偶尔会搞cos，喷喷3/马车8可以一起玩呀\n\n⚬喜欢有礼貌的宝宝回of会查成分\n\n⚬我是双性恋但不会喜欢现实中的男性谢谢发吊死全家\n\n⚬无果照黄推无zz正确 https://t.co/Qp55XKtyZj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-11T16:01:12.000Z",
+        "description": "痛苦是没法被比较的，比较就成为装饰品了              🚪50绿色陪聊",
+        "id": "1811430427535765504",
+        "name": "˚・* ٭☣︎ 美術館館長 ☣︎٭ *・˚",
+        "pinned_tweet_id": "1864645753240736160",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1860344393850613760/tW2czgA9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27,
+          "following_count": 116,
+          "like_count": 1088,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 153
+        },
+        "username": "xinshijie_1227",
+        "verified": false
+      }
+    ]
+  }
+}

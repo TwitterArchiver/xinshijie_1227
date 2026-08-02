@@ -1,0 +1,29 @@
+{
+  "name": "美術館館長",
+  "username": "@xinshijie_1227",
+  "bio": "嗑药吸毒自残 | 负能量精神病 | 查成分互of |  tg频道：https://t.me/xinshijie0000｜我的斯拉夫男友敢吃屎@requiem_soulss",
+  "location": "🚪8.88开放朋友圈陪闲聊",
+  "link": "",
+  "avatar": "avatar/avatar.jpg",
+  "banner": "avatar/1500x500.jpg",
+  "pinned": "",
+  "bio_entities": {
+    "mentions": [
+      {
+        "end": 82,
+        "start": 67,
+        "username": "requiem_soulss"
+      }
+    ],
+    "urls": [
+      {
+        "display_url": "t.me/xinshijie0000",
+        "end": 56,
+        "expanded_url": "https://t.me/xinshijie0000",
+        "start": 33,
+        "url": "https://t.co/q5Z49Vdjxv"
+      }
+    ]
+  },
+  "_avatar_source": "https://pbs.twimg.com/profile_images/2037145672412258304/HWwdgB_x_normal.jpg"
+}

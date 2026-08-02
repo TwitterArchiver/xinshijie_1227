@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1811430427535765504",
+    "conversation_id": "1896015375999123904",
+    "created_at": "2025-03-02T01:51:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-02T02:51:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1896015375999123904"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1896015375999123904",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "老子真的服了我以后再也不喝酒了，哎呀我服了我是猪头吧，说好的要分手呢，我要狠下心提分手结果喝完酒后三言两语就把我哄好了，我有病吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1811430427535765504",
+        "conversation_id": "1896015375999123904",
+        "created_at": "2025-03-02T01:51:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-02T02:51:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1896015375999123904"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1896015375999123904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "老子真的服了我以后再也不喝酒了，哎呀我服了我是猪头吧，说好的要分手呢，我要狠下心提分手结果喝完酒后三言两语就把我哄好了，我有病吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-11T16:01:12.000Z",
+        "description": "od | 自残 | 吐黑水 \n屎尿屁大王 bi 对妹子会非常友好^_^   会回fo",
+        "id": "1811430427535765504",
+        "location": "🚪50绿色陪聊男的过门女的免费",
+        "name": "美術館館長",
+        "pinned_tweet_id": "1886044580723949727",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1884080533770231811/F8kuy6DT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 52,
+          "following_count": 132,
+          "like_count": 2040,
+          "listed_count": 0,
+          "media_count": 105,
+          "tweet_count": 461
+        },
+        "username": "xinshijie_1227",
+        "verified": false
+      }
+    ]
+  }
+}

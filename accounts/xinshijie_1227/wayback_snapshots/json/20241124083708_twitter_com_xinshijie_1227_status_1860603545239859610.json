@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1811430427535765504",
+    "conversation_id": "1860497102452961481",
+    "created_at": "2024-11-24T08:37:08.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-24T09:37:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1860603545239859610"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1467175651954200577",
+          "start": 0,
+          "username": "kjkluk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1860603545239859610",
+    "in_reply_to_user_id": "1467175651954200577",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1860497102452961481",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kjkluk 我觉得没毛病，爱听不听别人的事跟我有毛关系，我也不能把自己的观念强加到别人身上吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1811430427535765504",
+        "conversation_id": "1860497102452961481",
+        "created_at": "2024-11-24T08:37:08.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-24T09:37:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1860603545239859610"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1467175651954200577",
+              "start": 0,
+              "username": "kjkluk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1860603545239859610",
+        "in_reply_to_user_id": "1467175651954200577",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1860497102452961481",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kjkluk 我觉得没毛病，爱听不听别人的事跟我有毛关系，我也不能把自己的观念强加到别人身上吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1467175651954200577",
+        "conversation_id": "1860497102452961481",
+        "created_at": "2024-11-24T01:34:10.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-24T02:34:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1860497102452961481"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1860497102452961481",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 5190,
+          "like_count": 83,
+          "quote_count": 3,
+          "reply_count": 35,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "如何看待「放下助人情结，尊重他人命运」？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-11T16:01:12.000Z",
+        "description": "嗑药 | 自残 | 垃圾话 | 无黄推黄楠滚，很好说话欢迎互of，只是一个有精神病的动漫宅",
+        "id": "1811430427535765504",
+        "name": "劳工儿子在天堂",
+        "pinned_tweet_id": "1857507046654095687",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1860344393850613760/tW2czgA9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 93,
+          "like_count": 824,
+          "listed_count": 0,
+          "tweet_count": 76
+        },
+        "username": "xinshijie_1227",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-04T16:55:23.000Z",
+        "description": "高性能狐物器",
+        "id": "1467175651954200577",
+        "location": "Japan",
+        "name": "川井 橘音🏳️‍⚧️",
+        "pinned_tweet_id": "1859085548138492088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1838493659358187520/4O0N0VzH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1564,
+          "following_count": 1796,
+          "like_count": 143372,
+          "listed_count": 6,
+          "tweet_count": 6109
+        },
+        "username": "kjkluk",
+        "verified": false
+      }
+    ]
+  }
+}

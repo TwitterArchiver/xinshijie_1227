@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1811430427535765504",
+    "conversation_id": "1880611419655434327",
+    "created_at": "2025-01-19T01:59:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-19T02:59:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1880797272159797301"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1521821363215863808",
+          "start": 0,
+          "username": "A0Iyi1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1880797272159797301",
+    "in_reply_to_user_id": "1521821363215863808",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1880611419655434327",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@A0Iyi1 小头控制大头"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1811430427535765504",
+        "conversation_id": "1880611419655434327",
+        "created_at": "2025-01-19T01:59:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-19T02:59:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1880797272159797301"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1521821363215863808",
+              "start": 0,
+              "username": "A0Iyi1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1880797272159797301",
+        "in_reply_to_user_id": "1521821363215863808",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1880611419655434327",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@A0Iyi1 小头控制大头"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1880611401405988864",
+            "3_1880611401410256896"
+          ]
+        },
+        "author_id": "1521821363215863808",
+        "conversation_id": "1880611419655434327",
+        "created_at": "2025-01-18T13:41:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-18T14:41:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1880611419655434327"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/g0Xo62TxyA",
+              "end": 32,
+              "expanded_url": "https://x.com/A0Iyi1/status/1880611419655434327/photo/1",
+              "media_key": "3_1880611401405988864",
+              "start": 9,
+              "url": "https://t.co/g0Xo62TxyA"
+            },
+            {
+              "display_url": "pic.x.com/g0Xo62TxyA",
+              "end": 32,
+              "expanded_url": "https://x.com/A0Iyi1/status/1880611419655434327/photo/1",
+              "media_key": "3_1880611401410256896",
+              "start": 9,
+              "url": "https://t.co/g0Xo62TxyA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1880611419655434327",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 21113,
+          "like_count": 323,
+          "quote_count": 5,
+          "reply_count": 82,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "？。，谁敢猜性别 https://t.co/g0Xo62TxyA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-11T16:01:12.000Z",
+        "description": "梦想是操烂所有人的后门        \n\n    bi🚪50绿色陪聊",
+        "id": "1811430427535765504",
+        "name": "美術館館長",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1880660134885732352/6fY0vKs1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 132,
+          "like_count": 1347,
+          "listed_count": 0,
+          "media_count": 54,
+          "tweet_count": 262
+        },
+        "username": "xinshijie_1227",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-04T11:57:53.000Z",
+        "description": "不搞黄无福利不线下不接爸爸活不接推广不出原味 不要偷我照片 过门没有黄色可看不要问了",
+        "id": "1521821363215863808",
+        "location": "🚪66仅朋友圈122可闲聊",
+        "name": "划开我的肋骨是没修饰过的伤口",
+        "pinned_tweet_id": "1856476639053656556",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859662734650175488/tkP3VGur_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21257,
+          "following_count": 591,
+          "like_count": 59980,
+          "listed_count": 69,
+          "media_count": 90,
+          "tweet_count": 5459
+        },
+        "username": "A0Iyi1",
+        "verified": false
+      }
+    ]
+  }
+}

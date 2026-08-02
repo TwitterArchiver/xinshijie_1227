@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1811430427535765504",
+    "conversation_id": "2024702725599219750",
+    "created_at": "2026-02-20T19:36:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-20T20:36:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024931114746610129"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1577140769692925953",
+          "start": 0,
+          "username": "menghualingye"
+        },
+        {
+          "end": 31,
+          "id": "1957509667787325440",
+          "start": 15,
+          "username": "pleazdontleavme"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024931114746610129",
+    "in_reply_to_user_id": "1577140769692925953",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024916395583308016",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@menghualingye @pleazdontleavme 越活越累了(◞‸◟ )"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1811430427535765504",
+        "conversation_id": "2024702725599219750",
+        "created_at": "2026-02-20T19:36:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-20T20:36:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024931114746610129"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1577140769692925953",
+              "start": 0,
+              "username": "menghualingye"
+            },
+            {
+              "end": 31,
+              "id": "1957509667787325440",
+              "start": 15,
+              "username": "pleazdontleavme"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024931114746610129",
+        "in_reply_to_user_id": "1577140769692925953",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024916395583308016",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@menghualingye @pleazdontleavme 越活越累了(◞‸◟ )"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1577140769692925953",
+        "conversation_id": "2024702725599219750",
+        "created_at": "2026-02-20T18:37:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-20T19:37:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024916395583308016"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1957509667787325440",
+              "start": 0,
+              "username": "pleazdontleavme"
+            },
+            {
+              "end": 32,
+              "id": "1811430427535765504",
+              "start": 17,
+              "username": "xinshijie_1227"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024916395583308016",
+        "in_reply_to_user_id": "1957509667787325440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024796742089363521",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pleazdontleavme @xinshijie_1227 幸福的阈值是不是会被抬的越来越高，以前很小的事情就会满足，现在感觉好困难，才能感受到开心"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-11T16:01:12.000Z",
+        "description": "嗑药 | 自残 | 吐黑水 ｜哥特or地雷女| 互联网的隐匿栖身之所｜狗屎馅俄罗斯大列巴@requiem_soulss tg频道：https://t.co/q5Z49Vdjxv（会在频道里发血图和日常照）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 59,
+                "start": 44,
+                "username": "requiem_soulss"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/xinshijie0000",
+                "end": 88,
+                "expanded_url": "https://t.me/xinshijie0000",
+                "start": 65,
+                "url": "https://t.co/q5Z49Vdjxv"
+              }
+            ]
+          }
+        },
+        "id": "1811430427535765504",
+        "location": "🚪8.88开放朋友圈陪闲聊",
+        "name": "美術館館長",
+        "pinned_tweet_id": "2024805135999017151",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009811412412157952/ARAxYDf-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 147,
+          "following_count": 197,
+          "like_count": 3587,
+          "listed_count": 1,
+          "media_count": 362,
+          "tweet_count": 1263
+        },
+        "username": "xinshijie_1227",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-04T03:37:30.000Z",
+        "description": "hi 你好我是阿梦，在这个世界上，我希望你可以幸福和富足，体验世界上所有美好的事物，希望你可以坚持下去，别放弃，我就在这陪你",
+        "id": "1577140769692925953",
+        "location": "广州",
+        "name": "Lynn Night",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1577200516857098240/5H-tZl6U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 273,
+          "like_count": 2536,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 484
+        },
+        "username": "menghualingye",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-18T18:27:41.000Z",
+        "description": "08女/bi/lgbt全友好/同类互fo/我叫下水道/可以扩列/自残穿孔od/cptsd/bpd/dpd/极度依赖/无药可救",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/y69659y",
+                "end": 23,
+                "expanded_url": "https://ngl.link/y69659y",
+                "start": 0,
+                "url": "https://t.co/JcxwpFXiEy"
+              }
+            ]
+          }
+        },
+        "id": "1957509667787325440",
+        "location": "Припять",
+        "name": "骯髒下水道里的卑劣嘔吐物",
+        "pinned_tweet_id": "2024317059778453846",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023757108576219139/uzRSkV9f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 221,
+          "following_count": 476,
+          "like_count": 2935,
+          "listed_count": 0,
+          "media_count": 60,
+          "tweet_count": 1101
+        },
+        "url": "https://t.co/JcxwpFXiEy",
+        "username": "pleazdontleavme",
+        "verified": false
+      }
+    ]
+  }
+}

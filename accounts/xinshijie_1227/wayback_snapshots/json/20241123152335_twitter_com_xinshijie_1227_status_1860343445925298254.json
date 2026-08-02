@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1859999031050797059"
+      ],
+      "media_source_tweet_id": [
+        "1859999041922494763"
+      ]
+    },
+    "author_id": "1811430427535765504",
+    "conversation_id": "1860343445925298254",
+    "created_at": "2024-11-23T15:23:35.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-23T16:23:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1860343445925298254"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1485551870739316737",
+          "start": 3,
+          "username": "zsrsgdsg"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/m74pwktRm9",
+          "end": 45,
+          "expanded_url": "https://x.com/zsrsgdsg/status/1859999041922494763/photo/1",
+          "media_key": "3_1859999031050797059",
+          "start": 22,
+          "url": "https://t.co/m74pwktRm9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1860343445925298254",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1859999041922494763",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @zsrsgdsg: 觉得怎么样呀。 https://t.co/m74pwktRm9"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1860343445925298254].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1860343445925298254",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1860343445925298254"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1240,
+        "media_key": "3_1859999031050797059",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GdALQ5hagAMyuJ1.jpg",
+        "width": 828
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1859999031050797059"
+          ]
+        },
+        "author_id": "1485551870739316737",
+        "conversation_id": "1859999041922494763",
+        "created_at": "2024-11-22T16:35:03.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-22T17:35:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1859999041922494763"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/m74pwktRm9",
+              "end": 31,
+              "expanded_url": "https://x.com/zsrsgdsg/status/1859999041922494763/photo/1",
+              "media_key": "3_1859999031050797059",
+              "start": 8,
+              "url": "https://t.co/m74pwktRm9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1859999041922494763",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6291,
+          "like_count": 22,
+          "quote_count": 0,
+          "reply_count": 21,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "觉得怎么样呀。 https://t.co/m74pwktRm9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-11T16:01:12.000Z",
+        "description": "猜你会雷：嗑药/自残/垃圾话",
+        "id": "1811430427535765504",
+        "name": "劳工儿子在天堂",
+        "pinned_tweet_id": "1857507046654095687",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1852369059402444800/4MzSILkf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32,
+          "following_count": 92,
+          "like_count": 796,
+          "listed_count": 0,
+          "tweet_count": 73
+        },
+        "username": "xinshijie_1227",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-24T09:55:49.000Z",
+        "description": "本人的风格是好抽风 这个主播特别好 你们不要讨厌",
+        "id": "1485551870739316737",
+        "location": "Sham Shui Po District",
+        "name": "kiyo",
+        "pinned_tweet_id": "1768333995438440773",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1853856790871752705/5FgroWfV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18751,
+          "following_count": 95,
+          "like_count": 6531,
+          "listed_count": 26,
+          "tweet_count": 17100
+        },
+        "username": "zsrsgdsg",
+        "verified": false
+      }
+    ]
+  }
+}

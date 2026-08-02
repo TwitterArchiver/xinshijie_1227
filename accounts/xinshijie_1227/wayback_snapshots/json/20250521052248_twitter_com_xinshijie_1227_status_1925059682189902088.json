@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1811430427535765504",
+    "conversation_id": "1924429158198726995",
+    "created_at": "2025-05-21T05:22:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-21T06:22:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1925059682189902088"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1850566498412318720",
+          "start": 0,
+          "username": "luobo4444"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1925059682189902088",
+    "in_reply_to_user_id": "1850566498412318720",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1924429158198726995",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@luobo4444 我不行了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1811430427535765504",
+        "conversation_id": "1924429158198726995",
+        "created_at": "2025-05-21T05:22:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-21T06:22:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1925059682189902088"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1850566498412318720",
+              "start": 0,
+              "username": "luobo4444"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1925059682189902088",
+        "in_reply_to_user_id": "1850566498412318720",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1924429158198726995",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@luobo4444 我不行了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1850566498412318720",
+        "conversation_id": "1924429158198726995",
+        "created_at": "2025-05-19T11:37:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-19T12:37:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1924429158198726995"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1924429158198726995",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 22411,
+          "like_count": 256,
+          "quote_count": 3,
+          "reply_count": 39,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "喜欢吉他张 你就要接受吉他张的口臭味 短小的阴茎 烂掉的指甲 糟糕的技术 满身的肥肉与包皮垢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-11T16:01:12.000Z",
+        "description": "嗑药 | 自残 | 吐黑水 | 自由精神病 『会回fo，对妹子会非常友好』 不卖不约不发本人相关的任何色情内容",
+        "id": "1811430427535765504",
+        "location": "🚪50绿色陪聊男的过门女的免费",
+        "name": "Yumochka",
+        "pinned_tweet_id": "1921997129985216603",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1915520664599224322/2WrUI4Tq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 201,
+          "following_count": 163,
+          "like_count": 3031,
+          "listed_count": 1,
+          "media_count": 224,
+          "tweet_count": 930
+        },
+        "username": "xinshijie_1227",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-27T15:54:25.000Z",
+        "description": "ig： yanyan_kawa1｜空蝉原｜06｜INFP｜ 高中生｜不互关互转｜日本語学习中｜乌蒙dx｜随缘fo｜是的我是萝卜哥｜🚪128",
+        "id": "1850566498412318720",
+        "location": "空蝉如此世，幻灭若朝霞",
+        "name": "hara🥕",
+        "pinned_tweet_id": "1850571520382521422",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902213129842642944/arvYOjXR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6555,
+          "following_count": 265,
+          "like_count": 2405,
+          "listed_count": 9,
+          "media_count": 293,
+          "tweet_count": 1672
+        },
+        "username": "luobo4444",
+        "verified": false
+      }
+    ]
+  }
+}

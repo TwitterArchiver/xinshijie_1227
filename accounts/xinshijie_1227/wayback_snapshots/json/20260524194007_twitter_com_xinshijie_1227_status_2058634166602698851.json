@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1811430427535765504",
+    "conversation_id": "2058189562728583572",
+    "created_at": "2026-05-24T19:40:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-24T20:40:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058634166602698851"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2058080982075637760",
+          "start": 0,
+          "username": "TWTuuvi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058634166602698851",
+    "in_reply_to_user_id": "2058080982075637760",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058512667162144843",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TWTuuvi 亲亲你"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1811430427535765504",
+        "conversation_id": "2058189562728583572",
+        "created_at": "2026-05-24T19:40:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T20:40:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058634166602698851"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2058080982075637760",
+              "start": 0,
+              "username": "TWTuuvi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058634166602698851",
+        "in_reply_to_user_id": "2058080982075637760",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058512667162144843",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TWTuuvi 亲亲你"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2058080982075637760",
+        "conversation_id": "2058189562728583572",
+        "created_at": "2026-05-24T11:37:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T12:37:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058512667162144843"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1811430427535765504",
+              "start": 0,
+              "username": "xinshijie_1227"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058512667162144843",
+        "in_reply_to_user_id": "1811430427535765504",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 32,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058189562728583572",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xinshijie_1227 很萌。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-11T16:01:12.000Z",
+        "description": "嗑药 | 自残 | 负能量 | 御宅族| 互联网的隐匿栖身之所 | 互fo请私信 | \ntg频道：https://t.co/q5Z49VdRn3 | 俄罗斯臭傻逼@requiem_soulss",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 96,
+                "start": 81,
+                "username": "requiem_soulss"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/xinshijie0000",
+                "end": 72,
+                "expanded_url": "https://t.me/xinshijie0000",
+                "start": 49,
+                "url": "https://t.co/q5Z49VdRn3"
+              }
+            ]
+          }
+        },
+        "id": "1811430427535765504",
+        "location": "🚪8.88开放朋友圈陪闲聊",
+        "name": "美術館館長",
+        "pinned_tweet_id": "2035900548063568228",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037145672412258304/HWwdgB_x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 313,
+          "following_count": 228,
+          "like_count": 3898,
+          "listed_count": 0,
+          "media_count": 425,
+          "tweet_count": 1450
+        },
+        "username": "xinshijie_1227",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-23T07:03:35.000Z",
+        "description": "养胃",
+        "id": "2058080982075637760",
+        "location": "美国",
+        "name": "怜惜真心浮沉",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058108173031288832/YriYDQbU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 1,
+          "like_count": 9,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 4
+        },
+        "username": "TWTuuvi",
+        "verified": false
+      }
+    ]
+  }
+}
