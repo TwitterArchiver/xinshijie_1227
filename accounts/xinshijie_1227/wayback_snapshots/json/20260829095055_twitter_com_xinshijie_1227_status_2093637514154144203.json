@@ -1,0 +1,320 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1811430427535765504",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to education such as colleges, school material, schools",
+          "id": "1552291412820893697",
+          "name": "Education Business"
+        }
+      }
+    ],
+    "conversation_id": "2093637514154144203",
+    "created_at": "2026-08-29T09:50:55.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-29T10:50:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2093637514154144203"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1953189021611597824",
+          "start": 3,
+          "username": "atengyuan01"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093637514154144203",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "2093577813203054967",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @atengyuan01: 中国的教育观念真的是傻逼到拍这种宣传片都散发一股恶臭 在暗示什么？暗示青少年磕药是没事找事吗？？把背后那么多原因全部幽默化防御 直视真正的问题很难么？？学校的心理咨询室永远都是摆设 花钱去看所谓国家级咨询师只会讲些无脑空化 到底是谁的问题？？？…"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 55902,
+        "height": 1280,
+        "media_key": "13_2093577753161519104",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2093577753161519104/img/bZFw7aCs07Nabd8j.jpg",
+        "public_metrics": {
+          "view_count": 1057
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2093577753161519104/vid/avc1/320x568/RBTUL67Kh9ey8lE-.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2093577753161519104/vid/avc1/480x852/fUAHKVJdrXcQIH8r.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2093577753161519104/vid/avc1/720x1280/1sQBU_6lTqvxWpTS.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2093577753161519104/pl/xi1u7RHNpGz41Ah0.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1811430427535765504",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to education such as colleges, school material, schools",
+              "id": "1552291412820893697",
+              "name": "Education Business"
+            }
+          }
+        ],
+        "conversation_id": "2093637514154144203",
+        "created_at": "2026-08-29T09:50:55.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-29T10:50:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093637514154144203"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1953189021611597824",
+              "start": 3,
+              "username": "atengyuan01"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093637514154144203",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093577813203054967",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @atengyuan01: 中国的教育观念真的是傻逼到拍这种宣传片都散发一股恶臭 在暗示什么？暗示青少年磕药是没事找事吗？？把背后那么多原因全部幽默化防御 直视真正的问题很难么？？学校的心理咨询室永远都是摆设 花钱去看所谓国家级咨询师只会讲些无脑空化 到底是谁的问题？？？…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2093577753161519104"
+          ]
+        },
+        "author_id": "1953189021611597824",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to education such as colleges, school material, schools",
+              "id": "1552291412820893697",
+              "name": "Education Business"
+            }
+          }
+        ],
+        "conversation_id": "2093577813203054967",
+        "created_at": "2026-08-29T05:53:42.000Z",
+        "display_text_range": [
+          0,
+          122
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-29T06:53:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2093577813203054967"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/IYhs1cICUh",
+              "end": 146,
+              "expanded_url": "https://x.com/atengyuan01/status/2093577813203054967/video/1",
+              "media_key": "13_2093577753161519104",
+              "start": 123,
+              "url": "https://t.co/IYhs1cICUh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093577813203054967",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2093577753161519104"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1685,
+          "like_count": 69,
+          "quote_count": 0,
+          "reply_count": 11,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "中国的教育观念真的是傻逼到拍这种宣传片都散发一股恶臭 在暗示什么？暗示青少年磕药是没事找事吗？？把背后那么多原因全部幽默化防御 直视真正的问题很难么？？学校的心理咨询室永远都是摆设 花钱去看所谓国家级咨询师只会讲些无脑空化 到底是谁的问题？？？ https://t.co/IYhs1cICUh"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-07-11T16:01:12.000Z",
+        "description": "嗑药吸毒自残 | 负能量精神病 | 查成分互of | \ntg频道：https://t.co/q5Z49Vdjxv｜我的斯拉夫男友敢吃屎@requiem_soulss",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 82,
+                "start": 67,
+                "username": "requiem_soulss"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/xinshijie0000",
+                "end": 56,
+                "expanded_url": "https://t.me/xinshijie0000",
+                "start": 33,
+                "url": "https://t.co/q5Z49Vdjxv"
+              }
+            ]
+          }
+        },
+        "id": "1811430427535765504",
+        "is_identity_verified": false,
+        "location": "🚪8.88开放朋友圈陪闲聊",
+        "most_recent_tweet_id": "2093637514154144203",
+        "name": "美術館館長",
+        "pinned_tweet_id": "2035900548063568228",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1811430427535765504/1776422680",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037145672412258304/HWwdgB_x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 354,
+          "following_count": 239,
+          "like_count": 3968,
+          "listed_count": 0,
+          "media_count": 467,
+          "tweet_count": 1557
+        },
+        "url": "",
+        "username": "xinshijie_1227",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-08-06T20:19:00.000Z",
+        "description": "我们都在用力的活着…",
+        "id": "1953189021611597824",
+        "is_identity_verified": false,
+        "location": "🚪52纯绿",
+        "most_recent_tweet_id": "2093577813203054967",
+        "name": "你也是桉孝子？",
+        "pinned_tweet_id": "2049535188775149857",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1953189021611597824/1762268046",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1982177614799253506/zLFIb9hJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36,
+          "following_count": 120,
+          "like_count": 927,
+          "listed_count": 0,
+          "media_count": 121,
+          "tweet_count": 533
+        },
+        "url": "",
+        "username": "atengyuan01",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

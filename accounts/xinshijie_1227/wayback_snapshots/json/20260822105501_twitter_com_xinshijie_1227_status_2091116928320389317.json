@@ -1,0 +1,476 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2088548088327909376",
+        "3_2088548088336261120",
+        "3_2088548088373985281",
+        "3_2088548088332140544"
+      ],
+      "media_source_tweet_id": [
+        "2088548154207883279",
+        "2088548154207883279",
+        "2088548154207883279",
+        "2088548154207883279"
+      ]
+    },
+    "author_id": "1811430427535765504",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2091116928320389317",
+    "created_at": "2026-08-22T10:55:01.000Z",
+    "display_text_range": [
+      0,
+      79
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-22T11:55:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091116928320389317"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1429055428374130693",
+          "start": 3,
+          "username": "Gamer94469"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/YuImJiZuis",
+          "end": 79,
+          "expanded_url": "https://x.com/Gamer94469/status/2088548154207883279/photo/1",
+          "media_key": "3_2088548088327909376",
+          "start": 56,
+          "url": "https://t.co/YuImJiZuis"
+        },
+        {
+          "display_url": "pic.x.com/YuImJiZuis",
+          "end": 79,
+          "expanded_url": "https://x.com/Gamer94469/status/2088548154207883279/photo/1",
+          "media_key": "3_2088548088336261120",
+          "start": 56,
+          "url": "https://t.co/YuImJiZuis"
+        },
+        {
+          "display_url": "pic.x.com/YuImJiZuis",
+          "end": 79,
+          "expanded_url": "https://x.com/Gamer94469/status/2088548154207883279/photo/1",
+          "media_key": "3_2088548088373985281",
+          "start": 56,
+          "url": "https://t.co/YuImJiZuis"
+        },
+        {
+          "display_url": "pic.x.com/YuImJiZuis",
+          "end": 79,
+          "expanded_url": "https://x.com/Gamer94469/status/2088548154207883279/photo/1",
+          "media_key": "3_2088548088332140544",
+          "start": 56,
+          "url": "https://t.co/YuImJiZuis"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091116928320389317",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2088548088327909376"
+      },
+      {
+        "media_key": "3_2088548088336261120"
+      },
+      {
+        "media_key": "3_2088548088373985281"
+      },
+      {
+        "media_key": "3_2088548088332140544"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 32
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088548154207883279",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Gamer94469: 宝，你今晚不要睡了，听说去公厕那边闻一闻会好一点，然后明天去找一下心理医生看看 https://t.co/YuImJiZuis"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2088548088327909376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPwDa7UbMAATiJE.jpg",
+        "width": 1298
+      },
+      {
+        "height": 1248,
+        "media_key": "3_2088548088336261120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPwDa7WaoAAoXtH.jpg",
+        "width": 1920
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2088548088373985281",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPwDa7faQAE_cEP.jpg",
+        "width": 1563
+      },
+      {
+        "height": 1306,
+        "media_key": "3_2088548088332140544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPwDa7VbwAAaQ9k.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088548088327909376",
+            "3_2088548088336261120",
+            "3_2088548088373985281",
+            "3_2088548088332140544"
+          ],
+          "media_source_tweet_id": [
+            "2088548154207883279",
+            "2088548154207883279",
+            "2088548154207883279",
+            "2088548154207883279"
+          ]
+        },
+        "author_id": "1811430427535765504",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2091116928320389317",
+        "created_at": "2026-08-22T10:55:01.000Z",
+        "display_text_range": [
+          0,
+          79
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T11:55:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091116928320389317"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1429055428374130693",
+              "start": 3,
+              "username": "Gamer94469"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/YuImJiZuis",
+              "end": 79,
+              "expanded_url": "https://x.com/Gamer94469/status/2088548154207883279/photo/1",
+              "media_key": "3_2088548088327909376",
+              "start": 56,
+              "url": "https://t.co/YuImJiZuis"
+            },
+            {
+              "display_url": "pic.x.com/YuImJiZuis",
+              "end": 79,
+              "expanded_url": "https://x.com/Gamer94469/status/2088548154207883279/photo/1",
+              "media_key": "3_2088548088336261120",
+              "start": 56,
+              "url": "https://t.co/YuImJiZuis"
+            },
+            {
+              "display_url": "pic.x.com/YuImJiZuis",
+              "end": 79,
+              "expanded_url": "https://x.com/Gamer94469/status/2088548154207883279/photo/1",
+              "media_key": "3_2088548088373985281",
+              "start": 56,
+              "url": "https://t.co/YuImJiZuis"
+            },
+            {
+              "display_url": "pic.x.com/YuImJiZuis",
+              "end": 79,
+              "expanded_url": "https://x.com/Gamer94469/status/2088548154207883279/photo/1",
+              "media_key": "3_2088548088332140544",
+              "start": 56,
+              "url": "https://t.co/YuImJiZuis"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091116928320389317",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2088548088327909376"
+          },
+          {
+            "media_key": "3_2088548088336261120"
+          },
+          {
+            "media_key": "3_2088548088373985281"
+          },
+          {
+            "media_key": "3_2088548088332140544"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 32
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088548154207883279",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Gamer94469: 宝，你今晚不要睡了，听说去公厕那边闻一闻会好一点，然后明天去找一下心理医生看看 https://t.co/YuImJiZuis"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088548088327909376",
+            "3_2088548088336261120",
+            "3_2088548088373985281",
+            "3_2088548088332140544"
+          ]
+        },
+        "author_id": "1429055428374130693",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2088548154207883279",
+        "created_at": "2026-08-15T08:47:37.000Z",
+        "display_text_range": [
+          0,
+          39
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T09:47:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088548154207883279"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YuImJiZuis",
+              "end": 63,
+              "expanded_url": "https://x.com/Gamer94469/status/2088548154207883279/photo/1",
+              "media_key": "3_2088548088327909376",
+              "start": 40,
+              "url": "https://t.co/YuImJiZuis"
+            },
+            {
+              "display_url": "pic.x.com/YuImJiZuis",
+              "end": 63,
+              "expanded_url": "https://x.com/Gamer94469/status/2088548154207883279/photo/1",
+              "media_key": "3_2088548088336261120",
+              "start": 40,
+              "url": "https://t.co/YuImJiZuis"
+            },
+            {
+              "display_url": "pic.x.com/YuImJiZuis",
+              "end": 63,
+              "expanded_url": "https://x.com/Gamer94469/status/2088548154207883279/photo/1",
+              "media_key": "3_2088548088373985281",
+              "start": 40,
+              "url": "https://t.co/YuImJiZuis"
+            },
+            {
+              "display_url": "pic.x.com/YuImJiZuis",
+              "end": 63,
+              "expanded_url": "https://x.com/Gamer94469/status/2088548154207883279/photo/1",
+              "media_key": "3_2088548088332140544",
+              "start": 40,
+              "url": "https://t.co/YuImJiZuis"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088548154207883279",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2088548088327909376"
+          },
+          {
+            "media_key": "3_2088548088336261120"
+          },
+          {
+            "media_key": "3_2088548088373985281"
+          },
+          {
+            "media_key": "3_2088548088332140544"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 33,
+          "impression_count": 4601,
+          "like_count": 230,
+          "quote_count": 1,
+          "reply_count": 30,
+          "retweet_count": 32
+        },
+        "reply_settings": "everyone",
+        "text": "宝，你今晚不要睡了，听说去公厕那边闻一闻会好一点，然后明天去找一下心理医生看看 https://t.co/YuImJiZuis"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-07-11T16:01:12.000Z",
+        "description": "嗑药吸毒自残 | 负能量精神病 | 查成分互of | \ntg频道：https://t.co/q5Z49Vdjxv｜我的斯拉夫男友敢吃屎@requiem_soulss",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 82,
+                "start": 67,
+                "username": "requiem_soulss"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/xinshijie0000",
+                "end": 56,
+                "expanded_url": "https://t.me/xinshijie0000",
+                "start": 33,
+                "url": "https://t.co/q5Z49Vdjxv"
+              }
+            ]
+          }
+        },
+        "id": "1811430427535765504",
+        "is_identity_verified": false,
+        "location": "🚪8.88开放朋友圈陪闲聊",
+        "most_recent_tweet_id": "2091116928320389317",
+        "name": "美術館館長",
+        "pinned_tweet_id": "2035900548063568228",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1811430427535765504/1776422680",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037145672412258304/HWwdgB_x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 353,
+          "following_count": 237,
+          "like_count": 3967,
+          "listed_count": 0,
+          "media_count": 466,
+          "tweet_count": 1552
+        },
+        "url": "",
+        "username": "xinshijie_1227",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-08-21T12:19:04.000Z",
+        "description": "即刻绞杀即刻刎颈",
+        "id": "1429055428374130693",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090870887671279642",
+        "name": "披麻戴孝",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1429055428374130693/1785878117",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090726016612466688/IqIjEpLQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1536,
+          "following_count": 333,
+          "like_count": 23048,
+          "listed_count": 1,
+          "media_count": 795,
+          "tweet_count": 6003
+        },
+        "url": "",
+        "username": "Gamer94469",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

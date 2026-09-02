@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1811430427535765504",
+    "conversation_id": "2093452829075636662",
+    "created_at": "2026-08-28T21:37:03.000Z",
+    "display_text_range": [
+      0,
+      29
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-28T22:37:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2093452829075636662"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2055818247661072384",
+          "start": 3,
+          "username": "AWAWOLFF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093452829075636662",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3649
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067195319658688985",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @AWAWOLFF: 敢在百合中间夹个男的我就杀了你"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1811430427535765504",
+        "conversation_id": "2093452829075636662",
+        "created_at": "2026-08-28T21:37:03.000Z",
+        "display_text_range": [
+          0,
+          29
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-28T22:37:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093452829075636662"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2055818247661072384",
+              "start": 3,
+              "username": "AWAWOLFF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093452829075636662",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3649
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067195319658688985",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "RT @AWAWOLFF: 敢在百合中间夹个男的我就杀了你"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055818247661072384",
+        "conversation_id": "2067195319658688985",
+        "created_at": "2026-06-17T10:39:05.000Z",
+        "display_text_range": [
+          0,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-06-17T11:39:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067195319658688985"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2067195319658688985",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 635,
+          "impression_count": 668226,
+          "like_count": 24081,
+          "quote_count": 187,
+          "reply_count": 101,
+          "retweet_count": 3649
+        },
+        "reply_settings": "following",
+        "text": "敢在百合中间夹个男的我就杀了你"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-07-11T16:01:12.000Z",
+        "description": "嗑药吸毒自残 | 负能量精神病 | 查成分互of | \ntg频道：https://t.co/q5Z49Vdjxv｜我的斯拉夫男友敢吃屎@requiem_soulss",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 82,
+                "start": 67,
+                "username": "requiem_soulss"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/xinshijie0000",
+                "end": 56,
+                "expanded_url": "https://t.me/xinshijie0000",
+                "start": 33,
+                "url": "https://t.co/q5Z49Vdjxv"
+              }
+            ]
+          }
+        },
+        "id": "1811430427535765504",
+        "is_identity_verified": false,
+        "location": "🚪8.88开放朋友圈陪闲聊",
+        "most_recent_tweet_id": "2093452829075636662",
+        "name": "美術館館長",
+        "pinned_tweet_id": "2035900548063568228",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1811430427535765504/1776422680",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037145672412258304/HWwdgB_x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 354,
+          "following_count": 238,
+          "like_count": 3963,
+          "listed_count": 0,
+          "media_count": 468,
+          "tweet_count": 1557
+        },
+        "url": "",
+        "username": "xinshijie_1227",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-05-17T01:12:09.000Z",
+        "description": "太性压抑了所以什么都说，不要见怪\n因为曾经是避难用账号所以什么都说\n\n20↑而且一天到晚只想看色情的成年人",
+        "id": "2055818247661072384",
+        "is_identity_verified": false,
+        "location": "放飞的自我@AWwww8000",
+        "most_recent_tweet_id": "2093416824222408949",
+        "name": "AW",
+        "pinned_tweet_id": "2067201922277499166",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2055818247661072384/1778981304",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055819595110559744/MwCux30c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3830,
+          "following_count": 252,
+          "like_count": 20802,
+          "listed_count": 13,
+          "media_count": 308,
+          "tweet_count": 11952
+        },
+        "url": "",
+        "username": "AWAWOLFF",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

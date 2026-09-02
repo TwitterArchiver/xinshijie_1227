@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1811430427535765504",
+    "conversation_id": "2058633938755555388",
+    "created_at": "2026-08-22T10:43:44.000Z",
+    "display_text_range": [
+      13,
+      19
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-22T11:43:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091114088260640842"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1611992151742906370",
+          "start": 0,
+          "username": "Rikka_ovo77"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091114088260640842",
+    "in_reply_to_user_id": "1611992151742906370",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085340753887367290",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Rikka_ovo77 那就有点恶了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1811430427535765504",
+        "conversation_id": "2058633938755555388",
+        "created_at": "2026-08-22T10:43:44.000Z",
+        "display_text_range": [
+          13,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T11:43:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091114088260640842"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1611992151742906370",
+              "start": 0,
+              "username": "Rikka_ovo77"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091114088260640842",
+        "in_reply_to_user_id": "1611992151742906370",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085340753887367290",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rikka_ovo77 那就有点恶了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1611992151742906370",
+        "conversation_id": "2058633938755555388",
+        "created_at": "2026-08-06T12:22:34.000Z",
+        "display_text_range": [
+          16,
+          30
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-06T13:22:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085340753887367290"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1811430427535765504",
+              "start": 0,
+              "username": "xinshijie_1227"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085340753887367290",
+        "in_reply_to_user_id": "1811430427535765504",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 86,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058633938755555388",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xinshijie_1227 也有可能是大便失禁，拉一裤裆"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-07-11T16:01:12.000Z",
+        "description": "嗑药吸毒自残 | 负能量精神病 | 查成分互of | \ntg频道：https://t.co/q5Z49Vdjxv｜我的斯拉夫男友敢吃屎@requiem_soulss",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 82,
+                "start": 67,
+                "username": "requiem_soulss"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/xinshijie0000",
+                "end": 56,
+                "expanded_url": "https://t.me/xinshijie0000",
+                "start": 33,
+                "url": "https://t.co/q5Z49Vdjxv"
+              }
+            ]
+          }
+        },
+        "id": "1811430427535765504",
+        "is_identity_verified": false,
+        "location": "🚪8.88开放朋友圈陪闲聊",
+        "most_recent_tweet_id": "2091114088260640842",
+        "name": "美術館館長",
+        "pinned_tweet_id": "2035900548063568228",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1811430427535765504/1776422680",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037145672412258304/HWwdgB_x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 353,
+          "following_count": 237,
+          "like_count": 3965,
+          "listed_count": 0,
+          "media_count": 465,
+          "tweet_count": 1549
+        },
+        "url": "",
+        "username": "xinshijie_1227",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-01-08T07:44:37.000Z",
+        "description": "こんばんは皆さん~永遠の友は@sujA__0e0\n              言語:中文/English/日本語",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 14,
+                "username": "sujA__0e0"
+              }
+            ]
+          }
+        },
+        "id": "1611992151742906370",
+        "is_identity_verified": false,
+        "location": "東京都 渋谷区",
+        "most_recent_tweet_id": "2090888430511329676",
+        "name": "Rikka Jinno",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1611992151742906370/1752501771",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004489128495456256/MhcJmHup_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 83,
+          "like_count": 167,
+          "listed_count": 1,
+          "media_count": 3,
+          "tweet_count": 144
+        },
+        "url": "",
+        "username": "Rikka_ovo77",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
