@@ -1,0 +1,130 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1811430427535765504",
+    "conversation_id": "2101629597775257775",
+    "created_at": "2026-09-20T11:08:37.000Z",
+    "display_text_range": [
+      0,
+      18
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-20T12:08:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2101629597775257775"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2101629597775257775",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我置顶简介被推特制裁了，我后面再补吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1811430427535765504",
+        "conversation_id": "2101629597775257775",
+        "created_at": "2026-09-20T11:08:37.000Z",
+        "display_text_range": [
+          0,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-20T12:08:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2101629597775257775"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2101629597775257775",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我置顶简介被推特制裁了，我后面再补吧"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-07-11T16:01:12.000Z",
+        "description": "嗑药吸毒自残 | 自由精神病 | 查成分互of | \ntg频道：https://t.co/q5Z49Vdjxv｜我的斯拉夫男友敢吃屎@requiem_soulss",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 81,
+                "start": 66,
+                "username": "requiem_soulss"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/xinshijie0000",
+                "end": 55,
+                "expanded_url": "https://t.me/xinshijie0000",
+                "start": 32,
+                "url": "https://t.co/q5Z49Vdjxv"
+              }
+            ]
+          }
+        },
+        "id": "1811430427535765504",
+        "is_identity_verified": false,
+        "location": "🚪8.88开放朋友圈陪闲聊",
+        "most_recent_tweet_id": "2101629597775257775",
+        "name": "美術館館長",
+        "pinned_tweet_id": "2035900548063568228",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1811430427535765504/1776422680",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096279063367385088/T03vinjw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 354,
+          "following_count": 237,
+          "like_count": 3958,
+          "listed_count": 0,
+          "media_count": 466,
+          "tweet_count": 1558
+        },
+        "url": "",
+        "username": "xinshijie_1227",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

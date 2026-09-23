@@ -1,0 +1,155 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1856028650841513984"
+      ]
+    },
+    "author_id": "1811430427535765504",
+    "conversation_id": "1856028694630019344",
+    "created_at": "2024-11-11T17:38:18.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-11T18:38:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1856028694630019344"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/KKUYptpvmb",
+          "end": 50,
+          "expanded_url": "https://x.com/xinshijie_1227/status/1856028694630019344/video/1",
+          "media_key": "7_1856028650841513984",
+          "start": 27,
+          "url": "https://t.co/KKUYptpvmb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1856028694630019344",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "躺在床上突然发现舌钉的一端球不见了。。。！咽下去了！ https://t.co/KKUYptpvmb"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 6752,
+        "height": 720,
+        "media_key": "7_1856028650841513984",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1856028650841513984/pu/img/CUzyvO0TphDUtPFy.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1856028650841513984/pu/vid/avc1/320x320/R5YH9zllnXMUnOq9.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1856028650841513984/pu/vid/avc1/540x540/HPvZzInHaV3ABGcL.mp4?tag=12"
+          },
+          {
+            "bit_rate": 1280000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1856028650841513984/pu/vid/avc1/720x720/ds0HWcFBURzSpaLo.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1856028650841513984/pu/pl/w5HbigoK6ZTp3UFf.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1856028650841513984"
+          ]
+        },
+        "author_id": "1811430427535765504",
+        "conversation_id": "1856028694630019344",
+        "created_at": "2024-11-11T17:38:18.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-11T18:38:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1856028694630019344"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KKUYptpvmb",
+              "end": 50,
+              "expanded_url": "https://x.com/xinshijie_1227/status/1856028694630019344/video/1",
+              "media_key": "7_1856028650841513984",
+              "start": 27,
+              "url": "https://t.co/KKUYptpvmb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1856028694630019344",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "躺在床上突然发现舌钉的一端球不见了。。。！咽下去了！ https://t.co/KKUYptpvmb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-11T16:01:12.000Z",
+        "description": "自由精神病颅内艺术家",
+        "id": "1811430427535765504",
+        "name": "劳工儿子在天堂",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1852369059402444800/4MzSILkf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 88,
+          "like_count": 633,
+          "listed_count": 0,
+          "tweet_count": 50
+        },
+        "username": "xinshijie_1227",
+        "verified": false
+      }
+    ]
+  }
+}

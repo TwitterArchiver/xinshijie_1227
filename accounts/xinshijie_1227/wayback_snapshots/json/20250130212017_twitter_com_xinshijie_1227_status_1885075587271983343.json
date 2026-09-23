@@ -1,0 +1,127 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1885075583006294016",
+        "3_1885075583144779778",
+        "3_1885075583295684608"
+      ]
+    },
+    "author_id": "1811430427535765504",
+    "conversation_id": "1885075587271983343",
+    "created_at": "2025-01-30T21:20:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-30T22:20:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1885075587271983343"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/VufzBbhsgi",
+          "end": 34,
+          "expanded_url": "https://x.com/xinshijie_1227/status/1885075587271983343/photo/1",
+          "media_key": "3_1885075583006294016",
+          "start": 11,
+          "url": "https://t.co/VufzBbhsgi"
+        },
+        {
+          "display_url": "pic.x.com/VufzBbhsgi",
+          "end": 34,
+          "expanded_url": "https://x.com/xinshijie_1227/status/1885075587271983343/photo/1",
+          "media_key": "3_1885075583144779778",
+          "start": 11,
+          "url": "https://t.co/VufzBbhsgi"
+        },
+        {
+          "display_url": "pic.x.com/VufzBbhsgi",
+          "end": 34,
+          "expanded_url": "https://x.com/xinshijie_1227/status/1885075587271983343/photo/1",
+          "media_key": "3_1885075583295684608",
+          "start": 11,
+          "url": "https://t.co/VufzBbhsgi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1885075587271983343",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "EWQ空中抓头皮呵呵 https://t.co/VufzBbhsgi"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1885075587271983343].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1885075587271983343",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1885075587271983343"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1885075583006294016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GikiQVPaQAAlwCH.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1885075583144779778",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GikiQVwbYAIh1Hl.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1536,
+        "media_key": "3_1885075583295684608",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GikiQWUaAAArShg.jpg",
+        "width": 2048
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-11T16:01:12.000Z",
+        "description": "od | 自残 | 垃圾话     对妹子会很友好^_^\n\n    bi🚪50绿色陪聊",
+        "id": "1811430427535765504",
+        "name": "美術館館長",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1884080533770231811/F8kuy6DT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 107,
+          "like_count": 1381,
+          "listed_count": 0,
+          "media_count": 58,
+          "tweet_count": 274
+        },
+        "username": "xinshijie_1227",
+        "verified": false
+      }
+    ]
+  }
+}
