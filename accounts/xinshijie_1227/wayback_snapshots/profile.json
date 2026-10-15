@@ -1,7 +1,7 @@
 {
   "name": "美術館館長",
   "username": "@xinshijie_1227",
-  "bio": "嗑药吸毒自残 | 自由精神病 | 查成分互of | \ntg频道：https://t.me/xinshijie0000｜我的斯拉夫男友敢吃屎@requiem_soulss",
+  "bio": "cosplay｜JiraiKei｜gothic｜tcc\n嗑药吸毒自残 | 自由精神病 | 查成分互of | \ntg频道死了，正在转世｜我的斯拉夫男友敢吃屎@requiem_soulss",
   "location": "🚪8.88开放朋友圈陪闲聊",
   "link": "",
   "avatar": "avatar/avatar.jpg",
@@ -10,18 +10,9 @@
   "bio_entities": {
     "mentions": [
       {
-        "end": 81,
-        "start": 66,
+        "end": 92,
+        "start": 77,
         "username": "requiem_soulss"
-      }
-    ],
-    "urls": [
-      {
-        "display_url": "t.me/xinshijie0000",
-        "end": 55,
-        "expanded_url": "https://t.me/xinshijie0000",
-        "start": 32,
-        "url": "https://t.co/q5Z49Vdjxv"
       }
     ]
   },
