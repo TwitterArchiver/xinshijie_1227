@@ -1,0 +1,212 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2107688021877284864",
+        "3_2107688021877297152"
+      ]
+    },
+    "author_id": "1811430427535765504",
+    "conversation_id": "2107688050620813729",
+    "created_at": "2026-10-07T04:22:44.000Z",
+    "display_text_range": [
+      0,
+      14
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-07T05:22:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2107688050620813729"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/H33Yr66lmC",
+          "end": 38,
+          "expanded_url": "https://x.com/xinshijie_1227/status/2107688050620813729/photo/1",
+          "media_key": "3_2107688021877284864",
+          "start": 15,
+          "url": "https://t.co/H33Yr66lmC"
+        },
+        {
+          "display_url": "pic.x.com/H33Yr66lmC",
+          "end": 38,
+          "expanded_url": "https://x.com/xinshijie_1227/status/2107688050620813729/photo/1",
+          "media_key": "3_2107688021877297152",
+          "start": 15,
+          "url": "https://t.co/H33Yr66lmC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2107688050620813729",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2107688021877284864"
+      },
+      {
+        "media_key": "3_2107688021877297152"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "滚呐，我再也不会自己打眉钉了 https://t.co/H33Yr66lmC"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2107688021877284864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HUADFsFXYAAt7cy.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2107688021877297152",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HUADFsFXkAADQA9.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2107688021877284864",
+            "3_2107688021877297152"
+          ]
+        },
+        "author_id": "1811430427535765504",
+        "conversation_id": "2107688050620813729",
+        "created_at": "2026-10-07T04:22:44.000Z",
+        "display_text_range": [
+          0,
+          14
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-07T05:22:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2107688050620813729"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/H33Yr66lmC",
+              "end": 38,
+              "expanded_url": "https://x.com/xinshijie_1227/status/2107688050620813729/photo/1",
+              "media_key": "3_2107688021877284864",
+              "start": 15,
+              "url": "https://t.co/H33Yr66lmC"
+            },
+            {
+              "display_url": "pic.x.com/H33Yr66lmC",
+              "end": 38,
+              "expanded_url": "https://x.com/xinshijie_1227/status/2107688050620813729/photo/1",
+              "media_key": "3_2107688021877297152",
+              "start": 15,
+              "url": "https://t.co/H33Yr66lmC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107688050620813729",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2107688021877284864"
+          },
+          {
+            "media_key": "3_2107688021877297152"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "滚呐，我再也不会自己打眉钉了 https://t.co/H33Yr66lmC"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-07-11T16:01:12.000Z",
+        "description": "嗑药吸毒自残 | 自由精神病 | 查成分互of | \ntg频道：https://t.co/q5Z49Vdjxv｜我的斯拉夫男友敢吃屎@requiem_soulss",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 81,
+                "start": 66,
+                "username": "requiem_soulss"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/xinshijie0000",
+                "end": 55,
+                "expanded_url": "https://t.me/xinshijie0000",
+                "start": 32,
+                "url": "https://t.co/q5Z49Vdjxv"
+              }
+            ]
+          }
+        },
+        "id": "1811430427535765504",
+        "is_identity_verified": false,
+        "location": "🚪8.88开放朋友圈陪闲聊",
+        "most_recent_tweet_id": "2107688050620813729",
+        "name": "美術館館長",
+        "pinned_tweet_id": "2035900548063568228",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1811430427535765504/1776422680",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096279063367385088/T03vinjw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 347,
+          "following_count": 237,
+          "like_count": 3955,
+          "listed_count": 0,
+          "media_count": 468,
+          "tweet_count": 1566
+        },
+        "url": "",
+        "username": "xinshijie_1227",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

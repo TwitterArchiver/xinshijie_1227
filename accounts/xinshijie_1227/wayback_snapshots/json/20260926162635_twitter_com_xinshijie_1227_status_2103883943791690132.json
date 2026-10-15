@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1811430427535765504",
+    "conversation_id": "2103545156381311026",
+    "created_at": "2026-09-26T16:26:35.000Z",
+    "display_text_range": [
+      14,
+      49
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-26T17:26:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2103883943791690132"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2012905258792701952",
+          "start": 0,
+          "username": "8yellowmika8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103883943791690132",
+    "in_reply_to_user_id": "2012905258792701952",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103545156381311026",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@8yellowmika8 就这玩意有滥用价值吗，吃这逼玩意跟吃喹硫平有什么区别，我都不如磕晚安去"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2103545147170627585",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTFLKpIaIAE_C6x.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1811430427535765504",
+        "conversation_id": "2103545156381311026",
+        "created_at": "2026-09-26T16:26:35.000Z",
+        "display_text_range": [
+          14,
+          49
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-26T17:26:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103883943791690132"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2012905258792701952",
+              "start": 0,
+              "username": "8yellowmika8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103883943791690132",
+        "in_reply_to_user_id": "2012905258792701952",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103545156381311026",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@8yellowmika8 就这玩意有滥用价值吗，吃这逼玩意跟吃喹硫平有什么区别，我都不如磕晚安去"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2103545147170627585"
+          ]
+        },
+        "author_id": "2012905258792701952",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2103545156381311026",
+        "created_at": "2026-09-25T18:00:21.000Z",
+        "display_text_range": [
+          0,
+          80
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-25T19:00:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2103545156381311026"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/N8xtTUjACN",
+              "end": 104,
+              "expanded_url": "https://x.com/8yellowmika8/status/2103545156381311026/photo/1",
+              "media_key": "3_2103545147170627585",
+              "start": 81,
+              "url": "https://t.co/N8xtTUjACN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103545156381311026",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2103545147170627585"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 12,
+          "impression_count": 14410,
+          "like_count": 249,
+          "quote_count": 9,
+          "reply_count": 61,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "我的天哪你能不能学学正常的禁毒媒体，药物滥用才是吸毒，直接把处方药称为毒品的来了。开处方的医生全部贩毒呗。还有苯二氮草我真的气笑了 作为一个官媒就产出这样的作品 https://t.co/N8xtTUjACN"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-07-11T16:01:12.000Z",
+        "description": "嗑药吸毒自残 | 自由精神病 | 查成分互of | \ntg频道：https://t.co/q5Z49Vdjxv｜我的斯拉夫男友敢吃屎@requiem_soulss",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 81,
+                "start": 66,
+                "username": "requiem_soulss"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/xinshijie0000",
+                "end": 55,
+                "expanded_url": "https://t.me/xinshijie0000",
+                "start": 32,
+                "url": "https://t.co/q5Z49Vdjxv"
+              }
+            ]
+          }
+        },
+        "id": "1811430427535765504",
+        "is_identity_verified": false,
+        "location": "🚪8.88开放朋友圈陪闲聊",
+        "most_recent_tweet_id": "2103883943791690132",
+        "name": "美術館館長",
+        "pinned_tweet_id": "2035900548063568228",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1811430427535765504/1776422680",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096279063367385088/T03vinjw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 353,
+          "following_count": 239,
+          "like_count": 3952,
+          "listed_count": 0,
+          "media_count": 467,
+          "tweet_count": 1562
+        },
+        "url": "",
+        "username": "xinshijie_1227",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-01-18T15:09:59.000Z",
+        "description": "",
+        "id": "2012905258792701952",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2103875796767330631",
+        "name": "NekoFace8🇦🇶",
+        "pinned_tweet_id": "2103300492709478512",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017973571101057024/lEAastD9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 74,
+          "following_count": 101,
+          "like_count": 1284,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 925
+        },
+        "url": "",
+        "username": "8yellowmika8",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

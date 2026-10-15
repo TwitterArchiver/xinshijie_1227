@@ -1,0 +1,330 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1811430427535765504",
+    "conversation_id": "2074700150166167980",
+    "created_at": "2026-10-07T04:06:00.000Z",
+    "display_text_range": [
+      41,
+      44
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-07T05:06:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2107683837535039748"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2079623281263706112",
+          "start": 0,
+          "username": "huaxiangdiea"
+        },
+        {
+          "end": 28,
+          "id": "2068179877334016000",
+          "start": 14,
+          "username": "kenrobbcrazyy"
+        },
+        {
+          "end": 40,
+          "id": "1886054681635704832",
+          "start": 29,
+          "username": "Manglesuki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2107683837535039748",
+    "in_reply_to_user_id": "2079623281263706112",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079652374675882032",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@huaxiangdiea @kenrobbcrazyy @Manglesuki ？有病"
+  },
+  "errors": [
+    {
+      "detail": "User has been suspended: [kenrobbcrazyy].",
+      "parameter": "entities.mentions.username",
+      "resource_id": "kenrobbcrazyy",
+      "resource_type": "user",
+      "title": "Forbidden",
+      "type": "https://api.x.com/2/problems/resource-not-found",
+      "value": "kenrobbcrazyy"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1811430427535765504",
+        "conversation_id": "2074700150166167980",
+        "created_at": "2026-10-07T04:06:00.000Z",
+        "display_text_range": [
+          41,
+          44
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-07T05:06:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2107683837535039748"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2079623281263706112",
+              "start": 0,
+              "username": "huaxiangdiea"
+            },
+            {
+              "end": 28,
+              "id": "2068179877334016000",
+              "start": 14,
+              "username": "kenrobbcrazyy"
+            },
+            {
+              "end": 40,
+              "id": "1886054681635704832",
+              "start": 29,
+              "username": "Manglesuki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107683837535039748",
+        "in_reply_to_user_id": "2079623281263706112",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079652374675882032",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@huaxiangdiea @kenrobbcrazyy @Manglesuki ？有病"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2079623281263706112",
+        "conversation_id": "2074700150166167980",
+        "created_at": "2026-07-21T19:38:58.000Z",
+        "display_text_range": [
+          27,
+          174
+        ],
+        "edit_controls": {
+          "editable_until": "2026-07-21T20:38:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079652374675882032"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2068179877334016000",
+              "start": 0,
+              "username": "kenrobbcrazyy"
+            },
+            {
+              "end": 26,
+              "id": "1886054681635704832",
+              "start": 15,
+              "username": "Manglesuki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079652374675882032",
+        "in_reply_to_user_id": "2068179877334016000",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 7521,
+          "like_count": 5,
+          "quote_count": 6,
+          "reply_count": 14,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074700150166167980",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kenrobbcrazyy @Manglesuki 药物百科现在是谁在负责掌权？\n算了这不重要 你知道你们网站害了多少人吗？？？\n有多少本不了解od的普通的推友刷到你的帖子从而去看你的网站了解od进入od圈？？？\n你们承不承认你们在害人\n你们获得了本不该属于你们的流量\n所有wiki都一样\n药物百科、pdw、fow、化百、odw\n全都是一群杀人犯"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-07-11T16:01:12.000Z",
+        "description": "嗑药吸毒自残 | 自由精神病 | 查成分互of | \ntg频道：https://t.co/q5Z49Vdjxv｜我的斯拉夫男友敢吃屎@requiem_soulss",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 81,
+                "start": 66,
+                "username": "requiem_soulss"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/xinshijie0000",
+                "end": 55,
+                "expanded_url": "https://t.me/xinshijie0000",
+                "start": 32,
+                "url": "https://t.co/q5Z49Vdjxv"
+              }
+            ]
+          }
+        },
+        "id": "1811430427535765504",
+        "is_identity_verified": false,
+        "location": "🚪8.88开放朋友圈陪闲聊",
+        "most_recent_tweet_id": "2107683837535039748",
+        "name": "美術館館長",
+        "pinned_tweet_id": "2035900548063568228",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1811430427535765504/1776422680",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096279063367385088/T03vinjw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 347,
+          "following_count": 237,
+          "like_count": 3952,
+          "listed_count": 0,
+          "media_count": 467,
+          "tweet_count": 1565
+        },
+        "url": "",
+        "username": "xinshijie_1227",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-21T17:44:21.000Z",
+        "description": "我和死亡处成了朋友 从地狱归来之人\n想知道我是谁吗？来了解我吧\n只是一只代表死亡的蝴蝶…\n药圈和平 减害主义 请爱我 永远",
+        "id": "2079623281263706112",
+        "is_identity_verified": false,
+        "location": "hell",
+        "most_recent_tweet_id": "2082007991310848079",
+        "name": "花乡蝶",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2079623281263706112/1784656343",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079623941732331520/W9QuYVqi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 17,
+          "like_count": 77,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 39
+        },
+        "url": "",
+        "username": "huaxiangdiea",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-02-02T14:11:02.000Z",
+        "description": "我是Onyxx/小鸮｜ENTP｜女生｜泛性恋｜药物百科wiki主@yaowubaike｜鸦鸦叫Gavin｜边缘型BPD｜DJ/调酒师/王者代练/底层画画的/coser/🏍️凯越525X｜171cm/51kg｜请找我玩！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 32,
+                "username": "yaowubaike"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yaowubaike.ca",
+                "end": 23,
+                "expanded_url": "https://yaowubaike.ca/",
+                "start": 0,
+                "url": "https://t.co/iv2t87QHvr"
+              }
+            ]
+          }
+        },
+        "id": "1886054681635704832",
+        "is_identity_verified": false,
+        "location": "Night city",
+        "most_recent_tweet_id": "2101698074959872295",
+        "name": "OnyxxOwl",
+        "pinned_tweet_id": "2024365569395642508",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1886054681635704832/1784149743",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2102001327647973376/wuZgpELz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 853,
+          "following_count": 110,
+          "like_count": 636,
+          "listed_count": 0,
+          "media_count": 136,
+          "tweet_count": 559
+        },
+        "url": "https://t.co/iv2t87QHvr",
+        "username": "Manglesuki",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
